@@ -1,0 +1,17 @@
+@font-face{
+	font-family: CaviarDreams;
+	src: url(CaviarDreams.ttf);
+}
+
+body{
+	font-family:CaviarDreams;
+	font-weight: lighter;
+	width:100%;
+}
+div#center{
+	margin:0px auto 0px auto;
+	width:60%;
+}
+h1 {
+	color:red;
+}
