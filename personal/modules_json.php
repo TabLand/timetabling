@@ -1,4 +1,5 @@
 <?php
+	header('Content-type: text/javascript');
 	include "simple_html_dom.php";
 	
 	//by default we have succeeded in getting the module information
@@ -45,7 +46,7 @@
 		        
 		        $term_html = file_get_html("https://webapps.city.ac.uk/sst/vle/term.html?ms=" . $module_codes);
 		        foreach($term_html->find("table tbody tr") as $term_row){
-		        	switch(($term_row->plaintext)){
+		        	switch((trim($term_row->plaintext))){
 		        		case "Monday":	$day = "Monday"; break;
 			        	case "Tuesday": $day = "Tuesday"; break;
 			        	case "Wednesday": $day = "Wednesday"; break;
@@ -77,15 +78,16 @@
 					$booking["endtime"] = $endtime;
 					$booking["location"] = $location;
 					$booking["day"] = $day;
-					fill_dates($dates,$day);
-					$booking["dates"] = $dates;
+					//add error checking if statement here
+					$booking["dates"] = fill_dates($dates, $day);
+					if($booking["dates"]===false) $error .= " Malformed date provided. Dump $dates. ";
 					$modules[$module_code]["timetable"][] = $booking;
 				}
 		        }
 			$return["status"] = "success";
 		        $return["error"] = $error;
        		        $return["modules"] = $modules;
-		        $result = json_encode($return);
+		        $result = json_encode($return, JSON_PRETTY_PRINT);
 		}
 	}
 	else{
@@ -103,22 +105,48 @@ function fill_dates($dates, $day){
 	//2)Only a single date
 	//3)Malformed date - return false in this case
 	$date_ranges = explode(",",$dates);
+	$ret_dates = array();
+
 	foreach($date_ranges as $date_range){
 		$from_tos = explode("-",$date_range);
 		if(sizeof($from_tos)==2){
 			$from = conv_date($from_tos[0]);
-			echo $from . " - " . $day . "<br/>";
 			$to = conv_date($from_tos[1]);
-			echo $to . " - " . $day . "<br/>";
+			
+			while(date("l",$from) != $day){
+				if($day_counter >5) {
+					$ret_dates = false;
+				}
+				else{
+					$from += 60*60*24;
+					$to += 60*60*24;
+				}
+			}
+			while($from <= $to){
+				$ret_dates[] = date("d-M-Y",$from);
+				$from += 60*60*24*7;
+			}
 		}
 		elseif(sizeof($from_tos)==1){
 			$from = conv_date($from_tos[0]);
-			echo $from . " - " . $day . "<br/>";
+			//make sure loop does not loop over a week
+			$day_counter = 0;
+			while(date("l",$from) != $day){
+				if($day_counter >5) {
+					$ret_dates = false;
+				}
+				else{
+					$from += 60*60*24;
+				}
+			}
+			$ret_dates[] = date("d-M-Y",$from);
 		}
-		else return false;
+		else $ret_dates =  false;
 	}
+	return $ret_dates;
 }
 function conv_date($date){
-	return strtotime(str_replace("/","-",$date));
+	$split = explode("/",$date);
+	return mktime(0,0,0,$split[1],$split[0],$split[2]);
 }
 ?>
