@@ -8,9 +8,9 @@ use warnings;
 use LWP::Simple;
 use constant false => 0;
 use constant true => 1;
+use Mojo::DOM;
 my $cgi = new CGI;
 
-#use Mojolicious::Lite;
 
 
 
@@ -20,39 +20,54 @@ $modules::fail = false;
 $modules::result = "";
 $modules::error = "";
 
-#get http get/post input
-my $input = $cgi->{param};
+sub get_username{
+    #get http get/post input
+    my $input = $cgi->{param};
 
-if (exists $input->{"username"}) {
-    $modules::username = $input->{"username"}[0];
+    if (exists $input->{"username"}) {
+        $modules::username = $input->{"username"}[0];
+    }
+    else{
+        #TODO no username specified fill in
+        $modules::error .= "No username specified\n";
+    }
 }
-else{
-    #TODO no username specified fill in
+sub parse{
+    my $html_response = shift @_;
+    my $dom = Mojo::DOM->new($html_response);
+    my $table_rows = $dom->find("table tbody tr");
+    dump($table_rows);
 }
 
 sub get_page{
-    $modules::data = get("https://webapps.city.ac.uk/sst/vle/index.html?u=" . $modules::username);
-    $modules::data;
+    my $url = shift @_;
+    my $html_response = get($url);
+    #fail and TODO log errors here
+    die "Couldn't get $url" unless defined $html_response;
+    $html_response;
 }
-print get_page();
+sub validate_username{
+    if(index($modules::html_response, "Can't find student details") != -1){
+        $modules::fail = true;
+        $modules::error .= "Invalid username. Could not find student details\n";
+    }
+}
+
+sub main{
+    get_username();
+    $modules::url = "https://webapps.city.ac.uk/sst/vle/index.html?u=" . $modules::username;
+    $modules::html_response = get_page($modules::url);
+    
+    validate_username();
+    if ($modules::fail) {
+        print $modules::error;
+    }
+}
+
+main();
 
 =pod
 <?php
-    
-	include "simple_html_dom.php";
-	
-	//by default we have succeeded in getting the module information
-	$fail = false;
-	$result = "";
-	$error = "";
-	if(isset($_GET["username"])){
-		//get module data
-		$html = file_get_html("https://webapps.city.ac.uk/sst/vle/index.html?u=" . $_GET["username"]);
-		$str = $html->save();;
-		if(strpos($str,"Can't find student details") !== false){
-			$fail = true;
-			$error .= "Invalid username. Could not find student details";
-		}
 		else{
 			$modules = array();
 			$return = array();
