@@ -1,5 +1,44 @@
+#!/usr/bin/perl -w
+print "\n\nContent-type: text/html\n\n";
+#create an alias using quote word called dump for debugging
+use Data::Dump qw(dump);
+use CGI;
+use strict;
+use warnings;
+use LWP::Simple;
+use constant false => 0;
+use constant true => 1;
+my $cgi = new CGI;
+
+#use Mojolicious::Lite;
+
+
+
+#initialise scalars
+#success by default
+$modules::fail = false;
+$modules::result = "";
+$modules::error = "";
+
+#get http get/post input
+my $input = $cgi->{param};
+
+if (exists $input->{"username"}) {
+    $modules::username = $input->{"username"}[0];
+}
+else{
+    #TODO no username specified fill in
+}
+
+sub get_page{
+    $modules::data = get("https://webapps.city.ac.uk/sst/vle/index.html?u=" . $modules::username);
+    $modules::data;
+}
+print get_page();
+
+=pod
 <?php
-	header('Content-type: text/javascript');
+    
 	include "simple_html_dom.php";
 	
 	//by default we have succeeded in getting the module information
@@ -150,3 +189,4 @@ function conv_date($date){
 	return mktime(0,0,0,$split[1],$split[0],$split[2]);
 }
 ?>
+=cut
