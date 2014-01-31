@@ -1,73 +1,35 @@
-#!/usr/bin/perl -w
-print "\n\nContent-type: text/html\n\n";
-#create an alias using quote word called dump for debugging
-use Data::Dump qw(dump);
-use CGI;
-use strict;
-use warnings;
-use LWP::Simple;
-use constant false => 0;
-use constant true => 1;
-use Mojo::DOM;
-my $cgi = new CGI;
-
-
-
-
-#initialise scalars
-#success by default
-$modules::fail = false;
-$modules::result = "";
-$modules::error = "";
-
-sub get_username{
-    #get http get/post input
-    my $input = $cgi->{param};
-
-    if (exists $input->{"username"}) {
-        $modules::username = $input->{"username"}[0];
-    }
-    else{
-        #TODO no username specified fill in
-        $modules::error .= "No username specified\n";
-    }
-}
-sub parse{
-    my $html_response = shift @_;
-    my $dom = Mojo::DOM->new($html_response);
-    my $table_rows = $dom->find("table tbody tr");
-    dump($table_rows);
-}
-
-sub get_page{
-    my $url = shift @_;
-    my $html_response = get($url);
-    #fail and TODO log errors here
-    die "Couldn't get $url" unless defined $html_response;
-    $html_response;
-}
-sub validate_username{
-    if(index($modules::html_response, "Can't find student details") != -1){
-        $modules::fail = true;
-        $modules::error .= "Invalid username. Could not find student details\n";
-    }
-}
-
-sub main{
-    get_username();
-    $modules::url = "https://webapps.city.ac.uk/sst/vle/index.html?u=" . $modules::username;
-    $modules::html_response = get_page($modules::url);
-    
-    validate_username();
-    if ($modules::fail) {
-        print $modules::error;
-    }
-}
-
-main();
-
-=pod
 <?php
+	header('Content-type: text/javascript');
+	include "simple_html_dom.php";
+	
+	class modules{
+		//success by default
+		public $fail = false;
+		public $result = "";
+		public $error = "";
+		public $html_dom;
+
+		public function get_page($url){
+			$this->html_dom = file_get_html($url);
+			return $this->html_dom;
+		}
+		public function get_dump()
+	}
+	
+	//"https://webapps.city.ac.uk/sst/vle/index.html?u="
+	$html_dom = file_get_html($url);
+	$html_dump = $html_dom->save();
+	
+	function validate_username($html_dump){
+		if(strpos($html_dump,"Can't find student details") !== false){
+			$fail = true;
+			$error .= "Invalid username. Could not find student details";
+		}
+	}
+	
+	if(isset($_GET["username"])){
+		//get module data
+		
 		else{
 			$modules = array();
 			$return = array();
@@ -204,4 +166,3 @@ function conv_date($date){
 	return mktime(0,0,0,$split[1],$split[0],$split[2]);
 }
 ?>
-=cut
