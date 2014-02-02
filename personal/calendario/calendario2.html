@@ -11,25 +11,10 @@
 		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="../favicon.ico"> 
 		<link rel="stylesheet" type="text/css" href="css/calendar.css" />
-
 		<script src="js/modernizr.custom.63321.js"></script>
 	</head>
 	<body>
-		<div class="container">	
-			<!-- Codrops top bar -->
-			<div class="codrops-top clearfix">
-				<a href="http://tympanus.net/Development/Stapel/"><strong>&laquo; Previous Demo: </strong>Adaptive Thumbnail Pile Effect</a>
-				<span class="right">
-					<a href="http://tympanus.net/codrops/?p=12416"><strong>Back to the Codrops Article</strong></a>
-				</span>
-			</div><!--/ Codrops top bar -->
-			<header class="clearfix">
-				<h1>Flexible Calendar <span>with jQuery and CSS3</span></h1>
-				<nav class="codrops-demos">
-					<a href="index.html">Demo 1</a>
-					<a class="current-demo" href="index2.html">Demo 2</a>
-				</nav>
-			</header>
+		<div class="container">
 			<section class="main">
 				<div class="custom-calendar-wrap">
 					<div id="custom-inner" class="custom-inner">
@@ -49,20 +34,50 @@
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		<script type="text/javascript" src="js/jquery.calendario.js"></script>
 		<script type="text/javascript" src="js/data.js"></script>
+		<script type="text/javascript">
+		var uniTimetable = {};
+		username = window.prompt("Please consider sharing your username","abnd198");
+		$.getJSON( "../timetable_json.php?username="+username, function( data ) {
+			var my_var = data;
+			if(data.status === "success"){
+				for(module in data.modules){
+					name = data.modules[module].name;
+					term = data.modules[module].term;
+					timetable = data.modules[module].timetable;
+					for(timeslot in timetable){
+						group = timetable[timeslot].group;
+	                    starttime = timetable[timeslot].starttime;
+	                    endtime = timetable[timeslot].endtime;
+	                    booking_location = timetable[timeslot].location;
+	                    day = timetable[timeslot].day;
+	                    dates = timetable[timeslot].dates;
+	                    for(date in dates){
+	                    	new_date = dates[date];
+							booking = starttime + "-" + endtime + " " + name + " " + booking_location + "<br/>";
+							if(uniTimetable[new_date] !== undefined)uniTimetable[new_date] += booking;
+							else uniTimetable[new_date] = booking; 
+	                    }
+					}
+				}
+				cal.setData(uniTimetable);
+				alert("Should be fully loaded!!");
+			}
+			else alert("Error!! " + data.error);
+		});
+		</script>
+		
 		<script type="text/javascript">	
-			$(function() {
-			
-				var transEndEventNames = {
+			var transEndEventNames = {
 						'WebkitTransition' : 'webkitTransitionEnd',
 						'MozTransition' : 'transitionend',
 						'OTransition' : 'oTransitionEnd',
 						'msTransition' : 'MSTransitionEnd',
 						'transition' : 'transitionend'
-					},
-					transEndEventName = transEndEventNames[ Modernizr.prefixed( 'transition' ) ],
-					$wrapper = $( '#custom-inner' ),
-					$calendar = $( '#calendar' ),
-					cal = $calendar.calendario( {
+			};
+			transEndEventName = transEndEventNames[ Modernizr.prefixed( 'transition' ) ];
+			$wrapper = $( '#custom-inner' );
+			$calendar = $( '#calendar' );
+			cal = $calendar.calendario( {
 						onDayClick : function( $el, $contentEl, dateProperties ) {
 
 							if( $contentEl.length > 0 ) {
@@ -70,52 +85,45 @@
 							}
 
 						},
-						caldata : codropsEvents,
+						caldata : null,
 						displayWeekAbbr : true
-					} ),
-					$month = $( '#custom-month' ).html( cal.getMonthName() ),
-					$year = $( '#custom-year' ).html( cal.getYear() );
+					} );
+			$month = $( '#custom-month' ).html( cal.getMonthName() );
+			$year = $( '#custom-year' ).html( cal.getYear() );
 
-				$( '#custom-next' ).on( 'click', function() {
+			$( '#custom-next' ).on( 'click', function() {
 					cal.gotoNextMonth( updateMonthYear );
-				} );
-				$( '#custom-prev' ).on( 'click', function() {
+			} );
+			$( '#custom-prev' ).on( 'click', function() {
 					cal.gotoPreviousMonth( updateMonthYear );
-				} );
+			} );
 
-				function updateMonthYear() {				
+			function updateMonthYear() {				
 					$month.html( cal.getMonthName() );
 					$year.html( cal.getYear() );
-				}
+			}
 
 				// just an example..
-				function showEvents( $contentEl, dateProperties ) {
-
-					hideEvents();
+			function showEvents( $contentEl, dateProperties ) {
+				hideEvents();
 					
-					var $events = $( '<div id="custom-content-reveal" class="custom-content-reveal"><h4>Events for ' + dateProperties.monthname + ' ' + dateProperties.day + ', ' + dateProperties.year + '</h4></div>' ),
-						$close = $( '<span class="custom-content-close"></span>' ).on( 'click', hideEvents );
+				var $events = $( '<div id="custom-content-reveal" class="custom-content-reveal"><h4>Events for ' + dateProperties.monthname + ' ' + dateProperties.day + ', ' + dateProperties.year + '</h4></div>' );
+				$close = $( '<span class="custom-content-close"></span>' ).on( 'click', hideEvents );
 
-					$events.append( $contentEl.html() , $close ).insertAfter( $wrapper );
+				$events.append( $contentEl.html() , $close ).insertAfter( $wrapper );
 					
-					setTimeout( function() {
-						$events.css( 'top', '0%' );
-					}, 25 );
+				setTimeout( function() {
+					$events.css( 'top', '0%' );
+				}, 25 );
 
+			}
+			function hideEvents() {
+				var $events = $( '#custom-content-reveal' );
+				if( $events.length > 0 ) {		
+					$events.css( 'top', '100%' );
+					Modernizr.csstransitions ? $events.on( transEndEventName, function() { $( this ).remove(); } ) : $events.remove();
 				}
-				function hideEvents() {
-
-					var $events = $( '#custom-content-reveal' );
-					if( $events.length > 0 ) {
-						
-						$events.css( 'top', '100%' );
-						Modernizr.csstransitions ? $events.on( transEndEventName, function() { $( this ).remove(); } ) : $events.remove();
-
-					}
-
-				}
-			
-			});
+			}
 		</script>
 	</body>
 </html>

@@ -122,5 +122,5 @@ var codropsEvents = {
 	'01-04-2012' : '<a href="http://tympanus.net/codrops/2012/01/04/thumbnail-proximity-effect/">Thumbnail Proximity Effect with jQuery and CSS3</a>',
 	'01-02-2012' : '<a href="http://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/">Fullscreen Background Image Slideshow with CSS3</a>',
 	'12-25-2012' : '<span>Christmas Day</span>',
-	'12-31-2012' : '<span>New Year\'s Eve</span>'
+	'31-12-2012' : '<span>New Year\'s Eve</span>'
 };

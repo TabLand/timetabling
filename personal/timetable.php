@@ -102,14 +102,14 @@ class Timetable {
 		return $date;
 	}
 	public function pretty_date($date) {
-		return date ( "d-M-Y", $date );
+		return date ( "m-d-Y", $date );
 	}
 	public function day_of_week($date) {
 		return date ( "l", $date );
 	}
 	public function conv_date($date) {
 		//arrives in format dd/mm/yy
-		$split = split("/",$date);
+		$split = preg_split("/[\/]/",$date);
 		if(sizeof($split)==3){
 			//implicitly onvert to numbers
 			$split[0] += 0;
@@ -148,15 +148,7 @@ class Timetable {
 		$this->parse_module_tds ( $module_tds );
 	}
 	public function validate_day($day) {
-		$days = [ 
-				"Monday",
-				"Tuesday",
-				"Wednesday",
-				"Thursday",
-				"Friday",
-				"Saturday",
-				"Sunday" 
-		];
+		$days = array("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
 		// validate input to make sure a valid week day is given
 		return in_array ( $day, $days );
 	}
@@ -204,7 +196,7 @@ class Timetable {
 		unset($this->return_dates);
 	}
 	public function get_timetable($username) {
-		if (isset ( $username )) {
+		if ($username !== null) {
 			$this->get_student_info ( $username );
 			$this->validate_username ();
 			if (! $this->fail) {
@@ -221,7 +213,7 @@ class Timetable {
 		}
 		if ($this->fail)
 			$this->result ["status"] = "failure";
-		return json_encode ( $this->result, JSON_PRETTY_PRINT );
+		return json_encode ( $this->result , JSON_PRETTY_PRINT);
 	}
 }
 ?>
