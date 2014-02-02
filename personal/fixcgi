@@ -1,2 +1,0 @@
-sudo chmod +x *.php *.pl
-sudo chgrp www-data *.php *.pl

@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.calendar , .week{
+	width:100%;
+	max-width:800px;
+}
+.day{
+	border: 1px solid black;
+	text-align:center;
+}
