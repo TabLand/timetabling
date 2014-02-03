@@ -211,9 +211,7 @@ class Timetable {
 			$this->fail = true;
 			$this->error .= "Student username not given\n";
 		}
-		if ($this->fail)
-			$this->result ["status"] = "failure";
-		return json_encode ( $this->result , JSON_PRETTY_PRINT);
+		if ($this->fail) $this->result ["status"] = "failure";
 	}
 }
 ?>
