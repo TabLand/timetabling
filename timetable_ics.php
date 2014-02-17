@@ -11,8 +11,8 @@ header ( 'Content-type: text/calendar' );
 if($_GET["username"]===null) $_GET["username"] = "invalid_username";
 header("Content-Disposition: attachment; filename=". $_GET["username"] . ".ics");
 
-$ical = "BEGIN: VCALENDAR\r\nVERSION:2.0\r\nPRODID:timetabling.ijtaba.me.uk\r\n";
-foreach($this->result as $module){
+$ical = "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:timetabling.ijtaba.me.uk\r\n";
+foreach($my_timetable->modules as $module){
 	$module_name = $module["name"];
 	foreach($module["timetable"] as $timeslot){
 		$group = $timeslot["group"];
@@ -30,11 +30,13 @@ foreach($this->result as $module){
 		}
 	}
 }
-$ical .= "END: VCALENDAR";
+$ical .= "END:VCALENDAR";
+
+echo $ical;
 function icalendar_date($timestamp = null){
 	if($timestamp===null) $timestamp = time();
 	$ret_date = date("Ymd:His",$timestamp);
-	$ret_date = preg_replace("/[:]/", "T", $ret_date) . "Z";
+	$ret_date = preg_replace("/[:]/", "T", $ret_date);
 	return $ret_date;
 }
 function icalendar_date_helper($date, $time){
@@ -46,7 +48,7 @@ function icalendar_date_helper($date, $time){
 	$year = $split_date[2];
 	$hour = $split_time[0];
 	$minute =$split_time[1];
-	$stamp = mktime($hour, $minute, $second, $month, $day, $year);
+	$stamp = mktime($hour, $minute, 0, $month, $day, $year);
 	return icalendar_date($stamp);
 }
 
