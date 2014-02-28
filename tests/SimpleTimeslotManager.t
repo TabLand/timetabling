@@ -30,5 +30,3 @@ subtest "add and contains" => sub{
 	$timeslot_manager->add("Mon", "Term 1", $timeslot);
 	is($timeslot_manager->contains("Mon", "Term 1", $timeslot),1);
 };
-
-done_testing();
