@@ -1,9 +1,0 @@
-#!/usr/bin/perl
-package Timeslot;
-use Moose;
-use DateTime;
-
-has '_start' => (is => 'rw', isa => 'DateTime');
-has '_duration'=> (is => 'rw', isa => 'DateTime::Duration');
-
-sub check_clash{}
