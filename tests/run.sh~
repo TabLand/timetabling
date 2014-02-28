@@ -1,0 +1,2 @@
+clear
+perl suite.t

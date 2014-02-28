@@ -1,0 +1,3 @@
+array=( $@ )
+clear
+echo ${array[0]}
