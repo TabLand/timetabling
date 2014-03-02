@@ -7,6 +7,7 @@ use overload
     "+"    => \&_add,
     "-"    => \&_subtract,
     "=="   => \&_equals,
+    "eq"   => \&_string_equals,
     "<"	   => \&_less_than,
     ">"    => \&_more_than,
     ">="   => \&_more_than_eq,
@@ -61,6 +62,11 @@ sub _equals{
 	my $equal_minutes = $first->get_minute() == $second->get_minute();
 	return $equal_hours && $equal_minutes;
 };
+
+sub _string_equals{
+	my ($self, $string) = @_;
+	return $self->_to_string() eq $string;
+}
 
 sub _subtract{
 	my ($first, $second) = @_;
