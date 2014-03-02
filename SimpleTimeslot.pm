@@ -3,9 +3,8 @@ package SimpleTimeslot;
 use SimpleTime;
 use overload
     "\"\"" => \&_to_string,
-    "=="   => \&_equals,
-    ">"    => \&_more_than,
-    "<"    => \&_less_than;
+    "<=>"  => \&compare,
+    "cmp"  => \&compare;
 
 sub new{
 	$class = shift;
@@ -58,23 +57,11 @@ sub intersect{
 	
 }
 
-sub _less_than{
-	my ($first, $second) = @_;
-	return $first->get_start() < $first->get_start();
-}
-
-sub _more_than{
-	my ($first, $second) = @_;
-	return $first->get_start() > $first->get_start();
-}
-
-sub _equals{
 	my ($first, $second) = @_;
 
-	$equal_start = $first->{_start} == $second->{_start};
-	$equal_duration = $first->{_duration} == $second->{_duration};
+
+
 	
-	return $equal_start && $equal_duration;
 }
 
 1;
