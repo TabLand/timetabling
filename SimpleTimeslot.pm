@@ -14,6 +14,14 @@ sub new{
 	return $self;
 };
 
+sub create{
+	my ($class, $start, $end) = @_;
+	$self = {_start => $start,
+		 _duration => $end-$start};
+	bless $self, $class;
+	return $self;
+};
+
 sub get_start{
 	my $self = shift;
 	return $self->{_start};
@@ -49,19 +57,33 @@ sub intersect{
 		push @return, $first;
 	}
 	elsif($first->check_clash($second)){
-		my ($early, $late) = sort($first, $second);
+		push @return, _slice($first, $second);
 	}
 	else {
 		my ($early, $late) = sort($first, $second);
+		push @return, ($early, $late);
 	}
-	
+	@return;
 }
 
+sub _slice{
 	my ($first, $second) = @_;
+	my @temp_times =();
 
+	push (@temp_times,$first->get_start());
+	push (@temp_times,$first->get_end());
+	push (@temp_times,$second->get_start());
+	push (@temp_times,$second->get_end());
 
+	@sorted_times = sort @temp_times;
 
+	$early = create SimpleTimeslot($sorted_times[0], $sorted_times[1]);
+	$middle = create SimpleTimeslot($sorted_times[1], $sorted_times[2]);
+	$late = create SimpleTimeslot($sorted_times[2], $sorted_times[3]);
 	
+	return ($early, $middle, $late);
+}
+
 sub compare{
 	my ($first, $second) = @_;
 	if($first->get_start() < $second->get_start()){
