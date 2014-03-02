@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-use Test::More tests=>9;
+use Test::More qw(no_plan);
 use lib "..";
 use SimpleTime;
 use strict;
@@ -60,5 +60,3 @@ subtest "Large subtraction loops to previous day" => sub {
 	my $diff = $one - $two;
 	cmp_ok($diff,"==", new SimpleTime(23, 00));
 };
-
-done_testing();
