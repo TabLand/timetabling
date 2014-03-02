@@ -6,13 +6,9 @@ use overload
     "\"\"" => \&_to_string,
     "+"    => \&_add,
     "-"    => \&_subtract,
-    "=="   => \&_equals,
     "eq"   => \&_string_equals,
-    "<"	   => \&_less_than,
-    ">"    => \&_more_than,
-    ">="   => \&_more_than_eq,
-    "<="   => \&_less_than_eq;
-
+    "cmp"  => \&_compare,
+    "<=>"  => \&_compare;
 
 sub new{
 	my $class = shift;
@@ -56,13 +52,6 @@ sub _add{
 	return new SimpleTime($total_hours, $total_minutes);
 };
 
-sub _equals{
-	my ($first, $second) = @_;
-	my $equal_hours = $first->get_hour() == $second->get_hour();
-	my $equal_minutes = $first->get_minute() == $second->get_minute();
-	return $equal_hours && $equal_minutes;
-};
-
 sub _string_equals{
 	my ($self, $string) = @_;
 	return $self->_to_string() eq $string;
@@ -73,6 +62,19 @@ sub _subtract{
 	my $subtract_hours = $first->get_hour() - $second->get_hour();
 	my $subtract_minutes = $first->get_minute() - $second->get_minute();
 	return new SimpleTime($subtract_hours,$subtract_minutes);
+}
+
+sub _compare{
+	my ($first, $second) = @_;
+	if($first->_less_than($second)){
+		return -1;
+	}
+	elsif($first->_equals($second)){
+		return 0;
+	}
+	else {
+		return 1;
+	}
 }
 
 sub _less_than{
@@ -94,24 +96,11 @@ sub _less_than{
 	}
 };
 
-sub _more_than{
+sub _equals{
 	my ($first, $second) = @_;
-	my $less_than = _less_than($first, $second);
-	my $equal = _equals($first,$second);
-	return not($less_than || $equal);
-}
-
-sub _more_than_eq{
-	my ($first, $second) = @_;
-	my $less_than = _less_than($first, $second);
-	return not($less_than);
-}
-
-sub _less_than_eq{
-	my ($first, $second) = @_;
-	my $less_than = _less_than($first, $second);
-	my $equals = _equals($first,$second);
-	return $less_than || $equals;
-}
+	my $equal_hours = $first->get_hour() == $second->get_hour();
+	my $equal_minutes = $first->get_minute() == $second->get_minute();
+	return $equal_hours && $equal_minutes;
+};
 
 1;
