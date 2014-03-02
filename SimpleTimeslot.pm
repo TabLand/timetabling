@@ -62,6 +62,17 @@ sub intersect{
 
 
 	
+sub compare{
+	my ($first, $second) = @_;
+	if($first->get_start() < $second->get_start()){
+		return -1;
+	}
+	elsif($first->get_start() == $second->get_start()){
+		return 0;
+	}
+	else{
+		return 1;
+	}
 }
 
 1;
