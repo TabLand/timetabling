@@ -1,2 +1,2 @@
 clear
-perl -MCarp::Always test_suite.pl
+perl -MCarp::Always=verbose test_suite.pl

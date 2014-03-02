@@ -1,3 +1,3 @@
 array=( $@ )
 clear
-perl -MCarp::Always ${array[0]}
+perl -MCarp::Always=verbose ${array[0]}
