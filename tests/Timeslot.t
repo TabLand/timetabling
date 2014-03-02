@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-use Test::More;
+use Test::More qw(no_plan);
 use lib "..";
 use Timeslot;
 
@@ -41,5 +41,3 @@ subtest 'near miss is not a clash'  => sub{
 
 	ok(!$late_timeslot->check_clash($early_timeslot));
 };
-
-done_testing(4);
