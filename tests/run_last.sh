@@ -1,3 +1,3 @@
 array=( $@ )
 clear
-perl ${array[0]}
+perl -MCarp::Always ${array[0]}

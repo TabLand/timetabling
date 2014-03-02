@@ -1,2 +1,2 @@
 clear
-perl test_suite.pl
+perl -MCarp::Always test_suite.pl
