@@ -16,6 +16,11 @@ subtest "Equals" => sub {
 	cmp_ok($half_past_ten, "==", $half_past_ten2);
 };
 
+subtest "String Equals" => sub {
+	my $half_past_ten = new SimpleTime(10,30);
+	is($half_past_ten, "10:30");
+};
+
 subtest "Add" => sub {
 	my $first = new SimpleTime(10,00);
 	my $second = new SimpleTime(2,40);
