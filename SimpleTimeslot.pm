@@ -3,7 +3,9 @@ package SimpleTimeslot;
 use SimpleTime;
 use overload
     "\"\"" => \&_to_string,
-    "=="   => \&_equals;
+    "=="   => \&_equals,
+    ">"    => \&_more_than,
+    "<"    => \&_less_than;
 
 sub new{
 	$class = shift;
@@ -38,6 +40,16 @@ sub check_clash{
 	if($first_starts_later && $second_ends_earlier) {1;}
 	elsif($second_starts_later && $first_ends_earlier) {1;}
 	else {0;}
+}
+
+sub _less_than{
+	my ($first, $second) = @_;
+	return $first->get_start() < $first->get_start();
+}
+
+sub _more_than{
+	my ($first, $second) = @_;
+	return $first->get_start() > $first->get_start();
 }
 
 sub _equals{
