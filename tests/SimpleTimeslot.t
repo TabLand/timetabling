@@ -52,3 +52,35 @@ subtest "near miss is not a clash" => sub {
 	my $late = new SimpleTimeslot(18,00, 2,00);
 	is($late->check_clash($early),0);
 };
+subtest "sort" => sub{
+	my $first = new SimpleTimeslot(12,00, 1,00);
+	my $second = new SimpleTimeslot(14,00, 1,00);
+
+	my ($early, $late) = sort ($second, $first);
+
+	is($early == $first && $late == $second,1);
+};
+subtest "intersect clash early" => sub{
+	my $early = new SimpleTimeslot(12,00, 3,00);
+	my $late = new SimpleTimeslot(14,00, 2,00);
+
+	my @cut = $early->intersect($late);
+
+	my $first = $cut[0] == new SimpleTimeslot(12,00, 2,00);
+	my $second = $cut[1] == new SimpleTimeslot(14,00, 1,00);
+	my $third = $cut[2] == new SimpleTimeslot(15,00, 1,00);
+
+	is($first && $second && $third, 1);
+};
+subtest "intercut clash late" => sub{
+	my $early = new SimpleTimeslot(12,00, 3,00);
+	my $late = new SimpleTimeslot(14,00, 2,00);
+
+	my @cut = $late->intersect($early);
+
+	my $first = $cut[0] == new SimpleTimeslot(12,00, 2,00);
+	my $second = $cut[1] == new SimpleTimeslot(14,00, 1,00);
+	my $third = $cut[2] == new SimpleTimeslot(15,00, 1,00);
+
+	is($first && $second && $third, 1);
+}
