@@ -42,6 +42,22 @@ sub check_clash{
 	else {0;}
 }
 
+sub intersect{
+	my ($first, $second) = @_;
+	my @return = ();
+
+	if($first==$second) {
+		push @return, $first;
+	}
+	elsif($first->check_clash($second)){
+		my ($early, $late) = sort($first, $second);
+	}
+	else {
+		my ($early, $late) = sort($first, $second);
+	}
+	
+}
+
 sub _less_than{
 	my ($first, $second) = @_;
 	return $first->get_start() < $first->get_start();
