@@ -26,4 +26,17 @@ sub equals{
 	my $same_username = $first->get_username() eq $second->get_username();
 	return $same_name && $same_username;
 }
+sub add_activity{
+	my ($self, $activity) = @_;
+	push @{$self->{_activities}}, $activity;
+}
+sub exists_activity{
+	my ($self, $needle) = @_;
+	foreach my $activity (@{$self->{_activities}}){
+		if($activity->equals($needle)){
+			return 1;
+		}
+	}
+	return 0;
+}
 1;
