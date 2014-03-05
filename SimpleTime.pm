@@ -42,8 +42,22 @@ sub validate_minute{
 
 sub _to_string{
 	my $self = shift;
-	return $self->{_hour} . ":" . $self->{_minute};
+	my $hour = _double_digit($self->{_hour});
+	my $minute = _double_digit($self->{_minute});
+	return $hour . ":" . $minute;
 };
+
+sub _double_digit{
+	my $digit = shift;
+	my $return;
+	if($digit < 10){
+		$return = "0" . $digit;
+	}
+	else {
+		$return = $digit;
+	}
+	$return;
+}
 
 sub _add{
 	my ($first, $second) = @_;
@@ -102,5 +116,7 @@ sub _equals{
 	my $equal_minutes = $first->get_minute() == $second->get_minute();
 	return $equal_hours && $equal_minutes;
 };
-
+sub TO_JSON { 
+	return { %{ shift() } }; 
+};
 1;
