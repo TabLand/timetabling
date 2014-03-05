@@ -102,6 +102,10 @@ sub compare{
 		return 1;
 	}
 }
+sub equals{
+	my ($first, $second) = @_;
+	return $first == $second;
+}
 sub TO_JSON { 
 	return { %{ shift() } }; 
 }
