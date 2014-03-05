@@ -17,6 +17,12 @@ subtest "equals" => sub{
 	cmp_ok($timeslot, "==", $timeslot2);
 };
 
+subtest "not equals"=> sub{
+	my $timeslot = new SimpleTimeslot(14,00, 2,00);
+	my $timeslot2 = new SimpleTimeslot(14,30, 2,00);
+	cmp_ok($timeslot, "!=", $timeslot2);
+}; 
+
 subtest "end" => sub{
 	my $timeslot = new SimpleTimeslot(14,00, 2,00);
 	my $end = new SimpleTime(16,00);
@@ -58,8 +64,10 @@ subtest "sort" => sub{
 
 	my ($early, $late) = sort ($second, $first);
 
-	is($early == $first && $late == $second,1);
+	is($early, $first, "Smaller argument to timeslot sort is returned first");
+	is($late, $second, "Larger argument to timeslot sort is returned later");
 };
+
 subtest "intersect clash early" => sub{
 	my $early = new SimpleTimeslot(12,00, 3,00);
 	my $late = new SimpleTimeslot(14,00, 2,00);
@@ -69,8 +77,10 @@ subtest "intersect clash early" => sub{
 	my $first = $cut[0] == new SimpleTimeslot(12,00, 2,00);
 	my $second = $cut[1] == new SimpleTimeslot(14,00, 1,00);
 	my $third = $cut[2] == new SimpleTimeslot(15,00, 1,00);
-
-	is($first && $second && $third, 1);
+	
+	cmp_ok($cut[0],"==", new SimpleTimeslot(12,00, 2,00), "first intersect as expected");
+	cmp_ok($cut[1],"==", new SimpleTimeslot(14,00, 1,00), "second intersect as expected");
+	cmp_ok($cut[2],"==", new SimpleTimeslot(15,00, 1,00), "first intersect as expected");
 };
 subtest "intersect clash late" => sub{
 	my $early = new SimpleTimeslot(12,00, 3,00);
@@ -78,11 +88,9 @@ subtest "intersect clash late" => sub{
 
 	my @cut = $late->intersect($early);
 
-	my $first = $cut[0] == new SimpleTimeslot(12,00, 2,00);
-	my $second = $cut[1] == new SimpleTimeslot(14,00, 1,00);
-	my $third = $cut[2] == new SimpleTimeslot(15,00, 1,00);
-
-	is($first && $second && $third, 1);
+	cmp_ok($cut[0],"==", new SimpleTimeslot(12,00, 2,00), "first intersect as expected");
+	cmp_ok($cut[1],"==", new SimpleTimeslot(14,00, 1,00), "second intersect as expected");
+	cmp_ok($cut[2],"==", new SimpleTimeslot(15,00, 1,00), "first intersect as expected");
 };
 subtest "intersect clash inside" => sub{
 	my $early = new SimpleTimeslot(12,00, 6,00);
@@ -90,11 +98,9 @@ subtest "intersect clash inside" => sub{
 
 	my @cut = $late->intersect($early);
 
-	my $first = $cut[0] == new SimpleTimeslot(12,00, 2,00);
-	my $second = $cut[1] == new SimpleTimeslot(14,00, 2,00);
-	my $third = $cut[2] == new SimpleTimeslot(16,00, 2,00);
-
-	is($first && $second && $third, 1);
+	cmp_ok($cut[0],"==", new SimpleTimeslot(12,00, 2,00), "first intersect as expected");
+	cmp_ok($cut[1],"==", new SimpleTimeslot(14,00, 2,00), "second intersect as expected");
+	cmp_ok($cut[2],"==", new SimpleTimeslot(16,00, 2,00), "first intersect as expected");
 };
 subtest "no intersect" => sub{
 	my $early = new SimpleTimeslot(12,00, 1,00);
@@ -102,8 +108,19 @@ subtest "no intersect" => sub{
 
 	my @cut = $late->intersect($early);
 
-	my $first = $cut[0] == $early;
-	my $second = $cut[1] == $late;
+	cmp_ok($cut[0],"==", $early, "first intersect as expected");
+	cmp_ok($cut[1],"==", $late, "second intersect as expected");
+	is(@cut, 2, "return array size as expected");
+};
+subtest "intersect returns single" => sub {
+	my $one = new SimpleTimeslot(1,00, 1,00);
+	my $second_one = new SimpleTimeslot(1,00, 1,00);
 
-	is($first && $second, 1);
-}
+	my @cut = $one->intersect($second_one);
+
+	my $first = $cut[0] == $one;
+	my $size_is_one = @cut == 1;
+
+	cmp_ok($cut[0],"==", $one, "intersect as expected");
+	is(@cut, 1, "return array size as expected");
+};

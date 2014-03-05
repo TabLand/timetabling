@@ -1,22 +1,24 @@
 #!/usr/bin/perl
 package SimpleTimeslot;
 use SimpleTime;
+use strict;
+use warnings;
 use overload
     "\"\"" => \&_to_string,
     "<=>"  => \&compare,
     "cmp"  => \&compare;
 
 sub new{
-	$class = shift;
-	$self = {_start => new SimpleTime(shift, shift),
-		 _duration => new SimpleTime(shift, shift)};
+	my ($class,$start_hour, $start_minute, $duration_hour, $duration_minute) = @_;
+	my $self = {_start => new SimpleTime($start_hour, $start_minute),
+		    _duration => new SimpleTime($duration_hour, $duration_minute)};
 	bless $self, $class;
 	return $self;
 };
 
 sub create{
 	my ($class, $start, $end) = @_;
-	$self = {_start => $start,
+	my $self = {_start => $start,
 		 _duration => $end-$start};
 	bless $self, $class;
 	return $self;
@@ -74,27 +76,33 @@ sub _slice{
 	push (@temp_times,$first->get_end());
 	push (@temp_times,$second->get_start());
 	push (@temp_times,$second->get_end());
+	
+	my @sorted_slots = sort ($first, $second);
+	my @sorted_times = sort @temp_times;
 
-	@sorted_times = sort @temp_times;
-
-	$early = create SimpleTimeslot($sorted_times[0], $sorted_times[1]);
-	$middle = create SimpleTimeslot($sorted_times[1], $sorted_times[2]);
-	$late = create SimpleTimeslot($sorted_times[2], $sorted_times[3]);
+	my $early = create SimpleTimeslot($sorted_times[0], $sorted_times[1]);
+	my $middle = create SimpleTimeslot($sorted_times[1], $sorted_times[2]);
+	my $late = create SimpleTimeslot($sorted_times[2], $sorted_times[3]);
 	
 	return ($early, $middle, $late);
 }
 
 sub compare{
 	my ($first, $second) = @_;
+	
 	if($first->get_start() < $second->get_start()){
 		return -1;
 	}
-	elsif($first->get_start() == $second->get_start()){
-		return 0;
-	}
 	else{
+		my $same_start = $first->get_start() == $second->get_start();
+		my $same_duration = $first->get_duration() == $second->get_duration();
+		if($same_start && $same_duration){
+			return 0;
+		}
 		return 1;
 	}
 }
-
+sub TO_JSON { 
+	return { %{ shift() } }; 
+}
 1;
