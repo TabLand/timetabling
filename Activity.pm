@@ -62,30 +62,46 @@ sub set_timeslot{
 sub add_staff{
 	my ($self, $staff) = @_;
 	$staff->add_activity($self);
-	push @{$self->{_staff}}, $staff;
+	$self->{_staff}{$staff->get_username()} = $staff;
 }
 sub add_student{
 	my ($self, $student) = @_;
 	$student->add_activity($self);
-	push @{$self->{_students}}, $student;
+	$self->{_students}{$student->get_username()} = $student;
+}
+sub remove_staff{
+	my ($self,$staff) = @_;
+	$self->remove_person("_staff",$staff);
+}
+sub remove_student{
+	my ($self,$student) = @_;
+	$self->remove_person("_students",$student);
+}
+sub remove_person{
+	my ($self,$type, $person) = @_;
+	$self->{$type}{$person->get_username()}->remove_activity($self);
+	delete $self->{$type}{$person->get_username()};
+}
+sub get_student_numbers{
+	my $self = shift;
+	return $self->get_person_numbers("_students");
+}
+sub get_staff_numbers{
+	my $self = shift;
+	return $self->get_person_numbers("_staff");
+}
+sub get_person_numbers{
+	my ($self, $type) = @_;
+	my @numbers = keys $self->{$type};
+	return @numbers;
 }
 sub exists_student{
-	my ($self, $needle) = @_;
-	foreach my $student (@{$self->{_students}}){
-		if($student->equals($needle)) {
-			return 1;
-		}
-	}
-	return 0;
+	my ($self, $student) = @_;
+	return exists $self->{_students}{$student->get_username()};
 }
 sub exists_staff{
-	my ($self, $needle) = @_;
-	foreach my $staff (@{$self->{_staff}}){
-		if($staff->equals($needle)){
-			return 1;
-		}
-	}
-	return 0;
+	my ($self, $staff) = @_;
+	return exists $self->{_staff}{$staff->get_username()};
 }
 sub equals{
 	my ($first, $second) = @_;
