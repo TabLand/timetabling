@@ -8,24 +8,31 @@ use Room;
 use SimpleTimeslot;
 
 sub new{
-	my ($class, $type, $group) = @_;
+	my ($class, $module, $type, $group) = @_;
 
 	my $room = new Room("No where", 0);
-	my $module = new Module("No Module","No Description");
 	my $timeslot = new SimpleTimeslot(00,00,00,00);
 
 	my $self = {
 		_type => $type,
 		_group => $group,
-		_students => [],
-		_staff => [],
+		_students => {},
+		_staff => {},
 		_room => $room,
 		_module => $module,
 		_timeslot => $timeslot
 	};
-
 	bless $self, $class;
+	$module->add_activity($self);
 	return $self;
+}
+sub identifier{
+	my $self = shift;
+	my $module_code = $self->get_module()->get_code();
+	my $type = $self->get_type();
+	my $group = $self->get_group();
+	my $identifier = "$module_code/$type/$group";
+	return $identifier;
 }
 sub get_type{
 	my $self = shift;
