@@ -2,12 +2,14 @@
 package Room;
 use strict;
 use warnings;
+use parent "ActivityHolder";
 
 sub new{
 	my ($class, $code, $capacity) = @_;
 	my $self = {
 		_code => $code,
-		_capacity => $capacity
+		_capacity => $capacity,
+		_activities => {}
 	};
 	bless $self, $class;
 	return $self;

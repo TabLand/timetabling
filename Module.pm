@@ -2,12 +2,14 @@
 package Module;
 use strict;
 use warnings;
+use parent "ActivityHolder";
 
 sub new{
 	my ($class, $code, $name) = @_;
 	my $self = {
 		_code => $code,
-		_name => $name
+		_name => $name,
+		_activities => {}
 	};
 	bless $self, $class;
 	return $self;
