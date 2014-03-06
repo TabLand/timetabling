@@ -58,10 +58,6 @@ sub get_module{
 	my $self = shift;
 	return $self->{_module};
 }
-sub set_module{
-	my ($self, $module) = @_;
-	$self->{_module} = $module;
-}
 sub get_timeslot{
 	my $self = shift;
 	return $self->{_timeslot};
