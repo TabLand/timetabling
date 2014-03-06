@@ -48,7 +48,11 @@ sub get_room{
 }
 sub set_room{
 	my ($self, $room) = @_;
+	if (exists $self->{_room}) {
+		$self->{_room}->remove_activity($self);
+	}
 	$self->{_room} = $room;
+	$room->add_activity($self);
 }
 sub get_module{
 	my $self = shift;
