@@ -81,4 +81,23 @@ subtest "Timeslot Association" => sub{
 	$lecture->set_timeslot($slot);
 	ok($slot->equals($lecture->get_timeslot()), "Expected timeslot returned");
 };
+subtest "Sort" => sub{
+	my $module = new Module("IN2029", "Programming in C++");
+	my $lecture = new Activity($module,"Lecture", "ALL");
+	my $tutorial_a = new Activity($module,"Tutorial", "A");
+	my $tutorial_b = new Activity($module,"Tutorial", "B");
+
+	my $lecture_ts = new SimpleTimeslot("Tue", "Term 2", 12,00,2,00);
+	my $tutorial_a_ts = new SimpleTimeslot("Tue", "Term 2", 15,00,2,00);
+	my $tutorial_b_ts = new SimpleTimeslot("Wed", "Term 2", 9,00,2,00);
+
+	$lecture->set_timeslot($lecture_ts);
+	$tutorial_a->set_timeslot($tutorial_a_ts);
+	$tutorial_b->set_timeslot($tutorial_b_ts);
+
+	my @sorted = sort ($tutorial_a, $tutorial_b, $lecture);
+
+	ok($sorted[0]->equals($lecture), "First");
+	ok($sorted[1]->equals($tutorial_a), "Second");
+	ok($sorted[2]->equals($tutorial_b), "Third");
 }
