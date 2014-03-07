@@ -135,4 +135,17 @@ sub to_string{
 	my $identifier = $self->identifier();
 	return "$identifier, $room, $time, ";
 }
+sub compare{
+	my ($first, $second) = @_;
+	my $first_ts = $first->get_timeslot();
+	my $second_ts = $second->get_timeslot();
+	return $first_ts->compare($second_ts);
+}
+sub check_clash{
+	my ($first, $second) = @_;
+	my $first_timeslot = $first->get_timeslot();
+	my $second_timeslot = $second->get_timeslot();
+	#We don't check clashes amongst rooms, or referenced staff / students/ other module activities as that job has been delegated to the ActivityHolders referenced by staff/students/rooms/modules and Constraint's children. We're only concerned about clashing timeslots
+	return $first_timeslot->check_clash($second_timeslot);
+}
 1;
