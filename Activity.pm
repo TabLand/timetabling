@@ -6,12 +6,16 @@ use Module;
 use Person;
 use Room;
 use SimpleTimeslot;
+use overload
+    "\"\"" => \&to_string,
+    "<=>"  => \&compare,
+    "cmp"  => \&compare;
 
 sub new{
 	my ($class, $module, $type, $group) = @_;
 
-	my $room = new Room("No where", 0);
-	my $timeslot = new SimpleTimeslot(00,00,00,00);
+	my $room = new Room("Nowhere", 0);
+	my $timeslot = new SimpleTimeslot("Noday", "Term 0", 00,00,00,00);
 
 	my $self = {
 		_type => $type,

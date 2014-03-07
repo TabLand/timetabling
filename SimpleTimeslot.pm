@@ -9,12 +9,8 @@ use overload
     "cmp"  => \&compare;
 
 sub new{
-	my ($class,$start_hour, $start_minute, $duration_hour, $duration_minute) = @_;
+	my ($class, $day, $term, $start_hour, $start_minute, $duration_hour, $duration_minute) = @_;
 	my $self = {_start => new SimpleTime($start_hour, $start_minute),
-		    _duration => new SimpleTime($duration_hour, $duration_minute)};
-	bless $self, $class;
-	return $self;
-};
 
 sub create{
 	my ($class, $start, $end) = @_;
@@ -36,7 +32,38 @@ sub get_end{
 	my $self = shift;
 	return $self->{_start} + $self->{_duration};
 };
-
+sub get_day{
+	my $self = shift;
+	return Day::pretty($self->{_day});
+}
+sub get_term{
+	my $self = shift;
+	return Term::pretty($self->{_term});
+}
+sub get_day_number{
+	my $self = shift;
+	return $self->{_day};
+}
+sub get_term_number{
+	my $self = shift;
+	return $self->{_term};
+}
+sub set_start{
+	my ($self, $hour, $minute) = @_;
+	$self->{_start} = new SimpleTime($hour, $minute);
+}
+sub set_duration{
+	my ($self, $hour, $minute) = @_;
+	$self->{_duration} = new SimpleTime($hour, $minute);
+}
+sub set_day{
+	my ($self, $day) = @_;
+	$self->{_day} = Day::number($day);
+}
+sub set_term{
+	my ($self, $term) = @_;
+	$self->{_term} = $term;
+}
 sub check_clash{
 	my ($first, $second) = @_;
 
