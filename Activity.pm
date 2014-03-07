@@ -27,7 +27,7 @@ sub new{
 		_timeslot => $timeslot
 	};
 	bless $self, $class;
-	$module->add_activity($self);
+	$module->get_schedule()->add_activity($self);
 	return $self;
 }
 sub identifier{
@@ -53,10 +53,10 @@ sub get_room{
 sub set_room{
 	my ($self, $room) = @_;
 	if (exists $self->{_room}) {
-		$self->{_room}->remove_activity($self);
+		$self->{_room}->get_schedule()->remove_activity($self);
 	}
 	$self->{_room} = $room;
-	$room->add_activity($self);
+	$room->get_schedule()->add_activity($self);
 }
 sub get_module{
 	my $self = shift;
@@ -93,7 +93,7 @@ sub remove_student{
 }
 sub remove_person{
 	my ($self,$type, $person) = @_;
-	$self->{$type}{$person->get_username()}->remove_activity($self);
+	$self->{$type}{$person->get_username()}->get_schedule()->remove_activity($self);
 	delete $self->{$type}{$person->get_username()};
 }
 sub get_student_numbers{
