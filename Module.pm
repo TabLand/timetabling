@@ -28,4 +28,10 @@ sub equals{
 	my $same_name = $first->get_name() eq $second->get_name();
 	return $same_code && $same_name;
 }
+sub to_string{
+	my $self = shift;
+	my $code = $self->get_code();
+	my $name = $self->get_name();
+	return "Module($code,$name)";
+}
 1;

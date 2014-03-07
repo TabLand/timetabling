@@ -27,4 +27,10 @@ sub equals{
 	my $same_username = $first->get_username() eq $second->get_username();
 	return $same_name && $same_username;
 }
+sub to_string{
+	my $self = shift;
+	my $name = $self->get_name();
+	my $username = $self->get_username();
+	return "Person($username:$name)";
+}
 1;

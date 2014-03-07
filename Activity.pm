@@ -128,4 +128,11 @@ sub equals{
 
 	return $same_group && $same_type && $same_module && $same_room && $same_timeslot;
 }
+sub to_string{
+	my $self = shift;
+	my $room = $self->get_room();
+	my $time = $self->get_timeslot();
+	my $identifier = $self->identifier();
+	return "$identifier, $room, $time, ";
+}
 1;

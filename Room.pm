@@ -28,4 +28,10 @@ sub equals{
 	my $same_capacity = $first->get_capacity() == $second->get_capacity();
 	return $same_code && $same_capacity;
 }
+sub to_string{
+	my $self = shift;
+	my $code = $self->get_code();
+	my $capacity = $self->get_capacity();
+	return "Room($code,Capacity:$capacity)";
+}
 1;
