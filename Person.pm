@@ -2,13 +2,14 @@
 package Person;
 use strict;
 use warnings;
-use parent "ActivityHolder";
+use ActivityHolder;
+use overload "\"\"" => \&to_string;
 sub new{
 	my ($class, $username, $name) = @_;
 	my $self = {
 		_username => $username,
 		_name => $name,
-		_activities => {}
+		_schedule => new ActivityHolder()
 	};
 	bless $self, $class;
 	return $self;
@@ -26,6 +27,10 @@ sub equals{
 	my $same_name = $first->get_name() eq $second->get_name();
 	my $same_username = $first->get_username() eq $second->get_username();
 	return $same_name && $same_username;
+}
+sub get_schedule{
+	my $self = shift;
+	return $self->{_schedule};
 }
 sub to_string{
 	my $self = shift;

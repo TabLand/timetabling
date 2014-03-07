@@ -2,14 +2,15 @@
 package Module;
 use strict;
 use warnings;
-use parent "ActivityHolder";
+use ActivityHolder;
+use overload "\"\"" => \&to_string;
 
 sub new{
 	my ($class, $code, $name) = @_;
 	my $self = {
 		_code => $code,
 		_name => $name,
-		_activities => {}
+		_schedule => new ActivityHolder()
 	};
 	bless $self, $class;
 	return $self;
@@ -27,6 +28,10 @@ sub equals{
 	my $same_code = $first->get_code() eq $second->get_code();
 	my $same_name = $first->get_name() eq $second->get_name();
 	return $same_code && $same_name;
+}
+sub get_schedule{
+	my $self = shift;
+	return $self->{_schedule};
 }
 sub to_string{
 	my $self = shift;

@@ -2,14 +2,15 @@
 package Room;
 use strict;
 use warnings;
-use parent "ActivityHolder";
+use ActivityHolder;
+use overload "\"\"" => \&to_string;
 
 sub new{
 	my ($class, $code, $capacity) = @_;
 	my $self = {
 		_code => $code,
 		_capacity => $capacity,
-		_activities => {}
+		_schedule => new ActivityHolder()
 	};
 	bless $self, $class;
 	return $self;
@@ -27,6 +28,10 @@ sub equals{
 	my $same_code = $first->get_code() eq $second->get_code();
 	my $same_capacity = $first->get_capacity() == $second->get_capacity();
 	return $same_code && $same_capacity;
+}
+sub get_schedule{
+	my $self = shift;
+	return $self->{_schedule};
 }
 sub to_string{
 	my $self = shift;
