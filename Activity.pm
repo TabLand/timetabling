@@ -72,13 +72,16 @@ sub set_timeslot{
 }
 sub add_staff{
 	my ($self, $staff) = @_;
-	$staff->add_activity($self);
-	$self->{_staff}{$staff->get_username()} = $staff;
+	$self->add_person("_staff", $staff);
 }
 sub add_student{
 	my ($self, $student) = @_;
-	$student->add_activity($self);
-	$self->{_students}{$student->get_username()} = $student;
+	$self->add_person("_students", $student);
+}
+sub add_person{
+	my ($self, $type, $person) = @_;
+	$person->get_schedule()->add_activity($self);
+	$self->{$type}{$person->get_username()} = $person;
 }
 sub remove_staff{
 	my ($self,$staff) = @_;
