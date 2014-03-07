@@ -1,21 +1,21 @@
 #!/usr/bin/perl
 package SimpleTimeslot;
 use SimpleTime;
+use Term;
+use Day;
 use strict;
 use warnings;
 use overload
-    "\"\"" => \&_to_string,
+    "\"\"" => \&to_string,
     "<=>"  => \&compare,
     "cmp"  => \&compare;
 
 sub new{
 	my ($class, $day, $term, $start_hour, $start_minute, $duration_hour, $duration_minute) = @_;
 	my $self = {_start => new SimpleTime($start_hour, $start_minute),
-
-sub create{
-	my ($class, $start, $end) = @_;
-	my $self = {_start => $start,
-		 _duration => $end-$start};
+		    _duration => new SimpleTime($duration_hour, $duration_minute),
+		    _term => Term::number($term),
+		    _day => Day::number($day)};
 	bless $self, $class;
 	return $self;
 };
@@ -67,66 +67,42 @@ sub set_term{
 sub check_clash{
 	my ($first, $second) = @_;
 
+	my $same_day = $first->get_day() eq $second->get_day();
+	my $same_term = $first->get_term_number() eq $second->get_term_number();
+
 	my $first_starts_later = $first->get_start() > $second->get_start();
 	my $second_ends_earlier = $first->get_start() < $second->get_end();
 
 	my $second_starts_later = $second->get_start() > $first->get_start();
 	my $first_ends_earlier = $second->get_start() < $first->get_end();
 
-	if($first_starts_later && $second_ends_earlier) {1;}
-	elsif($second_starts_later && $first_ends_earlier) {1;}
+	if($first_starts_later && $second_ends_earlier && $same_day && $same_term) {1;}
+	elsif($second_starts_later && $first_ends_earlier && $same_day && $same_term) {1;}
 	else {0;}
 }
-
-sub intersect{
-	my ($first, $second) = @_;
-	my @return = ();
-
-	if($first==$second) {
-		push @return, $first;
-	}
-	elsif($first->check_clash($second)){
-		push @return, _slice($first, $second);
-	}
-	else {
-		my ($early, $late) = sort($first, $second);
-		push @return, ($early, $late);
-	}
-	@return;
-}
-
-sub _slice{
-	my ($first, $second) = @_;
-	my @temp_times =();
-
-	push (@temp_times,$first->get_start());
-	push (@temp_times,$first->get_end());
-	push (@temp_times,$second->get_start());
-	push (@temp_times,$second->get_end());
-	
-	my @sorted_slots = sort ($first, $second);
-	my @sorted_times = sort @temp_times;
-
-	my $early = create SimpleTimeslot($sorted_times[0], $sorted_times[1]);
-	my $middle = create SimpleTimeslot($sorted_times[1], $sorted_times[2]);
-	my $late = create SimpleTimeslot($sorted_times[2], $sorted_times[3]);
-	
-	return ($early, $middle, $late);
-}
-
 sub compare{
 	my ($first, $second) = @_;
-	
-	if($first->get_start() < $second->get_start()){
-		return -1;
-	}
-	else{
-		my $same_start = $first->get_start() == $second->get_start();
-		my $same_duration = $first->get_duration() == $second->get_duration();
-		if($same_start && $same_duration){
-			return 0;
+
+	my $same_day = $first->get_day_number() == $second->get_day_number();
+	my $same_term = $first->get_term_number() == $second->get_term_number();
+
+	if($first->get_term_number() < $second->get_term_number()){ -1;}
+	elsif($first->get_term_number() > $second->get_term_number()){1;}
+	elsif($first->get_day_number() < $second->get_day_number()){-1;}
+	elsif($first->get_day_number() > $second->get_day_number()){1;}
+	else {
+		if($first->get_start() < $second->get_start()){
+			return -1;
 		}
-		return 1;
+		else{
+			my $same_start = $first->get_start() == $second->get_start();
+			my $same_duration = $first->get_duration() == $second->get_duration();
+	
+			if($same_start && $same_duration && $same_term && $same_day){
+				return 0;
+			}
+			return 1;
+		}
 	}
 }
 sub equals{
@@ -135,5 +111,13 @@ sub equals{
 }
 sub TO_JSON { 
 	return { %{ shift() } }; 
+}
+sub to_string{
+	my $self = shift;
+	my $term = $self->get_term();
+	my $day = $self->get_day();
+	my $start = $self->get_start();
+	my $end = $self->get_end();
+	return "$day - $term / $start to $end";
 }
 1;

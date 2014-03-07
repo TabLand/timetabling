@@ -78,35 +78,16 @@ subtest "sort" => sub{
 	is($late, $second, "Larger argument to timeslot sort is returned later");
 };
 
-subtest "intersect clash inside" => sub{
-	my $early = new SimpleTimeslot(12,00, 6,00);
-	my $late = new SimpleTimeslot(14,00, 2,00);
+subtest "compare" => sub{
+	my $first = new SimpleTimeslot("Mon", "Term 1", 12,00, 1,00);
+	my $second = new SimpleTimeslot("Tue", "Term 1", 12,00, 1,00);
 
-	my @cut = $late->intersect($early);
+	ok($first < $second, "Monday behind tuesday");
+	$first->set_term(2);
+	ok($first > $second, "Term 1 behind Term 2");
 
-	cmp_ok($cut[0],"==", new SimpleTimeslot(12,00, 2,00), "first intersect as expected");
-	cmp_ok($cut[1],"==", new SimpleTimeslot(14,00, 2,00), "second intersect as expected");
-	cmp_ok($cut[2],"==", new SimpleTimeslot(16,00, 2,00), "first intersect as expected");
-};
-subtest "no intersect" => sub{
-	my $early = new SimpleTimeslot(12,00, 1,00);
-	my $late = new SimpleTimeslot(14,00, 1,00);
+	$second->set_term(2);
+	$second->set_day("Monday");
 
-	my @cut = $late->intersect($early);
-
-	cmp_ok($cut[0],"==", $early, "first intersect as expected");
-	cmp_ok($cut[1],"==", $late, "second intersect as expected");
-	is(@cut, 2, "return array size as expected");
-};
-subtest "intersect returns single" => sub {
-	my $one = new SimpleTimeslot(1,00, 1,00);
-	my $second_one = new SimpleTimeslot(1,00, 1,00);
-
-	my @cut = $one->intersect($second_one);
-
-	my $first = $cut[0] == $one;
-	my $size_is_one = @cut == 1;
-
-	cmp_ok($cut[0],"==", $one, "intersect as expected");
-	is(@cut, 1, "return array size as expected");
+	ok($first == $second, "Both now equal");
 };
