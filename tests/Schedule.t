@@ -14,7 +14,7 @@ subtest "Create" => sub{
 
 subtest "get" => sub{
 	my $schedule = new Schedule();
-	my $two = new SimpleTimeslot(14, 00, 2, 00);
+	my $two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
 
 
 	$schedule->add_slot("Mon", "Term 1", $two);
@@ -25,8 +25,8 @@ subtest "get" => sub{
 };
 subtest "contains" => sub{
 	my $schedule = new Schedule();
-	my $two = new SimpleTimeslot(14, 00, 2, 00);
-	my $second_two = new SimpleTimeslot(14, 00, 2, 00);
+	my $two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
+	my $second_two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
 
 	$schedule->add_slot("Mon", "Term 1", $two);
 
@@ -36,7 +36,7 @@ subtest "contains" => sub{
 };
 subtest "does not contain" => sub{
 	my $schedule = new Schedule();
-	my $two = new SimpleTimeslot(14, 00, 2, 00);
+	my $two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
 
 	my $slots = $schedule->get("Mon", "Term 1");
 	is(@$slots, 0, "returns expected number of slots in array");
