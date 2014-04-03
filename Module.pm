@@ -2,7 +2,7 @@
 package Module;
 use strict;
 use warnings;
-use ActivityHolder;
+use Schedule;
 use overload "\"\"" => \&to_string;
 
 sub new{
@@ -10,7 +10,7 @@ sub new{
 	my $self = {
 		_code => $code,
 		_name => $name,
-		_schedule => new ActivityHolder()
+		_schedule => new Schedule()
 	};
 	bless $self, $class;
 	return $self;

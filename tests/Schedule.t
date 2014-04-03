@@ -1,52 +1,51 @@
 #!/usr/bin/perl
-use warnings;
-use strict;
-
 use Test::More qw(no_plan);
 use lib "..";
 use Schedule;
-use JSON;
+use strict;
+use warnings;
 
 subtest "Create" => sub{
 	my $schedule = new Schedule();
 	isa_ok($schedule, "Schedule");
 };
-
-subtest "get" => sub{
+subtest "Add / Remove / Exists" =>sub{
+	my $module = new Module("IN2029", "Programming in C++");
+	my $lecture = new Activity($module, "Lecture","ALL");
 	my $schedule = new Schedule();
-	my $two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
 
+	$schedule->add_activity($lecture);
+	ok($schedule->exists_activity($lecture),"Add and exists_activity working");
+	is($schedule->get_activity_numbers(), 1, "Correct number of activities returned");
 
-	$schedule->add_slot("Mon", "Term 1", $two);
-
-	my $slots = $schedule->get("Mon", "Term 1");
-	is(@$slots, 1, "returns expected number of slots in array");
-	isa_ok($$slots[0], "SimpleTimeslot");
+	$schedule->remove_activity($lecture);
+	ok(!$schedule->exists_activity($lecture),"Remove and exists_activity working");
+	is($schedule->get_activity_numbers(), 0, "Correct number of activities returned");
 };
-subtest "contains" => sub{
+subtest "Get Clashes" => sub{
+
+	my $test_module = new Module("Test", "Testing");
+
+	my $clash = new Activity($test_module, "Clashing", "Once");
+	my $another_clash = new Activity($test_module, "Clashing", "Again");
+	my $not_clash = new Activity($test_module, "Not clashing", "definitely");
+
+	my $three_till_five = new SimpleTimeslot("Thu", "Term 1", 15,00, 2,00);
+	my $two_till_four = new SimpleTimeslot("Thu", "Term 1", 14,00, 2,00);
+	my $two_till_four_morrow = new SimpleTimeslot("Fri", "Term 1", 14,00, 2,00);
+
+	$clash->set_timeslot($two_till_four);
+	$another_clash->set_timeslot($three_till_five);
+	$not_clash->set_timeslot($two_till_four_morrow);
+
 	my $schedule = new Schedule();
-	my $two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
-	my $second_two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
 
-	$schedule->add_slot("Mon", "Term 1", $two);
+	$schedule->add_activity($clash);
+	$schedule->add_activity($another_clash);
+	$schedule->add_activity($not_clash);
 
-	my $slots = $schedule->get("Mon", "Term 1");
-	is(@$slots, 1, "returns expected number of slots in array");
-	is($schedule->contains("Mon", "Term 1" , $second_two),1);
-};
-subtest "does not contain" => sub{
-	my $schedule = new Schedule();
-	my $two = new SimpleTimeslot("Tue", "Term 2", 14, 00, 2, 00);
-
-	my $slots = $schedule->get("Mon", "Term 1");
-	is(@$slots, 0, "returns expected number of slots in array");
-	is($schedule->contains("Mon", "Term 1" , $two), 0);
-};
-subtest "unique array refs" => sub{
-	my $one = \[];
-	my $two = \[];
-	my $three = \[];
-	ok($one != $two);
-	ok($two != $three);
-	ok($three != $one);
+	my $clashes = $schedule->get_clashes();
+	is($clashes->get_activity_numbers(), 2, "Correct number of clashing activities returned");
+	ok($clashes->exists_activity($clash), "First clash as expected");
+	ok($clashes->exists_activity($another_clash), "Second clash as expected");
 };

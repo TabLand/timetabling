@@ -2,14 +2,14 @@
 package Person;
 use strict;
 use warnings;
-use ActivityHolder;
+use Schedule;
 use overload "\"\"" => \&to_string;
 sub new{
 	my ($class, $username, $name) = @_;
 	my $self = {
 		_username => $username,
 		_name => $name,
-		_schedule => new ActivityHolder()
+		_schedule => new Schedule()
 	};
 	bless $self, $class;
 	return $self;

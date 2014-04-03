@@ -1,63 +1,69 @@
 #!/usr/bin/perl
 package Schedule;
-use SimpleTimeslot;
-use List::BinarySearch qw( :all );
-
+use Activity;
+use strict;
+use warnings;
+use overload    "\"\"" => \&to_string;
 sub new{
-	$class = shift;
-	$self = {};
+	my $class = shift;
+	my $self = {_activities=>{}};
 	bless $self, $class;
 	return $self;
 }
-
-sub add_slot{
-	my ($self, $day, $term, $slot) = @_;
-	push (@{$self->{$day}{$term}}, $slot);
-	sort @{$self->{$day}{$term}};
+sub add_activity{
+	my ($self, $activity) = @_;
+	$self->{_activities}{$activity->identifier()} = $activity;
 }
-
-sub _existing_ref{
-	my ($self, $day, $term) = @_;
-	if(defined $self->{$day}{$term}) {return 1;}
-	else {return 0;}
+sub get_activity_ids{
+	my $self = shift;
+	my @ids = keys $self->{_activities};
+	return join "," , @ids;
 }
-
-sub get{
-	my ($self,$day,$term) = @_;
-	if($self->_existing_ref($day,$term)){
-		return $self->{$day}{$term};
-	}
-	else {
-		return [];
-	}
+sub get_activity_numbers{
+	my $self = shift;
+	my @numbers = keys $self->{_activities};
+	return @numbers;
 }
-
+sub remove_activity{
+	my ($self, $activity) = @_;
+	delete $self->{_activities}{$activity->identifier()};
+}
+sub exists_activity{
+	my ($self, $activity) = @_;
+	return exists $self->{_activities}{$activity->identifier()};
+}
 sub get_clashes{
-	my ($self, $term, $day, $needle) = @_;
-	my @slots = $self->{$day}{$term};
-	@return = [];
-	foreach my $slot (@slots){
-		if($slot->check_clash($needle)){
-			push @return, $slot;
+	my $self = shift;
+	my @activities = sort (values $self->{_activities});
+ 	my $clash_holder = new Schedule();
+	if(@activities >=2){
+		for(my $i=0; $i<@activities-1; $i++){
+			my $before = $activities[$i];
+			my $after = $activities[$i+1];
+			my $clashes = $before->check_clash($after);
+			my $doesnt_exist_prior = !$clash_holder->exists_activity($before);
+			if($clashes && $doesnt_exist_prior){
+				$clash_holder->add_activity($before);
+				$clash_holder->add_activity($after);
+			}
+			elsif($clashes){
+				$clash_holder->add_activity($after);
+			}
 		}
 	}
-	return @return;
+	return $clash_holder;
 }
-
-sub contains{
-	my ($self, $day, $term, $needle) = @_;
-
-	if($self->_existing_ref($day, $term)){
-		my $hay_stack = $self->{$day}{$term}; 
-		foreach $slot (@$hay_stack){
-			if($needle == $slot) {
-				return 1;
-			}
-		}	
-		return 0;
+sub clash_info{
+	die "Should've been called from child";
+}
+sub to_string{
+	my $self = shift;
+	my @activities = sort (values $self->{_activities});
+	my $return = "ActivityHolder(";
+	foreach my $activity (@activities){
+		$return .= "\t" . $activity->to_string() . "\n";
 	}
-	else{
-		return 0;
-	}
+	$return .= ")";
+	$return;
 }
 1;
