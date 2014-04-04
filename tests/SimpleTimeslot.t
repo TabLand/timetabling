@@ -68,6 +68,11 @@ subtest "near miss is not a clash" => sub {
 	my $late = new SimpleTimeslot("Tue", "Term 2", 18,00, 2,00);
 	is($late->check_clash($early),0);
 };
+subtest "same start time is a clash" => sub {
+	my $early = new SimpleTimeslot("Tue", "Term 2", 12,00, 6,00);
+	my $late = new SimpleTimeslot("Tue", "Term 2", 12,00, 2,00);
+	is($late->check_clash($early),1);
+};
 subtest "sort" => sub{
 	my $first = new SimpleTimeslot("Tue", "Term 2", 12,00, 1,00);
 	my $second = new SimpleTimeslot("Tue", "Term 2", 14,00, 1,00);

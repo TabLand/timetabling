@@ -70,14 +70,22 @@ sub check_clash{
 	my $same_day = $first->get_day() eq $second->get_day();
 	my $same_term = $first->get_term_number() eq $second->get_term_number();
 
-	my $first_starts_later = $first->get_start() > $second->get_start();
+	my $time_clash = $first->check_clash_time_only($second);
+
+	if($time_clash && $same_day && $same_term) {1;}
+	else {0;}
+}
+sub check_clash_time_only{
+	my ($first, $second) = @_;
+
+	my $first_starts_later = $first->get_start() >= $second->get_start();
 	my $second_ends_earlier = $first->get_start() < $second->get_end();
 
-	my $second_starts_later = $second->get_start() > $first->get_start();
+	my $second_starts_later = $second->get_start() >= $first->get_start();
 	my $first_ends_earlier = $second->get_start() < $first->get_end();
 
-	if($first_starts_later && $second_ends_earlier && $same_day && $same_term) {1;}
-	elsif($second_starts_later && $first_ends_earlier && $same_day && $same_term) {1;}
+	if($first_starts_later && $second_ends_earlier) {1;}
+	elsif($second_starts_later && $first_ends_earlier) {1;}
 	else {0;}
 }
 sub compare{
