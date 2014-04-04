@@ -145,7 +145,13 @@ sub check_clash{
 	my ($first, $second) = @_;
 	my $first_timeslot = $first->get_timeslot();
 	my $second_timeslot = $second->get_timeslot();
-	#We don't check clashes amongst rooms, or referenced staff / students/ other module activities as that job has been delegated to the ActivityHolders referenced by staff/students/rooms/modules and Constraint's children. We're only concerned about clashing timeslots
+	#We don't check clashes amongst rooms, or referenced staff / students/ other module activities as that job has been delegated to the Schedules referenced by staff/students/rooms/modules and Constraint's children. We're only concerned about clashing timeslots
 	return $first_timeslot->check_clash($second_timeslot);
+}
+#mostly for lunchtime constraints
+sub check_clash_time_only{
+	my ($activity, $timeslot) = @_;
+	my $first_timeslot = $activity->get_timeslot();
+	return $first_timeslot->check_clash_time_only($timeslot);
 }
 1;

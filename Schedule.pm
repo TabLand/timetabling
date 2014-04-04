@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 package Schedule;
 use Activity;
+use SimpleTimeslot;
 use strict;
 use warnings;
 use overload    "\"\"" => \&to_string;
@@ -53,13 +54,25 @@ sub get_clashes{
 	}
 	return $clash_holder;
 }
-sub clash_info{
-	die "Should've been called from child";
+sub get_between{
+	my ($self, $time_period) = @_;
+	my @activities = sort (values $self->{_activities});
+ 	my $between_list = new Schedule();
+	if(@activities >=2){
+		for(my $i=0; $i<@activities; $i++){
+			my $activity = $activities[$i];
+			my $in_between = $activity->check_clash_time_only($time_period);
+			if($in_between){
+				$between_list->add_activity($activity);
+			}
+		}
+	}
+	return $between_list;
 }
 sub to_string{
 	my $self = shift;
 	my @activities = sort (values $self->{_activities});
-	my $return = "ActivityHolder(";
+	my $return = "Schedule(";
 	foreach my $activity (@activities){
 		$return .= "\t" . $activity->to_string() . "\n";
 	}
