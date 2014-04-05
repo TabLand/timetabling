@@ -65,3 +65,15 @@ subtest "Large subtraction loops to previous day" => sub {
 	my $diff = $one - $two;
 	cmp_ok($diff,"==", new SimpleTime(23, 00));
 };
+subtest "Minutes to" => sub{
+	my $one = new SimpleTime(1,00);
+	my $two = new SimpleTime(2, 00);
+	my $minutes_to = $one->minutes_to($two);
+	is($minutes_to, 60, "Single hour minutes to calculation works");
+	my $half_twelve = new SimpleTime(12,30);
+	my $quarter_to_five = new SimpleTime(16,45);
+	$minutes_to = $half_twelve->minutes_to($quarter_to_five);
+	is($minutes_to, 4*60+15, "Multiple hour minutes to calculation works");
+	$minutes_to = $quarter_to_five->minutes_to($half_twelve);
+	is($minutes_to, -4*60-15, "Negative minutes to calculation also works");
+}

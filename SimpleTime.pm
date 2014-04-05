@@ -119,4 +119,10 @@ sub _equals{
 sub TO_JSON { 
 	return { %{ shift() } }; 
 };
+sub minutes_to{
+	my ($first, $second) = @_;
+	my $hours_diff = $second->get_hour() - $first->get_hour();
+	my $minutes_diff = $second->get_minute() - $first->get_minute();
+	return ($hours_diff*60) + $minutes_diff;
+}
 1;
