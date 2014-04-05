@@ -35,7 +35,7 @@ sub exists_activity{
 }
 sub get_clashes{
 	my $self = shift;
-	my @activities = sort (values $self->{_activities});
+	my @activities = $self->get_sorted_activities();
  	my $clash_holder = new Schedule();
 	if(@activities >=2){
 		for(my $i=0; $i<@activities-1; $i++){
@@ -56,7 +56,7 @@ sub get_clashes{
 }
 sub get_between{
 	my ($self, $time_period) = @_;
-	my @activities = sort (values $self->{_activities});
+	my @activities = $self->get_sorted_activities();
  	my $between_list = new Schedule();
 	if(@activities >=2){
 		for(my $i=0; $i<@activities; $i++){
@@ -69,9 +69,15 @@ sub get_between{
 	}
 	return $between_list;
 }
+sub get_sorted_activities{
+	my $self = shift;
+	my @activities = values $self->{_activities};
+	my @sorted = sort @activities;
+	return @sorted;
+}
 sub to_string{
 	my $self = shift;
-	my @activities = sort (values $self->{_activities});
+	my @activities = $self->get_sorted_activities();
 	my $return = "Schedule(";
 	foreach my $activity (@activities){
 		$return .= "\t" . $activity->to_string() . "\n";
