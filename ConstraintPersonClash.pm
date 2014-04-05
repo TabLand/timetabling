@@ -24,7 +24,7 @@ sub get_penalty{
 }
 sub set_penalty{
 	my ($self, $penalty) = @_;
-	return $self->{_penalty} = $penalty;
+	$self->{_penalty} = $penalty;
 }
 sub met{
 	my $self = shift;
