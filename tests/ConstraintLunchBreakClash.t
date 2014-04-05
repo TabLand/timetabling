@@ -24,10 +24,22 @@ subtest "Clash" => sub {
 	$IN2029_lecture->add_student($student);
 	$IN2029_tutorial->add_student($student);
 
-	my $constraint = new ConstraintLunchBreakClash($student, 10);
+	my $lunchtime = new SimpleTimeslot("Noday", "Term 0", 12,00, 3,00);
+
+	my $constraint = new ConstraintLunchBreakClash($student, 10, $lunchtime);
+
+	my $commitments = $constraint->get_activities_during_lunchtime();
+	my @break_durations =  $constraint->get_minutes_between_activities($commitments);
+
+	is($commitments->get_activity_numbers(),2, "Correct number of activities returned from schedule get_between");
+	is(@break_durations,3,"Correct number of break durations returned");
+	is(join(",",@break_durations),"0,0,-60");
+	is($break_durations[0],0,"First break duration as expected");
+	is($break_durations[1],0,"Second break duration as expected");
+	is($break_durations[2],-60,"Third break duration as expected");
 	ok(!$constraint->met(), "Student missing out on lunch");
 	
-	/*Move the timeslot over to after 3pm*/
+	#Move the timeslot over to after 3pm
 	$two_till_four->set_start(15,00);
 
 	ok($constraint->met(), "Student no longer missing out on lunch");
