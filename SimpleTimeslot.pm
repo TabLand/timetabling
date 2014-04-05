@@ -104,9 +104,8 @@ sub compare{
 		}
 		else{
 			my $same_start = $first->get_start() == $second->get_start();
-			my $same_duration = $first->get_duration() == $second->get_duration();
-	
-			if($same_start && $same_duration && $same_term && $same_day){
+
+			if($same_start && $same_term && $same_day){
 				return 0;
 			}
 			return 1;
