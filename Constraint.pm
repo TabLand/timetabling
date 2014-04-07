@@ -18,4 +18,8 @@ sub get_clashes{
 sub get_clash_info{
 	die "Supposed to be called from child class";
 }
+sub set_penalty{
+	my ($self, $penalty) = @_;
+	$self->{_penalty} = $penalty;
+}
 1;
