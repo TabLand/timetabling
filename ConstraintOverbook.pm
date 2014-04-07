@@ -1,26 +1,25 @@
 #!/usr/bin/perl
-package ConstraintPersonClash;
+package ConstraintOverbook;
 use strict;
 use warnings;
 use parent "Constraint";
 
 sub new{
-	my ($class, $person, $penalty) = @_;
+	my ($class, $resource, $penalty) = @_;
 	my $self = {
-		_person=>$person,
+		_resource=>$resource,
 		_penalty=>$penalty};
 
 	bless $self, $class;
 	return $self;
 }
-sub get_person{
+sub get_resource{
 	my $self = shift;
-	return $self->{_person};
+	return $self->{_resource};
 }
 sub get_penalty{
-	#return only if met?
 	my $self = shift;
-	return $self->{_penalty};
+	return ($self->{_penalty} * $get_clash_numbers());
 }
 sub set_penalty{
 	my ($self, $penalty) = @_;
@@ -28,26 +27,31 @@ sub set_penalty{
 }
 sub met{
 	my $self = shift;
-	my $clashes = $self->get_clashes();
-	if($clashes->get_activity_numbers()==0) {1}
+	if($self->get_clash_numbers()==0) {1}
 	else {0}
+}
+sub get_clash_numbers{
+	my $self = shift;
+	my $clashes = $self->get_clashes();
+	return $clashes->get_activity_numbers();
 }
 sub get_clashes{
 	my $self = shift;
-	my $schedule = $self->get_person()->get_schedule();
+	my $schedule = $self->get_resource()->get_schedule();
 	return $schedule->get_clashes();
 }
 sub get_clash_info{
 	my $self = shift;
 	my $clashes = $self->get_clashes();
-	my $person = $self->get_person();
+	my $resource = $self->get_resource();
+	#TODO move following todo to ConstraintPersonOverbook - inheritance..
 	#TODO figure out a way to grab person role from Activity, when potentially, a person could be a student in some activities and a staff in others
 	my $role = "";
 	if($self->met()){
-		my $return = "No clashes to report for person $person";
+		my $return = "No clashes to report for resource $resource";
 	}
 	else {
-		my $return = "Person $person expected to be in two places at once, with role $role, activity dump $clashes";
+		my $return = "resource $resource overbooked, activity dump $clashes";
 	}
 }
 1;
