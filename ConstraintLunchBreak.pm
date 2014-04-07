@@ -19,9 +19,8 @@ sub get_person{
 	return $self->{_person};
 }
 sub get_penalty{
-	#return only if met?
 	my $self = shift;
-	return $self->{_penalty};
+	return $self->{_penalty} * $self->met();
 }
 sub set_penalty{
 	my ($self, $penalty) = @_;
