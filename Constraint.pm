@@ -9,6 +9,9 @@ sub new{
 sub met{
 	die "Supposed to be called from child class";
 }
+sub get_penalty{
+	die "Supposed to be called from child class";
+}
 sub get_clashes{
 	die "Supposed to be called from child class";
 }
