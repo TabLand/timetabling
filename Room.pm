@@ -23,6 +23,10 @@ sub get_capacity{
 	my $self = shift;
 	return $self->{_capacity};
 }
+sub set_capacity{
+	my ($self, $capacity) = @_;
+	$self->{_capacity} = $capacity;
+}
 sub equals{
 	my ($first, $second) = @_;
 	my $same_code = $first->get_code() eq $second->get_code();
