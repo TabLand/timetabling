@@ -19,11 +19,7 @@ sub get_resource{
 }
 sub get_penalty{
 	my $self = shift;
-	return ($self->{_penalty} * $get_clash_numbers());
-}
-sub set_penalty{
-	my ($self, $penalty) = @_;
-	$self->{_penalty} = $penalty;
+	return ($self->{_penalty} * $self->get_clash_numbers());
 }
 sub met{
 	my $self = shift;

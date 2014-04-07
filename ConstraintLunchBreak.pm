@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-package ConstraintLunchBreakClash;
+package ConstraintLunchBreak;
 use strict;
 use warnings;
 use parent "Constraint";
@@ -21,10 +21,6 @@ sub get_person{
 sub get_penalty{
 	my $self = shift;
 	return $self->{_penalty} * $self->met();
-}
-sub set_penalty{
-	my ($self, $penalty) = @_;
-	$self->{_penalty} = $penalty;
 }
 sub get_time_period{
 	my ($self) = @_;

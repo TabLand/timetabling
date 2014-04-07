@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use Test::More qw(no_plan);
 use lib "..";
-use ConstraintLunchBreakClash;
+use ConstraintLunchBreak;
 use Person;
 use Module;
 use strict;
@@ -26,7 +26,7 @@ subtest "Clash" => sub {
 
 	my $lunchtime = new SimpleTimeslot("Noday", "Term 0", 12,00, 3,00);
 
-	my $constraint = new ConstraintLunchBreakClash($student, 10, $lunchtime);
+	my $constraint = new ConstraintLunchBreak($student, 10, $lunchtime);
 
 	my $commitments = $constraint->get_activities_during_lunchtime();
 	my @break_durations =  $constraint->get_minutes_between_activities($commitments);
