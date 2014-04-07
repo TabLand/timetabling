@@ -71,9 +71,13 @@ sub get_between{
 }
 sub get_sorted_activities{
 	my $self = shift;
-	my @activities = values $self->{_activities};
-	my @sorted = sort @activities;
+	my @sorted = sort $self->get_activities();
 	return @sorted;
+}
+sub get_activities{
+	my $self = shift;
+	my @activities = values $self->{_activities};
+	return @activities;
 }
 sub to_string{
 	my $self = shift;
