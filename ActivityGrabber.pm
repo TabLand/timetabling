@@ -23,9 +23,9 @@ sub get_url{
 }
 sub process_grabs{
 	my $self = shift;
-	my @module_codes = $self->get_module_manager()->get_all_module_codes();
+	my @module_codes = $self->get_module_manager()->get_all_module_codes();	
 	for my $module_code (@module_codes){
-		print "Now grabbing $module_code's activities\n";
+		print "Now grabbing $module_code\'s activities\n";
 		$self->set_request($module_code);
 		my $content = $self->grab();
 		$self->save($module_code,$content);
@@ -37,7 +37,7 @@ sub set_request{
 	$self->{_request} = POST $url,['filter' => 'undefined', 
 		         'identifier'=> $module_code,
 			 'days' =>'1-5',
-			 'weeks'=>'6-20',
+			 'weeks'=>'1-52',
 			 'Style'=>'TextSpreadsheet Object',
 			 'objectclass'=>'Module'];
 }
@@ -49,10 +49,15 @@ sub get_module_manager{
 	my $self = shift;
 	return $self->{_module_manager};
 }
+sub get_user_agent{
+	my $self = shift;
+	return $self->{_browser};
+}
 sub grab{
 	my $self = shift;
 	my $request = $self->get_request();
-	my $response = $user_agent->request($request);
+	my $browser = $self->get_user_agent();
+	my $response = $browser->request($request);
 	if ($response->is_success) {
         	return $response->content;
 	} else {
@@ -61,7 +66,9 @@ sub grab{
 }
 sub save{
 	my ($self, $module_code, $content) = @_;
-	open (FILE, ">timetable_grads/$module_code.html"); 
-	print FILE $content; 
-	close (FILE); 
+	$module_code =~ s/\// Slash /g;
+	open (my $file, ">","$module_code.grab"); 
+	print $file $content; 
+	close($file); 
 }
+1;

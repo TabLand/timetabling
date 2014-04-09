@@ -28,7 +28,8 @@ sub parseXML{
 }
 sub get_all_module_codes{
 	my $self = shift;
-	return keys $self->{_modules};
+	my @keys = (keys $self->{_modules});
+	return @keys;
 }
 sub get_all_modules{
 	my $self = shift;
