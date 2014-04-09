@@ -7,23 +7,26 @@ my @grabs = `ls $directory`;
 my $working_directory  = `pwd`;
 
 for my $grab (@grabs){
-	$text = get_file_contents($grab);
-	$dom = Mojo::DOM->new($text);
-	@collection = $dom->find("p, table.spreadsheet")->each;
+
+	print "My module is timetable_xml/$module.xml\n";
+	my $text = get_file_contents($grab);
+	my $dom = Mojo::DOM->new($text);
+	my @collection = $dom->find("p, table.spreadsheet")->each;
 	my $day = "Noday";
+	my $xml_out = "";
 	for my $element (@collection){
 		if($element->type eq "p"){
 			$day = get_day($element);
-			#print "$day\n";
 		}
 		else{
 			my @rows = $element->find("tr.columnTitles")->each;
 			for my $row (@rows){
 				my @tds = $row->find("td")->each;
-
+				$xml_out .= tr_to_xml($day, \@tds);
 			}
 		}
 	}
+	#save_xml("timetable_xml/$module.xml",$xml_out);
 }
 
 sub tr_to_xml{
@@ -57,11 +60,30 @@ sub get_day{
 	return $element->find(".labelone")->text;
 }
 sub get_file_contents{
-	my $filename = shift;
-	my $full_filepath = $working_directory . "/" . $filename;
-	$full_filepath =~ s/\n//g;
-	open(my $file, "<", $full_filepath) or die "Unable to open file, $!";;
+	my $filepath = get_full_path(shift);
+	open(my $file, "<", $filepath) or die "Unable to open file for reading, $!";;
 	my $text = join('', <$file>);
 	close($file);
 	return $text;
+}
+sub save_xml{
+	my ($filename, $xml) = @_;
+	my $filepath = get_full_path(shift);
+	open(my $file, ">", $filepath) or die "Unable to open file for writing, $!";;
+	print $file $xml;
+	close($file);
+}
+sub get_full_path{
+	my $filename = shift;	
+	my $full_filepath = $working_directory . "/" . $filename;
+	$full_filepath =~ s/\n//g;
+	return $full_filepath;
+}
+sub clean_module_name{
+	my $module = shift;
+	$module =~ s/timetable_grabs//g;
+	$module =~ s/\.grab//g;
+	$module =~ s/\///g;
+	$module =~ s/\n//g;
+	return $module;
 }
