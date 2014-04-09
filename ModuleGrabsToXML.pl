@@ -7,8 +7,8 @@ my @grabs = `ls $directory`;
 my $working_directory  = `pwd`;
 
 for my $grab (@grabs){
-
-	print "My module is timetable_xml/$module.xml\n";
+	my $module = clean_module_name($grab);
+	print "Crunching $module.xml\n";
 	my $text = get_file_contents($grab);
 	my $dom = Mojo::DOM->new($text);
 	my @collection = $dom->find("p, table.spreadsheet")->each;
@@ -19,14 +19,14 @@ for my $grab (@grabs){
 			$day = get_day($element);
 		}
 		else{
-			my @rows = $element->find("tr.columnTitles")->each;
+			my @rows = $element->find("tr:not(.columnTitles)")->each;
 			for my $row (@rows){
 				my @tds = $row->find("td")->each;
 				$xml_out .= tr_to_xml($day, \@tds);
 			}
 		}
 	}
-	#save_xml("timetable_xml/$module.xml",$xml_out);
+	save_xml("timetable_xml/$module.xml",$xml_out);
 }
 
 sub tr_to_xml{
@@ -42,17 +42,17 @@ sub tr_to_xml{
 	my $student_numbers = $tds[7]->text;
 	my $room = $tds[8]->text;
 	my $lecturer = $tds[10]->text;
-	my $xml = "<booking><start>$start_time</start>\n";
-	$xml .= "<end>$finish_time</end>\n";
-	$xml .= "<week>$week</week>\n";
-	$xml .= "<modulecode>$module_code</modulecode>\n";
-	$xml .= "<activity>$activity</activity>\n";
-	$xml .= "<desc>$description</desc>\n";
-	$xml .= "<joint>$joint</joint>\n";
-	$xml .= "<studentnos>$student_numbers</studentnos>\n";
-	$xml .= "<room>$room</room>\n";
-	$xml .= "<lecturer>$lecturer </lecturer>\n";
-	$xml .= "<day>$day </day>\n</booking>";
+	my $xml = "<booking>\n\t<start>$start_time</start>\n";
+	$xml .= "\t<end>$finish_time</end>\n";
+	$xml .= "\t<week>$week</week>\n";
+	$xml .= "\t<modulecode>$module_code</modulecode>\n";
+	$xml .= "\t<activity>$activity</activity>\n";
+	$xml .= "\t<desc>$description</desc>\n";
+	$xml .= "\t<joint>$joint</joint>\n";
+	$xml .= "\t<studentnos>$student_numbers</studentnos>\n";
+	$xml .= "\t<room>$room</room>\n";
+	$xml .= "\t<lecturer>$lecturer </lecturer>\n";
+	$xml .= "\t<day>$day </day>\n</booking>\n";
 }
 
 sub get_day{
@@ -69,7 +69,7 @@ sub get_file_contents{
 sub save_xml{
 	my ($filename, $xml) = @_;
 	my $filepath = get_full_path(shift);
-	open(my $file, ">", $filepath) or die "Unable to open file for writing, $!";;
+	open(my $file, ">", $filepath) or die "Unable to open file $filepath for writing, $!";;
 	print $file $xml;
 	close($file);
 }
