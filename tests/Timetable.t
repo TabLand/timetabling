@@ -4,10 +4,10 @@ use lib "..";
 use strict;
 use warnings;
 
-subtest "Initialise" => sub {}
-subtest "Read" => sub {}
-subtest "Freeze" => sub {}
-subtest "Thaw" => sub {}
-subtest "Mutate" => sub {}
-subtest "Kill" => sub {}
-subtest "Clone" => sub {}
+subtest "Initialise" => sub {ok(0)};
+subtest "Read" => sub {ok(0)};
+subtest "Freeze" => sub {ok(0)};
+subtest "Thaw" => sub {ok(0)};
+subtest "Mutate" => sub {ok(0)};
+subtest "Kill" => sub {ok(0)};
+subtest "Clone" => sub {ok(0)};
