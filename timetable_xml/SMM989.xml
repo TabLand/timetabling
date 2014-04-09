@@ -1,39 +1,41 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>03/02/14</week>
-	<modulecode>SMM989</modulecode>
-	<activity>SMM989 Readings in Management 3 (Strategy): MGT/Lecture 1/WK 2</activity>
-	<desc>PhD: MGT stream: Spring Term 2 (week 2 rescheduled)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Frankort, Hans </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14, 10/02/14-17/03/14, 31/03/14</week>
-	<modulecode>SMM989</modulecode>
-	<activity>SMM989 Readings in Management 3 (Strategy): MGT/Lecture 1/01</activity>
-	<desc>PhD: MGT stream: Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Baden-Fuller, Charles;Lanzolla, Gianvito Prof;Frankort, Hans;Furnari, Santi;Filatotchev, Igor </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>24/03/14</week>
-	<modulecode>SMM989</modulecode>
-	<activity>SMM989 Readings in Management 3 (Strategy): MGT/Lecture 1/WK 9</activity>
-	<desc>PhD: MGT stream: Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Baden-Fuller, Charles;Lanzolla, Gianvito Prof;Frankort, Hans;Furnari, Santi;Filatotchev, Igor </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>03/02/14</week>
+		<modulecode>SMM989</modulecode>
+		<activity>SMM989 Readings in Management 3 (Strategy): MGT/Lecture 1/WK 2</activity>
+		<desc>PhD: MGT stream: Spring Term 2 (week 2 rescheduled)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Frankort, Hans </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14, 10/02/14-17/03/14, 31/03/14</week>
+		<modulecode>SMM989</modulecode>
+		<activity>SMM989 Readings in Management 3 (Strategy): MGT/Lecture 1/01</activity>
+		<desc>PhD: MGT stream: Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Baden-Fuller, Charles;Lanzolla, Gianvito Prof;Frankort, Hans;Furnari, Santi;Filatotchev, Igor </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>24/03/14</week>
+		<modulecode>SMM989</modulecode>
+		<activity>SMM989 Readings in Management 3 (Strategy): MGT/Lecture 1/WK 9</activity>
+		<desc>PhD: MGT stream: Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Baden-Fuller, Charles;Lanzolla, Gianvito Prof;Frankort, Hans;Furnari, Santi;Filatotchev, Igor </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

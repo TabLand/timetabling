@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM566</modulecode>
-	<activity>SMM566 Oil & Energy Trading Economics & Finance/Lecture 1/02</activity>
-	<desc>OETEF Lecture 1 - ETF only</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2003</room>
-	<lecturer>Daly, Charles;Bartlett, Darren;Allcard, Colin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
-	<modulecode>SMM566</modulecode>
-	<activity>SMM566 Oil & Energy Trading Economics & Finance/Lecture 2/02/WKS 1-3, 5-10</activity>
-	<desc>OETEF Lecture 2 - ETF only : Weeks 1-3, 5-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3003</room>
-	<lecturer>Daly, Charles;Bartlett, Darren;Allcard, Colin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM566</modulecode>
-	<activity>SMM566 Oil & Energy Trading Economics & Finance/Lecture 2/02/WK 4</activity>
-	<desc>OETEF Lecture 2 - ETF only - Week 4 only (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2001</room>
-	<lecturer>Daly, Charles;Bartlett, Darren;Allcard, Colin </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM566</modulecode>
+		<activity>SMM566 Oil & Energy Trading Economics & Finance/Lecture 1/02</activity>
+		<desc>OETEF Lecture 1 - ETF only</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2003</room>
+		<lecturer>Daly, Charles;Bartlett, Darren;Allcard, Colin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+		<modulecode>SMM566</modulecode>
+		<activity>SMM566 Oil & Energy Trading Economics & Finance/Lecture 2/02/WKS 1-3, 5-10</activity>
+		<desc>OETEF Lecture 2 - ETF only : Weeks 1-3, 5-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3003</room>
+		<lecturer>Daly, Charles;Bartlett, Darren;Allcard, Colin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM566</modulecode>
+		<activity>SMM566 Oil & Energy Trading Economics & Finance/Lecture 2/02/WK 4</activity>
+		<desc>OETEF Lecture 2 - ETF only - Week 4 only (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2001</room>
+		<lecturer>Daly, Charles;Bartlett, Darren;Allcard, Colin </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>PSM714</modulecode>
-	<activity>PSM714 Person-Centred Approaches To Counselling Psychology/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>DLG19</room>
-	<lecturer>Strauss, Susan </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-04/11/13, 25/11/13</week>
-	<modulecode>PSM714</modulecode>
-	<activity>PSM714 Person-Centred Approaches To Counselling Psychology/Break Out Room 01/01</activity>
-	<desc>Weeks 1-6 and 9</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D106;D107;D108;D109</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>PSM714</modulecode>
+		<activity>PSM714 Person-Centred Approaches To Counselling Psychology/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>DLG19</room>
+		<lecturer>Strauss, Susan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-04/11/13, 25/11/13</week>
+		<modulecode>PSM714</modulecode>
+		<activity>PSM714 Person-Centred Approaches To Counselling Psychology/Break Out Room 01/01</activity>
+		<desc>Weeks 1-6 and 9</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D106;D107;D108;D109</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/03/14-31/03/14</week>
-	<modulecode>AMMxx6</modulecode>
-	<activity>AMM427 Global Cultural Industries, Ethics and Social Responsibility</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A109</room>
-	<lecturer>Sandoval, Marisol </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>03/03/14-31/03/14</week>
-	<modulecode>AMMxx6</modulecode>
-	<activity>AMM427 Global Cultural Industries, Ethics and Social Responsibility</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>E212</room>
-	<lecturer>Sandoval, Marisol </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/03/14-31/03/14</week>
+		<modulecode>AMMxx6</modulecode>
+		<activity>AMM427 Global Cultural Industries, Ethics and Social Responsibility</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A109</room>
+		<lecturer>Sandoval, Marisol </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>03/03/14-31/03/14</week>
+		<modulecode>AMMxx6</modulecode>
+		<activity>AMM427 Global Cultural Industries, Ethics and Social Responsibility</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>E212</room>
+		<lecturer>Sandoval, Marisol </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

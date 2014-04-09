@@ -1,65 +1,67 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>30/06/14-07/07/14</week>
-	<modulecode>MBM506 FTMBA</modulecode>
-	<activity>MBM506 Mergers & Acquisitions FTMBA/Lecture 01</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2006</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>07/07/14</week>
-	<modulecode>MBM506 FTMBA</modulecode>
-	<activity>MBM506 Mergers & Acquisitions FTMBA/Syn Rooms 02</activity>
-	<desc>FTMBA Term 3 : Syndicate rooms - S. Moeller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;2008;2009;2011</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>07/07/14</week>
-	<modulecode>MBM506 FTMBA</modulecode>
-	<activity>MBM506 Mergers & Acquisitions FTMBA/Syn Rooms 02</activity>
-	<desc>FTMBA Term 3 : Syndicate rooms - S. Moeller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;2008;2009;2011</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>23/06/14-14/07/14</week>
-	<modulecode>MBM506 FTMBA</modulecode>
-	<activity>MBM506 Mergers & Acquisitions FTMBA/Lecture 02</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2006</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>18:00</end>
-	<week>23/06/14, 14/07/14</week>
-	<modulecode>MBM506 FTMBA</modulecode>
-	<activity>MBM506 Mergers & Acquisitions FTMBA/Syn Rooms 01</activity>
-	<desc>FTMBA Term 3 : Syndicate rooms - S. Moeller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6003;2010;2007;2008;2009;2011;2012;2013</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>30/06/14-07/07/14</week>
+		<modulecode>MBM506 FTMBA</modulecode>
+		<activity>MBM506 Mergers & Acquisitions FTMBA/Lecture 01</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2006</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>07/07/14</week>
+		<modulecode>MBM506 FTMBA</modulecode>
+		<activity>MBM506 Mergers & Acquisitions FTMBA/Syn Rooms 02</activity>
+		<desc>FTMBA Term 3 : Syndicate rooms - S. Moeller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;2008;2009;2011</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>07/07/14</week>
+		<modulecode>MBM506 FTMBA</modulecode>
+		<activity>MBM506 Mergers & Acquisitions FTMBA/Syn Rooms 02</activity>
+		<desc>FTMBA Term 3 : Syndicate rooms - S. Moeller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;2008;2009;2011</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>23/06/14-14/07/14</week>
+		<modulecode>MBM506 FTMBA</modulecode>
+		<activity>MBM506 Mergers & Acquisitions FTMBA/Lecture 02</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2006</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>18:00</end>
+		<week>23/06/14, 14/07/14</week>
+		<modulecode>MBM506 FTMBA</modulecode>
+		<activity>MBM506 Mergers & Acquisitions FTMBA/Syn Rooms 01</activity>
+		<desc>FTMBA Term 3 : Syndicate rooms - S. Moeller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6003;2010;2007;2008;2009;2011;2012;2013</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

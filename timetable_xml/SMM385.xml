@@ -1,13 +1,15 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM385</modulecode>
-	<activity>SMM385 Liability Insurance/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2003</room>
-	<lecturer>Parsons, Chris </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM385</modulecode>
+		<activity>SMM385 Liability Insurance/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2003</room>
+		<lecturer>Parsons, Chris </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

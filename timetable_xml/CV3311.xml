@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>CV3311</modulecode>
-	<activity>CV3311 Transportation & Highways/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B104</room>
-	<lecturer>Kaparias, I;Hilling, G </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-21/10/13</week>
-	<modulecode>CV3311</modulecode>
-	<activity>CV3311 Transportation & Highways/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B104</room>
-	<lecturer>Hilling, G </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>CV3311</modulecode>
-	<activity>CV3311 Transportation & Highways/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>C336</room>
-	<lecturer>Makoriwa, C </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>CV3311</modulecode>
+		<activity>CV3311 Transportation & Highways/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B104</room>
+		<lecturer>Kaparias, I;Hilling, G </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-21/10/13</week>
+		<modulecode>CV3311</modulecode>
+		<activity>CV3311 Transportation & Highways/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B104</room>
+		<lecturer>Hilling, G </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>CV3311</modulecode>
+		<activity>CV3311 Transportation & Highways/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>C336</room>
+		<lecturer>Makoriwa, C </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

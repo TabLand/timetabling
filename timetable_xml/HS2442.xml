@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14-03/03/14</week>
-	<modulecode>HS2442</modulecode>
-	<activity>HS2442 Work-based/work-focused project/Seminar 1/01</activity>
-	<desc>Optional module</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM03</room>
-	<lecturer>Smith, U </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14, 03/03/14</week>
-	<modulecode>HS2442</modulecode>
-	<activity>HS2442 Work-based/work-focused project/Seminar 2/01</activity>
-	<desc>Optional module</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>B104</room>
-	<lecturer>Smith, U </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>04/11/13</week>
-	<modulecode>HS2442</modulecode>
-	<activity>HS2442 Work-based/work-focused project/Pre-module session</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>D222</room>
-	<lecturer>Smith, U </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14-03/03/14</week>
+		<modulecode>HS2442</modulecode>
+		<activity>HS2442 Work-based/work-focused project/Seminar 1/01</activity>
+		<desc>Optional module</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM03</room>
+		<lecturer>Smith, U </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14, 03/03/14</week>
+		<modulecode>HS2442</modulecode>
+		<activity>HS2442 Work-based/work-focused project/Seminar 2/01</activity>
+		<desc>Optional module</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>B104</room>
+		<lecturer>Smith, U </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>04/11/13</week>
+		<modulecode>HS2442</modulecode>
+		<activity>HS2442 Work-based/work-focused project/Pre-module session</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>D222</room>
+		<lecturer>Smith, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

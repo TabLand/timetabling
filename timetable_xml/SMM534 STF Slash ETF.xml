@@ -1,143 +1,145 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/10/13, 21/10/13</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/STF/ X/Comp Lab/WKS 2 & 4</activity>
-	<desc>Computer Lab : STF (Group X ) : Week 2 & 4 ONLY</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13, 28/10/13</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/ETF/Comp Lab/WKS 3,5</activity>
-	<desc>Computer Lab : ETF : Weeks 3, 5</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>07/10/13</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/STF/ X/Comp Lab/WK 2</activity>
-	<desc>Computer Lab : STF (Group X ) : Week 2 ONLY</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>07/10/13-21/10/13</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/STF/Y/Comp Lab/WKS 2-4</activity>
-	<desc>Computer Lab : STF (Group Y) : Weeks 2,3,4</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>1001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>28/10/13</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/ETF/Comp Lab/WK 5</activity>
-	<desc>Computer Lab : ETF : Week 5 ONLY</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>18:00</end>
-	<week>19/05/14</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/01/WK 2</activity>
-	<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 2</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>Tamvakis, Michael Prof.;Papapostolou, Nikolaos </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>18:00</end>
-	<week>26/05/14</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/03/WK 3</activity>
-	<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 3</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>Pouliasis, Panagiotis;Nomikos, Nikos Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>02/06/14</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/04/WK 4</activity>
-	<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 4</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>Tamvakis, Michael Prof.;Papapostolou, Nikolaos </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>18:00</end>
-	<week>19/05/14</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/02/WK 2</activity>
-	<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 2</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>Pouliasis, Panagiotis;Nomikos, Nikos Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Lecture/WK 1</activity>
-	<desc>ETF/STF - WEEK 1</desc>
-	<joint> </joint>
-	<studentnos>142</studentnos>
-	<room>LG001</room>
-	<lecturer>Tamvakis, Michael Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/02/14</week>
-	<modulecode>SMM534 STF/ETF</modulecode>
-	<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Lecture/WK 2</activity>
-	<desc>RPMS - ETF/STF - WEEK 2</desc>
-	<joint> </joint>
-	<studentnos>142</studentnos>
-	<room>LG001</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/10/13, 21/10/13</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/STF/ X/Comp Lab/WKS 2 & 4</activity>
+		<desc>Computer Lab : STF (Group X ) : Week 2 & 4 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13, 28/10/13</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/ETF/Comp Lab/WKS 3,5</activity>
+		<desc>Computer Lab : ETF : Weeks 3, 5</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>07/10/13</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/STF/ X/Comp Lab/WK 2</activity>
+		<desc>Computer Lab : STF (Group X ) : Week 2 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>07/10/13-21/10/13</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/STF/Y/Comp Lab/WKS 2-4</activity>
+		<desc>Computer Lab : STF (Group Y) : Weeks 2,3,4</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>1001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>28/10/13</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/ETF/Comp Lab/WK 5</activity>
+		<desc>Computer Lab : ETF : Week 5 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>18:00</end>
+		<week>19/05/14</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/01/WK 2</activity>
+		<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 2</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>Tamvakis, Michael Prof.;Papapostolou, Nikolaos </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>18:00</end>
+		<week>26/05/14</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/03/WK 3</activity>
+		<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 3</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>Pouliasis, Panagiotis;Nomikos, Nikos Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>02/06/14</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/04/WK 4</activity>
+		<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 4</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>Tamvakis, Michael Prof.;Papapostolou, Nikolaos </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>18:00</end>
+		<week>19/05/14</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Presentations/02/WK 2</activity>
+		<desc>ETF/STF - Term 3 : Business plan student presentations : WEEK 2</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>Pouliasis, Panagiotis;Nomikos, Nikos Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Lecture/WK 1</activity>
+		<desc>ETF/STF - WEEK 1</desc>
+		<joint>-</joint>
+		<studentnos>142</studentnos>
+		<room>LG001</room>
+		<lecturer>Tamvakis, Michael Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/02/14</week>
+		<modulecode>SMM534 STF/ETF</modulecode>
+		<activity>SMM534 Research Methods for Shipping & Energy/STF/ETF/Lecture/WK 2</activity>
+		<desc>RPMS - ETF/STF - WEEK 2</desc>
+		<joint>-</joint>
+		<studentnos>142</studentnos>
+		<room>LG001</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

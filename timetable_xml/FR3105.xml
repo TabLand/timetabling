@@ -1,26 +1,28 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>FR3105</modulecode>
-	<activity>FR3105 Valuation & Compensation/Travel time</activity>
-	<desc>Travel Time to Bunhill Row (no room required)</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>FR3105</modulecode>
-	<activity>FR3105 Valuation & Compensation/Lecture 1/1</activity>
-	<desc>Lecture - Autumn</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>Herd, George </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>FR3105</modulecode>
+		<activity>FR3105 Valuation & Compensation/Travel time</activity>
+		<desc>Travel Time to Bunhill Row (no room required)</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>FR3105</modulecode>
+		<activity>FR3105 Valuation & Compensation/Lecture 1/1</activity>
+		<desc>Lecture - Autumn</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>Herd, George </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

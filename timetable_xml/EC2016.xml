@@ -1,65 +1,67 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC2016</modulecode>
-	<activity>EC2016 Intermediate Macroeconomics 2/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>190</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Pearlman, Joseph </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC2016</modulecode>
-	<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>CG02</room>
-	<lecturer>Cantelmo, Alessandro </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC2016</modulecode>
-	<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>CG02</room>
-	<lecturer>Cantelmo, Alessandro </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC2016</modulecode>
-	<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>DLG03</room>
-	<lecturer>Cantelmo, Alessandro </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC2016</modulecode>
-	<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>DLG08</room>
-	<lecturer>Cantelmo, Alessandro </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC2016</modulecode>
+		<activity>EC2016 Intermediate Macroeconomics 2/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>190</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Pearlman, Joseph </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC2016</modulecode>
+		<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>CG02</room>
+		<lecturer>Cantelmo, Alessandro </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC2016</modulecode>
+		<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>CG02</room>
+		<lecturer>Cantelmo, Alessandro </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC2016</modulecode>
+		<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>DLG03</room>
+		<lecturer>Cantelmo, Alessandro </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC2016</modulecode>
+		<activity>EC2016 Intermediate Macroeconomics 2/Tutorial 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>DLG08</room>
+		<lecturer>Cantelmo, Alessandro </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

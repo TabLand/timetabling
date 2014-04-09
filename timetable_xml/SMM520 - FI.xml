@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM520 - FI</modulecode>
-	<activity>SMM520 Foreign Exchange (MSc FI)/Lecture/WK 4</activity>
-	<desc>MSc FI (Optional : Year 2 only) : Week 4 ONLY (replacement)</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2004</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
-	<modulecode>SMM520 - FI</modulecode>
-	<activity>SMM520 Foreign Exchange (MSc FI)/Lecture/WKS 1-3, 5-10</activity>
-	<desc>MSc FI (Optional : Year 2 only) : Weeks 1-3, 5-10</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2004</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM520 - FI</modulecode>
+		<activity>SMM520 Foreign Exchange (MSc FI)/Lecture/WK 4</activity>
+		<desc>MSc FI (Optional : Year 2 only) : Week 4 ONLY (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2004</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+		<modulecode>SMM520 - FI</modulecode>
+		<activity>SMM520 Foreign Exchange (MSc FI)/Lecture/WKS 1-3, 5-10</activity>
+		<desc>MSc FI (Optional : Year 2 only) : Weeks 1-3, 5-10</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2004</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

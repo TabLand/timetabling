@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>21/10/13</week>
-	<modulecode>EL3001</modulecode>
-	<activity>EL3001 Management in the Creative Sector</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A220</room>
-	<lecturer>Cumbridge, Mandy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EL3001</modulecode>
-	<activity>EL3001 Management in the Creative Sector/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C303</room>
-	<lecturer>O'Brien, Dave </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EL3001</modulecode>
-	<activity>EL3001 Management in the Creative Sector/Tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>O'Brien, Dave </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>21/10/13</week>
+		<modulecode>EL3001</modulecode>
+		<activity>EL3001 Management in the Creative Sector</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A220</room>
+		<lecturer>Cumbridge, Mandy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EL3001</modulecode>
+		<activity>EL3001 Management in the Creative Sector/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C303</room>
+		<lecturer>O'Brien, Dave </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EL3001</modulecode>
+		<activity>EL3001 Management in the Creative Sector/Tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>O'Brien, Dave </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

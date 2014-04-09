@@ -1,26 +1,28 @@
-<booking>
-	<start>13:10</start>
-	<end>16:00</end>
-	<week>09/06/14</week>
-	<modulecode>SMM121 Block</modulecode>
-	<activity>SMM121 Hedge Funds/Stream 01/02/Block/Lecture 05/wk 5</activity>
-	<desc>Block Elective : Stream 01 of 02</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2003</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>19:00</end>
-	<week>09/06/14</week>
-	<modulecode>SMM121 Block</modulecode>
-	<activity>SMM121 Hedge Funds/Stream 01/02/Block/Lecture 06/wk 5</activity>
-	<desc>Block Elective : Stream 01 of 02</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2003</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>16:00</end>
+		<week>09/06/14</week>
+		<modulecode>SMM121 Block</modulecode>
+		<activity>SMM121 Hedge Funds/Stream 01/02/Block/Lecture 05/wk 5</activity>
+		<desc>Block Elective : Stream 01 of 02</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2003</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>19:00</end>
+		<week>09/06/14</week>
+		<modulecode>SMM121 Block</modulecode>
+		<activity>SMM121 Hedge Funds/Stream 01/02/Block/Lecture 06/wk 5</activity>
+		<desc>Block Elective : Stream 01 of 02</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2003</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

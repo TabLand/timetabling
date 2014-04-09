@@ -1,26 +1,28 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>30/09/13-07/10/13, 21/10/13-28/10/13, 18/11/13-09/12/13</week>
-	<modulecode>INM353 (PT)</modulecode>
-	<activity>INM353 Practical Business Systems Consultancy/Lecture (PT)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Smart, Chris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>14/10/13, 11/11/13</week>
-	<modulecode>INM353 (PT)</modulecode>
-	<activity>INM353 Practical Business Systems Consultancy/Lecture (PT)/Oct 15th & Nov 12th</activity>
-	<desc>Larger location for guest speaker</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>AG03</room>
-	<lecturer>Smart, Chris </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>30/09/13-07/10/13, 21/10/13-28/10/13, 18/11/13-09/12/13</week>
+		<modulecode>INM353 (PT)</modulecode>
+		<activity>INM353 Practical Business Systems Consultancy/Lecture (PT)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Smart, Chris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>14/10/13, 11/11/13</week>
+		<modulecode>INM353 (PT)</modulecode>
+		<activity>INM353 Practical Business Systems Consultancy/Lecture (PT)/Oct 15th & Nov 12th</activity>
+		<desc>Larger location for guest speaker</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>AG03</room>
+		<lecturer>Smart, Chris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

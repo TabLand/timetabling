@@ -1,65 +1,67 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA0021</modulecode>
-	<activity>LA0021 Extracurricular Business French Beginner Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A109</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>14/10/13</week>
-	<modulecode>LA0021</modulecode>
-	<activity>LA0021 Extracurricular Business French Beginner Autumn/02</activity>
-	<desc>Extra week</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>IG03</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>28/10/13-09/12/13</week>
-	<modulecode>LA0021</modulecode>
-	<activity>LA0021 Extracurricular Business French Beginner Autumn/02</activity>
-	<desc>Additional group</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>A111</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA0021</modulecode>
-	<activity>LA0021 Extracurricular Business French Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>I106</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA0021</modulecode>
-	<activity>LA0021 Extracurricular Business French Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D112</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA0021</modulecode>
+		<activity>LA0021 Extracurricular Business French Beginner Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A109</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>14/10/13</week>
+		<modulecode>LA0021</modulecode>
+		<activity>LA0021 Extracurricular Business French Beginner Autumn/02</activity>
+		<desc>Extra week</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>IG03</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>28/10/13-09/12/13</week>
+		<modulecode>LA0021</modulecode>
+		<activity>LA0021 Extracurricular Business French Beginner Autumn/02</activity>
+		<desc>Additional group</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>A111</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA0021</modulecode>
+		<activity>LA0021 Extracurricular Business French Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>I106</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA0021</modulecode>
+		<activity>LA0021 Extracurricular Business French Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D112</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

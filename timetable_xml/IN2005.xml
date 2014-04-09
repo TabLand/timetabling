@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN2005</modulecode>
-	<activity>IN2005 Formal Methods/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CG05</room>
-	<lecturer>Cohen, Bernie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN2005</modulecode>
-	<activity>IN2005 Formal Methods/Tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C303</room>
-	<lecturer>Cohen, Bernie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>19/05/14</week>
-	<modulecode>IN2005</modulecode>
-	<activity>IN2005 Formal Methods/Revision session</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>AG24b</room>
-	<lecturer>Cohen, Bernie </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN2005</modulecode>
+		<activity>IN2005 Formal Methods/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CG05</room>
+		<lecturer>Cohen, Bernie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN2005</modulecode>
+		<activity>IN2005 Formal Methods/Tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C303</room>
+		<lecturer>Cohen, Bernie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>19/05/14</week>
+		<modulecode>IN2005</modulecode>
+		<activity>IN2005 Formal Methods/Revision session</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>AG24b</room>
+		<lecturer>Cohen, Bernie </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

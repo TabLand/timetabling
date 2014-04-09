@@ -1,13 +1,15 @@
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14</week>
-	<modulecode>IF1000</modulecode>
-	<activity>IF1000 Welcome Back/T2/BIF yr1/wk 1</activity>
-	<desc>Course Director briefing: BIF year 1 : Spring: Week 1 only</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>Birley</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14</week>
+		<modulecode>IF1000</modulecode>
+		<activity>IF1000 Welcome Back/T2/BIF yr1/wk 1</activity>
+		<desc>Course Director briefing: BIF year 1 : Spring: Week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>Birley</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

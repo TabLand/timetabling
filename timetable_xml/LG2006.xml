@@ -1,39 +1,41 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-21/10/13, 11/11/13-25/11/13, 09/12/13</week>
-	<modulecode>LG2006</modulecode>
-	<activity>LG2006 European Union Law/Seminar/Thursday</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>B103</room>
-	<lecturer>Wilsher, Dan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>04/11/13</week>
-	<modulecode>LG2006</modulecode>
-	<activity>LG2006 European Union Law/Seminar/Thursday/Nov 5th</activity>
-	<desc>Room change</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>BG03</room>
-	<lecturer>Wilsher, Dan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
-	<modulecode>LG2006</modulecode>
-	<activity>LG2006 European Union Law/Seminar/Wednesday</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>CG04</room>
-	<lecturer>Wilsher, Dan </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-21/10/13, 11/11/13-25/11/13, 09/12/13</week>
+		<modulecode>LG2006</modulecode>
+		<activity>LG2006 European Union Law/Seminar/Thursday</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>B103</room>
+		<lecturer>Wilsher, Dan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>04/11/13</week>
+		<modulecode>LG2006</modulecode>
+		<activity>LG2006 European Union Law/Seminar/Thursday/Nov 5th</activity>
+		<desc>Room change</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>BG03</room>
+		<lecturer>Wilsher, Dan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+		<modulecode>LG2006</modulecode>
+		<activity>LG2006 European Union Law/Seminar/Wednesday</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>CG04</room>
+		<lecturer>Wilsher, Dan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

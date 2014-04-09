@@ -1,26 +1,28 @@
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>16/12/13</week>
-	<modulecode>JOM907</modulecode>
-	<activity>JOM907 Own play or script</activity>
-	<desc>Phil O'Shea 8218</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>AG21</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>13/01/14-17/03/14</week>
-	<modulecode>JOM907</modulecode>
-	<activity>JOM907 Own play or script/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>7</studentnos>
-	<room>D107</room>
-	<lecturer>Norden, Barbara </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>16/12/13</week>
+		<modulecode>JOM907</modulecode>
+		<activity>JOM907 Own play or script</activity>
+		<desc>Phil O'Shea 8218</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>AG21</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>13/01/14-17/03/14</week>
+		<modulecode>JOM907</modulecode>
+		<activity>JOM907 Own play or script/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>7</studentnos>
+		<room>D107</room>
+		<lecturer>Norden, Barbara </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

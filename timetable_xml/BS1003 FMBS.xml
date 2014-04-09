@@ -1,1092 +1,1094 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/05</activity>
-	<desc>Group 5 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/05</activity>
-	<desc>Group 5 : Weeks 1-5, 6-11</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 1/01/7-12</activity>
-	<desc>Lecture : Groups 7-12 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 1/01/7-12</activity>
-	<desc>Groups 7-12 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>07/10/13-28/10/13, 18/11/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/06</activity>
-	<desc>Group 6 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A214</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>04/11/13-11/11/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/06</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A227</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>09/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/TEST/WK 11</activity>
-	<desc>Week 11 only (Test) - 488 seats required across 5 rooms.</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>Birley;C338;C336;AG22;AG21</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/06</activity>
-	<desc>Group 6 : Weeks 1-5, 6-11</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C150</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/03</activity>
-	<desc>Group 3 ; Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C337</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/04</activity>
-	<desc>Group 4 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/03</activity>
-	<desc>Group 3 : Weeks 1-5, 6-11</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C345</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/04</activity>
-	<desc>Group 4 : Weeks 1-5, 6-11</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/18</activity>
-	<desc>Group 18 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C135</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/17</activity>
-	<desc>Group 17 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/10/13, 21/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/16</activity>
-	<desc>Group 16 : Weeks 2, 4-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C340</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/16</activity>
-	<desc>Group 16 : Term 2 : Weeks 1-5, 6-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/17</activity>
-	<desc>Group 17: Term 2 : Weeks 1-5, 6-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/18</activity>
-	<desc>Group 18 : Term 2 : Weeks 1-5, 6-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C135</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 1/01/1-5</activity>
-	<desc>Lecture: Groups 1-5 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/14</activity>
-	<desc>Group 14 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/13</activity>
-	<desc>Group 13 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/15</activity>
-	<desc>Group 15 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C158</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/15</activity>
-	<desc>Group 15 : Term 2 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C300</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/14</activity>
-	<desc>Group 14 : Term 2 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/13</activity>
-	<desc>Group 13 : Term 2 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C170</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 1/01/1-5</activity>
-	<desc>Groups 1-5 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>03/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/TEST/WK 6</activity>
-	<desc>Week 6 only (Test) - 488 students sharing 5 rooms (576 seats)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>Birley;C338;C336;A130;C302</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 1/01/6+13-18</activity>
-	<desc>Lecture: Groups 6+13-18 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/11</activity>
-	<desc>Group 11 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C170</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/10</activity>
-	<desc>Group 10 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/10/13, 21/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/12</activity>
-	<desc>Group 12 : Weeks 2, 4-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/12</activity>
-	<desc>Group 12 : Term 2 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/11</activity>
-	<desc>Group 11 : Term 2 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C170</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/10</activity>
-	<desc>Group 10 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C350</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 1/01/6+13-18</activity>
-	<desc>Groups 6+13-18 : Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Computer Room 01/01</activity>
-	<desc>Drop in Lab (Optional) - Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C301</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Computer Room 01/02</activity>
-	<desc>Drop in Lab (Optional) : Weeks 1-8</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>11/11/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Surgery Drop in (Optional) 01</activity>
-	<desc>Surgery Drop in (optional) Autumn : Weeks 7-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>17/02/14-24/02/14, 24/03/14-31/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Surgery Drop in (Optional) 01</activity>
-	<desc>Surgery Drop in (optional) Spring : Weeks 4-5, 9-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C150</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Surgery Drop in (Optional) 01/wk 11</activity>
-	<desc>Surgery Drop in (optional) Spring : Week 11 ONLY (Replacement slot)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C150</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/16/wk 3</activity>
-	<desc>Group 16 : Week 3 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C115</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>24/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Group 17 revision</activity>
-	<desc>Temi Adebo 4159</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>A109</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/18/wk 10</activity>
-	<desc>Group 18 : Week 10 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C161</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/11/wk 10</activity>
-	<desc>Group 11 : Week 10 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG03</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>14/10/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/12/wk 3</activity>
-	<desc>Group 12 : Week 3 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG02</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 2/01/7-12</activity>
-	<desc>Groups 7-12 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/01</activity>
-	<desc>Group 1 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>ALG16</room>
-	<lecturer>Koc, Veli </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 2/01/7-12</activity>
-	<desc>Groups 7-12 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/01</activity>
-	<desc>Group 1 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>ALG16</room>
-	<lecturer>Koc, Veli </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/02</activity>
-	<desc>Group 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C350</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/15</activity>
-	<desc>Group 15 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/14</activity>
-	<desc>Group 14 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/13</activity>
-	<desc>Group 13 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/10/13-14/10/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/02/WKS 2&3</activity>
-	<desc>Group 2 : Weeks 2&3</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>D221</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>21/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/02/WKS 4-10</activity>
-	<desc>Group 2 : Weeks 4-10</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C118</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/15</activity>
-	<desc>Group 15 : Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/14</activity>
-	<desc>Group 14: Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-17/03/14, 31/03/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/13</activity>
-	<desc>Group 13 : Term 2 : Weeks 1-8, 10 & 11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Keheyian, Raffi </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/13/WK 9</activity>
-	<desc>Group 13 : Term 2 : Week 9</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A109</room>
-	<lecturer>Keheyian, Raffi </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-25/11/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/18</activity>
-	<desc>Group 18 : Weeks 1-9</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A110</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 2/01/1-5</activity>
-	<desc>Groups 1-5 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/17</activity>
-	<desc>Group 17 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/16</activity>
-	<desc>Group 16 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 2/01/1-5</activity>
-	<desc>Groups 1-5 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/16</activity>
-	<desc>Group 16 : Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C343</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/17</activity>
-	<desc>Group 17 : Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Mandal, Abhijit </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/18</activity>
-	<desc>Group 18 : Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A214</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/08</activity>
-	<desc>Group 8 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Koc, Veli </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/08</activity>
-	<desc>Group 8 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Koc, Veli </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/07</activity>
-	<desc>Group 7 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-25/11/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/11</activity>
-	<desc>Group 11 : Weeks 1-9</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/10</activity>
-	<desc>Group 10 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/12</activity>
-	<desc>Group 12 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A226</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 2/01/6+13-18</activity>
-	<desc>Groups 6+13-18 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 2/01/6+13-18</activity>
-	<desc>Groups 6+13-18 : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/10</activity>
-	<desc>Group 10 : Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Kazanidis, Priscila </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/11</activity>
-	<desc>Group 11 : Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Pollard, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/12</activity>
-	<desc>Group 12 : Term 2 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Roitch, Vladimir </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>07/10/13-21/10/13, 11/11/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/07/wks 2-4, 6-10</activity>
-	<desc>Group 7 : Weeks 2-4, 7-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A214</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/09</activity>
-	<desc>Group 9 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Koc, Veli </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>28/10/13-04/11/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/07/wks 5&6</activity>
-	<desc>Group 7 : Week 5 & 6 only (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A227</room>
-	<lecturer>Karouzakis, Nikolaos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/09</activity>
-	<desc>Group 9 : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Koc, Veli </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T1/Computer Room 02/01</activity>
-	<desc>Drop in Lab (Optional) - Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/03/14</week>
-	<modulecode>BS1003 FMBS</modulecode>
-	<activity>BS1003 Financial Mathematics & Business Statistics/T2/Computer Room 02/02</activity>
-	<desc>Drop in Lab (Optional) : weeks 1-8</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/05</activity>
+		<desc>Group 5 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/05</activity>
+		<desc>Group 5 : Weeks 1-5, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 1/01/7-12</activity>
+		<desc>Lecture : Groups 7-12 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 1/01/7-12</activity>
+		<desc>Groups 7-12 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>07/10/13-28/10/13, 18/11/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/06</activity>
+		<desc>Group 6 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A214</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>04/11/13-11/11/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/06</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A227</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>09/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/TEST/WK 11</activity>
+		<desc>Week 11 only (Test) - 488 seats required across 5 rooms.</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>Birley;C338;C336;AG22;AG21</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/06</activity>
+		<desc>Group 6 : Weeks 1-5, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C150</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/03</activity>
+		<desc>Group 3 ; Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C337</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/04</activity>
+		<desc>Group 4 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/03</activity>
+		<desc>Group 3 : Weeks 1-5, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C345</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/04</activity>
+		<desc>Group 4 : Weeks 1-5, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/18</activity>
+		<desc>Group 18 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C135</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/17</activity>
+		<desc>Group 17 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/10/13, 21/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/16</activity>
+		<desc>Group 16 : Weeks 2, 4-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C340</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/16</activity>
+		<desc>Group 16 : Term 2 : Weeks 1-5, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/17</activity>
+		<desc>Group 17: Term 2 : Weeks 1-5, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/18</activity>
+		<desc>Group 18 : Term 2 : Weeks 1-5, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C135</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 1/01/1-5</activity>
+		<desc>Lecture: Groups 1-5 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/14</activity>
+		<desc>Group 14 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/13</activity>
+		<desc>Group 13 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/15</activity>
+		<desc>Group 15 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C158</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/15</activity>
+		<desc>Group 15 : Term 2 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C300</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/14</activity>
+		<desc>Group 14 : Term 2 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/13</activity>
+		<desc>Group 13 : Term 2 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C170</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 1/01/1-5</activity>
+		<desc>Groups 1-5 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>03/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/TEST/WK 6</activity>
+		<desc>Week 6 only (Test) - 488 students sharing 5 rooms (576 seats)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>Birley;C338;C336;A130;C302</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 1/01/6+13-18</activity>
+		<desc>Lecture: Groups 6+13-18 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/11</activity>
+		<desc>Group 11 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C170</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/10</activity>
+		<desc>Group 10 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/10/13, 21/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/12</activity>
+		<desc>Group 12 : Weeks 2, 4-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/12</activity>
+		<desc>Group 12 : Term 2 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/11</activity>
+		<desc>Group 11 : Term 2 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C170</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/10</activity>
+		<desc>Group 10 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C350</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 1/01/6+13-18</activity>
+		<desc>Groups 6+13-18 : Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Computer Room 01/01</activity>
+		<desc>Drop in Lab (Optional) - Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C301</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Computer Room 01/02</activity>
+		<desc>Drop in Lab (Optional) : Weeks 1-8</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>11/11/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Surgery Drop in (Optional) 01</activity>
+		<desc>Surgery Drop in (optional) Autumn : Weeks 7-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>17/02/14-24/02/14, 24/03/14-31/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Surgery Drop in (Optional) 01</activity>
+		<desc>Surgery Drop in (optional) Spring : Weeks 4-5, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C150</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Surgery Drop in (Optional) 01/wk 11</activity>
+		<desc>Surgery Drop in (optional) Spring : Week 11 ONLY (Replacement slot)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C150</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/16/wk 3</activity>
+		<desc>Group 16 : Week 3 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C115</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>24/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Group 17 revision</activity>
+		<desc>Temi Adebo 4159</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>A109</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/18/wk 10</activity>
+		<desc>Group 18 : Week 10 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C161</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/11/wk 10</activity>
+		<desc>Group 11 : Week 10 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG03</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>14/10/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/12/wk 3</activity>
+		<desc>Group 12 : Week 3 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG02</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 2/01/7-12</activity>
+		<desc>Groups 7-12 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/01</activity>
+		<desc>Group 1 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>ALG16</room>
+		<lecturer>Koc, Veli </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 2/01/7-12</activity>
+		<desc>Groups 7-12 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/01</activity>
+		<desc>Group 1 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>ALG16</room>
+		<lecturer>Koc, Veli </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/02</activity>
+		<desc>Group 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C350</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/15</activity>
+		<desc>Group 15 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/14</activity>
+		<desc>Group 14 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/13</activity>
+		<desc>Group 13 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/10/13-14/10/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/02/WKS 2&3</activity>
+		<desc>Group 2 : Weeks 2&3</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>D221</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>21/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/02/WKS 4-10</activity>
+		<desc>Group 2 : Weeks 4-10</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C118</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/15</activity>
+		<desc>Group 15 : Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/14</activity>
+		<desc>Group 14: Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-17/03/14, 31/03/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/13</activity>
+		<desc>Group 13 : Term 2 : Weeks 1-8, 10 & 11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Keheyian, Raffi </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/13/WK 9</activity>
+		<desc>Group 13 : Term 2 : Week 9</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A109</room>
+		<lecturer>Keheyian, Raffi </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-25/11/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/18</activity>
+		<desc>Group 18 : Weeks 1-9</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A110</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 2/01/1-5</activity>
+		<desc>Groups 1-5 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/17</activity>
+		<desc>Group 17 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/16</activity>
+		<desc>Group 16 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 2/01/1-5</activity>
+		<desc>Groups 1-5 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/16</activity>
+		<desc>Group 16 : Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C343</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/17</activity>
+		<desc>Group 17 : Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Mandal, Abhijit </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/18</activity>
+		<desc>Group 18 : Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A214</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/08</activity>
+		<desc>Group 8 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Koc, Veli </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/08</activity>
+		<desc>Group 8 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Koc, Veli </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/07</activity>
+		<desc>Group 7 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-25/11/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/11</activity>
+		<desc>Group 11 : Weeks 1-9</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/10</activity>
+		<desc>Group 10 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/12</activity>
+		<desc>Group 12 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A226</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Lecture 2/01/6+13-18</activity>
+		<desc>Groups 6+13-18 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Lecture 2/01/6+13-18</activity>
+		<desc>Groups 6+13-18 : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/10</activity>
+		<desc>Group 10 : Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Kazanidis, Priscila </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/11</activity>
+		<desc>Group 11 : Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Pollard, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 2/12</activity>
+		<desc>Group 12 : Term 2 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Roitch, Vladimir </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>07/10/13-21/10/13, 11/11/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/07/wks 2-4, 6-10</activity>
+		<desc>Group 7 : Weeks 2-4, 7-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A214</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/09</activity>
+		<desc>Group 9 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Koc, Veli </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>28/10/13-04/11/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/07/wks 5&6</activity>
+		<desc>Group 7 : Week 5 & 6 only (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A227</room>
+		<lecturer>Karouzakis, Nikolaos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/Tutorial 1/09</activity>
+		<desc>Group 9 : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Koc, Veli </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T1/Computer Room 02/01</activity>
+		<desc>Drop in Lab (Optional) - Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/03/14</week>
+		<modulecode>BS1003 FMBS</modulecode>
+		<activity>BS1003 Financial Mathematics & Business Statistics/T2/Computer Room 02/02</activity>
+		<desc>Drop in Lab (Optional) : weeks 1-8</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

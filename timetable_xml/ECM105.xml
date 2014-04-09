@@ -1,13 +1,15 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>ECM105</modulecode>
-	<activity>ECM105 Applied Regulation And Competition Policy/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>D222</room>
-	<lecturer>Bennett, Matthew </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>ECM105</modulecode>
+		<activity>ECM105 Applied Regulation And Competition Policy/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>D222</room>
+		<lecturer>Bennett, Matthew </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

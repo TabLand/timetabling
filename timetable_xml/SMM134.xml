@@ -1,26 +1,28 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>SMM134</modulecode>
-	<activity>SMM134 Advanced Financial Statement Analysis/IM/Lecture/wk 8</activity>
-	<desc>IM - Spring lecture: Week 8 ONLY (replacement)</desc>
-	<joint> </joint>
-	<studentnos>128</studentnos>
-	<room>LG001</room>
-	<lecturer>Konstantinidi, Sonia </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>SMM134</modulecode>
-	<activity>SMM134 Advanced Financial Statement Analysis/IM/Lecture/wks 1-7, 9-10</activity>
-	<desc>IM - Spring lecture: Weeks 1-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>128</studentnos>
-	<room>LG001</room>
-	<lecturer>Konstantinidi, Sonia </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>SMM134</modulecode>
+		<activity>SMM134 Advanced Financial Statement Analysis/IM/Lecture/wk 8</activity>
+		<desc>IM - Spring lecture: Week 8 ONLY (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>128</studentnos>
+		<room>LG001</room>
+		<lecturer>Konstantinidi, Sonia </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>SMM134</modulecode>
+		<activity>SMM134 Advanced Financial Statement Analysis/IM/Lecture/wks 1-7, 9-10</activity>
+		<desc>IM - Spring lecture: Weeks 1-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>128</studentnos>
+		<room>LG001</room>
+		<lecturer>Konstantinidi, Sonia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

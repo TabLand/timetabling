@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-07/10/13, 21/10/13-28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>SMM472</modulecode>
-	<activity>SMM472 Accounting/B/Lecture/WKS 1-2,4-5,7-8</activity>
-	<desc>Stream B : Weeks 1-2, 4-5, 7-8</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2005</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/10/13</week>
-	<modulecode>SMM472</modulecode>
-	<activity>SMM472 Accounting/B/Lecture/WK 3</activity>
-	<desc>Stream B : Week 3 ONLY (replacement)</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>3003</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>SMM472</modulecode>
-	<activity>SMM472 Accounting/A/Lecture/WKS 1-5,7-8</activity>
-	<desc>Stream A : Weeks 1-5, 7-8</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2004</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-07/10/13, 21/10/13-28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>SMM472</modulecode>
+		<activity>SMM472 Accounting/B/Lecture/WKS 1-2,4-5,7-8</activity>
+		<desc>Stream B : Weeks 1-2, 4-5, 7-8</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2005</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/10/13</week>
+		<modulecode>SMM472</modulecode>
+		<activity>SMM472 Accounting/B/Lecture/WK 3</activity>
+		<desc>Stream B : Week 3 ONLY (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>3003</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>SMM472</modulecode>
+		<activity>SMM472 Accounting/A/Lecture/WKS 1-5,7-8</activity>
+		<desc>Stream A : Weeks 1-5, 7-8</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2004</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

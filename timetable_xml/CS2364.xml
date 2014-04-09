@@ -1,13 +1,15 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS2364</modulecode>
-	<activity>CS2364 A & R Record Labels and Finance term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D220</room>
-	<lecturer>Ambrose, Dave </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS2364</modulecode>
+		<activity>CS2364 A & R Record Labels and Finance term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D220</room>
+		<lecturer>Ambrose, Dave </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

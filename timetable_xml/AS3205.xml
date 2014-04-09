@@ -1,65 +1,67 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>09/12/13</week>
-	<modulecode>AS3205</modulecode>
-	<activity>AS3205 Advanced Contingencies/T1/Lecture 02/WK 11</activity>
-	<desc>Autumn Lecture 02: Week 11 only (extra lecture)</desc>
-	<joint> </joint>
-	<studentnos>76</studentnos>
-	<room>C302</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>05/05/14</week>
-	<modulecode>AS3205</modulecode>
-	<activity>AS3205 Advanced Contingencies/T3/Revision Lecture</activity>
-	<desc>Revision Lecture</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>Birley</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>AS3205</modulecode>
-	<activity>AS3205 Advanced Contingencies/T2/Lecture 01/wks 1-10</activity>
-	<desc>Spring Lecture 01: Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>76</studentnos>
-	<room>CG04</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>AS3205</modulecode>
-	<activity>AS3205 Advanced Contingencies/T2/Lecture 01/wk 11</activity>
-	<desc>Spring Lecture 01: Week 11 only (Replacement)</desc>
-	<joint> </joint>
-	<studentnos>76</studentnos>
-	<room>CG04</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>AS3205</modulecode>
-	<activity>AS3205 Advanced Contingencies/T2/Lecture 02/wks 1-10</activity>
-	<desc>Spring Lecture 02- Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>76</studentnos>
-	<room>C303</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>09/12/13</week>
+		<modulecode>AS3205</modulecode>
+		<activity>AS3205 Advanced Contingencies/T1/Lecture 02/WK 11</activity>
+		<desc>Autumn Lecture 02: Week 11 only (extra lecture)</desc>
+		<joint>-</joint>
+		<studentnos>76</studentnos>
+		<room>C302</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>05/05/14</week>
+		<modulecode>AS3205</modulecode>
+		<activity>AS3205 Advanced Contingencies/T3/Revision Lecture</activity>
+		<desc>Revision Lecture</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>Birley</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>AS3205</modulecode>
+		<activity>AS3205 Advanced Contingencies/T2/Lecture 01/wks 1-10</activity>
+		<desc>Spring Lecture 01: Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>76</studentnos>
+		<room>CG04</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>AS3205</modulecode>
+		<activity>AS3205 Advanced Contingencies/T2/Lecture 01/wk 11</activity>
+		<desc>Spring Lecture 01: Week 11 only (Replacement)</desc>
+		<joint>-</joint>
+		<studentnos>76</studentnos>
+		<room>CG04</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>AS3205</modulecode>
+		<activity>AS3205 Advanced Contingencies/T2/Lecture 02/wks 1-10</activity>
+		<desc>Spring Lecture 02- Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>76</studentnos>
+		<room>C303</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

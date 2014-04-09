@@ -1,143 +1,145 @@
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>A307&8</room>
-	<lecturer>Tinworth, Adam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>03/02/14</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01a</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>VL 04 - AAJOUR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>17/02/14</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01b</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D518</room>
-	<lecturer>VL 04 - AAJOUR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>03/03/14</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01c</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C301</room>
-	<lecturer>VL 04 - AAJOUR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>31/03/14</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01e</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>VL 04 - AAJOUR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>A220</room>
-	<lecturer>Tinworth, Adam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>03/02/14, 17/02/14, 03/03/14</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C301</room>
-	<lecturer>VL 04 - AAJOUR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>17/03/14, 31/03/14</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A218</room>
-	<lecturer>VL 04 - AAJOUR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>17/03/14</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01d</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A218</room>
-	<lecturer>VL 04 - AAJOUR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>28/10/13</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>EG07</room>
-	<lecturer>Tinworth, Adam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>28/10/13</week>
-	<modulecode>JOM845N</modulecode>
-	<activity>JOM845 Online Journalism/Newspaper Workshop/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C301</room>
-	<lecturer>Tinworth, Adam </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>A307&8</room>
+		<lecturer>Tinworth, Adam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>03/02/14</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01a</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>VL 04 - AAJOUR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>17/02/14</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01b</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D518</room>
+		<lecturer>VL 04 - AAJOUR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>03/03/14</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01c</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C301</room>
+		<lecturer>VL 04 - AAJOUR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>31/03/14</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01e</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>VL 04 - AAJOUR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>A220</room>
+		<lecturer>Tinworth, Adam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>03/02/14, 17/02/14, 03/03/14</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C301</room>
+		<lecturer>VL 04 - AAJOUR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>17/03/14, 31/03/14</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A218</room>
+		<lecturer>VL 04 - AAJOUR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>17/03/14</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop Term 2/01d</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A218</room>
+		<lecturer>VL 04 - AAJOUR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>28/10/13</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>EG07</room>
+		<lecturer>Tinworth, Adam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>28/10/13</week>
+		<modulecode>JOM845N</modulecode>
+		<activity>JOM845 Online Journalism/Newspaper Workshop/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C301</room>
+		<lecturer>Tinworth, Adam </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

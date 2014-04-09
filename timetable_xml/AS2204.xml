@@ -1,104 +1,106 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Lecture 01/03/wk 6</activity>
-	<desc>Lecture - Week 6 only (2 hrs)</desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>C304</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Lecture 01/03/wks 1-5,7-11</activity>
-	<desc>Lecture - Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>C304</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Lecture 02/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>C304</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>11/11/13-18/11/13, 02/12/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Computer Room 01</activity>
-	<desc>Labs, Weeks 7, 8,10</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>25/11/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Lecture 03/03/WK 9</activity>
-	<desc>Autumn Lecture: Week 9 only (replacement for wk 8 missed)</desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>BG03</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>25/11/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Tutorial 01/01/WK 9</activity>
-	<desc>Autumn Tutorial : Week 9 only (replacement for wk 8 missed)</desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>AG21</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Lecture 03/03/WKS 1-7, 9-10</activity>
-	<desc>Autumn Lecture: Weeks 1-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>AG22</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>AS2204</modulecode>
-	<activity>AS2204 Stochastic Models/Tutorial 01/01/wks 1-7, 9-11</activity>
-	<desc>Autumn Tutorial : Week</desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>AG22</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Lecture 01/03/wk 6</activity>
+		<desc>Lecture - Week 6 only (2 hrs)</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>C304</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Lecture 01/03/wks 1-5,7-11</activity>
+		<desc>Lecture - Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>C304</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Lecture 02/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>C304</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>11/11/13-18/11/13, 02/12/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Computer Room 01</activity>
+		<desc>Labs, Weeks 7, 8,10</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>25/11/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Lecture 03/03/WK 9</activity>
+		<desc>Autumn Lecture: Week 9 only (replacement for wk 8 missed)</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>BG03</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>25/11/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Tutorial 01/01/WK 9</activity>
+		<desc>Autumn Tutorial : Week 9 only (replacement for wk 8 missed)</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>AG21</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Lecture 03/03/WKS 1-7, 9-10</activity>
+		<desc>Autumn Lecture: Weeks 1-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>AG22</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>AS2204</modulecode>
+		<activity>AS2204 Stochastic Models/Tutorial 01/01/wks 1-7, 9-11</activity>
+		<desc>Autumn Tutorial : Week</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>AG22</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

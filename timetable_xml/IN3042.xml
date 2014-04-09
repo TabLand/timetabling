@@ -1,26 +1,28 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN3042</modulecode>
-	<activity>IN3042 Advanced Programming: Concurrency/Lecture (JOINT)</activity>
-	<desc> </desc>
-	<joint>INM420;IN3042</joint>
-	<studentnos>40</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN3042</modulecode>
-	<activity>IN3042 Advanced Programming: Concurrency/Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A218</room>
-	<lecturer>Kloukinas, Christos </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN3042</modulecode>
+		<activity>IN3042 Advanced Programming: Concurrency/Lecture (JOINT)</activity>
+		<desc>-</desc>
+		<joint>INM420;IN3042</joint>
+		<studentnos>40</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN3042</modulecode>
+		<activity>IN3042 Advanced Programming: Concurrency/Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A218</room>
+		<lecturer>Kloukinas, Christos </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

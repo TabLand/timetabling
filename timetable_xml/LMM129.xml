@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14, 10/02/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>LMM129</modulecode>
-	<activity>LMM129 Minorities and Indigenous Peoples in International Law/Seminar 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D109</room>
-	<lecturer>Barelli, Mauro </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>03/02/14</week>
-	<modulecode>LMM129</modulecode>
-	<activity>LMM129 Minorities and Indigenous Peoples in International Law/Seminar 01/Feb 6th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D109</room>
-	<lecturer>Barelli, Mauro </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14, 10/02/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>LMM129</modulecode>
+		<activity>LMM129 Minorities and Indigenous Peoples in International Law/Seminar 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D109</room>
+		<lecturer>Barelli, Mauro </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>03/02/14</week>
+		<modulecode>LMM129</modulecode>
+		<activity>LMM129 Minorities and Indigenous Peoples in International Law/Seminar 01/Feb 6th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D109</room>
+		<lecturer>Barelli, Mauro </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

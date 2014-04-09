@@ -1,65 +1,67 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>IF3000</modulecode>
-	<activity>IF3000 Final Year Project (bif3)/T2/Lecture/wk 1</activity>
-	<desc>Final Year Project BIF3 : Spring : Week 1 only</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room>Poynton</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13</week>
-	<modulecode>IF3000</modulecode>
-	<activity>IF3000 Welcome Back/BIF yr3/wk 1</activity>
-	<desc>Course Director briefing: BIF3 : Autumn : Week 1 only</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14</week>
-	<modulecode>IF3000</modulecode>
-	<activity>IF3000 Welcome Back/T2/BIF yr3/wk 1</activity>
-	<desc>Course Director briefing: BIF3 : Spring: Week 1 only</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room>Birley</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-07/10/13</week>
-	<modulecode>IF3000</modulecode>
-	<activity>IF3000 Final Year Project (bif3)/T1/Lecture/wks 1-2</activity>
-	<desc>Final Year Project BIF3 : Autumn Weeks 1-2</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room>AG07</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/02/14</week>
-	<modulecode>IF3000</modulecode>
-	<activity>NSS Course Director briefing/T2/BIF yr3/wk 5</activity>
-	<desc>BIF3 : Spring : Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>102</studentnos>
-	<room>AG07</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>IF3000</modulecode>
+		<activity>IF3000 Final Year Project (bif3)/T2/Lecture/wk 1</activity>
+		<desc>Final Year Project BIF3 : Spring : Week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>Poynton</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13</week>
+		<modulecode>IF3000</modulecode>
+		<activity>IF3000 Welcome Back/BIF yr3/wk 1</activity>
+		<desc>Course Director briefing: BIF3 : Autumn : Week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14</week>
+		<modulecode>IF3000</modulecode>
+		<activity>IF3000 Welcome Back/T2/BIF yr3/wk 1</activity>
+		<desc>Course Director briefing: BIF3 : Spring: Week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>Birley</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-07/10/13</week>
+		<modulecode>IF3000</modulecode>
+		<activity>IF3000 Final Year Project (bif3)/T1/Lecture/wks 1-2</activity>
+		<desc>Final Year Project BIF3 : Autumn Weeks 1-2</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>AG07</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/02/14</week>
+		<modulecode>IF3000</modulecode>
+		<activity>NSS Course Director briefing/T2/BIF yr3/wk 5</activity>
+		<desc>BIF3 : Spring : Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>102</studentnos>
+		<room>AG07</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>28/10/13-09/12/13</week>
-	<modulecode>ECM108</modulecode>
-	<activity>ECM108 Econometrics/IBE/BE/Lab 1/02</activity>
-	<desc>IBE/BE students only</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A307&8</room>
-	<lecturer>Radu, Xenia </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>18:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM108</modulecode>
-	<activity>ECM108 Econometrics/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>DLG08</room>
-	<lecturer>Montes Rojas, Gabriel </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>19:00</start>
-	<end>19:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM108</modulecode>
-	<activity>ECM108 Econometrics/Health/ERC/Lab 1/01</activity>
-	<desc>Health/ERC students only</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG07</room>
-	<lecturer>Radu, Xenia </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>28/10/13-09/12/13</week>
+		<modulecode>ECM108</modulecode>
+		<activity>ECM108 Econometrics/IBE/BE/Lab 1/02</activity>
+		<desc>IBE/BE students only</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A307&8</room>
+		<lecturer>Radu, Xenia </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>18:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM108</modulecode>
+		<activity>ECM108 Econometrics/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>DLG08</room>
+		<lecturer>Montes Rojas, Gabriel </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>19:00</start>
+		<end>19:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM108</modulecode>
+		<activity>ECM108 Econometrics/Health/ERC/Lab 1/01</activity>
+		<desc>Health/ERC students only</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG07</room>
+		<lecturer>Radu, Xenia </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

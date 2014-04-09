@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
-	<modulecode>SMM461</modulecode>
-	<activity>SMM461 Accounting Information & Capital Markets: A Global Perspective/Lecture/wks 1-6, 8-10</activity>
-	<desc>IAF - Spring lecture: Weeks 1-6, 8-10</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2003</room>
-	<lecturer>Bilinski, Pawel </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>10/03/14</week>
-	<modulecode>SMM461</modulecode>
-	<activity>SMM461 Accounting Information & Capital Markets: A Global Perspective/TEST/WK 7</activity>
-	<desc>IAF -Invigated Test : Week 7 only: 71 students 142 seats required</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2003;LG002/3</room>
-	<lecturer>Bilinski, Pawel </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
+		<modulecode>SMM461</modulecode>
+		<activity>SMM461 Accounting Information & Capital Markets: A Global Perspective/Lecture/wks 1-6, 8-10</activity>
+		<desc>IAF - Spring lecture: Weeks 1-6, 8-10</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2003</room>
+		<lecturer>Bilinski, Pawel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>10/03/14</week>
+		<modulecode>SMM461</modulecode>
+		<activity>SMM461 Accounting Information & Capital Markets: A Global Perspective/TEST/WK 7</activity>
+		<desc>IAF -Invigated Test : Week 7 only: 71 students 142 seats required</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2003;LG002/3</room>
+		<lecturer>Bilinski, Pawel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

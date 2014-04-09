@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>02/12/13-09/12/13</week>
-	<modulecode>MBM027 EMBA</modulecode>
-	<activity>MBM027 Information Management EMBA/Lecture 01</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>06/01/14-20/01/14</week>
-	<modulecode>MBM027 EMBA</modulecode>
-	<activity>MBM027 Information Management EMBA/Lecture 02</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>02/12/13-09/12/13</week>
+		<modulecode>MBM027 EMBA</modulecode>
+		<activity>MBM027 Information Management EMBA/Lecture 01</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>06/01/14-20/01/14</week>
+		<modulecode>MBM027 EMBA</modulecode>
+		<activity>MBM027 Information Management EMBA/Lecture 02</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

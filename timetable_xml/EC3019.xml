@@ -1,13 +1,15 @@
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC3019</modulecode>
-	<activity>EC3019 Labour Economics/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>52</studentnos>
-	<room>DLG19</room>
-	<lecturer>Yaman, Firat </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC3019</modulecode>
+		<activity>EC3019 Labour Economics/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>52</studentnos>
+		<room>DLG19</room>
+		<lecturer>Yaman, Firat </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

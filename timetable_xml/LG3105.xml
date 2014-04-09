@@ -1,52 +1,54 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
-	<modulecode>LG3105</modulecode>
-	<activity>LG3105 Forensic Science & The Legal Process/Lecture 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LU30x4;LG3105</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LG3105</modulecode>
-	<activity>LG3105 Forensic Science & The Legal Process/Office Hour 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LG3105;LU30x4</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LG3105</modulecode>
-	<activity>LG3105 Forensic Science & The Legal Process/Tutorial 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LU30x4;LG3105</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>LG3105</modulecode>
-	<activity>LG3105 Forensic Science & The Legal Process/Lecture 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LU30x4;LG3105</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
+		<modulecode>LG3105</modulecode>
+		<activity>LG3105 Forensic Science & The Legal Process/Lecture 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LU30x4;LG3105</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LG3105</modulecode>
+		<activity>LG3105 Forensic Science & The Legal Process/Office Hour 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LG3105;LU30x4</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LG3105</modulecode>
+		<activity>LG3105 Forensic Science & The Legal Process/Tutorial 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LU30x4;LG3105</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>LG3105</modulecode>
+		<activity>LG3105 Forensic Science & The Legal Process/Lecture 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LU30x4;LG3105</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

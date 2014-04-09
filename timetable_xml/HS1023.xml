@@ -1,559 +1,561 @@
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Blows, W;Teklay, U </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/07</activity>
-	<desc>CN/03 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>10/02/14, 24/02/14, 10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C140</room>
-	<lecturer>Steggall, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C140</room>
-	<lecturer>Bentley, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>03/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C140</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Coutts, A;Teklay, U </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>10/02/14, 24/02/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A108</room>
-	<lecturer>Greenwood, S </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A108</room>
-	<lecturer>Blows, W </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Dingle, M;Teklay, U </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>10/02/14, 24/02/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Greenwood, S </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Blows, W </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>10/02/14-17/02/14, 03/03/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C323</room>
-	<lecturer>Dingle, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>24/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C323</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/02/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>A130</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/05</activity>
-	<desc>CN/01 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>03/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Lecture/01/01</activity>
-	<desc>Connect introduction (all groups)</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>10/02/14-17/02/14, 03/03/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C337</room>
-	<lecturer>Dingle, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>10/02/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG03</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>24/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C337</room>
-	<lecturer>Bentley, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>10/02/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/08</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>CG56</room>
-	<lecturer>Blows, W </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C221</room>
-	<lecturer>Blows, W;Teklay, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/01</activity>
-	<desc>AN/01 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>09/09/13</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Biology Resit Exam</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>A111</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>9:50</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/08</activity>
-	<desc>MHN/01 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>17/03/14-24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/02/01</activity>
-	<desc>Optional revision tutorial</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>BG02</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>03/02/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Lecture/03/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/06</activity>
-	<desc>CN/02 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>13:50</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/04</activity>
-	<desc>AN/04 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/02</activity>
-	<desc>AN/02 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>14:50</end>
-	<week>24/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/03</activity>
-	<desc>AN/03 (5 mins per student)</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>17/02/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/08</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C221</room>
-	<lecturer>Dingle, M;Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/08</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C221</room>
-	<lecturer>Teklay, U </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:50</end>
-	<week>10/02/14-10/03/14</week>
-	<modulecode>HS1023</modulecode>
-	<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG10</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Blows, W;Teklay, U </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/07</activity>
+		<desc>CN/03 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>10/02/14, 24/02/14, 10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C140</room>
+		<lecturer>Steggall, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C140</room>
+		<lecturer>Bentley, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>03/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C140</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Coutts, A;Teklay, U </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>10/02/14, 24/02/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A108</room>
+		<lecturer>Greenwood, S </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A108</room>
+		<lecturer>Blows, W </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Dingle, M;Teklay, U </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>10/02/14, 24/02/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Greenwood, S </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Blows, W </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>10/02/14-17/02/14, 03/03/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C323</room>
+		<lecturer>Dingle, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>24/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C323</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/02/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>A130</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/05</activity>
+		<desc>CN/01 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>03/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Lecture/01/01</activity>
+		<desc>Connect introduction (all groups)</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>10/02/14-17/02/14, 03/03/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C337</room>
+		<lecturer>Dingle, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>10/02/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG03</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>24/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C337</room>
+		<lecturer>Bentley, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>10/02/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/08</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>CG56</room>
+		<lecturer>Blows, W </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C221</room>
+		<lecturer>Blows, W;Teklay, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/01</activity>
+		<desc>AN/01 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>09/09/13</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Biology Resit Exam</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>A111</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>9:50</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/08</activity>
+		<desc>MHN/01 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>17/03/14-24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/02/01</activity>
+		<desc>Optional revision tutorial</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>BG02</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>03/02/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Lecture/03/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/06</activity>
+		<desc>CN/02 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>13:50</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/04</activity>
+		<desc>AN/04 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/02</activity>
+		<desc>AN/02 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>14:50</end>
+		<week>24/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory results/01/03</activity>
+		<desc>AN/03 (5 mins per student)</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>17/02/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/08</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C221</room>
+		<lecturer>Dingle, M;Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Laboratory/01/08</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C221</room>
+		<lecturer>Teklay, U </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:50</end>
+		<week>10/02/14-10/03/14</week>
+		<modulecode>HS1023</modulecode>
+		<activity>HS1023 Understanding Concepts of Biology for Health/Tutorial/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG10</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

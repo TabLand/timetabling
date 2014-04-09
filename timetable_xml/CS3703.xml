@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS3703</modulecode>
-	<activity>CS3703 .NETAdvanced Applications with C# term 1 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A308</room>
-	<lecturer>Shields, Matthew </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS3703</modulecode>
-	<activity>CS3703 .NETAdvanced Applications with C# term 2 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>B307A</room>
-	<lecturer>Shields, Matthew </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS3703</modulecode>
-	<activity>CS3703 .NETAdvanced Applications with C# term 3 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>B307A</room>
-	<lecturer>Shields, Matthew </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS3703</modulecode>
+		<activity>CS3703 .NETAdvanced Applications with C# term 1 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A308</room>
+		<lecturer>Shields, Matthew </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS3703</modulecode>
+		<activity>CS3703 .NETAdvanced Applications with C# term 2 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>B307A</room>
+		<lecturer>Shields, Matthew </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS3703</modulecode>
+		<activity>CS3703 .NETAdvanced Applications with C# term 3 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>B307A</room>
+		<lecturer>Shields, Matthew </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

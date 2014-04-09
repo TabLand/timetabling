@@ -1,78 +1,80 @@
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP1004</modulecode>
-	<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>A130</room>
-	<lecturer>Palan, Ronen;Davies, Tom;McDowell, Chris </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP1004</modulecode>
-	<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG03</room>
-	<lecturer>Sandu, Andrei </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP1004</modulecode>
-	<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG03</room>
-	<lecturer>Sandu, Andrei </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP1004</modulecode>
-	<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A109</room>
-	<lecturer>Mangraviti, Giovanni </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP1004</modulecode>
-	<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG09</room>
-	<lecturer>Mangraviti, Giovanni </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP1004</modulecode>
-	<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG09</room>
-	<lecturer>Mangraviti, Giovanni </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP1004</modulecode>
+		<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>A130</room>
+		<lecturer>Palan, Ronen;Davies, Tom;McDowell, Chris </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP1004</modulecode>
+		<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG03</room>
+		<lecturer>Sandu, Andrei </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP1004</modulecode>
+		<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG03</room>
+		<lecturer>Sandu, Andrei </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP1004</modulecode>
+		<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A109</room>
+		<lecturer>Mangraviti, Giovanni </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP1004</modulecode>
+		<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG09</room>
+		<lecturer>Mangraviti, Giovanni </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP1004</modulecode>
+		<activity>IP1004 Contemporary Issues in Global Politics (21st Century)/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG09</room>
+		<lecturer>Mangraviti, Giovanni </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

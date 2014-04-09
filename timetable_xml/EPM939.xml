@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>EPM939</modulecode>
-	<activity>EPM939 Advanced Practice of Management/SEMS/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C339</room>
-	<lecturer>Patel, Atul </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>EPM939</modulecode>
+		<activity>EPM939 Advanced Practice of Management/SEMS/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C339</room>
+		<lecturer>Patel, Atul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

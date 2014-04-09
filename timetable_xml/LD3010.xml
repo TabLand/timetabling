@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>03/03/14-24/03/14</week>
-	<modulecode>LD3010</modulecode>
-	<activity>LD3010 Introduction to Legal Ethics/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>180</studentnos>
-	<room>A130</room>
-	<lecturer>Herling, David </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>03/03/14-24/03/14</week>
+		<modulecode>LD3010</modulecode>
+		<activity>LD3010 Introduction to Legal Ethics/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>180</studentnos>
+		<room>A130</room>
+		<lecturer>Herling, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

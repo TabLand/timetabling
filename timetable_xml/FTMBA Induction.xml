@@ -1,455 +1,457 @@
-<booking>
-	<start>8:00</start>
-	<end>11:50</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/WK 1/Registration/syn room</activity>
-	<desc>FTMBA Syndicate room: Registration : Laptop set-up, photographs</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>3010</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>13:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Registration/WK 1</activity>
-	<desc>FTMBA - Registration for induction. Laptop set-up, photographs</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3003</room>
-	<lecturer>Robinson, Sionade </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01-03/WK 2</activity>
-	<desc>FTMBA Induction</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/Mon-Wed/WK 2</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Mon-Wed : Week 2</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>3010</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2013;LG010;G002;G004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>21:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/WK 1/Registration/syn room/reset</activity>
-	<desc>syndicate room: Registration: room reset</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>3010</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Welcomes & Introductions/WK 1</activity>
-	<desc>FTMBA : Welcomes & Introductions</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>Robinson, Sionade </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Registration 2013/WK 1/Reset Room</activity>
-	<desc>FTMBA Induction : Registration : Room reset</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01-03/WK 2</activity>
-	<desc>FTMBA Induction</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/Mon-Wed/WK 2</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Mon-Wed : Week 2</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2013;LG010;G002;G004</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Briefings 01/WK 1</activity>
-	<desc>FTMBA : Induction Briefings 01</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>Robinson, Sionade </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/Breakout 01/WK 2</activity>
-	<desc>FTMBA Induction: Breakout</desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>3002</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 02/WK 3</activity>
-	<desc>FTMBA Induction :25 per room x 2</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3002;3003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01-03/WK 2</activity>
-	<desc>FTMBA Induction</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/Mon-Wed/WK 2</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Mon-Wed : Week 2</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2013;LG010;G002;G004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/PRISM 02/Breakout/WK 1</activity>
-	<desc>FTMBA : PRISM : Breakout room</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/PRISM 02/syn rooms/WK 1</activity>
-	<desc>FTMBA Induction : PRISM : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2008;2011;2012;2013;LG010;G002;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/PRISM 01/WK 1</activity>
-	<desc>FTMBA Induction : PRISM</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>Robinson, Sionade </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/Breakout 02/WK 2</activity>
-	<desc>FTMBA Induction : 120 students sharing Breakout rooms</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2002;2003;3002</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 03/WK 3</activity>
-	<desc>FTMBA Induction : 25 per room x 2</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3002;3003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2013;LG010;G002;G004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Introduction to Strategy 02/syn room/WK 1</activity>
-	<desc>FTMBA Induction: Introduction to Strategy : J. Lampel: Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2008;2011;2012;2013;LG010;G002;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Introduction to Strategy 01/WK 1</activity>
-	<desc>FTMBA : Introduction to Strategy</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>Lampel, Joseph </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/Breakout 03/WK 2</activity>
-	<desc>FTMBA Induction : 100 students , 25 in 4 x Breakout rooms</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2002;2003;3002;3003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 01/syn rooms/Thur/WK 2</activity>
-	<desc>FTMBA Induction : Syndicate Rooms : Thursday : Week 2</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2013;LG010;G002;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development 04/WK 3</activity>
-	<desc>FTMBA Induction</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Professional Development/Corporate Panel/ 01-03/WK 2</activity>
-	<desc>FTMBA Induction - Corporate Panel</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>02/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Briefings 02/WK 1</activity>
-	<desc>FTMBA : Induction Briefings 02</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>Robinson, Sionade </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/AWAY TRIP/WK 2</activity>
-	<desc>FTMBA Induction : AWAY TRIP ; Moreton-in-Marsh : residential wkend :External Venue</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>External</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>16/09/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Case Methods/WK 3</activity>
-	<desc>FTMBA : Case Methods</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>21:00</end>
-	<week>26/08/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/WK 1/Registration/syn room/set up</activity>
-	<desc>syndicate room: Registration set up</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>3010</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>21:00</end>
-	<week>26/08/13</week>
-	<modulecode>FTMBA Induction</modulecode>
-	<activity>FTMBA Induction/Registration 2013/WK 1/set up</activity>
-	<desc>Set-up Induction : Registration</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>8:00</start>
+		<end>11:50</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/WK 1/Registration/syn room</activity>
+		<desc>FTMBA Syndicate room: Registration : Laptop set-up, photographs</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>3010</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>13:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Registration/WK 1</activity>
+		<desc>FTMBA - Registration for induction. Laptop set-up, photographs</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3003</room>
+		<lecturer>Robinson, Sionade </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01-03/WK 2</activity>
+		<desc>FTMBA Induction</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/Mon-Wed/WK 2</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Mon-Wed : Week 2</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>3010</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2013;LG010;G002;G004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>21:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/WK 1/Registration/syn room/reset</activity>
+		<desc>syndicate room: Registration: room reset</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>3010</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Welcomes & Introductions/WK 1</activity>
+		<desc>FTMBA : Welcomes & Introductions</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>Robinson, Sionade </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Registration 2013/WK 1/Reset Room</activity>
+		<desc>FTMBA Induction : Registration : Room reset</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01-03/WK 2</activity>
+		<desc>FTMBA Induction</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/Mon-Wed/WK 2</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Mon-Wed : Week 2</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2013;LG010;G002;G004</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Briefings 01/WK 1</activity>
+		<desc>FTMBA : Induction Briefings 01</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>Robinson, Sionade </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/Breakout 01/WK 2</activity>
+		<desc>FTMBA Induction: Breakout</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>3002</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 02/WK 3</activity>
+		<desc>FTMBA Induction :25 per room x 2</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3002;3003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01-03/WK 2</activity>
+		<desc>FTMBA Induction</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/Mon-Wed/WK 2</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Mon-Wed : Week 2</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2013;LG010;G002;G004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/PRISM 02/Breakout/WK 1</activity>
+		<desc>FTMBA : PRISM : Breakout room</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/PRISM 02/syn rooms/WK 1</activity>
+		<desc>FTMBA Induction : PRISM : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2008;2011;2012;2013;LG010;G002;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/PRISM 01/WK 1</activity>
+		<desc>FTMBA Induction : PRISM</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>Robinson, Sionade </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/Breakout 02/WK 2</activity>
+		<desc>FTMBA Induction : 120 students sharing Breakout rooms</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2002;2003;3002</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 03/WK 3</activity>
+		<desc>FTMBA Induction : 25 per room x 2</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3002;3003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/WK 3</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Week 3</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2013;LG010;G002;G004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Introduction to Strategy 02/syn room/WK 1</activity>
+		<desc>FTMBA Induction: Introduction to Strategy : J. Lampel: Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2008;2011;2012;2013;LG010;G002;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Introduction to Strategy 01/WK 1</activity>
+		<desc>FTMBA : Introduction to Strategy</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>Lampel, Joseph </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/Breakout 03/WK 2</activity>
+		<desc>FTMBA Induction : 100 students , 25 in 4 x Breakout rooms</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2002;2003;3002;3003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 01/syn rooms/Thur/WK 2</activity>
+		<desc>FTMBA Induction : Syndicate Rooms : Thursday : Week 2</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2013;LG010;G002;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development 04/WK 3</activity>
+		<desc>FTMBA Induction</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Professional Development/Corporate Panel/ 01-03/WK 2</activity>
+		<desc>FTMBA Induction - Corporate Panel</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>02/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Briefings 02/WK 1</activity>
+		<desc>FTMBA : Induction Briefings 02</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>Robinson, Sionade </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/AWAY TRIP/WK 2</activity>
+		<desc>FTMBA Induction : AWAY TRIP ; Moreton-in-Marsh : residential wkend :External Venue</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>External</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>16/09/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Case Methods/WK 3</activity>
+		<desc>FTMBA : Case Methods</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>21:00</end>
+		<week>26/08/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/WK 1/Registration/syn room/set up</activity>
+		<desc>syndicate room: Registration set up</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>3010</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>21:00</end>
+		<week>26/08/13</week>
+		<modulecode>FTMBA Induction</modulecode>
+		<activity>FTMBA Induction/Registration 2013/WK 1/set up</activity>
+		<desc>Set-up Induction : Registration</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

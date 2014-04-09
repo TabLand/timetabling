@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>CC3008</modulecode>
-	<activity>CC3008 Digital Cultures</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A226</room>
-	<lecturer>Brienza, Casey </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>CC3008</modulecode>
+		<activity>CC3008 Digital Cultures</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A226</room>
+		<lecturer>Brienza, Casey </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

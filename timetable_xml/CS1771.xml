@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1771</modulecode>
-	<activity>CS1771 Strategic Planning for the Small Business term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A107</room>
-	<lecturer>Usman, Mohamed </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1771</modulecode>
-	<activity>CE1771 Strategic Planning for the Small Business term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A107</room>
-	<lecturer>Usman, Mohamed </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1771</modulecode>
-	<activity>CS1771 Strategic Planning for the Small Business term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Usman, Mohamed </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1771</modulecode>
+		<activity>CS1771 Strategic Planning for the Small Business term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A107</room>
+		<lecturer>Usman, Mohamed </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1771</modulecode>
+		<activity>CE1771 Strategic Planning for the Small Business term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A107</room>
+		<lecturer>Usman, Mohamed </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1771</modulecode>
+		<activity>CS1771 Strategic Planning for the Small Business term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Usman, Mohamed </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

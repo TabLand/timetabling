@@ -1,52 +1,54 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA3108</modulecode>
-	<activity>LA3108 French For Media (upper Intermediate)/Autumn</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Ruzafa, Celine </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA3108</modulecode>
-	<activity>LA3108 French For Media (upper Intermediate)/Spring</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Ruzafa, Celine </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>LA3108</modulecode>
-	<activity>LA3108 French For Media (upper Intermediate)/Spring</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A226</room>
-	<lecturer>Ruzafa, Celine </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>LA3108</modulecode>
-	<activity>LA3108 French For Media (upper Intermediate)/Spring</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C167</room>
-	<lecturer>Ruzafa, Celine </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA3108</modulecode>
+		<activity>LA3108 French For Media (upper Intermediate)/Autumn</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Ruzafa, Celine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA3108</modulecode>
+		<activity>LA3108 French For Media (upper Intermediate)/Spring</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Ruzafa, Celine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>LA3108</modulecode>
+		<activity>LA3108 French For Media (upper Intermediate)/Spring</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A226</room>
+		<lecturer>Ruzafa, Celine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>LA3108</modulecode>
+		<activity>LA3108 French For Media (upper Intermediate)/Spring</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C167</room>
+		<lecturer>Ruzafa, Celine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

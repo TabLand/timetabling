@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>PSM706</modulecode>
-	<activity>PSM706 Context, Diversity, and Standards in Professional Practice/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>DLG19</room>
-	<lecturer>Gale, Nicola </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>PSM706</modulecode>
+		<activity>PSM706 Context, Diversity, and Standards in Professional Practice/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>DLG19</room>
+		<lecturer>Gale, Nicola </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

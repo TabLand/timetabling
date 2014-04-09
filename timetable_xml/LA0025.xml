@@ -1,91 +1,93 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA0025</modulecode>
-	<activity>LA0025 Extracurricular Business Spanish Beginner Autumn/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C345</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA0025</modulecode>
-	<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C345</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA0025</modulecode>
-	<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG19</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA0025</modulecode>
-	<activity>LA0025 Extracurricular Business Spanish Beginner Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>CG02</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>14/10/13-09/12/13</week>
-	<modulecode>LA0025</modulecode>
-	<activity>LA0025 Extracurricular Business Spanish Beginner Autumn/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D111</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-17/02/14, 03/03/14</week>
-	<modulecode>LA0025</modulecode>
-	<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>CG02</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>LA0025</modulecode>
-	<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C158</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA0025</modulecode>
+		<activity>LA0025 Extracurricular Business Spanish Beginner Autumn/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C345</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA0025</modulecode>
+		<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C345</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA0025</modulecode>
+		<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG19</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA0025</modulecode>
+		<activity>LA0025 Extracurricular Business Spanish Beginner Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>CG02</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>14/10/13-09/12/13</week>
+		<modulecode>LA0025</modulecode>
+		<activity>LA0025 Extracurricular Business Spanish Beginner Autumn/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D111</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-17/02/14, 03/03/14</week>
+		<modulecode>LA0025</modulecode>
+		<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>CG02</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>LA0025</modulecode>
+		<activity>LA0025 Extracurricular Business Spanish Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C158</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,234 +1,236 @@
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>12/05/14, 02/06/14-16/06/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>19/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>12/05/14, 02/06/14-16/06/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>19/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>26/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>12/05/14, 02/06/14-16/06/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>19/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>26/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>12/05/14, 02/06/14-16/06/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>19/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>26/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>12/05/14, 02/06/14-16/06/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>19/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>20:50</end>
-	<week>26/05/14</week>
-	<modulecode>JOM924</modulecode>
-	<activity>JOM924 Advanced Journalism Practice</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>12/05/14, 02/06/14-16/06/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>19/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>12/05/14, 02/06/14-16/06/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>19/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>26/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>12/05/14, 02/06/14-16/06/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>19/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>26/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>12/05/14, 02/06/14-16/06/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>19/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>26/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>12/05/14, 02/06/14-16/06/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>19/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>20:50</end>
+		<week>26/05/14</week>
+		<modulecode>JOM924</modulecode>
+		<activity>JOM924 Advanced Journalism Practice</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

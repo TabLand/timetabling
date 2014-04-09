@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EE2514</modulecode>
-	<activity>EE2514 Analogue Electronics/Lab Sems 1/01/JOINT</activity>
-	<desc>Joint with EE2500: total numbers 70</desc>
-	<joint>EE2500;EE2514</joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EE2514</modulecode>
-	<activity>EE2514 Analogue Electronics/Lecture 1/01/JOINT</activity>
-	<desc>Joint with EE2500: total numbers 70</desc>
-	<joint>EE2500;EE2514</joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EE2514</modulecode>
-	<activity>EE2514 Analogue Electronics/Tutorial 1/01/JOINT</activity>
-	<desc>Joint with EE2500: total numbers 70</desc>
-	<joint>EE2500;EE2514</joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EE2514</modulecode>
+		<activity>EE2514 Analogue Electronics/Lab Sems 1/01/JOINT</activity>
+		<desc>Joint with EE2500: total numbers 70</desc>
+		<joint>EE2500;EE2514</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EE2514</modulecode>
+		<activity>EE2514 Analogue Electronics/Lecture 1/01/JOINT</activity>
+		<desc>Joint with EE2500: total numbers 70</desc>
+		<joint>EE2500;EE2514</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EE2514</modulecode>
+		<activity>EE2514 Analogue Electronics/Tutorial 1/01/JOINT</activity>
+		<desc>Joint with EE2500: total numbers 70</desc>
+		<joint>EE2500;EE2514</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

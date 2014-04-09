@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/03/14-14/04/14</week>
-	<modulecode>MBM550 emba</modulecode>
-	<activity>MBM550 Corporate Restructuring (EMBA)/Lecture 01</activity>
-	<desc>EMBA elective</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N201</room>
-	<lecturer>McCusker, Iain </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/03/14-14/04/14</week>
+		<modulecode>MBM550 emba</modulecode>
+		<activity>MBM550 Corporate Restructuring (EMBA)/Lecture 01</activity>
+		<desc>EMBA elective</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N201</room>
+		<lecturer>McCusker, Iain </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

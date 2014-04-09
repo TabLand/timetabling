@@ -1,780 +1,782 @@
-<booking>
-	<start>9:30</start>
-	<end>9:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Course Registration</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>Etuk, E </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>9:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Course Registration</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A225</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introduction to midwifery, programme overview and assessments</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>Etuk, E </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>23/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introduction to modules and assessment: NMC midwifery standards</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>CG05</room>
-	<lecturer>Hutcherson, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introduction to midwifery, programme overview and assessments</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A225</room>
-	<lecturer>Lambert, Carol;Sunderland, J </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:30</start>
-	<end>10:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Course registration</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>AG21</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:30</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Welcome/student learning agreement</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>AG21</room>
-	<lecturer>Hutcherson, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Induction to midwifery programme</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>AG21</room>
-	<lecturer>Hutcherson, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introduction to library, IT and Moodle</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A220</room>
-	<lecturer>Radbourne, C </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introduction to library, IT and Moodle</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A225</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Welcome from senior personanl tutor</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>AG22</room>
-	<lecturer>Hutcherson, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Personal registration, DBS document verification</activity>
-	<desc>Northampton suite</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>23/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Cambridge Personal Styles Questionnaire (CPSQ)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>A307&8</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Occupational health overview</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A225</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 In person registration DBS identity verification</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A220</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>23/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Welcome address by the Vice Chancellor of City University London, the Dean of the School and City's Students' Union officer</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Occupational health overview</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Occupational health overview</activity>
-	<desc>Great Hall</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:30</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Administrative issues</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Getting to know each other: ground rules, student expectations, timetables</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>Etuk, E </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 DBS identity verification</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Getting to know each other: ground rules, student expectations, timetables</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A225</room>
-	<lecturer>Lambert, Carol;Sunderland, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Reflection revisited</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>Etuk, E </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Reflection revisited</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A225</room>
-	<lecturer>Lee, Suzanne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Academic study strategies for postgraduate level</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A225</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>15:50</end>
-	<week>07/10/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introductory talk from Unison</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>59</studentnos>
-	<room>LT (WS)</room>
-	<lecturer>Outside speaker </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Academic study strategies for postgraduate level</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>Geary</room>
-	<lecturer>Thorpe, S </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>30/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Accessing library resources for your course/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>IT Skills 5C (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>07/10/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Search skills for your course & career/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>IT Skills 5A (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Getting to know you/student expectations</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>C302</room>
-	<lecturer>Hutcherson, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>20/01/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Health resources for best practice/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG24a</room>
-	<lecturer>Radbourne, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Uniform sizing</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>Convocation Suite</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Uniform sizing</activity>
-	<desc>Convocation suite</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>Convocation Suite</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Accessing library resources for your course/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>IT Skills 5C (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>07/10/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Search skills for your course & career/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>IT Skills 5A (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>20/01/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Health resources for best practice/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 IT: Accessing and using electronic resources/databases</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>EG12</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 IT: Accessing and using electronic resources/databases</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Uniform sizing</activity>
-	<desc>Convocation suite</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>Convocation Suite</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>30/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Accessing library resources for your course/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>IT Skills 5C (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>07/10/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Search skills for your course & career/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>IT Skills 5A (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>20/01/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Health resources for best practice/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>14/04/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Uniform issue</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Academic study strategies for your first year</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Thorpe, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>13:30</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Occupational health appointment</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>I103;IG03</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>13:30</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Occupational health appointment</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>No room needed</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introduction to library/IT/Moodle</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Radbourne, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Using Moodle and sel-directed learning</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>EG12</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Clinical areas and Trust HR departmental visit</activity>
-	<desc>Off site</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Clinical areas and Trust HR departmental visit</activity>
-	<desc>Off site</desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>12/08/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 End of course admin and evaluation</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3F (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 End of course admin and evaluation</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>3F (WS)</room>
-	<lecturer>Etuk, E </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Fire/health & safety seminar</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>23/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Feedback on CoP activity</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>C304</room>
-	<lecturer>Hutcherson, A </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:30</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 March 2014 78 week induction</activity>
-	<desc>Kirsty Martin 0184</desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:30</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Mental health awareness</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Data protection act and social media</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:30</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Introductory talk from Unison</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Meet Unison</activity>
-	<desc>Oliver Thompson lecture theatre</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>NM1714</modulecode>
-	<activity>NM1714 Fire/health & safety seminar</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>9:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Course Registration</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>Etuk, E </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>9:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Course Registration</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A225</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introduction to midwifery, programme overview and assessments</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>Etuk, E </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>23/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introduction to modules and assessment: NMC midwifery standards</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>CG05</room>
+		<lecturer>Hutcherson, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introduction to midwifery, programme overview and assessments</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A225</room>
+		<lecturer>Lambert, Carol;Sunderland, J </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:30</start>
+		<end>10:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Course registration</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>AG21</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:30</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Welcome/student learning agreement</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>AG21</room>
+		<lecturer>Hutcherson, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Induction to midwifery programme</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>AG21</room>
+		<lecturer>Hutcherson, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introduction to library, IT and Moodle</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A220</room>
+		<lecturer>Radbourne, C </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introduction to library, IT and Moodle</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A225</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Welcome from senior personanl tutor</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>AG22</room>
+		<lecturer>Hutcherson, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Personal registration, DBS document verification</activity>
+		<desc>Northampton suite</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>23/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Cambridge Personal Styles Questionnaire (CPSQ)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>A307&8</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Occupational health overview</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A225</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 In person registration DBS identity verification</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A220</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>23/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Welcome address by the Vice Chancellor of City University London, the Dean of the School and City's Students' Union officer</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Occupational health overview</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Occupational health overview</activity>
+		<desc>Great Hall</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:30</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Administrative issues</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Getting to know each other: ground rules, student expectations, timetables</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>Etuk, E </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 DBS identity verification</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Getting to know each other: ground rules, student expectations, timetables</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A225</room>
+		<lecturer>Lambert, Carol;Sunderland, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Reflection revisited</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>Etuk, E </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Reflection revisited</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A225</room>
+		<lecturer>Lee, Suzanne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Academic study strategies for postgraduate level</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A225</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>15:50</end>
+		<week>07/10/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introductory talk from Unison</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>59</studentnos>
+		<room>LT (WS)</room>
+		<lecturer>Outside speaker </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Academic study strategies for postgraduate level</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>Geary</room>
+		<lecturer>Thorpe, S </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>30/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Accessing library resources for your course/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>IT Skills 5C (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>07/10/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Search skills for your course & career/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>IT Skills 5A (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Getting to know you/student expectations</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>C302</room>
+		<lecturer>Hutcherson, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>20/01/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Health resources for best practice/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG24a</room>
+		<lecturer>Radbourne, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Uniform sizing</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>Convocation Suite</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Uniform sizing</activity>
+		<desc>Convocation suite</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>Convocation Suite</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Accessing library resources for your course/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>IT Skills 5C (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>07/10/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Search skills for your course & career/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>IT Skills 5A (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>20/01/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Health resources for best practice/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 IT: Accessing and using electronic resources/databases</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>EG12</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 IT: Accessing and using electronic resources/databases</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Uniform sizing</activity>
+		<desc>Convocation suite</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>Convocation Suite</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>30/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Accessing library resources for your course/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>IT Skills 5C (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>07/10/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Search skills for your course & career/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>IT Skills 5A (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>20/01/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Health resources for best practice/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>14/04/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Uniform issue</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Academic study strategies for your first year</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Thorpe, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>13:30</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Occupational health appointment</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>I103;IG03</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>13:30</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Occupational health appointment</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>No room needed</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introduction to library/IT/Moodle</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Radbourne, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Using Moodle and sel-directed learning</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>EG12</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Clinical areas and Trust HR departmental visit</activity>
+		<desc>Off site</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Clinical areas and Trust HR departmental visit</activity>
+		<desc>Off site</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>12/08/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 End of course admin and evaluation</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3F (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 End of course admin and evaluation</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>3F (WS)</room>
+		<lecturer>Etuk, E </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Fire/health & safety seminar</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>23/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Feedback on CoP activity</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>C304</room>
+		<lecturer>Hutcherson, A </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:30</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 March 2014 78 week induction</activity>
+		<desc>Kirsty Martin 0184</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:30</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Mental health awareness</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Data protection act and social media</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:30</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Introductory talk from Unison</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Meet Unison</activity>
+		<desc>Oliver Thompson lecture theatre</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>NM1714</modulecode>
+		<activity>NM1714 Fire/health & safety seminar</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

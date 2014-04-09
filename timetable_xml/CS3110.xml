@@ -1,65 +1,67 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS3110</modulecode>
-	<activity>CS3110 The Novel Studio term 1 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>AG11</room>
-	<lecturer>Bullock, Emily </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS3110</modulecode>
-	<activity>CS3110 Novel Studio: Workshop One term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG11</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS3110</modulecode>
-	<activity>CS3110 The Novel Studio term 1 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A226</room>
-	<lecturer>Hawkins, Kirstan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS3110</modulecode>
-	<activity>CS3110 Novel Studio: Fictional Techniques term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A226</room>
-	<lecturer>Hawkins, Kirstan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS3110</modulecode>
-	<activity>CS3110 Novel Studio: Fictional Techniques term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>AG02</room>
-	<lecturer>Hawkins, Kirstan </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS3110</modulecode>
+		<activity>CS3110 The Novel Studio term 1 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>AG11</room>
+		<lecturer>Bullock, Emily </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS3110</modulecode>
+		<activity>CS3110 Novel Studio: Workshop One term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG11</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS3110</modulecode>
+		<activity>CS3110 The Novel Studio term 1 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A226</room>
+		<lecturer>Hawkins, Kirstan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS3110</modulecode>
+		<activity>CS3110 Novel Studio: Fictional Techniques term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A226</room>
+		<lecturer>Hawkins, Kirstan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS3110</modulecode>
+		<activity>CS3110 Novel Studio: Fictional Techniques term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>AG02</room>
+		<lecturer>Hawkins, Kirstan </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

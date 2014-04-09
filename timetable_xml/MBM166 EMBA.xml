@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>11/11/13-09/12/13</week>
-	<modulecode>MBM166 EMBA</modulecode>
-	<activity>MBM166 Managaing Value Creation EMBA /01</activity>
-	<desc>EMBA elective</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216a</room>
-	<lecturer>Raspin, Paul </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>11/11/13-09/12/13</week>
+		<modulecode>MBM166 EMBA</modulecode>
+		<activity>MBM166 Managaing Value Creation EMBA /01</activity>
+		<desc>EMBA elective</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216a</room>
+		<lecturer>Raspin, Paul </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2387</modulecode>
-	<activity>CS2387 Film Editing with Final Cut and Pro (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ALG04</room>
-	<lecturer>Granese, Marco </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS2387</modulecode>
-	<activity>CS2387 Film Editing with Final Cut and Pro term 2</activity>
-	<desc>The Mill</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>Granese, Marco </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS2387</modulecode>
-	<activity>CS2387 Film Editing with Final Cut and Pro term 3</activity>
-	<desc>The Mill</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>Granese, Marco </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2387</modulecode>
+		<activity>CS2387 Film Editing with Final Cut and Pro (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ALG04</room>
+		<lecturer>Granese, Marco </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS2387</modulecode>
+		<activity>CS2387 Film Editing with Final Cut and Pro term 2</activity>
+		<desc>The Mill</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>Granese, Marco </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS2387</modulecode>
+		<activity>CS2387 Film Editing with Final Cut and Pro term 3</activity>
+		<desc>The Mill</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>Granese, Marco </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

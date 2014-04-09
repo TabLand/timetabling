@@ -1,13 +1,15 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM036</modulecode>
-	<activity>SMM036 General Insurance -Reserving & Capital Modelling (ST7)/Lecture 01/2</activity>
-	<desc>ST7; Autumm</desc>
-	<joint>SMM036;SMM033</joint>
-	<studentnos>60</studentnos>
-	<room>3003</room>
-	<lecturer>Hargreaves, David </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM036</modulecode>
+		<activity>SMM036 General Insurance -Reserving & Capital Modelling (ST7)/Lecture 01/2</activity>
+		<desc>ST7; Autumm</desc>
+		<joint>SMM036;SMM033</joint>
+		<studentnos>60</studentnos>
+		<room>3003</room>
+		<lecturer>Hargreaves, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

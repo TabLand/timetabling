@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>MS1203</modulecode>
-	<activity>MS1203 Management Science/Lecture 01</activity>
-	<desc>Spring</desc>
-	<joint> </joint>
-	<studentnos>218</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Holland, Wayne </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>MS1203</modulecode>
+		<activity>MS1203 Management Science/Lecture 01</activity>
+		<desc>Spring</desc>
+		<joint>-</joint>
+		<studentnos>218</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Holland, Wayne </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

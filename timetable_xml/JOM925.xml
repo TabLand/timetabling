@@ -1,39 +1,41 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>21/10/13</week>
-	<modulecode>JOM925</modulecode>
-	<activity>JOM925 Reading s a Writer - Crime Thriller</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D112</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>JOM925</modulecode>
-	<activity>JOM925 Reading s a Writer - Literary</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>D113</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>30/09/13, 28/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>JOM925</modulecode>
-	<activity>JOM925 Reading s a Writer - Crime Thriller</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D112</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>21/10/13</week>
+		<modulecode>JOM925</modulecode>
+		<activity>JOM925 Reading s a Writer - Crime Thriller</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D112</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>JOM925</modulecode>
+		<activity>JOM925 Reading s a Writer - Literary</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>D113</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>30/09/13, 28/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>JOM925</modulecode>
+		<activity>JOM925 Reading s a Writer - Crime Thriller</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D112</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

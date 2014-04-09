@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
-	<modulecode>EC3023</modulecode>
-	<activity>EC3023 History of Economic Thought/Lecture 01/1</activity>
-	<desc>Weeks 1-4 & 6-11</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D222</room>
-	<lecturer>Denis, Andy </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+		<modulecode>EC3023</modulecode>
+		<activity>EC3023 History of Economic Thought/Lecture 01/1</activity>
+		<desc>Weeks 1-4 & 6-11</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D222</room>
+		<lecturer>Denis, Andy </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

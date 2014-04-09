@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM303</modulecode>
-	<activity>INM303 Information Resources And Organisation/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>CG04</room>
-	<lecturer>Bawden, David </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM303</modulecode>
+		<activity>INM303 Information Resources And Organisation/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>CG04</room>
+		<lecturer>Bawden, David </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

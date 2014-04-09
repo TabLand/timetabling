@@ -1,26 +1,28 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM800 RE/REI</modulecode>
-	<activity>SMM800 Business Research Project/RE, REI/T2/Lecture/wk 4</activity>
-	<desc>RE, REI : Term 2 : wk 4 only</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room>LG001</room>
-	<lecturer>Herd, George;Andrew, Mark </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>12/05/14</week>
-	<modulecode>SMM800 RE/REI</modulecode>
-	<activity>SMM800 Business Research Project/RE, REI/T3/Lecture/wk 1</activity>
-	<desc>RE, REI : Term 3 : wk 1 only</desc>
-	<joint> </joint>
-	<studentnos>107</studentnos>
-	<room>LG002/3</room>
-	<lecturer>Herd, George;Andrew, Mark </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM800 RE/REI</modulecode>
+		<activity>SMM800 Business Research Project/RE, REI/T2/Lecture/wk 4</activity>
+		<desc>RE, REI : Term 2 : wk 4 only</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>LG001</room>
+		<lecturer>Herd, George;Andrew, Mark </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>12/05/14</week>
+		<modulecode>SMM800 RE/REI</modulecode>
+		<activity>SMM800 Business Research Project/RE, REI/T3/Lecture/wk 1</activity>
+		<desc>RE, REI : Term 3 : wk 1 only</desc>
+		<joint>-</joint>
+		<studentnos>107</studentnos>
+		<room>LG002/3</room>
+		<lecturer>Herd, George;Andrew, Mark </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

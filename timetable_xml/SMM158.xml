@@ -1,91 +1,93 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>07/10/13</week>
-	<modulecode>SMM158</modulecode>
-	<activity>SMM158 Investment markets FT/Lecture/WK 2</activity>
-	<desc>REI Lecture - Extra Lectures: Week 2 only</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3002</room>
-	<lecturer>Blake, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>28/10/13</week>
-	<modulecode>SMM158</modulecode>
-	<activity>SMM158 Investment markets FT/Lecture/WK 5</activity>
-	<desc>REI Lecture - Extra Lectures: Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3003</room>
-	<lecturer>Blake, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>04/11/13</week>
-	<modulecode>SMM158</modulecode>
-	<activity>SMM158 Investment markets FT/Lecture/wk 6</activity>
-	<desc>REI Lecture - Autumn: Week 6 only</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>G001</room>
-	<lecturer>Blake, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>SMM158</modulecode>
-	<activity>SMM158 Investment markets FT/Lecture/WK 1</activity>
-	<desc>REI Lecture - Autumn: Week 1 only (extra lecture)</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2005</room>
-	<lecturer>Blake, David </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>SMM158</modulecode>
-	<activity>SMM158 Investment markets FT/Tutorial/01/WKS 2-10</activity>
-	<desc>REI Tutorial - Autumn: Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>G001</room>
-	<lecturer>Hunt, Andrew </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM158</modulecode>
-	<activity>SMM158 Investment markets FT/Lecture</activity>
-	<desc>REI Lecture - Autumn:</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3002</room>
-	<lecturer>Blake, David </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>04/11/13</week>
-	<modulecode>SMM158</modulecode>
-	<activity>SMM158 Investment markets FT/Tutorial/01/WK 6</activity>
-	<desc>REI Tutorial - Autumn: Week 6 only (Extra class )</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2006</room>
-	<lecturer>Hunt, Andrew </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>07/10/13</week>
+		<modulecode>SMM158</modulecode>
+		<activity>SMM158 Investment markets FT/Lecture/WK 2</activity>
+		<desc>REI Lecture - Extra Lectures: Week 2 only</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3002</room>
+		<lecturer>Blake, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>28/10/13</week>
+		<modulecode>SMM158</modulecode>
+		<activity>SMM158 Investment markets FT/Lecture/WK 5</activity>
+		<desc>REI Lecture - Extra Lectures: Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3003</room>
+		<lecturer>Blake, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>04/11/13</week>
+		<modulecode>SMM158</modulecode>
+		<activity>SMM158 Investment markets FT/Lecture/wk 6</activity>
+		<desc>REI Lecture - Autumn: Week 6 only</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>G001</room>
+		<lecturer>Blake, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>SMM158</modulecode>
+		<activity>SMM158 Investment markets FT/Lecture/WK 1</activity>
+		<desc>REI Lecture - Autumn: Week 1 only (extra lecture)</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2005</room>
+		<lecturer>Blake, David </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>SMM158</modulecode>
+		<activity>SMM158 Investment markets FT/Tutorial/01/WKS 2-10</activity>
+		<desc>REI Tutorial - Autumn: Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>G001</room>
+		<lecturer>Hunt, Andrew </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM158</modulecode>
+		<activity>SMM158 Investment markets FT/Lecture</activity>
+		<desc>REI Lecture - Autumn:</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3002</room>
+		<lecturer>Blake, David </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>04/11/13</week>
+		<modulecode>SMM158</modulecode>
+		<activity>SMM158 Investment markets FT/Tutorial/01/WK 6</activity>
+		<desc>REI Tutorial - Autumn: Week 6 only (Extra class )</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2006</room>
+		<lecturer>Hunt, Andrew </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

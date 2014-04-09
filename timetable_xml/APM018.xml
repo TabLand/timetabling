@@ -1,52 +1,54 @@
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>20/01/14</week>
-	<modulecode>APM018</modulecode>
-	<activity>APM018 Making a Difference: Research & Development in Care for Older People/Introduction</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Meyer, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>16:50</end>
-	<week>21/04/14</week>
-	<modulecode>APM018</modulecode>
-	<activity>APM018 Making a Difference: Research & Development in Care for Older People/Presentation</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24b</room>
-	<lecturer>Meyer, J;Lindsay, T </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:30</end>
-	<week>20/01/14, 17/02/14-03/03/14, 17/03/14-24/03/14</week>
-	<modulecode>APM018</modulecode>
-	<activity>APM018 Making a Difference: Research & Development in Care for Older People/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Meyer, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:30</end>
-	<week>03/02/14</week>
-	<modulecode>APM018</modulecode>
-	<activity>APM018 Making a Difference: Research & Development in Care for Older People/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Lindsay, T </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>20/01/14</week>
+		<modulecode>APM018</modulecode>
+		<activity>APM018 Making a Difference: Research & Development in Care for Older People/Introduction</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Meyer, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>16:50</end>
+		<week>21/04/14</week>
+		<modulecode>APM018</modulecode>
+		<activity>APM018 Making a Difference: Research & Development in Care for Older People/Presentation</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24b</room>
+		<lecturer>Meyer, J;Lindsay, T </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:30</end>
+		<week>20/01/14, 17/02/14-03/03/14, 17/03/14-24/03/14</week>
+		<modulecode>APM018</modulecode>
+		<activity>APM018 Making a Difference: Research & Development in Care for Older People/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Meyer, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:30</end>
+		<week>03/02/14</week>
+		<modulecode>APM018</modulecode>
+		<activity>APM018 Making a Difference: Research & Development in Care for Older People/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Lindsay, T </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

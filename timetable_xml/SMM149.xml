@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
-	<modulecode>SMM149</modulecode>
-	<activity>SMM149 Fixed Income, Currencies & Derivatives/Lecture 01/wks 1-3, 5-10</activity>
-	<desc>Spring Lecture: Weeks 1-3, 5-10</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>2002</room>
-	<lecturer>Questa, Giorgio </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM149</modulecode>
-	<activity>SMM149 Fixed Income, Currencies & Derivatives/Lecture 01/wk 4</activity>
-	<desc>Spring Lecture: Week 4 only (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>2003</room>
-	<lecturer>Questa, Giorgio </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>10/02/14</week>
-	<modulecode>SMM149</modulecode>
-	<activity>SMM149 Fixed Income, Currencies & Derivatives/Guest Lecture/wk 3</activity>
-	<desc>Spring Lecture: Week 3 ONLY : Additional Guest Lecture</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>2002</room>
-	<lecturer>Questa, Giorgio </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+		<modulecode>SMM149</modulecode>
+		<activity>SMM149 Fixed Income, Currencies & Derivatives/Lecture 01/wks 1-3, 5-10</activity>
+		<desc>Spring Lecture: Weeks 1-3, 5-10</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>2002</room>
+		<lecturer>Questa, Giorgio </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM149</modulecode>
+		<activity>SMM149 Fixed Income, Currencies & Derivatives/Lecture 01/wk 4</activity>
+		<desc>Spring Lecture: Week 4 only (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>2003</room>
+		<lecturer>Questa, Giorgio </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>10/02/14</week>
+		<modulecode>SMM149</modulecode>
+		<activity>SMM149 Fixed Income, Currencies & Derivatives/Guest Lecture/wk 3</activity>
+		<desc>Spring Lecture: Week 3 ONLY : Additional Guest Lecture</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>2002</room>
+		<lecturer>Questa, Giorgio </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

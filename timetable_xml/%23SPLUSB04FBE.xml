@@ -1,26 +1,28 @@
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>#SPLUSB04FBE</modulecode>
-	<activity>Extracurricular Business German Advanced Autumn/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C300</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>#SPLUSB04FBE</modulecode>
-	<activity>Extracurricular Business German Advanced Spring/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM03</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>#SPLUSB04FBE</modulecode>
+		<activity>Extracurricular Business German Advanced Autumn/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C300</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>#SPLUSB04FBE</modulecode>
+		<activity>Extracurricular Business German Advanced Spring/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM03</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

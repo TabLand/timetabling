@@ -1,26 +1,28 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14, 10/02/14-07/04/14</week>
-	<modulecode>MS1103</modulecode>
-	<activity>MS1103 Management of Business Functions/Lecture/wks 1, 3-11</activity>
-	<desc>Spring Lecture + exchange 5 : Weeks 1, 3-11</desc>
-	<joint> </joint>
-	<studentnos>175</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Rich, Martin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/02/14</week>
-	<modulecode>MS1103</modulecode>
-	<activity>MS1103 Management of Business Functions/Lecture/wk 2</activity>
-	<desc>Spring Lecture + exchange 5 : Week 2 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Geary</room>
-	<lecturer>Rich, Martin </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14, 10/02/14-07/04/14</week>
+		<modulecode>MS1103</modulecode>
+		<activity>MS1103 Management of Business Functions/Lecture/wks 1, 3-11</activity>
+		<desc>Spring Lecture + exchange 5 : Weeks 1, 3-11</desc>
+		<joint>-</joint>
+		<studentnos>175</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Rich, Martin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/02/14</week>
+		<modulecode>MS1103</modulecode>
+		<activity>MS1103 Management of Business Functions/Lecture/wk 2</activity>
+		<desc>Spring Lecture + exchange 5 : Week 2 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Geary</room>
+		<lecturer>Rich, Martin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

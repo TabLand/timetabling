@@ -1,13 +1,15 @@
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>20/01/14-10/02/14</week>
-	<modulecode>MBM408 SS2 (B)</modulecode>
-	<activity>MBM408 Mba Block 3: Strategy Skills 2/B/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 3 - Strategy Skills 2 B</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2006</room>
-	<lecturer>Raspin, Paul </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>20/01/14-10/02/14</week>
+		<modulecode>MBM408 SS2 (B)</modulecode>
+		<activity>MBM408 Mba Block 3: Strategy Skills 2/B/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 3 - Strategy Skills 2 B</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2006</room>
+		<lecturer>Raspin, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

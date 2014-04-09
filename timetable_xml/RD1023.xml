@@ -1,793 +1,795 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 01/01</activity>
-	<desc>Introduction to Module</desc>
-	<joint> </joint>
-	<studentnos>67</studentnos>
-	<room>B104</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>03/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 20/01</activity>
-	<desc>Tutorial - Male and Female Reproductive System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 02/01</activity>
-	<desc>Cells and Tissues</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>B307B/C</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 03/01</activity>
-	<desc>Body Planes, Regions & Terminology</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>B307B/C</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 14/01</activity>
-	<desc>Digestive System - Anatomy</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/01</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 2/01</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/01</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 18/01</activity>
-	<desc>Urinary System - Anatomy of KUB</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>18/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 15/01</activity>
-	<desc>Digestive System - Mechanical and chemical digestion</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>10/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 25/01</activity>
-	<desc>Introduction to Lymphatic System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>25/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 17/01</activity>
-	<desc>Tutorial - digestive system</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 19/01</activity>
-	<desc>Urinary System - Physiology and Pathology</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 16/01</activity>
-	<desc>Directed self study - digestive System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>03/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 26/01</activity>
-	<desc>Skull / Facial Bones & Joints - Radiographic Anatomy</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 28/01</activity>
-	<desc>Cardiovascular System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>10/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 29/01</activity>
-	<desc>Tutorial - CVS</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>17/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 31/02</activity>
-	<desc>Nervous System - Pathology (check correct week)</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 33/01</activity>
-	<desc>Endocrine System - Lecture / Tutorial</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 04/01</activity>
-	<desc>Basic Osteology</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>21/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 07/01</activity>
-	<desc>Tutorial - skeleton</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Humphries, Sue </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 31/01</activity>
-	<desc>Ventricles, Meninges BBB & Spinal Cord</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>D104</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>17/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Tutorial 1/03</activity>
-	<desc>Tutorial - Lymphatic System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 22/01</activity>
-	<desc>Sectional anatomy of the abdomen and pelvis</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>14:30</end>
-	<week>25/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 17/02</activity>
-	<desc>Revision 1</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>C303</room>
-	<lecturer>McHugh, Kevin;Humphries, Sue </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/02</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C340</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>09/12/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 15/01</activity>
-	<desc>Revision 2</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room> </room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/02</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Walls, Darren;Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>24/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 34/01</activity>
-	<desc>Revision 3</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 05/01</activity>
-	<desc>Overview of Skeleton</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Humphries, Sue </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/OSCE4/01</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>B307B/C</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 2/02</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C150</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>24/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 30/01</activity>
-	<desc>Introduction to Nervous System / Brain 1</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>A130</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 06/01</activity>
-	<desc>Overview of The Joints</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Humphries, Sue </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>11/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 11/01</activity>
-	<desc>Abdominopelvic Cavity 1 - Contents / Divisions / Boundaries</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>18/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 10/02</activity>
-	<desc>CT & MRI Cross-sectional anatomy of the Thoracic Cavity</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>25/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 13/01</activity>
-	<desc>Directed Self Study - Cross-sectional Anatomy of the Thorax</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 5/01</activity>
-	<desc>Directed Self Study - Dentition Radiographic Anatomy</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>14:50</end>
-	<week>24/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 13/01</activity>
-	<desc>Directed Self Study - Cardiovascular System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 7/01</activity>
-	<desc>Directed Self Study - Lymphatic System</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 35/01</activity>
-	<desc>Revision 4</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>Bland, Paul;Humphries, Sue </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>11/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 12/01</activity>
-	<desc>Abdominopelvic Cavity 2 - Contents / Divisions / Boundaries</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 36/01</activity>
-	<desc>Review semester 1 exams</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>AG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>21/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 14/01</activity>
-	<desc>Thoracic Cavity - Content / Boundaries and Divisions</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/03</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>27/01/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 11/01</activity>
-	<desc>Directed Self Study - Female Reproductive System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>03/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 23/01</activity>
-	<desc>Directed Self Study Pelvis & Joints - Radiographic Anatomy</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>Humphries, Sue </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 2/03</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>C313</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/03</activity>
-	<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 4/01</activity>
-	<desc>Radiographic Anatomy, Physiology and Pathology</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG03</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>21/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 08/01</activity>
-	<desc>Respiratory System - Anatomy</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 6/01</activity>
-	<desc>Directed Self Study - Cardiovascular System</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>21/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 09/01</activity>
-	<desc>Respiratory System - Physiology and Pathology</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>BLG07</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>24/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 8/01</activity>
-	<desc>Directed Self Study - Endocrine System (Anatomy, Physiology & Pathology)</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 1/01</activity>
-	<desc>Directed Self Study - Appendicular Skeleton - Upper Limb</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Humphries, Sue </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>11/11/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 4/02</activity>
-	<desc>Directed Self Study - Abdomen & Pelvis (On-line Quiz)</desc>
-	<joint> </joint>
-	<studentnos>69</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 9/01</activity>
-	<desc>Directed Self Study - Nervous System Physiology</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 2/01</activity>
-	<desc>Directed Self Study - Appendicular Skeleton - Lower Limb</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Humphries, Sue </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>21/10/13</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 3/01</activity>
-	<desc>Directed Self Study - Breast (Anatomy, Physiology & Pathology)</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>24/03/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 10/01</activity>
-	<desc>Directed Self Study - Cranial Nerves / ANS</desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>No room needed</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14</week>
-	<modulecode>RD1023</modulecode>
-	<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 12/02</activity>
-	<desc>Directed Self Study - Male Reproductive System</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 01/01</activity>
+		<desc>Introduction to Module</desc>
+		<joint>-</joint>
+		<studentnos>67</studentnos>
+		<room>B104</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>03/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 20/01</activity>
+		<desc>Tutorial - Male and Female Reproductive System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 02/01</activity>
+		<desc>Cells and Tissues</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>B307B/C</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 03/01</activity>
+		<desc>Body Planes, Regions & Terminology</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>B307B/C</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 14/01</activity>
+		<desc>Digestive System - Anatomy</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/01</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 2/01</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/01</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 18/01</activity>
+		<desc>Urinary System - Anatomy of KUB</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>18/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 15/01</activity>
+		<desc>Digestive System - Mechanical and chemical digestion</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>10/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 25/01</activity>
+		<desc>Introduction to Lymphatic System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>25/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 17/01</activity>
+		<desc>Tutorial - digestive system</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 19/01</activity>
+		<desc>Urinary System - Physiology and Pathology</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 16/01</activity>
+		<desc>Directed self study - digestive System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>03/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 26/01</activity>
+		<desc>Skull / Facial Bones & Joints - Radiographic Anatomy</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 28/01</activity>
+		<desc>Cardiovascular System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>10/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 29/01</activity>
+		<desc>Tutorial - CVS</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>17/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 31/02</activity>
+		<desc>Nervous System - Pathology (check correct week)</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 33/01</activity>
+		<desc>Endocrine System - Lecture / Tutorial</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 04/01</activity>
+		<desc>Basic Osteology</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>21/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 07/01</activity>
+		<desc>Tutorial - skeleton</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Humphries, Sue </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 31/01</activity>
+		<desc>Ventricles, Meninges BBB & Spinal Cord</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>D104</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>17/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Tutorial 1/03</activity>
+		<desc>Tutorial - Lymphatic System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 22/01</activity>
+		<desc>Sectional anatomy of the abdomen and pelvis</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>14:30</end>
+		<week>25/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 17/02</activity>
+		<desc>Revision 1</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>C303</room>
+		<lecturer>McHugh, Kevin;Humphries, Sue </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/02</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C340</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>09/12/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 15/01</activity>
+		<desc>Revision 2</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>-</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/02</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Walls, Darren;Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>24/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 34/01</activity>
+		<desc>Revision 3</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 05/01</activity>
+		<desc>Overview of Skeleton</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Humphries, Sue </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/OSCE4/01</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>B307B/C</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 2/02</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C150</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>24/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 30/01</activity>
+		<desc>Introduction to Nervous System / Brain 1</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>A130</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 06/01</activity>
+		<desc>Overview of The Joints</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Humphries, Sue </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>11/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 11/01</activity>
+		<desc>Abdominopelvic Cavity 1 - Contents / Divisions / Boundaries</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>18/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 10/02</activity>
+		<desc>CT & MRI Cross-sectional anatomy of the Thoracic Cavity</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>25/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 13/01</activity>
+		<desc>Directed Self Study - Cross-sectional Anatomy of the Thorax</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 5/01</activity>
+		<desc>Directed Self Study - Dentition Radiographic Anatomy</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>14:50</end>
+		<week>24/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 13/01</activity>
+		<desc>Directed Self Study - Cardiovascular System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 7/01</activity>
+		<desc>Directed Self Study - Lymphatic System</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 35/01</activity>
+		<desc>Revision 4</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>Bland, Paul;Humphries, Sue </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>11/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 12/01</activity>
+		<desc>Abdominopelvic Cavity 2 - Contents / Divisions / Boundaries</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 36/01</activity>
+		<desc>Review semester 1 exams</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>AG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>21/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 14/01</activity>
+		<desc>Thoracic Cavity - Content / Boundaries and Divisions</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/03</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>27/01/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 11/01</activity>
+		<desc>Directed Self Study - Female Reproductive System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>03/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 23/01</activity>
+		<desc>Directed Self Study Pelvis & Joints - Radiographic Anatomy</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>Humphries, Sue </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 2/03</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>C313</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/03</activity>
+		<desc>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 4/01</activity>
+		<desc>Radiographic Anatomy, Physiology and Pathology</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG03</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>21/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 08/01</activity>
+		<desc>Respiratory System - Anatomy</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 6/01</activity>
+		<desc>Directed Self Study - Cardiovascular System</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>21/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 09/01</activity>
+		<desc>Respiratory System - Physiology and Pathology</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>BLG07</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>24/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 8/01</activity>
+		<desc>Directed Self Study - Endocrine System (Anatomy, Physiology & Pathology)</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 1/01</activity>
+		<desc>Directed Self Study - Appendicular Skeleton - Upper Limb</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Humphries, Sue </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>11/11/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 4/02</activity>
+		<desc>Directed Self Study - Abdomen & Pelvis (On-line Quiz)</desc>
+		<joint>-</joint>
+		<studentnos>69</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 9/01</activity>
+		<desc>Directed Self Study - Nervous System Physiology</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 2/01</activity>
+		<desc>Directed Self Study - Appendicular Skeleton - Lower Limb</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Humphries, Sue </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>21/10/13</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 3/01</activity>
+		<desc>Directed Self Study - Breast (Anatomy, Physiology & Pathology)</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>24/03/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 10/01</activity>
+		<desc>Directed Self Study - Cranial Nerves / ANS</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>No room needed</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14</week>
+		<modulecode>RD1023</modulecode>
+		<activity>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 12/02</activity>
+		<desc>Directed Self Study - Male Reproductive System</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

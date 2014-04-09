@@ -1,65 +1,67 @@
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>12/05/14</week>
-	<modulecode>APM005</modulecode>
-	<activity>APM005 Evidence-based psychosocial interventions in mental health/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D108</room>
-	<lecturer>O'Carroll, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>19/05/14</week>
-	<modulecode>APM005</modulecode>
-	<activity>APM005 Evidence-based psychosocial interventions in mental health/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D106</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>26/05/14</week>
-	<modulecode>APM005</modulecode>
-	<activity>APM005 Evidence-based psychosocial interventions in mental health/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D109</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>02/06/14</week>
-	<modulecode>APM005</modulecode>
-	<activity>APM005 Evidence-based psychosocial interventions in mental health/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D109</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>09/06/14</week>
-	<modulecode>APM005</modulecode>
-	<activity>APM005 Evidence-based psychosocial interventions in mental health/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D109</room>
-	<lecturer>O'Carroll, M </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>12/05/14</week>
+		<modulecode>APM005</modulecode>
+		<activity>APM005 Evidence-based psychosocial interventions in mental health/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D108</room>
+		<lecturer>O'Carroll, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>19/05/14</week>
+		<modulecode>APM005</modulecode>
+		<activity>APM005 Evidence-based psychosocial interventions in mental health/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D106</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>26/05/14</week>
+		<modulecode>APM005</modulecode>
+		<activity>APM005 Evidence-based psychosocial interventions in mental health/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D109</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>02/06/14</week>
+		<modulecode>APM005</modulecode>
+		<activity>APM005 Evidence-based psychosocial interventions in mental health/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D109</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>09/06/14</week>
+		<modulecode>APM005</modulecode>
+		<activity>APM005 Evidence-based psychosocial interventions in mental health/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D109</room>
+		<lecturer>O'Carroll, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

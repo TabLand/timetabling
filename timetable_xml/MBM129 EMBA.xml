@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/03/14-14/04/14</week>
-	<modulecode>MBM129 EMBA</modulecode>
-	<activity>MBM129 Leadership/EMBA/Lecture 01</activity>
-	<desc>EMBA Stage 2</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216a</room>
-	<lecturer>Henderson, David </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/03/14-14/04/14</week>
+		<modulecode>MBM129 EMBA</modulecode>
+		<activity>MBM129 Leadership/EMBA/Lecture 01</activity>
+		<desc>EMBA Stage 2</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216a</room>
+		<lecturer>Henderson, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>07/04/14-05/05/14</week>
-	<modulecode>MBM015 EMBA</modulecode>
-	<activity>MBM015 Marketing 2/EMBA/Lecture 01</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Connell, Paul </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>07/04/14-05/05/14</week>
+		<modulecode>MBM015 EMBA</modulecode>
+		<activity>MBM015 Marketing 2/EMBA/Lecture 01</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Connell, Paul </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>9:30</start>
-	<end>12:30</end>
-	<week>20/01/14, 03/02/14-03/03/14</week>
-	<modulecode>HS2445</modulecode>
-	<activity>HS2445 Making a Difference: Research & Development in Care for Older People/Lecture/01</activity>
-	<desc>Optional module (AN & MHN only)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C337</room>
-	<lecturer>Meyer, J </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>12:30</end>
+		<week>20/01/14, 03/02/14-03/03/14</week>
+		<modulecode>HS2445</modulecode>
+		<activity>HS2445 Making a Difference: Research & Development in Care for Older People/Lecture/01</activity>
+		<desc>Optional module (AN & MHN only)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C337</room>
+		<lecturer>Meyer, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

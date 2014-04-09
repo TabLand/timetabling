@@ -1,91 +1,93 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-07/10/13</week>
-	<modulecode>SL1006</modulecode>
-	<activity>SL1006 Professional Studies (1)/Autumn/Lecture 01/01</activity>
-	<desc>Autumn Lecture</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>DLG09</room>
-	<lecturer>Marshall, Jane;Herman, Ros </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>14/10/13-21/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>SL1006</modulecode>
-	<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>BM02</room>
-	<lecturer>Herman, Ros </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>14/10/13-21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>SL1006</modulecode>
-	<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/01</activity>
-	<desc>Professional Studies (1)</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D222</room>
-	<lecturer>Marshall, Jane </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/10/13</week>
-	<modulecode>SL1006</modulecode>
-	<activity>SL1006 Professional Studies (1)/Autumn/Lecture 01/01 wk5</activity>
-	<desc>Autumn Lecture</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>DLG19</room>
-	<lecturer>Marshall, Jane;Herman, Ros </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>18/11/13, 02/12/13</week>
-	<modulecode>SL1006</modulecode>
-	<activity>SL1006 Professional Studies (1)/Autumn/Lecture 01/01 wk8&10</activity>
-	<desc>Autumn Lecture</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>C170</room>
-	<lecturer>Marshall, Jane;Herman, Ros </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>25/11/13</week>
-	<modulecode>SL1006</modulecode>
-	<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>BLG08;A214</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>09/12/13</week>
-	<modulecode>SL1006</modulecode>
-	<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/02/ wk 11</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>BLG08</room>
-	<lecturer>Herman, Ros </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-07/10/13</week>
+		<modulecode>SL1006</modulecode>
+		<activity>SL1006 Professional Studies (1)/Autumn/Lecture 01/01</activity>
+		<desc>Autumn Lecture</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>DLG09</room>
+		<lecturer>Marshall, Jane;Herman, Ros </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>14/10/13-21/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>SL1006</modulecode>
+		<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>BM02</room>
+		<lecturer>Herman, Ros </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>14/10/13-21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>SL1006</modulecode>
+		<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/01</activity>
+		<desc>Professional Studies (1)</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D222</room>
+		<lecturer>Marshall, Jane </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/10/13</week>
+		<modulecode>SL1006</modulecode>
+		<activity>SL1006 Professional Studies (1)/Autumn/Lecture 01/01 wk5</activity>
+		<desc>Autumn Lecture</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>DLG19</room>
+		<lecturer>Marshall, Jane;Herman, Ros </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>18/11/13, 02/12/13</week>
+		<modulecode>SL1006</modulecode>
+		<activity>SL1006 Professional Studies (1)/Autumn/Lecture 01/01 wk8&10</activity>
+		<desc>Autumn Lecture</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>C170</room>
+		<lecturer>Marshall, Jane;Herman, Ros </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>25/11/13</week>
+		<modulecode>SL1006</modulecode>
+		<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>BLG08;A214</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>09/12/13</week>
+		<modulecode>SL1006</modulecode>
+		<activity>SL1006 Professional Studies (1)/Autumn/Tutorial 01/02/ wk 11</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>BLG08</room>
+		<lecturer>Herman, Ros </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>03/02/14</week>
-	<modulecode>SMMxxx BTours</modulecode>
-	<activity>SMMxxx Bloomberg Tours/T2/ QFFM/SMU/Self Study/wk 2</activity>
-	<desc>Bloomberg Tours: Term 2: Week 2 only: QFFM/SMU (External venue: No Lecture room required)</desc>
-	<joint> </joint>
-	<studentnos>67</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>27/01/14</week>
-	<modulecode>SMMxxx BTours</modulecode>
-	<activity>SMMxxx Bloomberg Tours/T2/ QFFM/SMU/Self Study/wk 1</activity>
-	<desc>Bloomberg Tours: Term 2: Week 1 only: QFFM/SMU (External venue: No Lecture room required)</desc>
-	<joint> </joint>
-	<studentnos>67</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>03/02/14</week>
+		<modulecode>SMMxxx BTours</modulecode>
+		<activity>SMMxxx Bloomberg Tours/T2/ QFFM/SMU/Self Study/wk 2</activity>
+		<desc>Bloomberg Tours: Term 2: Week 2 only: QFFM/SMU (External venue: No Lecture room required)</desc>
+		<joint>-</joint>
+		<studentnos>67</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>27/01/14</week>
+		<modulecode>SMMxxx BTours</modulecode>
+		<activity>SMMxxx Bloomberg Tours/T2/ QFFM/SMU/Self Study/wk 1</activity>
+		<desc>Bloomberg Tours: Term 2: Week 1 only: QFFM/SMU (External venue: No Lecture room required)</desc>
+		<joint>-</joint>
+		<studentnos>67</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

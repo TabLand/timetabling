@@ -1,13 +1,15 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS2601</modulecode>
-	<activity>CS2601 Essential PL/SQL and database administration for Oracle databases (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Lekeas, George </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS2601</modulecode>
+		<activity>CS2601 Essential PL/SQL and database administration for Oracle databases (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Lekeas, George </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

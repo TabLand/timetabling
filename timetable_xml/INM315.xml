@@ -1,78 +1,80 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-17/02/14</week>
-	<modulecode>INM315</modulecode>
-	<activity>INM315 Evaluating Interactive Systems /Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>ALG16</room>
-	<lecturer>Wilson, Stephanie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>INM315</modulecode>
-	<activity>INM315 Evaluating Interactive Systems /Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>BLG08</room>
-	<lecturer>Wilson, Stephanie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>07/04/14</week>
-	<modulecode>INM315</modulecode>
-	<activity>INM315 Evaluating Interactive Systems /Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>BLG07</room>
-	<lecturer>Wilson, Stephanie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-17/02/14</week>
-	<modulecode>INM315</modulecode>
-	<activity>INM315 Evaluating Interactive Systems /Tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>ALG16</room>
-	<lecturer>Wilson, Stephanie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>INM315</modulecode>
-	<activity>INM315 Evaluating Interactive Systems /Tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>BLG08</room>
-	<lecturer>Wilson, Stephanie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>INM315</modulecode>
-	<activity>INM315 Evaluating Interactive Systems /Tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>BLG07</room>
-	<lecturer>Wilson, Stephanie </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-17/02/14</week>
+		<modulecode>INM315</modulecode>
+		<activity>INM315 Evaluating Interactive Systems /Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>ALG16</room>
+		<lecturer>Wilson, Stephanie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>INM315</modulecode>
+		<activity>INM315 Evaluating Interactive Systems /Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>BLG08</room>
+		<lecturer>Wilson, Stephanie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>07/04/14</week>
+		<modulecode>INM315</modulecode>
+		<activity>INM315 Evaluating Interactive Systems /Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>BLG07</room>
+		<lecturer>Wilson, Stephanie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-17/02/14</week>
+		<modulecode>INM315</modulecode>
+		<activity>INM315 Evaluating Interactive Systems /Tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>ALG16</room>
+		<lecturer>Wilson, Stephanie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>INM315</modulecode>
+		<activity>INM315 Evaluating Interactive Systems /Tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>BLG08</room>
+		<lecturer>Wilson, Stephanie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>INM315</modulecode>
+		<activity>INM315 Evaluating Interactive Systems /Tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>BLG07</room>
+		<lecturer>Wilson, Stephanie </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

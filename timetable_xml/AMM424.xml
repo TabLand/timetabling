@@ -1,26 +1,28 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>24/02/14</week>
-	<modulecode>AMM424</modulecode>
-	<activity>AMM424 Introduction to Research</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B104</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:30</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>AMM424</modulecode>
-	<activity>AMM424 Introduction to Research</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B104</room>
-	<lecturer>Sandoval, Marisol </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>24/02/14</week>
+		<modulecode>AMM424</modulecode>
+		<activity>AMM424 Introduction to Research</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B104</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:30</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>AMM424</modulecode>
+		<activity>AMM424 Introduction to Research</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B104</room>
+		<lecturer>Sandoval, Marisol </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

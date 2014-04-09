@@ -1,91 +1,93 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>SMM474</modulecode>
-	<activity>SMM474 Business Economics/A&B/Lecture/05/WK 11</activity>
-	<desc>Streams A & B : Week 11 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2004</room>
-	<lecturer>Peydro-Alcalde, Jose </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>09/12/13</week>
-	<modulecode>SMM474</modulecode>
-	<activity>SMM474 Business Economics/A&B/Lecture/06/WK 11</activity>
-	<desc>Streams A & B : Week 11 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2004</room>
-	<lecturer>Peydro-Alcalde, Jose </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>SMM474</modulecode>
-	<activity>SMM474 Business Economics/A&B/Lecture/07/WK 11</activity>
-	<desc>Streams A & B : Week 11 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2004</room>
-	<lecturer>Peydro-Alcalde, Jose </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>25/11/13</week>
-	<modulecode>SMM474</modulecode>
-	<activity>SMM474 Business Economics/A&B/Lecture/05/WK 9</activity>
-	<desc>Streams A & B : Week 9 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>LG002/3</room>
-	<lecturer>Peydro-Alcalde, Jose </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>SMM474</modulecode>
-	<activity>SMM474 Business Economics/A&B/Lecture/01/WK 5</activity>
-	<desc>Streams A & B : Week 9</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2003</room>
-	<lecturer>Peydro-Alcalde, Jose </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>25/11/13</week>
-	<modulecode>SMM474</modulecode>
-	<activity>SMM474 Business Economics/A&B/Lecture/04/WK 9</activity>
-	<desc>Streams A & B : Week 9</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>LG001</room>
-	<lecturer>Peydro-Alcalde, Jose </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>28/10/13</week>
-	<modulecode>SMM474</modulecode>
-	<activity>SMM474 Business Economics/A&B/Lecture/02/WK 5</activity>
-	<desc>Streams A & B : Week 5</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2003</room>
-	<lecturer>Peydro-Alcalde, Jose </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>SMM474</modulecode>
+		<activity>SMM474 Business Economics/A&B/Lecture/05/WK 11</activity>
+		<desc>Streams A & B : Week 11 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2004</room>
+		<lecturer>Peydro-Alcalde, Jose </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>09/12/13</week>
+		<modulecode>SMM474</modulecode>
+		<activity>SMM474 Business Economics/A&B/Lecture/06/WK 11</activity>
+		<desc>Streams A & B : Week 11 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2004</room>
+		<lecturer>Peydro-Alcalde, Jose </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>SMM474</modulecode>
+		<activity>SMM474 Business Economics/A&B/Lecture/07/WK 11</activity>
+		<desc>Streams A & B : Week 11 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2004</room>
+		<lecturer>Peydro-Alcalde, Jose </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>25/11/13</week>
+		<modulecode>SMM474</modulecode>
+		<activity>SMM474 Business Economics/A&B/Lecture/05/WK 9</activity>
+		<desc>Streams A & B : Week 9 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>LG002/3</room>
+		<lecturer>Peydro-Alcalde, Jose </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>SMM474</modulecode>
+		<activity>SMM474 Business Economics/A&B/Lecture/01/WK 5</activity>
+		<desc>Streams A & B : Week 9</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2003</room>
+		<lecturer>Peydro-Alcalde, Jose </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>25/11/13</week>
+		<modulecode>SMM474</modulecode>
+		<activity>SMM474 Business Economics/A&B/Lecture/04/WK 9</activity>
+		<desc>Streams A & B : Week 9</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>LG001</room>
+		<lecturer>Peydro-Alcalde, Jose </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>28/10/13</week>
+		<modulecode>SMM474</modulecode>
+		<activity>SMM474 Business Economics/A&B/Lecture/02/WK 5</activity>
+		<desc>Streams A & B : Week 5</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2003</room>
+		<lecturer>Peydro-Alcalde, Jose </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

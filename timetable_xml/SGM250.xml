@@ -1,13 +1,15 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SGM250</modulecode>
-	<activity>SGM250 Sociology of Arts and Culture/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>D221</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SGM250</modulecode>
+		<activity>SGM250 Sociology of Arts and Culture/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>D221</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,104 +1,106 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D108;D109;D222</room>
-	<lecturer>Raspin, Courtney </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>13/01/14</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 02/02/WK 1</activity>
-	<desc>1 Hour</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Gale, Nicola </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>13/01/14-20/01/14</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 02/01/WKS 1&2</activity>
-	<desc>Weeks 1&2 (Different location)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D106</room>
-	<lecturer>Petter, Soren </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>13/01/14-24/02/14</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 02/03</activity>
-	<desc>Weeks 1-7</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D108</room>
-	<lecturer>Smith, Fran </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>13/01/14-17/03/14</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 02/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D109</room>
-	<lecturer>Cooper, Katie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>27/01/14-17/03/14</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 02/01/WKS 3-10</activity>
-	<desc>Weeks 3-10</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D113</room>
-	<lecturer>Petter, Soren </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>03/02/14-17/02/14, 03/03/14, 17/03/14</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 02/02/WKS 4-6,8&10</activity>
-	<desc>2 Hours</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Gale, Nicola </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>10/03/14-17/03/14</week>
-	<modulecode>PSD220</modulecode>
-	<activity>PSD220 Specialist Group Supervision/Tutorial 02/03/WKS 9&10</activity>
-	<desc>Weeks 9 & 10</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D108</room>
-	<lecturer>Smith, Fran </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D108;D109;D222</room>
+		<lecturer>Raspin, Courtney </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>13/01/14</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 02/02/WK 1</activity>
+		<desc>1 Hour</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Gale, Nicola </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>13/01/14-20/01/14</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 02/01/WKS 1&2</activity>
+		<desc>Weeks 1&2 (Different location)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D106</room>
+		<lecturer>Petter, Soren </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>13/01/14-24/02/14</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 02/03</activity>
+		<desc>Weeks 1-7</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D108</room>
+		<lecturer>Smith, Fran </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>13/01/14-17/03/14</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 02/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D109</room>
+		<lecturer>Cooper, Katie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>27/01/14-17/03/14</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 02/01/WKS 3-10</activity>
+		<desc>Weeks 3-10</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D113</room>
+		<lecturer>Petter, Soren </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>03/02/14-17/02/14, 03/03/14, 17/03/14</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 02/02/WKS 4-6,8&10</activity>
+		<desc>2 Hours</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Gale, Nicola </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>10/03/14-17/03/14</week>
+		<modulecode>PSD220</modulecode>
+		<activity>PSD220 Specialist Group Supervision/Tutorial 02/03/WKS 9&10</activity>
+		<desc>Weeks 9 & 10</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D108</room>
+		<lecturer>Smith, Fran </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

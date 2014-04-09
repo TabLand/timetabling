@@ -1,455 +1,457 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 1/01</activity>
-	<desc>UG - Introduction to module, revision of cell structure and division</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>BLG07</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 2/01</activity>
-	<desc>UG- Introduction to radiobiology</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>BLG07</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 3/01</activity>
-	<desc>UG- Effects of radiation (stochastic, detreministic, somatic & genetic)</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A225</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 4/01</activity>
-	<desc>UG Target theory & cell survival curves</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A225</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 6/02</activity>
-	<desc>UG Physical factors affecting cellular response</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 13/01</activity>
-	<desc>UG Impact of delays or gaps in treatment</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 14/01</activity>
-	<desc>UG Impact of side effects on clinical practice</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 8/01</activity>
-	<desc>UG Therapeutic ratio & tolerance dose</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 15/01</activity>
-	<desc>UG Acute whole body syndrome</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Tutorial 1/01</activity>
-	<desc>UG optional tutorial</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Tutorial 3/01</activity>
-	<desc>UG - assessment tutorial (optional)</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Tutorial 4/01</activity>
-	<desc>UG - Optional tutorial</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 9/01</activity>
-	<desc>UG Impact of normal and critical tissue tolerance on therapeutic ratio</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 16/01</activity>
-	<desc>UG Incidents of exposure to radiation</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>09/06/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Practical/FD&UG 1/02</activity>
-	<desc>Summative assessment - Presentation x 5 rooms, 9-12</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A111;A108;A107;A226;A214</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 17/01</activity>
-	<desc>UG Types of radiation exposure</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Tutorial 2/01</activity>
-	<desc>UG Tutorial - How to do presentations</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>09/06/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Practical/FD&UG 1/01</activity>
-	<desc>Summative assessment - Presentations x 5 rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>A111;A108;A107;A226;A214</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 1/02</activity>
-	<desc>FD - Introduction to module, revision of cell structure and division</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 10/01</activity>
-	<desc>UG Impact of modern RT techniques on therapeutic ratio (Group work)</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Tutorial/FD 1/02</activity>
-	<desc>FD - Tutorial 1</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D107</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>12/05/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 9/02</activity>
-	<desc>FD - Incidents of radiation exposure</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D107</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 5/02</activity>
-	<desc>FD - Biological factors affecting cellular response</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>12/05/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 8/02</activity>
-	<desc>FD - Impact of side effects on clinical practice</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D107</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 2/02</activity>
-	<desc>FD - Introduction to radiobiology</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 11/01</activity>
-	<desc>UG Evidence for altered fractionation schedules</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 6/02</activity>
-	<desc>FD - Therapeutic ration and tolerance doses</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>12/05/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 10/02</activity>
-	<desc>FD - Types of radiation exposure</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D107</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 3/02</activity>
-	<desc>FD - Effects of radiation</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 12/01</activity>
-	<desc>UG Impact on radiotherapy service provision</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 4/02</activity>
-	<desc>FD - Target theory & cell survival curves</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture/FD 7/02</activity>
-	<desc>FD - Impact of normal tissue and critical organ tolerance on therapeutic ratio</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>12/05/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Tutorial/FD 2/02</activity>
-	<desc>FD - Tutorial / assessment tutorial</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D107</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 5/01</activity>
-	<desc>UG Chemical factors affecting cellular response</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2025</modulecode>
-	<activity>RT2025 Radiobiology/Lecture 7/01</activity>
-	<desc>UG Biological factors affecting cellular response</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>AG03</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 1/01</activity>
+		<desc>UG - Introduction to module, revision of cell structure and division</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>BLG07</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 2/01</activity>
+		<desc>UG- Introduction to radiobiology</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>BLG07</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 3/01</activity>
+		<desc>UG- Effects of radiation (stochastic, detreministic, somatic & genetic)</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A225</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 4/01</activity>
+		<desc>UG Target theory & cell survival curves</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A225</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 6/02</activity>
+		<desc>UG Physical factors affecting cellular response</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 13/01</activity>
+		<desc>UG Impact of delays or gaps in treatment</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 14/01</activity>
+		<desc>UG Impact of side effects on clinical practice</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 8/01</activity>
+		<desc>UG Therapeutic ratio & tolerance dose</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 15/01</activity>
+		<desc>UG Acute whole body syndrome</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Tutorial 1/01</activity>
+		<desc>UG optional tutorial</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Tutorial 3/01</activity>
+		<desc>UG - assessment tutorial (optional)</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Tutorial 4/01</activity>
+		<desc>UG - Optional tutorial</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 9/01</activity>
+		<desc>UG Impact of normal and critical tissue tolerance on therapeutic ratio</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 16/01</activity>
+		<desc>UG Incidents of exposure to radiation</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>09/06/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Practical/FD&UG 1/02</activity>
+		<desc>Summative assessment - Presentation x 5 rooms, 9-12</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A111;A108;A107;A226;A214</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 17/01</activity>
+		<desc>UG Types of radiation exposure</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Tutorial 2/01</activity>
+		<desc>UG Tutorial - How to do presentations</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>09/06/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Practical/FD&UG 1/01</activity>
+		<desc>Summative assessment - Presentations x 5 rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>A111;A108;A107;A226;A214</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 1/02</activity>
+		<desc>FD - Introduction to module, revision of cell structure and division</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 10/01</activity>
+		<desc>UG Impact of modern RT techniques on therapeutic ratio (Group work)</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Tutorial/FD 1/02</activity>
+		<desc>FD - Tutorial 1</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D107</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>12/05/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 9/02</activity>
+		<desc>FD - Incidents of radiation exposure</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D107</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 5/02</activity>
+		<desc>FD - Biological factors affecting cellular response</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>12/05/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 8/02</activity>
+		<desc>FD - Impact of side effects on clinical practice</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D107</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 2/02</activity>
+		<desc>FD - Introduction to radiobiology</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 11/01</activity>
+		<desc>UG Evidence for altered fractionation schedules</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 6/02</activity>
+		<desc>FD - Therapeutic ration and tolerance doses</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>12/05/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 10/02</activity>
+		<desc>FD - Types of radiation exposure</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D107</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 3/02</activity>
+		<desc>FD - Effects of radiation</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 12/01</activity>
+		<desc>UG Impact on radiotherapy service provision</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 4/02</activity>
+		<desc>FD - Target theory & cell survival curves</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture/FD 7/02</activity>
+		<desc>FD - Impact of normal tissue and critical organ tolerance on therapeutic ratio</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>12/05/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Tutorial/FD 2/02</activity>
+		<desc>FD - Tutorial / assessment tutorial</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D107</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 5/01</activity>
+		<desc>UG Chemical factors affecting cellular response</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2025</modulecode>
+		<activity>RT2025 Radiobiology/Lecture 7/01</activity>
+		<desc>UG Biological factors affecting cellular response</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>AG03</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

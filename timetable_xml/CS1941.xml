@@ -1,26 +1,28 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1941</modulecode>
-	<activity>CS1941 Positive Psychology term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D222</room>
-	<lecturer>Le Bon, Tim </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1941</modulecode>
-	<activity>CS1941 Positive Psychology term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>AG05</room>
-	<lecturer>Le Bon, Tim </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1941</modulecode>
+		<activity>CS1941 Positive Psychology term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D222</room>
+		<lecturer>Le Bon, Tim </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1941</modulecode>
+		<activity>CS1941 Positive Psychology term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>AG05</room>
+		<lecturer>Le Bon, Tim </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

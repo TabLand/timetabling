@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>ECM023</modulecode>
-	<activity>ECM023 Asset Pricing/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG19</room>
-	<lecturer>Biais, Bruno </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>ECM023</modulecode>
+		<activity>ECM023 Asset Pricing/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG19</room>
+		<lecturer>Biais, Bruno </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

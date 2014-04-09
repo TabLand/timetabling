@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>AS3302</modulecode>
-	<activity>AS3302 Life & Health Insurance/Lecture 1/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C323</room>
-	<lecturer>Cheung, Jacky </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>AS3302</modulecode>
+		<activity>AS3302 Life & Health Insurance/Lecture 1/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C323</room>
+		<lecturer>Cheung, Jacky </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

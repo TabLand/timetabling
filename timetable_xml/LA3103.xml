@@ -1,39 +1,41 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA3103</modulecode>
-	<activity>LA3402 German Advanced (Thur) Autumn/Lead</activity>
-	<desc>Joint with LA3103</desc>
-	<joint>LA3103;LA3103</joint>
-	<studentnos>30</studentnos>
-	<room>C300</room>
-	<lecturer>Kleinlercher, Alexandra </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA3103</modulecode>
-	<activity>LA3103 Lgp German Advanced/Lecture Autumn/Joint</activity>
-	<desc>Joint with LA3402</desc>
-	<joint>LA3103;LA3103</joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>LA3103</modulecode>
-	<activity>LA3103 Lgp German Advanced/Lecture Spring/Joint</activity>
-	<desc>Joint with LA3402</desc>
-	<joint>LA3402;LA3103</joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA3103</modulecode>
+		<activity>LA3402 German Advanced (Thur) Autumn/Lead</activity>
+		<desc>Joint with LA3103</desc>
+		<joint>LA3103;LA3103</joint>
+		<studentnos>30</studentnos>
+		<room>C300</room>
+		<lecturer>Kleinlercher, Alexandra </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA3103</modulecode>
+		<activity>LA3103 Lgp German Advanced/Lecture Autumn/Joint</activity>
+		<desc>Joint with LA3402</desc>
+		<joint>LA3103;LA3103</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>LA3103</modulecode>
+		<activity>LA3103 Lgp German Advanced/Lecture Spring/Joint</activity>
+		<desc>Joint with LA3402</desc>
+		<joint>LA3402;LA3103</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

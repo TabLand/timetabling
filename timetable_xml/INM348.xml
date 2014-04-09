@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM348</modulecode>
-	<activity>INM348 Digital Information Technologies And Architectures/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>DLG03</room>
-	<lecturer>VL 03 - IISOIN </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM348</modulecode>
-	<activity>INM348 Digital Information Technologies And Architectures/Lab 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>A307&8</room>
-	<lecturer>VL 03 - IISOIN </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM348</modulecode>
+		<activity>INM348 Digital Information Technologies And Architectures/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>DLG03</room>
+		<lecturer>VL 03 - IISOIN </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM348</modulecode>
+		<activity>INM348 Digital Information Technologies And Architectures/Lab 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>A307&8</room>
+		<lecturer>VL 03 - IISOIN </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

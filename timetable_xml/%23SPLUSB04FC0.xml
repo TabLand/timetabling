@@ -1,52 +1,54 @@
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>#SPLUSB04FC0</modulecode>
-	<activity>Extracurricular Business Mandarin Lower Intermediate Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>#SPLUSB04FC0</modulecode>
-	<activity>LA0031 Extracurricular Business German Upper Advanced Spring</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C158</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>#SPLUSB04FC0</modulecode>
-	<activity>LA0023 Extracurricular Business Mandarin Beginner Spring</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM02</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>#SPLUSB04FC0</modulecode>
-	<activity>Extracurricular Business Mandarin Lower Intermediate Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>CG05</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>#SPLUSB04FC0</modulecode>
+		<activity>Extracurricular Business Mandarin Lower Intermediate Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>#SPLUSB04FC0</modulecode>
+		<activity>LA0031 Extracurricular Business German Upper Advanced Spring</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C158</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>#SPLUSB04FC0</modulecode>
+		<activity>LA0023 Extracurricular Business Mandarin Beginner Spring</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM02</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>#SPLUSB04FC0</modulecode>
+		<activity>Extracurricular Business Mandarin Lower Intermediate Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>CG05</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>SMM615</modulecode>
-	<activity>SMM615 Derivatives 2/Lecture/WKS 1-7, 9-10</activity>
-	<desc>Spring : FT/PT 1/Kaist : Weeks 1-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>G001</room>
-	<lecturer>Hatgioannides, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/03/14</week>
-	<modulecode>SMM615</modulecode>
-	<activity>SMM615 Derivatives 2/Lecture/WK 8</activity>
-	<desc>Spring : FT/PT 1/Kaist : Week 8 ONLY (replacement)</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>G001</room>
-	<lecturer>Hatgioannides, John </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>SMM615</modulecode>
+		<activity>SMM615 Derivatives 2/Lecture/WKS 1-7, 9-10</activity>
+		<desc>Spring : FT/PT 1/Kaist : Weeks 1-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>G001</room>
+		<lecturer>Hatgioannides, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/03/14</week>
+		<modulecode>SMM615</modulecode>
+		<activity>SMM615 Derivatives 2/Lecture/WK 8</activity>
+		<desc>Spring : FT/PT 1/Kaist : Week 8 ONLY (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>G001</room>
+		<lecturer>Hatgioannides, John </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

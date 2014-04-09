@@ -1,26 +1,28 @@
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>03/02/14</week>
-	<modulecode>SMM471 IAF</modulecode>
-	<activity>SMM471 Finance 2: Advanced Corporate Finance (MSc IAF)/Lecture/wk 2</activity>
-	<desc>IAF - Spring term: Week 2 only (replacement for wk 1 missed)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2003</room>
-	<lecturer>Cestone, Giacinta </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>03/02/14-31/03/14</week>
-	<modulecode>SMM471 IAF</modulecode>
-	<activity>SMM471 Finance 2: Advanced Corporate Finance (MSc IAF)/Lecture/wks 2-10</activity>
-	<desc>IAF - Spring term: Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002</room>
-	<lecturer>Cestone, Giacinta </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>03/02/14</week>
+		<modulecode>SMM471 IAF</modulecode>
+		<activity>SMM471 Finance 2: Advanced Corporate Finance (MSc IAF)/Lecture/wk 2</activity>
+		<desc>IAF - Spring term: Week 2 only (replacement for wk 1 missed)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2003</room>
+		<lecturer>Cestone, Giacinta </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>03/02/14-31/03/14</week>
+		<modulecode>SMM471 IAF</modulecode>
+		<activity>SMM471 Finance 2: Advanced Corporate Finance (MSc IAF)/Lecture/wks 2-10</activity>
+		<desc>IAF - Spring term: Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002</room>
+		<lecturer>Cestone, Giacinta </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14</week>
-	<modulecode>IF2000</modulecode>
-	<activity>IF2000 Welcome Back/T2/BIF yr2/T2/wk 1</activity>
-	<desc>Course Director briefing: BIF year 2 : Spring: Week 1 ONLY</desc>
-	<joint> </joint>
-	<studentnos>91</studentnos>
-	<room>AG21</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/03/14</week>
-	<modulecode>IF2000</modulecode>
-	<activity>IF2000 Dissertation/BIF/Lecture 01</activity>
-	<desc>Spring BIF : Week 7 ONLY</desc>
-	<joint> </joint>
-	<studentnos>116</studentnos>
-	<room>BG03</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>IF2000</modulecode>
-	<activity>IF2000 Welcome Back/BIF yr2/WK 1</activity>
-	<desc>Course Director briefing: Autumn : BIF year 2 : Week 1 ONLY</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Carapeto, Maria </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14</week>
+		<modulecode>IF2000</modulecode>
+		<activity>IF2000 Welcome Back/T2/BIF yr2/T2/wk 1</activity>
+		<desc>Course Director briefing: BIF year 2 : Spring: Week 1 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>91</studentnos>
+		<room>AG21</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/03/14</week>
+		<modulecode>IF2000</modulecode>
+		<activity>IF2000 Dissertation/BIF/Lecture 01</activity>
+		<desc>Spring BIF : Week 7 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>116</studentnos>
+		<room>BG03</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>IF2000</modulecode>
+		<activity>IF2000 Welcome Back/BIF yr2/WK 1</activity>
+		<desc>Course Director briefing: Autumn : BIF year 2 : Week 1 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Carapeto, Maria </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

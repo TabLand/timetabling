@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>16:00</end>
-	<week>23/09/13</week>
-	<modulecode>Databases RE/REI</modulecode>
-	<activity>SMMxxx Databases/RE/REI</activity>
-	<desc>RE/REI</desc>
-	<joint>Databases RE/REI;MSc Induction</joint>
-	<studentnos>106</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:00</end>
-	<week>14/10/13</week>
-	<modulecode>Databases RE/REI</modulecode>
-	<activity>SMMxxx Bloomberg/RE/REI/WK 3</activity>
-	<desc>RE/REI Autumn Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room>LG001</room>
-	<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:10</start>
-	<end>18:00</end>
-	<week>14/10/13</week>
-	<modulecode>Databases RE/REI</modulecode>
-	<activity>SMMxxx Thomson Reuters/RE/REI/WK 3</activity>
-	<desc>RE/REI Autumn Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room>LG001</room>
-	<lecturer>Griffiths, Suzanne </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>16:00</end>
+		<week>23/09/13</week>
+		<modulecode>Databases RE/REI</modulecode>
+		<activity>SMMxxx Databases/RE/REI</activity>
+		<desc>RE/REI</desc>
+		<joint>Databases RE/REI;MSc Induction</joint>
+		<studentnos>106</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:00</end>
+		<week>14/10/13</week>
+		<modulecode>Databases RE/REI</modulecode>
+		<activity>SMMxxx Bloomberg/RE/REI/WK 3</activity>
+		<desc>RE/REI Autumn Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>LG001</room>
+		<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:10</start>
+		<end>18:00</end>
+		<week>14/10/13</week>
+		<modulecode>Databases RE/REI</modulecode>
+		<activity>SMMxxx Thomson Reuters/RE/REI/WK 3</activity>
+		<desc>RE/REI Autumn Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>LG001</room>
+		<lecturer>Griffiths, Suzanne </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

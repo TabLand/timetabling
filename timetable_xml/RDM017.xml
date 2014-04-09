@@ -1,182 +1,184 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 1/01</activity>
-	<desc>Lecture 1</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 7/01</activity>
-	<desc>Lecture 7</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:50</end>
-	<week>14/04/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 13/02</activity>
-	<desc>Group 2 Presentation Morning</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D106</room>
-	<lecturer>VL 01 - HARADI </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:50</end>
-	<week>14/04/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 13/01</activity>
-	<desc>Group 1 Presentation Morning (rooms nearby)</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D113</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>27/01/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 2/01</activity>
-	<desc>Lecture 2</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 8/01</activity>
-	<desc>Lec 8: Library literature search session - go to Library level 3</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>No room needed</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 3/01</activity>
-	<desc>Lecture 3</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 9/01</activity>
-	<desc>Lecture 9</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>27/01/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 4/01</activity>
-	<desc>Lecture 4</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 10/01</activity>
-	<desc>Lecture 10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 5/01</activity>
-	<desc>Lecture 5</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 11/01</activity>
-	<desc>Lecture 11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>27/01/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 6/01</activity>
-	<desc>Lecture 6</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RDM017</modulecode>
-	<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 12/01</activity>
-	<desc>Lecture 12</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 1/01</activity>
+		<desc>Lecture 1</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 7/01</activity>
+		<desc>Lecture 7</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:50</end>
+		<week>14/04/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 13/02</activity>
+		<desc>Group 2 Presentation Morning</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D106</room>
+		<lecturer>VL 01 - HARADI </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:50</end>
+		<week>14/04/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 13/01</activity>
+		<desc>Group 1 Presentation Morning (rooms nearby)</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D113</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>27/01/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 2/01</activity>
+		<desc>Lecture 2</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 8/01</activity>
+		<desc>Lec 8: Library literature search session - go to Library level 3</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>No room needed</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 3/01</activity>
+		<desc>Lecture 3</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 9/01</activity>
+		<desc>Lecture 9</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>27/01/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 4/01</activity>
+		<desc>Lecture 4</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 10/01</activity>
+		<desc>Lecture 10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 5/01</activity>
+		<desc>Lecture 5</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 11/01</activity>
+		<desc>Lecture 11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>27/01/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 6/01</activity>
+		<desc>Lecture 6</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RDM017</modulecode>
+		<activity>RDM017 Clinical Applications Of Medical Magnetic Resonance/Lecture 12/01</activity>
+		<desc>Lecture 12</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

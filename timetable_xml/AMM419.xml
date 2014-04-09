@@ -1,26 +1,28 @@
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMM419</modulecode>
-	<activity>AMM419 Fundraising in and for the Cultural Sector</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C336</room>
-	<lecturer>VL 03 - AAARTP </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:30</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMM419</modulecode>
-	<activity>AMM419 Fundraising in and for the Cultural Sector</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C302</room>
-	<lecturer>VL 03 - AAARTP </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMM419</modulecode>
+		<activity>AMM419 Fundraising in and for the Cultural Sector</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C336</room>
+		<lecturer>VL 03 - AAARTP </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:30</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMM419</modulecode>
+		<activity>AMM419 Fundraising in and for the Cultural Sector</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C302</room>
+		<lecturer>VL 03 - AAARTP </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

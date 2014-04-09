@@ -1,78 +1,80 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>24/02/14</week>
-	<modulecode>SMM188</modulecode>
-	<activity>SMM188 Real Estate Capital Markets/Lecture 1/WK 5</activity>
-	<desc>Spring lecture: Week 5</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>LG003</room>
-	<lecturer>Moss, Alex </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>SMM188</modulecode>
-	<activity>SMM188 Real Estate Capital Markets/Lecture 1/WKS 1-3</activity>
-	<desc>Spring lecture: Weeks 1-3</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2004</room>
-	<lecturer>Moss, Alex </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM188</modulecode>
-	<activity>SMM188 Real Estate Capital Markets/Lecture 1/WK 4</activity>
-	<desc>Spring lecture: Week 4</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>LG001</room>
-	<lecturer>Moss, Alex </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/03/14</week>
-	<modulecode>SMM188</modulecode>
-	<activity>SMM188 Real Estate Capital Markets/Lecture 1/WK 6</activity>
-	<desc>Spring Lecture - Week 6 only</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2005</room>
-	<lecturer>Martin, Simon Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>24/03/14-31/03/14</week>
-	<modulecode>SMM188</modulecode>
-	<activity>SMM188 Real Estate Capital Markets/Lecture 1/WKS 9-10</activity>
-	<desc>Spring Lecture - Weeks 9 - 10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2005</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>SMM188</modulecode>
-	<activity>SMM188 Real Estate Capital Markets/Lecture/WK 8</activity>
-	<desc>Spring Lecture - Week 8 ONLY - ALL DAY</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3003</room>
-	<lecturer>Martin, Simon Prof. </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>24/02/14</week>
+		<modulecode>SMM188</modulecode>
+		<activity>SMM188 Real Estate Capital Markets/Lecture 1/WK 5</activity>
+		<desc>Spring lecture: Week 5</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>LG003</room>
+		<lecturer>Moss, Alex </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>SMM188</modulecode>
+		<activity>SMM188 Real Estate Capital Markets/Lecture 1/WKS 1-3</activity>
+		<desc>Spring lecture: Weeks 1-3</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2004</room>
+		<lecturer>Moss, Alex </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM188</modulecode>
+		<activity>SMM188 Real Estate Capital Markets/Lecture 1/WK 4</activity>
+		<desc>Spring lecture: Week 4</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>LG001</room>
+		<lecturer>Moss, Alex </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/03/14</week>
+		<modulecode>SMM188</modulecode>
+		<activity>SMM188 Real Estate Capital Markets/Lecture 1/WK 6</activity>
+		<desc>Spring Lecture - Week 6 only</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2005</room>
+		<lecturer>Martin, Simon Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>24/03/14-31/03/14</week>
+		<modulecode>SMM188</modulecode>
+		<activity>SMM188 Real Estate Capital Markets/Lecture 1/WKS 9-10</activity>
+		<desc>Spring Lecture - Weeks 9 - 10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2005</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>SMM188</modulecode>
+		<activity>SMM188 Real Estate Capital Markets/Lecture/WK 8</activity>
+		<desc>Spring Lecture - Week 8 ONLY - ALL DAY</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3003</room>
+		<lecturer>Martin, Simon Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

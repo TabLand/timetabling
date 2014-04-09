@@ -1,169 +1,171 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>17/02/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>Advanced Presentation Skills (MEMBA) (Matt Corker)</activity>
-	<desc>MEMBA13/Careers Dept - :Bunhill Row : flat room 2 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA13/BR/March/Mon/Lecture 01</activity>
-	<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 04 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA13/BR/March/Mon/Lecture 01</activity>
-	<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 01 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>21/07/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA14/BR/July/Mon/Lecture</activity>
-	<desc>MEMBA14/Careers Dept - for 2013-14 - Bunhill Row (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>6001;LG002;LG003;2005</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>14:00</end>
-	<week>16/09/13</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA13/BR/Sept/Networking: connecting for Success</activity>
-	<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>17:00</end>
-	<week>16/09/13</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA13/BR/Sept/Bridging the Culture Gap - international Business Communication</activity>
-	<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>3002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>13:00</end>
-	<week>17/02/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>CV Skills (MEMBA)</activity>
-	<desc>MEMBA13/Careers Dept - :Bunhill Row : flat room 3 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>17:30</end>
-	<week>17/02/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>Influencing and Persuading (MEMBA) David Solomon</activity>
-	<desc>MEMBA13/Careers Dept - :Bunhill Row : flat room 4 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>17:30</end>
-	<week>17/02/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>Team Transition and Transformation (MEMBA) Catherine Hayes</activity>
-	<desc>MEMBA13/Careers Dept - Bunhill Row : flat room 1 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>10/03/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA13/BR/March/Fri/Lecture 02</activity>
-	<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 03 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>LG002</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>10/03/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA13/BR/March/Fri/Lecture 02</activity>
-	<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 02 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>LG003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>10/03/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA13/BR/March/Fri/Lecture 01</activity>
-	<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row: flat room 01 (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>14/07/14</week>
-	<modulecode>MBM019</modulecode>
-	<activity>MBM019 Professional Development MEMBA14/BR/July/Fri/Lecture</activity>
-	<desc>MEMBA14/Careers Dept - for 2013-14 - Bunhill Row (tbc if req'd)</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>6001;LG002;LG003;2005</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>17/02/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>Advanced Presentation Skills (MEMBA) (Matt Corker)</activity>
+		<desc>MEMBA13/Careers Dept - :Bunhill Row : flat room 2 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA13/BR/March/Mon/Lecture 01</activity>
+		<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 04 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA13/BR/March/Mon/Lecture 01</activity>
+		<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 01 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>21/07/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA14/BR/July/Mon/Lecture</activity>
+		<desc>MEMBA14/Careers Dept - for 2013-14 - Bunhill Row (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>6001;LG002;LG003;2005</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>14:00</end>
+		<week>16/09/13</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA13/BR/Sept/Networking: connecting for Success</activity>
+		<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>17:00</end>
+		<week>16/09/13</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA13/BR/Sept/Bridging the Culture Gap - international Business Communication</activity>
+		<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>3002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>13:00</end>
+		<week>17/02/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>CV Skills (MEMBA)</activity>
+		<desc>MEMBA13/Careers Dept - :Bunhill Row : flat room 3 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>17:30</end>
+		<week>17/02/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>Influencing and Persuading (MEMBA) David Solomon</activity>
+		<desc>MEMBA13/Careers Dept - :Bunhill Row : flat room 4 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>17:30</end>
+		<week>17/02/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>Team Transition and Transformation (MEMBA) Catherine Hayes</activity>
+		<desc>MEMBA13/Careers Dept - Bunhill Row : flat room 1 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>10/03/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA13/BR/March/Fri/Lecture 02</activity>
+		<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 03 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>LG002</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>10/03/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA13/BR/March/Fri/Lecture 02</activity>
+		<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row flat room 02 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>LG003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>10/03/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA13/BR/March/Fri/Lecture 01</activity>
+		<desc>MEMBA13/Careers Dept - for 2013-14 - Bunhill Row: flat room 01 (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>14/07/14</week>
+		<modulecode>MBM019</modulecode>
+		<activity>MBM019 Professional Development MEMBA14/BR/July/Fri/Lecture</activity>
+		<desc>MEMBA14/Careers Dept - for 2013-14 - Bunhill Row (tbc if req'd)</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>6001;LG002;LG003;2005</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

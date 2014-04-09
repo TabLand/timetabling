@@ -1,273 +1,275 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Exam 03/01</activity>
-	<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C330;C357</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>23/06/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Summer 04/01</activity>
-	<desc>Summer Tutorial - case presentations x 3 rooms</desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>I106;I103;IG03</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>17:30</end>
-	<week>07/04/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Exam 03/02</activity>
-	<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C337;C357</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13, 14/10/13, 18/11/13, 02/12/13</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Lecture/Autumn 01/02</activity>
-	<desc>Professional Studies (2)-Intervention Master Class - Autumn (Removed ML & BC)</desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>C339</room>
-	<lecturer>Levin, Abigail;Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Autumn 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>IG03</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Autumn 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>D112</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Autumn 01/01</activity>
-	<desc>Professional Studies (2)-tutorial-Autumn</desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>C357</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Spring 02/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>C357</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Spring 02/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>IG03</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Spring 02/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>D106</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Lecture/Spring 02/02</activity>
-	<desc>Spring: Intervention Master Class</desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>C161</room>
-	<lecturer>Hasson, Natalie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>09/06/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Summer 03/03</activity>
-	<desc> </desc>
-	<joint>SL2006;SL2006;SL2006</joint>
-	<studentnos>13</studentnos>
-	<room>AG11</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>09/06/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Summer 03/02</activity>
-	<desc> </desc>
-	<joint>SL2006;SL2006;SL2006</joint>
-	<studentnos>13</studentnos>
-	<room>A108</room>
-	<lecturer>Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>09/06/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Summer 03/01</activity>
-	<desc>Summer Tutorial</desc>
-	<joint>SL2006;SL2006;SL2006</joint>
-	<studentnos>13</studentnos>
-	<room>I203/I206</room>
-	<lecturer>Hasson, Natalie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>23/06/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Tutorial/Summer 04/02</activity>
-	<desc>Summer Tutorial - case presentations x 3 rooms</desc>
-	<joint> </joint>
-	<studentnos>13</studentnos>
-	<room>I106;I103;IG03</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Exam 03/03</activity>
-	<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C328</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>17:30</end>
-	<week>07/04/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Exam 03/04</activity>
-	<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C167;C300</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Exam 03/05</activity>
-	<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C330;C357</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>17:30</end>
-	<week>07/04/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Exam 03/06</activity>
-	<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C330;C337</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:50</end>
-	<week>07/04/14</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Exam 03/07</activity>
-	<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C330</room>
-	<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>18/11/13</week>
-	<modulecode>SL2006</modulecode>
-	<activity>SL2006 Professional Studies (2)/Lecture/Autumn 01/02/Nov 21st</activity>
-	<desc>Catch-Up session</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>BLG08</room>
-	<lecturer>Knight, R A </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Exam 03/01</activity>
+		<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C330;C357</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>23/06/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Summer 04/01</activity>
+		<desc>Summer Tutorial - case presentations x 3 rooms</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>I106;I103;IG03</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>17:30</end>
+		<week>07/04/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Exam 03/02</activity>
+		<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C337;C357</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13, 14/10/13, 18/11/13, 02/12/13</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Lecture/Autumn 01/02</activity>
+		<desc>Professional Studies (2)-Intervention Master Class - Autumn (Removed ML & BC)</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>C339</room>
+		<lecturer>Levin, Abigail;Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Autumn 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>IG03</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Autumn 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>D112</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Autumn 01/01</activity>
+		<desc>Professional Studies (2)-tutorial-Autumn</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>C357</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Spring 02/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>C357</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Spring 02/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>IG03</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Spring 02/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>D106</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Lecture/Spring 02/02</activity>
+		<desc>Spring: Intervention Master Class</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>C161</room>
+		<lecturer>Hasson, Natalie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>09/06/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Summer 03/03</activity>
+		<desc>-</desc>
+		<joint>SL2006;SL2006;SL2006</joint>
+		<studentnos>13</studentnos>
+		<room>AG11</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>09/06/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Summer 03/02</activity>
+		<desc>-</desc>
+		<joint>SL2006;SL2006;SL2006</joint>
+		<studentnos>13</studentnos>
+		<room>A108</room>
+		<lecturer>Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>09/06/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Summer 03/01</activity>
+		<desc>Summer Tutorial</desc>
+		<joint>SL2006;SL2006;SL2006</joint>
+		<studentnos>13</studentnos>
+		<room>I203/I206</room>
+		<lecturer>Hasson, Natalie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>23/06/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Tutorial/Summer 04/02</activity>
+		<desc>Summer Tutorial - case presentations x 3 rooms</desc>
+		<joint>-</joint>
+		<studentnos>13</studentnos>
+		<room>I106;I103;IG03</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Exam 03/03</activity>
+		<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C328</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>17:30</end>
+		<week>07/04/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Exam 03/04</activity>
+		<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C167;C300</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Exam 03/05</activity>
+		<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C330;C357</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>17:30</end>
+		<week>07/04/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Exam 03/06</activity>
+		<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C330;C337</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:50</end>
+		<week>07/04/14</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Exam 03/07</activity>
+		<desc>2 Rooms required every day w/c 7/4/14 9:00-5:30</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C330</room>
+		<lecturer>Hasson, Natalie;Williams, Roberta </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>18/11/13</week>
+		<modulecode>SL2006</modulecode>
+		<activity>SL2006 Professional Studies (2)/Lecture/Autumn 01/02/Nov 21st</activity>
+		<desc>Catch-Up session</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>BLG08</room>
+		<lecturer>Knight, R A </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

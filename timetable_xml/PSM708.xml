@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>12/05/14-02/06/14</week>
-	<modulecode>PSM708</modulecode>
-	<activity>PSM708 Research, Design and Analysis (2)/Lecture 01/WKS 1-4</activity>
-	<desc>Weeks 1-4</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>E212</room>
-	<lecturer>Filippopoulos, Pavlos;Jones Neilsen, Jessica </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>09/06/14-14/07/14</week>
-	<modulecode>PSM708</modulecode>
-	<activity>PSM708 Research, Design and Analysis (2)/Lecture 01/WKS 5-10</activity>
-	<desc>Weeks 5-10</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>DLG19</room>
-	<lecturer>Jones Neilsen, Jessica;Filippopoulos, Pavlos </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>12/05/14-02/06/14</week>
+		<modulecode>PSM708</modulecode>
+		<activity>PSM708 Research, Design and Analysis (2)/Lecture 01/WKS 1-4</activity>
+		<desc>Weeks 1-4</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>E212</room>
+		<lecturer>Filippopoulos, Pavlos;Jones Neilsen, Jessica </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>09/06/14-14/07/14</week>
+		<modulecode>PSM708</modulecode>
+		<activity>PSM708 Research, Design and Analysis (2)/Lecture 01/WKS 5-10</activity>
+		<desc>Weeks 5-10</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>DLG19</room>
+		<lecturer>Jones Neilsen, Jessica;Filippopoulos, Pavlos </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

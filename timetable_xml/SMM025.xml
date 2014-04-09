@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14, 09/06/14, 23/06/14</week>
-	<modulecode>SMM025</modulecode>
-	<activity>SMM025 Stochastic Claims Reserving In General Insurance/Lecture/wks 1,5,7</activity>
-	<desc>Lecture : Weeks 1, 5, 7</desc>
-	<joint>SMM025;SMM025</joint>
-	<studentnos>39</studentnos>
-	<room>3003</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>19/05/14, 02/06/14, 16/06/14</week>
-	<modulecode>SMM025</modulecode>
-	<activity>SMM025 Stochastic Claims Reserving In General Insurance/Computer LAB/wks 2,4,6</activity>
-	<desc>Computer LAB : Weeks 2,4,6</desc>
-	<joint>SMM025;SMM025</joint>
-	<studentnos>39</studentnos>
-	<room>2001</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14, 09/06/14, 23/06/14</week>
+		<modulecode>SMM025</modulecode>
+		<activity>SMM025 Stochastic Claims Reserving In General Insurance/Lecture/wks 1,5,7</activity>
+		<desc>Lecture : Weeks 1, 5, 7</desc>
+		<joint>SMM025;SMM025</joint>
+		<studentnos>39</studentnos>
+		<room>3003</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>19/05/14, 02/06/14, 16/06/14</week>
+		<modulecode>SMM025</modulecode>
+		<activity>SMM025 Stochastic Claims Reserving In General Insurance/Computer LAB/wks 2,4,6</activity>
+		<desc>Computer LAB : Weeks 2,4,6</desc>
+		<joint>SMM025;SMM025</joint>
+		<studentnos>39</studentnos>
+		<room>2001</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

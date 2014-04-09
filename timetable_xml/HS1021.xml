@@ -1,936 +1,938 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/03</activity>
-	<desc>Evaluation: CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>A107</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:30</start>
-	<end>11:50</end>
-	<week>10/02/14, 10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG24b</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:30</start>
-	<end>11:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG24b</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Howard, C;Boswell, G;Mahoney, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C232</room>
-	<lecturer>Bliss, M;Mahoney, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C232</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C232</room>
-	<lecturer>Bliss, M;Mahoney, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Ellis, M;Hughes, V </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Klufio, A;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Ellis, M;Hughes, V </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BLG08</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>24/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BLG08</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BLG08</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BLG08</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C232</room>
-	<lecturer>Francis, A;Bliss, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C232</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C232</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Boswell, G;Mahoney, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>A111</room>
-	<lecturer>Phillips, L </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>10/02/14-03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>CG56</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>CG56</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Klufio, A;Anderson, D;Hughes, V </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Manning, A;Boswell, G;Mahoney, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Manning, A;Boswell, G;Mahoney, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Ellis, M;Mahoney, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Anderson, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24b</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>10/02/14-10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>A227</room>
-	<lecturer>Grant, R </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>24/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24b</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24b</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24b</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>17/03/14, 31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C208/210</room>
-	<lecturer>Grant, R;Mahoney, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C208/210</room>
-	<lecturer>Grant, R </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/02</activity>
-	<desc>Evaluation: CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C150</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM03</room>
-	<lecturer>Klufio, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>24/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM03</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM03</room>
-	<lecturer>Smith, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM03</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Klufio, A;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>24/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24a</room>
-	<lecturer>Flood, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24a</room>
-	<lecturer>Flood, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/01</activity>
-	<desc>Evaluation: CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C323</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>BLG08</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>10/02/14, 10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG24b</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG24b</room>
-	<lecturer>Hunter, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Eales, S;Grant, R </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Manning, A;Boswell, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/catch up</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>0</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Boswell, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Anderson, D;Manning, A;Boswell, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24b</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Bliss, M;Ellis, M;Flood, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Rawlings-Anderson, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>17/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Rawlings-Anderson, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Eales, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Treacy, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Bliss, M;Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>17/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Lecture/02/01</activity>
-	<desc>CN all groups</desc>
-	<joint> </joint>
-	<studentnos>68</studentnos>
-	<room>CG04</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Klufio, A;Anderson, D;Hughes, V </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>17/03/14, 31/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bliss, M;Mahoney, P </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>24/03/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C208/210</room>
-	<lecturer>Lucktung, P;Bliss, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Phillips, L </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>24/02/14</week>
-	<modulecode>HS1021</modulecode>
-	<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/03</activity>
-	<desc>Sim prac: EBL CN/02 Michelle Ellis</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C208/210</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/03</activity>
+		<desc>Evaluation: CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>A107</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:30</start>
+		<end>11:50</end>
+		<week>10/02/14, 10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG24b</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:30</start>
+		<end>11:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG24b</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Howard, C;Boswell, G;Mahoney, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C232</room>
+		<lecturer>Bliss, M;Mahoney, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C232</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C232</room>
+		<lecturer>Bliss, M;Mahoney, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Ellis, M;Hughes, V </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Klufio, A;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Ellis, M;Hughes, V </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BLG08</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>24/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BLG08</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BLG08</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BLG08</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C232</room>
+		<lecturer>Francis, A;Bliss, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C232</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C232</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Boswell, G;Mahoney, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>A111</room>
+		<lecturer>Phillips, L </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>10/02/14-03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>CG56</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>CG56</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Klufio, A;Anderson, D;Hughes, V </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Manning, A;Boswell, G;Mahoney, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Manning, A;Boswell, G;Mahoney, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Ellis, M;Mahoney, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Anderson, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24b</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>10/02/14-10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>A227</room>
+		<lecturer>Grant, R </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>24/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24b</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24b</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24b</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>17/03/14, 31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C208/210</room>
+		<lecturer>Grant, R;Mahoney, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C208/210</room>
+		<lecturer>Grant, R </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/02</activity>
+		<desc>Evaluation: CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C150</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM03</room>
+		<lecturer>Klufio, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>24/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM03</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM03</room>
+		<lecturer>Smith, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM03</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Klufio, A;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>24/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24a</room>
+		<lecturer>Flood, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24a</room>
+		<lecturer>Flood, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/01</activity>
+		<desc>Evaluation: CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C323</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>BLG08</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>10/02/14, 10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG24b</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG24b</room>
+		<lecturer>Hunter, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Eales, S;Grant, R </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Manning, A;Boswell, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/catch up</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>0</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Boswell, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Anderson, D;Manning, A;Boswell, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24b</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Bliss, M;Ellis, M;Flood, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Rawlings-Anderson, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>17/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Rawlings-Anderson, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Eales, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Treacy, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Bliss, M;Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>17/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Lecture/02/01</activity>
+		<desc>CN all groups</desc>
+		<joint>-</joint>
+		<studentnos>68</studentnos>
+		<room>CG04</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Manual handling/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Klufio, A;Anderson, D;Hughes, V </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>17/03/14, 31/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bliss, M;Mahoney, P </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>24/03/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C208/210</room>
+		<lecturer>Lucktung, P;Bliss, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Phillips, L </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>24/02/14</week>
+		<modulecode>HS1021</modulecode>
+		<activity>HS1021 Developing Relationship-Centered Practice/Tutorial/2/03</activity>
+		<desc>Sim prac: EBL CN/02 Michelle Ellis</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C208/210</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

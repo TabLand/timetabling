@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JOXXX2</modulecode>
-	<activity>JO3209 Arts and Culture Specialism/Lab term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG04</room>
-	<lecturer>Sherwin, Skye </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JOXXX2</modulecode>
+		<activity>JO3209 Arts and Culture Specialism/Lab term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG04</room>
+		<lecturer>Sherwin, Skye </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

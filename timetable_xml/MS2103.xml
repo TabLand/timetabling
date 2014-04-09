@@ -1,91 +1,93 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>MS2103</modulecode>
-	<activity>MS2103 Operations Management/MGT/Lecture 02/02/wks 1-5</activity>
-	<desc>Stream 2 - MGT & Exchange students: Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Geary</room>
-	<lecturer>Roden, Sinead </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/03/14-17/03/14, 31/03/14-07/04/14</week>
-	<modulecode>MS2103</modulecode>
-	<activity>MS2103 Operations Management/MGT/Lecture 02/02/wks 7-8, 10-11</activity>
-	<desc>Stream 2 - MGT & Exchange students : Weeks 7-8, 10-11</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Geary</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>MS2103</modulecode>
-	<activity>MS2103 Operations Management/MGT/Lecture 02/02/wk 9</activity>
-	<desc>Stream 2 - MGT & Exchange students : Week 9 ONLY (Replacement room)</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>MS2103</modulecode>
-	<activity>MS2103 Operations Management/BUS/Lecture 01/02/wks 1-5</activity>
-	<desc>Stream 1 - BUS- Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Geary</room>
-	<lecturer>Roden, Sinead </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>10/03/14-17/03/14, 31/03/14-07/04/14</week>
-	<modulecode>MS2103</modulecode>
-	<activity>MS2103 Operations Management/BUS/Lecture 01/02/wks 7-8, 10-11</activity>
-	<desc>Stream 1 - BUS- Weeks 7-8, 10-11</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Geary</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/03/14</week>
-	<modulecode>MS2103</modulecode>
-	<activity>MS2103 Operations Management/BUS,MGT/Lecture 02/02/wk 7</activity>
-	<desc>Streams 1 & 2 - BUS, MGT & Exchange students: Week 7 ONLY (Replacement for wk 6 missed)</desc>
-	<joint> </joint>
-	<studentnos>251</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Roden, Sinead </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>24/03/14</week>
-	<modulecode>MS2103</modulecode>
-	<activity>MS2103 Operations Management/BUS/Lecture 01/02/wk 9</activity>
-	<desc>Stream 1 - BUS- Week 9 ONLY (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>MS2103</modulecode>
+		<activity>MS2103 Operations Management/MGT/Lecture 02/02/wks 1-5</activity>
+		<desc>Stream 2 - MGT & Exchange students: Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Geary</room>
+		<lecturer>Roden, Sinead </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/03/14-17/03/14, 31/03/14-07/04/14</week>
+		<modulecode>MS2103</modulecode>
+		<activity>MS2103 Operations Management/MGT/Lecture 02/02/wks 7-8, 10-11</activity>
+		<desc>Stream 2 - MGT & Exchange students : Weeks 7-8, 10-11</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Geary</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>MS2103</modulecode>
+		<activity>MS2103 Operations Management/MGT/Lecture 02/02/wk 9</activity>
+		<desc>Stream 2 - MGT & Exchange students : Week 9 ONLY (Replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>MS2103</modulecode>
+		<activity>MS2103 Operations Management/BUS/Lecture 01/02/wks 1-5</activity>
+		<desc>Stream 1 - BUS- Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Geary</room>
+		<lecturer>Roden, Sinead </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>10/03/14-17/03/14, 31/03/14-07/04/14</week>
+		<modulecode>MS2103</modulecode>
+		<activity>MS2103 Operations Management/BUS/Lecture 01/02/wks 7-8, 10-11</activity>
+		<desc>Stream 1 - BUS- Weeks 7-8, 10-11</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Geary</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/03/14</week>
+		<modulecode>MS2103</modulecode>
+		<activity>MS2103 Operations Management/BUS,MGT/Lecture 02/02/wk 7</activity>
+		<desc>Streams 1 & 2 - BUS, MGT & Exchange students: Week 7 ONLY (Replacement for wk 6 missed)</desc>
+		<joint>-</joint>
+		<studentnos>251</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Roden, Sinead </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>24/03/14</week>
+		<modulecode>MS2103</modulecode>
+		<activity>MS2103 Operations Management/BUS/Lecture 01/02/wk 9</activity>
+		<desc>Stream 1 - BUS- Week 9 ONLY (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

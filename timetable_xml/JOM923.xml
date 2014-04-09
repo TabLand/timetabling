@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>25/11/13</week>
-	<modulecode>JOM923</modulecode>
-	<activity>JOM923 International News 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>AG07</room>
-	<lecturer>Owen, Prof John </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>17/03/14</week>
-	<modulecode>JOM923</modulecode>
-	<activity>JOM923 International News</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>C301</room>
-	<lecturer>Gilroy-Ware, Marcus </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>25/11/13</week>
-	<modulecode>JOM923</modulecode>
-	<activity>JOM923 International News 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG07</room>
-	<lecturer>Owen, Prof John </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>30/09/13-18/11/13, 02/12/13</week>
-	<modulecode>JOM923</modulecode>
-	<activity>JOM923 International News 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG07</room>
-	<lecturer>Owen, Prof John </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>25/11/13</week>
+		<modulecode>JOM923</modulecode>
+		<activity>JOM923 International News 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>AG07</room>
+		<lecturer>Owen, Prof John </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>17/03/14</week>
+		<modulecode>JOM923</modulecode>
+		<activity>JOM923 International News</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>C301</room>
+		<lecturer>Gilroy-Ware, Marcus </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>25/11/13</week>
+		<modulecode>JOM923</modulecode>
+		<activity>JOM923 International News 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG07</room>
+		<lecturer>Owen, Prof John </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>30/09/13-18/11/13, 02/12/13</week>
+		<modulecode>JOM923</modulecode>
+		<activity>JOM923 International News 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG07</room>
+		<lecturer>Owen, Prof John </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

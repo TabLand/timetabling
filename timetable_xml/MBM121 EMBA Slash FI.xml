@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>07/07/14</week>
-	<modulecode>MBM121 EMBA/FI</modulecode>
-	<activity>MBM121 Investment & Derivatives/EMBA/FI/Syn Rooms 01</activity>
-	<desc>EMBA stage 2 - Friday evening: Jafree, Khurram : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>N220;N214;N213;N212</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>07/07/14</week>
-	<modulecode>MBM121 EMBA/FI</modulecode>
-	<activity>MBM121 Investment & Derivatives/EMBA/FI/Lecture 01</activity>
-	<desc>EMBA stage 2 (Fri 6-9pm) Joint with MSc FI</desc>
-	<joint> </joint>
-	<studentnos>27</studentnos>
-	<room>N216b</room>
-	<lecturer>Jafree, Khurram </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>07/07/14</week>
+		<modulecode>MBM121 EMBA/FI</modulecode>
+		<activity>MBM121 Investment & Derivatives/EMBA/FI/Syn Rooms 01</activity>
+		<desc>EMBA stage 2 - Friday evening: Jafree, Khurram : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>N220;N214;N213;N212</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>07/07/14</week>
+		<modulecode>MBM121 EMBA/FI</modulecode>
+		<activity>MBM121 Investment & Derivatives/EMBA/FI/Lecture 01</activity>
+		<desc>EMBA stage 2 (Fri 6-9pm) Joint with MSc FI</desc>
+		<joint>-</joint>
+		<studentnos>27</studentnos>
+		<room>N216b</room>
+		<lecturer>Jafree, Khurram </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

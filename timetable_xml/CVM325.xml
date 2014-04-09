@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>CVM325</modulecode>
-	<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 1/02/JOINT</activity>
-	<desc>Joint with CVM305: total numbers 50</desc>
-	<joint>CVM325;CVM305</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>CVM325</modulecode>
-	<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 2/02/JOINT</activity>
-	<desc>Joint with CVM305: total numbers 50</desc>
-	<joint>CVM325;CVM305</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>CVM325</modulecode>
-	<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 1/01/JOINT</activity>
-	<desc>Joint with CVM305: total numbers 35</desc>
-	<joint>CVM325;CVM305</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>CVM325</modulecode>
-	<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 2/01/JOINT</activity>
-	<desc>Joint with CVM305: total numbers 50</desc>
-	<joint>CVM305;CVM325</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>CVM325</modulecode>
+		<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 1/02/JOINT</activity>
+		<desc>Joint with CVM305: total numbers 50</desc>
+		<joint>CVM325;CVM305</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>CVM325</modulecode>
+		<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 2/02/JOINT</activity>
+		<desc>Joint with CVM305: total numbers 50</desc>
+		<joint>CVM325;CVM305</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>CVM325</modulecode>
+		<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 1/01/JOINT</activity>
+		<desc>Joint with CVM305: total numbers 35</desc>
+		<joint>CVM325;CVM305</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>CVM325</modulecode>
+		<activity>CVM325 Integrated Design Project (with Architecture)/Lecture 2/01/JOINT</activity>
+		<desc>Joint with CVM305: total numbers 50</desc>
+		<joint>CVM305;CVM325</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>EPM778</modulecode>
-	<activity>EPM778 Introduction to Control/Lecture 1/01</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>AG08</room>
-	<lecturer>Ellis, J </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>EPM778</modulecode>
+		<activity>EPM778 Introduction to Control/Lecture 1/01</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>AG08</room>
+		<lecturer>Ellis, J </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM619</modulecode>
-	<activity>SMM619 Fixed Income Arbitrage & Trading/Lecture 01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>3002</room>
-	<lecturer>Hatgioannides, John </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM619</modulecode>
+		<activity>SMM619 Fixed Income Arbitrage & Trading/Lecture 01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>3002</room>
+		<lecturer>Hatgioannides, John </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

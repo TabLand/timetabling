@@ -1,143 +1,145 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880/JOM928 Journalism Practice 1/Obituary writing</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>CG02</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>20/01/14-10/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice term 2/Lab 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-03/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice term 2/Lab 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG37</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>10/03/14-24/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice term 2/Lab 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG13</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>17/03/14-24/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice term 2/Lab 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>EG12</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>17/02/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880/JOM928 Journalism Practice 1/Travel Journalism</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>CG02</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>24/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>18:50</end>
-	<week>20/01/14-03/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>18:50</end>
-	<week>10/03/14-17/03/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG24a;AG13</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>20/01/14</week>
-	<modulecode>JOM880</modulecode>
-	<activity>JOM880 Journalism Practice briefing</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG36</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880/JOM928 Journalism Practice 1/Obituary writing</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>CG02</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>20/01/14-10/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice term 2/Lab 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-03/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice term 2/Lab 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG37</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>10/03/14-24/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice term 2/Lab 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG13</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>17/03/14-24/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice term 2/Lab 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>EG12</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>17/02/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880/JOM928 Journalism Practice 1/Travel Journalism</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>CG02</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>24/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>18:50</end>
+		<week>20/01/14-03/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>18:50</end>
+		<week>10/03/14-17/03/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice 2 (Print) term 2/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG24a;AG13</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>20/01/14</week>
+		<modulecode>JOM880</modulecode>
+		<activity>JOM880 Journalism Practice briefing</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG36</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

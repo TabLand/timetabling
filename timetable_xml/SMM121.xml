@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>19/05/14-23/06/14</week>
-	<modulecode>SMM121</modulecode>
-	<activity>SMM121 Hedge Funds/Stream 02/02/Lecture/WKS 2-7</activity>
-	<desc>Stream 02 of 02 : WEEKS 2-7</desc>
-	<joint> </joint>
-	<studentnos>162</studentnos>
-	<room>LG001</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>19/05/14-23/06/14</week>
+		<modulecode>SMM121</modulecode>
+		<activity>SMM121 Hedge Funds/Stream 02/02/Lecture/WKS 2-7</activity>
+		<desc>Stream 02 of 02 : WEEKS 2-7</desc>
+		<joint>-</joint>
+		<studentnos>162</studentnos>
+		<room>LG001</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

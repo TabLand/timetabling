@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IPM010</modulecode>
-	<activity>IPM010 Political Islam in Global Politics/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D222</room>
-	<lecturer>Silvestri, Sara </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IPM010</modulecode>
+		<activity>IPM010 Political Islam in Global Politics/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D222</room>
+		<lecturer>Silvestri, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

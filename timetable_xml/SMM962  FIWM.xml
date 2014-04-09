@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
-	<modulecode>SMM962 FIWM</modulecode>
-	<activity>SMM962 Structured Products/Lecture/WKS 1-3, 5-10</activity>
-	<desc>MSc FI (Elective YR 2 Term 2) choose 2 from SMM519/520/962 : Weeks 1-3, 5-10</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2005</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM962 FIWM</modulecode>
-	<activity>SMM962 Structured Products/Lecture/WK 4</activity>
-	<desc>MSc FI (Elective Year 2 Term 2 ) Week 4 only (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2006</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+		<modulecode>SMM962 FIWM</modulecode>
+		<activity>SMM962 Structured Products/Lecture/WKS 1-3, 5-10</activity>
+		<desc>MSc FI (Elective YR 2 Term 2) choose 2 from SMM519/520/962 : Weeks 1-3, 5-10</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2005</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM962 FIWM</modulecode>
+		<activity>SMM962 Structured Products/Lecture/WK 4</activity>
+		<desc>MSc FI (Elective Year 2 Term 2 ) Week 4 only (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2006</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

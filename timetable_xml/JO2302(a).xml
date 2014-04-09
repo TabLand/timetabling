@@ -1,26 +1,28 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2302(a)</modulecode>
-	<activity>JO2302 Web Creation and Design/CIFD lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A218</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2302(a)</modulecode>
-	<activity>JO2302 Web Creation and Design/CIFD tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>7</studentnos>
-	<room>A227</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2302(a)</modulecode>
+		<activity>JO2302 Web Creation and Design/CIFD lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A218</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2302(a)</modulecode>
+		<activity>JO2302 Web Creation and Design/CIFD tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>7</studentnos>
+		<room>A227</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

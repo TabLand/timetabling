@@ -1,299 +1,301 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>16/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 1/01</activity>
-	<desc>Module Introduction</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>09/06/14</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/OSCE2/01</activity>
-	<desc>Summative Viva (was ELG03/04/06/09/14)</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S)</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 2/01</activity>
-	<desc>Recap of Oncology Management</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 2/01</activity>
-	<desc>Oncology Image Viewing 2</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>09/12/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 5/01</activity>
-	<desc>Review of Radiotherapy Techniques for Lower Digestive System</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 7/01</activity>
-	<desc>Review of Radiotherapy Techniques for Breast Tumours</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 3/01</activity>
-	<desc>Recap of Radiotherapy Techniques 1</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 1/01</activity>
-	<desc>Oncology Image Viewing 1</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>09/12/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 6/01</activity>
-	<desc>Review of Pelvic Treatment Plans</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 8/01</activity>
-	<desc>Review of Radiotherapy Techniques for Skin Tumours</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>09/12/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 4/01</activity>
-	<desc>Review of Radiotherapy Techniques for Urological and Gynaecological Tumours</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>23/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 9/01</activity>
-	<desc>Imaging for Localisation</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 5/01</activity>
-	<desc>Standard Beam Models MV and kV)</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 3/01</activity>
-	<desc>Review Tutorial</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>16/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 7/01</activity>
-	<desc>IMRT</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 9/01</activity>
-	<desc>Review of Breast Treatment Plans</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 10/01</activity>
-	<desc>Assessments Tutorial</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 6/01</activity>
-	<desc>Conformal Radiotherapy</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 10/01</activity>
-	<desc>Imaging for Verification (VL)</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>VL 01 - HARADI </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/OSCE1/01</activity>
-	<desc>RT2022 Mock Viva (was ELG06)</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>23/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 11/01</activity>
-	<desc>Self study: Principles of Contrast Administration - audio presentation</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 4/01</activity>
-	<desc>Recap of Radiotherapy Techniques 2</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>C300</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>23/09/13</week>
-	<modulecode>RT2022</modulecode>
-	<activity>RT2022 Management and Radiotherapy Technique A/Lecture 8/01</activity>
-	<desc>Brachytherapy Techniques</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>A109</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>16/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 1/01</activity>
+		<desc>Module Introduction</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>09/06/14</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/OSCE2/01</activity>
+		<desc>Summative Viva (was ELG03/04/06/09/14)</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S)</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 2/01</activity>
+		<desc>Recap of Oncology Management</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 2/01</activity>
+		<desc>Oncology Image Viewing 2</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>09/12/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 5/01</activity>
+		<desc>Review of Radiotherapy Techniques for Lower Digestive System</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 7/01</activity>
+		<desc>Review of Radiotherapy Techniques for Breast Tumours</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 3/01</activity>
+		<desc>Recap of Radiotherapy Techniques 1</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 1/01</activity>
+		<desc>Oncology Image Viewing 1</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>09/12/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 6/01</activity>
+		<desc>Review of Pelvic Treatment Plans</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 8/01</activity>
+		<desc>Review of Radiotherapy Techniques for Skin Tumours</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>09/12/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 4/01</activity>
+		<desc>Review of Radiotherapy Techniques for Urological and Gynaecological Tumours</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>23/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 9/01</activity>
+		<desc>Imaging for Localisation</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 5/01</activity>
+		<desc>Standard Beam Models MV and kV)</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 3/01</activity>
+		<desc>Review Tutorial</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>16/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 7/01</activity>
+		<desc>IMRT</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 9/01</activity>
+		<desc>Review of Breast Treatment Plans</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Tutorial 10/01</activity>
+		<desc>Assessments Tutorial</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 6/01</activity>
+		<desc>Conformal Radiotherapy</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 10/01</activity>
+		<desc>Imaging for Verification (VL)</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>VL 01 - HARADI </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/OSCE1/01</activity>
+		<desc>RT2022 Mock Viva (was ELG06)</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>23/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 11/01</activity>
+		<desc>Self study: Principles of Contrast Administration - audio presentation</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 4/01</activity>
+		<desc>Recap of Radiotherapy Techniques 2</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>C300</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>23/09/13</week>
+		<modulecode>RT2022</modulecode>
+		<activity>RT2022 Management and Radiotherapy Technique A/Lecture 8/01</activity>
+		<desc>Brachytherapy Techniques</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>A109</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

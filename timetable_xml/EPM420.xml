@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>21/10/13</week>
-	<modulecode>EPM420</modulecode>
-	<activity>EPM420 Perspectives on Management & Leadership/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>56</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>21/10/13</week>
-	<modulecode>EPM420</modulecode>
-	<activity>EPM420 Perspectives on Management & Leadership/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>56</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>21/10/13</week>
-	<modulecode>EPM420</modulecode>
-	<activity>EPM420 Perspectives on Management & Leadership/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>56</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>21/10/13</week>
-	<modulecode>EPM420</modulecode>
-	<activity>EPM420 Perspectives on Management & Leadership/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>56</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>21/10/13</week>
+		<modulecode>EPM420</modulecode>
+		<activity>EPM420 Perspectives on Management & Leadership/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>56</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>21/10/13</week>
+		<modulecode>EPM420</modulecode>
+		<activity>EPM420 Perspectives on Management & Leadership/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>56</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>21/10/13</week>
+		<modulecode>EPM420</modulecode>
+		<activity>EPM420 Perspectives on Management & Leadership/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>56</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>21/10/13</week>
+		<modulecode>EPM420</modulecode>
+		<activity>EPM420 Perspectives on Management & Leadership/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>56</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

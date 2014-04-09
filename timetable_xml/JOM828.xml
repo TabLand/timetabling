@@ -1,377 +1,379 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production (Magazine)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>DLG20</room>
-	<lecturer>Bennetto, Jason </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Feedback on XCity</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG09</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Feedback on XCity Life</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>DLG02</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Finanl Project tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>A112;A111</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Finanl Project tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>AG32</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:50</end>
-	<week>27/01/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/tutorial/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>CG56</room>
-	<lecturer>Bennetto, Jason </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:50</end>
-	<week>27/01/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/tutorial/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>C337</room>
-	<lecturer>VL 03 - AAJOUR </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>17/02/14, 03/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Multi Media</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b</room>
-	<lecturer>Raven, Clive </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>24/02/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>EG07</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>25/11/13</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production</activity>
-	<desc>XCity briefing</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>D104</room>
-	<lecturer>Rowlands, Barbara </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:30</start>
-	<end>17:30</end>
-	<week>28/10/13</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Visual Journalism/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>B307B/C</room>
-	<lecturer>Lawrence, Francine </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:30</start>
-	<end>18:30</end>
-	<week>30/09/13-21/10/13, 02/12/13</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Visual Journalism/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>C300</room>
-	<lecturer>Lawrence, Francine </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>18:50</end>
-	<week>17/02/14, 03/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Multi Media</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b</room>
-	<lecturer>Raven, Clive </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Lab 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b</room>
-	<lecturer>Burlage, Fred </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Lab 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>C301</room>
-	<lecturer>Burlage, Fred </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines XCity</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A225</room>
-	<lecturer>Bennetto, Jason </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines XCityLife</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>A227</room>
-	<lecturer>Newman, Linda </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>18:30</end>
-	<week>30/09/13-21/10/13</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Visual Journalism/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>A107</room>
-	<lecturer>Lawrence, Francine </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-10/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>AG35a</room>
-	<lecturer>Van Geldern, Malvin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines XCityLife</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>A226</room>
-	<lecturer>Newman, Linda </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>AG35a</room>
-	<lecturer>Van Geldern, Malvin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>25/11/13</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG10</room>
-	<lecturer>Bennetto, Jason </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-03/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>AG35a</room>
-	<lecturer>Van Geldern, Malvin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>10/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Bennetto, Jason </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Finanl Project tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>AG32</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>05/05/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Finanl Project tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>D107;D108</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>10/02/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines XCityLife</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>A226</room>
-	<lecturer>Newman, Linda </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>10/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>10/03/14</week>
-	<modulecode>JOM828</modulecode>
-	<activity>JOM828 Editorial Production Magazines XCity</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Bennetto, Jason </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production (Magazine)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>DLG20</room>
+		<lecturer>Bennetto, Jason </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Feedback on XCity</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG09</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Feedback on XCity Life</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>DLG02</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Finanl Project tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>A112;A111</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Finanl Project tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>AG32</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:50</end>
+		<week>27/01/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/tutorial/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>CG56</room>
+		<lecturer>Bennetto, Jason </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:50</end>
+		<week>27/01/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/tutorial/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>C337</room>
+		<lecturer>VL 03 - AAJOUR </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>17/02/14, 03/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Multi Media</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b</room>
+		<lecturer>Raven, Clive </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>24/02/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>EG07</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>25/11/13</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production</activity>
+		<desc>XCity briefing</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>D104</room>
+		<lecturer>Rowlands, Barbara </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:30</start>
+		<end>17:30</end>
+		<week>28/10/13</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Visual Journalism/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>B307B/C</room>
+		<lecturer>Lawrence, Francine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:30</start>
+		<end>18:30</end>
+		<week>30/09/13-21/10/13, 02/12/13</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Visual Journalism/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>C300</room>
+		<lecturer>Lawrence, Francine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>18:50</end>
+		<week>17/02/14, 03/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Multi Media</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b</room>
+		<lecturer>Raven, Clive </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Lab 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b</room>
+		<lecturer>Burlage, Fred </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Lab 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>C301</room>
+		<lecturer>Burlage, Fred </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines XCity</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A225</room>
+		<lecturer>Bennetto, Jason </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines XCityLife</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>A227</room>
+		<lecturer>Newman, Linda </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>18:30</end>
+		<week>30/09/13-21/10/13</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Visual Journalism/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>A107</room>
+		<lecturer>Lawrence, Francine </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-10/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>AG35a</room>
+		<lecturer>Van Geldern, Malvin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines XCityLife</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>A226</room>
+		<lecturer>Newman, Linda </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>AG35a</room>
+		<lecturer>Van Geldern, Malvin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>25/11/13</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG10</room>
+		<lecturer>Bennetto, Jason </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-03/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines/Lab term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>AG35a</room>
+		<lecturer>Van Geldern, Malvin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>10/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Bennetto, Jason </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Finanl Project tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>AG32</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>05/05/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Finanl Project tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>D107;D108</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>10/02/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines XCityLife</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>A226</room>
+		<lecturer>Newman, Linda </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>10/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>10/03/14</week>
+		<modulecode>JOM828</modulecode>
+		<activity>JOM828 Editorial Production Magazines XCity</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Bennetto, Jason </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

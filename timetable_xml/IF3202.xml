@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>IF3202</modulecode>
-	<activity>IF3202 Financial Forecasting/Comp Lab/Stream 02/02/Wks 3,5,7,9</activity>
-	<desc>Computer Lab Stream 02/02 : Wks 3,5,7,9</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG04</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>13:00</end>
-	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>IF3202</modulecode>
-	<activity>IF3202 Financial Forecasting/Comp Lab/Stream 01/02/Wks 3,5,7,9</activity>
-	<desc>Computer Lab Stream 01/02 : Wks 3,5,7,9 plus exchange (5)</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>A307&8</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>27/01/14-03/02/14, 17/02/14-07/04/14</week>
-	<modulecode>IF3202</modulecode>
-	<activity>IF3202 Financial Forecasting/Lecture 01/wks 1-2, 4-11</activity>
-	<desc>Spring Lecture : weeks 1-2, 4-11 plus exchange 5</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>B103</room>
-	<lecturer>Ipatova, Ekaterina </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>IF3202</modulecode>
+		<activity>IF3202 Financial Forecasting/Comp Lab/Stream 02/02/Wks 3,5,7,9</activity>
+		<desc>Computer Lab Stream 02/02 : Wks 3,5,7,9</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG04</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>13:00</end>
+		<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>IF3202</modulecode>
+		<activity>IF3202 Financial Forecasting/Comp Lab/Stream 01/02/Wks 3,5,7,9</activity>
+		<desc>Computer Lab Stream 01/02 : Wks 3,5,7,9 plus exchange (5)</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>A307&8</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>27/01/14-03/02/14, 17/02/14-07/04/14</week>
+		<modulecode>IF3202</modulecode>
+		<activity>IF3202 Financial Forecasting/Lecture 01/wks 1-2, 4-11</activity>
+		<desc>Spring Lecture : weeks 1-2, 4-11 plus exchange 5</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>B103</room>
+		<lecturer>Ipatova, Ekaterina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

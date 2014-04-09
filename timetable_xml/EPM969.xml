@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>02/09/13</week>
-	<modulecode>EPM969</modulecode>
-	<activity>EPM969 Developing A Business Plan/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>A110</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>02/09/13</week>
-	<modulecode>EPM969</modulecode>
-	<activity>EPM969 Developing A Business Plan/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>A110</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>02/09/13</week>
-	<modulecode>EPM969</modulecode>
-	<activity>EPM969 Developing A Business Plan/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>A110</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>02/09/13</week>
+		<modulecode>EPM969</modulecode>
+		<activity>EPM969 Developing A Business Plan/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>A110</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>02/09/13</week>
+		<modulecode>EPM969</modulecode>
+		<activity>EPM969 Developing A Business Plan/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>A110</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>02/09/13</week>
+		<modulecode>EPM969</modulecode>
+		<activity>EPM969 Developing A Business Plan/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>A110</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

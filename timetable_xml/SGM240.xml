@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>SGM240</modulecode>
-	<activity>SGM240 Victimology/Lecture 01/01</activity>
-	<desc>Weeks 2-5 & 7-10</desc>
-	<joint> </joint>
-	<studentnos>9</studentnos>
-	<room>D222</room>
-	<lecturer>Myers, Carrie-Anne </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>SGM240</modulecode>
+		<activity>SGM240 Victimology/Lecture 01/01</activity>
+		<desc>Weeks 2-5 & 7-10</desc>
+		<joint>-</joint>
+		<studentnos>9</studentnos>
+		<room>D222</room>
+		<lecturer>Myers, Carrie-Anne </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

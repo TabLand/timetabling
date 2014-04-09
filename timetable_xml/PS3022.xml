@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PS3022</modulecode>
-	<activity>PS3022 Cognitive Development/Lecture 01/01 LEAD</activity>
-	<desc> </desc>
-	<joint>PSM525;PS3022</joint>
-	<studentnos>120</studentnos>
-	<room>Oakden</room>
-	<lecturer>Lind, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PS3022</modulecode>
-	<activity>PS3022 Cognitive Development/Drop-In Clinic 01/02 LEAD</activity>
-	<desc> </desc>
-	<joint>PSM525;PS3022</joint>
-	<studentnos>5</studentnos>
-	<room>DG10a</room>
-	<lecturer>Lind, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PS3022</modulecode>
+		<activity>PS3022 Cognitive Development/Lecture 01/01 LEAD</activity>
+		<desc>-</desc>
+		<joint>PSM525;PS3022</joint>
+		<studentnos>120</studentnos>
+		<room>Oakden</room>
+		<lecturer>Lind, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PS3022</modulecode>
+		<activity>PS3022 Cognitive Development/Drop-In Clinic 01/02 LEAD</activity>
+		<desc>-</desc>
+		<joint>PSM525;PS3022</joint>
+		<studentnos>5</studentnos>
+		<room>DG10a</room>
+		<lecturer>Lind, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3059</modulecode>
-	<activity>SG3059 Broken Britain? Culture, Employment and Society/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>B104</room>
-	<lecturer>Gash, Vanessa </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3059</modulecode>
-	<activity>SG3059 Broken Britain? Culture, Employment and Society/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>DLG08</room>
-	<lecturer>Gash, Vanessa </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3059</modulecode>
-	<activity>SG3059 Broken Britain? Culture, Employment and Society/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>DLG08</room>
-	<lecturer>Gash, Vanessa </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3059</modulecode>
+		<activity>SG3059 Broken Britain? Culture, Employment and Society/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>B104</room>
+		<lecturer>Gash, Vanessa </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3059</modulecode>
+		<activity>SG3059 Broken Britain? Culture, Employment and Society/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>DLG08</room>
+		<lecturer>Gash, Vanessa </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3059</modulecode>
+		<activity>SG3059 Broken Britain? Culture, Employment and Society/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>DLG08</room>
+		<lecturer>Gash, Vanessa </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

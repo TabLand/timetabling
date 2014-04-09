@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 24/03/14</week>
-	<modulecode>SMM190</modulecode>
-	<activity>SMM190 Real Estate Modelling & Market Dynamics/Lecture 1/WKS 1-5,9</activity>
-	<desc>REI: Spring Lecture Weeks 1-5, 9</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2003</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>03/03/14-17/03/14</week>
-	<modulecode>SMM190</modulecode>
-	<activity>SMM190 Real Estate Modelling & Market Dynamics/Lecture 1/WKS 6-8</activity>
-	<desc>REI: Spring Lecture: WKS 6, 7, 8</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2006</room>
-	<lecturer>Andrew, Mark </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>SMM190</modulecode>
-	<activity>SMM190 Real Estate Modelling & Market Dynamics/LAB/WK 8</activity>
-	<desc>REI: Computer Lab : Week 8 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>1001</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>03/02/14, 17/02/14</week>
-	<modulecode>SMM190</modulecode>
-	<activity>SMM190 Real Estate Modelling & Market Dynamics/LAB/01/WKS 2 & 4</activity>
-	<desc>Comp Lab : Spring : REI : Weeks 2 & 4</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2001</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 24/03/14</week>
+		<modulecode>SMM190</modulecode>
+		<activity>SMM190 Real Estate Modelling & Market Dynamics/Lecture 1/WKS 1-5,9</activity>
+		<desc>REI: Spring Lecture Weeks 1-5, 9</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2003</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>03/03/14-17/03/14</week>
+		<modulecode>SMM190</modulecode>
+		<activity>SMM190 Real Estate Modelling & Market Dynamics/Lecture 1/WKS 6-8</activity>
+		<desc>REI: Spring Lecture: WKS 6, 7, 8</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2006</room>
+		<lecturer>Andrew, Mark </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>SMM190</modulecode>
+		<activity>SMM190 Real Estate Modelling & Market Dynamics/LAB/WK 8</activity>
+		<desc>REI: Computer Lab : Week 8 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>1001</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>03/02/14, 17/02/14</week>
+		<modulecode>SMM190</modulecode>
+		<activity>SMM190 Real Estate Modelling & Market Dynamics/LAB/01/WKS 2 & 4</activity>
+		<desc>Comp Lab : Spring : REI : Weeks 2 & 4</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2001</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

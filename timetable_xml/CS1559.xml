@@ -1,78 +1,80 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>CS1559</modulecode>
-	<activity>CS1559 Web Programming using PHP/MySQL term 1 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C301</room>
-	<lecturer>Smith, Sonya </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1559</modulecode>
-	<activity>CS1559 Web Programming using PHP/MySQL term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A307</room>
-	<lecturer>Smith, Sonya </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1559</modulecode>
-	<activity>CS1559 Web Programming using PHP/MySQL term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A218</room>
-	<lecturer>Smith, Sonya </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1559</modulecode>
-	<activity>CS1559 Web Programming using PHP/MySQL term 1 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>A307</room>
-	<lecturer>Smith, Sonya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1559</modulecode>
-	<activity>CS1559 Web Programming using PHP/MySQL term 2 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A220</room>
-	<lecturer>Smith, Sonya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1559</modulecode>
-	<activity>CS1559 Web Programming using PHP/MySQL term 3 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>A308</room>
-	<lecturer>Smith, Sonya </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>CS1559</modulecode>
+		<activity>CS1559 Web Programming using PHP/MySQL term 1 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C301</room>
+		<lecturer>Smith, Sonya </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1559</modulecode>
+		<activity>CS1559 Web Programming using PHP/MySQL term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A307</room>
+		<lecturer>Smith, Sonya </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1559</modulecode>
+		<activity>CS1559 Web Programming using PHP/MySQL term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A218</room>
+		<lecturer>Smith, Sonya </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1559</modulecode>
+		<activity>CS1559 Web Programming using PHP/MySQL term 1 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>A307</room>
+		<lecturer>Smith, Sonya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1559</modulecode>
+		<activity>CS1559 Web Programming using PHP/MySQL term 2 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A220</room>
+		<lecturer>Smith, Sonya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1559</modulecode>
+		<activity>CS1559 Web Programming using PHP/MySQL term 3 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>A308</room>
+		<lecturer>Smith, Sonya </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

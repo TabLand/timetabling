@@ -1,13 +1,15 @@
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>ECM212</modulecode>
-	<activity>ECM212 Economic Evaluation Workshops/PC Lab/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>A307&8</room>
-	<lecturer>Warner, Juliet </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>ECM212</modulecode>
+		<activity>ECM212 Economic Evaluation Workshops/PC Lab/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>A307&8</room>
+		<lecturer>Warner, Juliet </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

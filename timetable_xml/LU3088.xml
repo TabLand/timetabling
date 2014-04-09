@@ -1,78 +1,80 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>LU3088</modulecode>
-	<activity>LU3088 Commercial and Agency Law/Tutorial 1/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3088;LU3088</joint>
-	<studentnos>30</studentnos>
-	<room>DLG20</room>
-	<lecturer>Truxal Jr, Steven </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>LU3088</modulecode>
-	<activity>LU3088 Commercial and Agency Law/Tutorial 1/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3088;LU3088</joint>
-	<studentnos>30</studentnos>
-	<room>DLG20</room>
-	<lecturer>Truxal Jr, Steven </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LU3088</modulecode>
-	<activity>LU3088 Commercial and Agency Law/Tutorial 2/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3088;LU3088</joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>Scholes, Jeremy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
-	<modulecode>LU3088</modulecode>
-	<activity>LU3088 Commercial and Agency Law/Tutorial 2/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3088;LU3088</joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>Scholes, Jeremy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
-	<modulecode>LU3088</modulecode>
-	<activity>LU3088 Commercial and Agency Law/Lecture 1/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3088;LG3088</joint>
-	<studentnos>47</studentnos>
-	<room>DLG08</room>
-	<lecturer>Truxal Jr, Steven </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>LU3088</modulecode>
-	<activity>LU3088 Commercial and Agency Law/Lecture 2/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3088;LG3088</joint>
-	<studentnos>50</studentnos>
-	<room>DLG03</room>
-	<lecturer>Scholes, Jeremy </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>LU3088</modulecode>
+		<activity>LU3088 Commercial and Agency Law/Tutorial 1/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3088;LU3088</joint>
+		<studentnos>30</studentnos>
+		<room>DLG20</room>
+		<lecturer>Truxal Jr, Steven </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>LU3088</modulecode>
+		<activity>LU3088 Commercial and Agency Law/Tutorial 1/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3088;LU3088</joint>
+		<studentnos>30</studentnos>
+		<room>DLG20</room>
+		<lecturer>Truxal Jr, Steven </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LU3088</modulecode>
+		<activity>LU3088 Commercial and Agency Law/Tutorial 2/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3088;LU3088</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>Scholes, Jeremy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+		<modulecode>LU3088</modulecode>
+		<activity>LU3088 Commercial and Agency Law/Tutorial 2/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3088;LU3088</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>Scholes, Jeremy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+		<modulecode>LU3088</modulecode>
+		<activity>LU3088 Commercial and Agency Law/Lecture 1/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3088;LG3088</joint>
+		<studentnos>47</studentnos>
+		<room>DLG08</room>
+		<lecturer>Truxal Jr, Steven </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>LU3088</modulecode>
+		<activity>LU3088 Commercial and Agency Law/Lecture 2/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3088;LG3088</joint>
+		<studentnos>50</studentnos>
+		<room>DLG03</room>
+		<lecturer>Scholes, Jeremy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

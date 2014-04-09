@@ -1,1196 +1,1198 @@
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>30/09/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 01/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>07/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 02/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>14/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 03/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>21/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 04/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>28/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 05/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>04/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 06/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>11/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 07/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>18/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 08/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>25/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 09/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>02/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 10/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>09/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 11/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>27/01/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 12/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>03/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 13/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>10/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 14/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>17/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 15/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>24/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 16/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>03/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 17/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>10/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 18/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>17/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 19/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>24/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 20/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>31/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 21/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>07/04/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 22/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>30/09/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 01/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>07/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 02/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>14/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 03/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>21/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 04/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>28/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 05/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>04/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 06/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>11/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 07/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>18/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 08/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>25/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 09/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>02/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 10/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>09/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 11/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>27/01/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 12/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>03/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 13/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>10/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 14/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>17/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 15/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>24/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 16/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>03/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 17/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>10/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 18/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>17/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 19/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>24/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 20/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>31/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 21/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>07/04/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 22/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 01/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 02/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 03/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>21/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 04/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>28/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 05/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 06/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 07/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 08/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>25/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 09/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>02/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 10/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>09/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 11/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 12/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 13/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>10/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 14/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 15/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 16/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 17/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 18/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 19/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 20/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 21/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 22/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>30/09/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>07/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 02/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>14/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 03/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>21/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 04/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>28/10/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 05/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>04/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 06/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>11/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 07/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>18/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 08/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>25/11/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 09/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>02/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 10/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>09/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 11/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>27/01/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 12/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>03/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 13/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>10/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 14/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>17/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 15/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>24/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 16/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>03/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 17/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>10/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 18/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>17/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 19/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>24/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 20/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>31/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 21/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:30</end>
-	<week>07/04/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses II/Clinic 22/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>24/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses Ii/Lecture/Spring/01</activity>
-	<desc>Contact Lenses II Lecture</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Morris, Judith </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses Ii/Lecture/Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Morris, Judith </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14, 17/02/14, 31/03/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses Ii/Lecture/Spring/01</activity>
-	<desc>Contact Lenses II Lecture</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Morris, Judith </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>03/02/14</week>
-	<modulecode>OV3004</modulecode>
-	<activity>OV3004 Contact Lenses Ii/Lecture/Spring/01</activity>
-	<desc>Contact Lenses II Lecture</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Morris, Judith </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>30/09/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 01/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>07/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 02/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>14/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 03/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>21/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 04/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>28/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 05/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>04/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 06/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>11/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 07/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>18/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 08/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>25/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 09/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>02/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 10/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>09/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 11/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>27/01/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 12/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>03/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 13/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>10/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 14/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>17/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 15/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>24/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 16/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>03/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 17/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>10/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 18/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>17/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 19/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>24/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 20/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>31/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 21/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>07/04/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 22/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>30/09/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 01/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>07/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 02/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>14/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 03/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>21/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 04/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>28/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 05/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>04/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 06/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>11/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 07/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>18/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 08/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>25/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 09/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>02/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 10/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>09/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 11/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>27/01/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 12/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>03/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 13/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>10/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 14/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>17/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 15/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>24/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 16/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>03/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 17/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>10/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 18/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>17/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 19/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>24/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 20/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>31/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 21/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>07/04/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 22/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 01/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 02/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 03/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>21/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 04/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>28/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 05/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 06/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 07/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 08/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>25/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 09/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>02/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 10/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>09/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 11/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 12/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 13/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>10/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 14/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 15/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 16/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 17/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 18/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 19/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 20/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 21/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 22/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>30/09/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>07/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 02/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>14/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 03/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>21/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 04/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>28/10/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 05/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>04/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 06/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>11/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 07/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>18/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 08/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>25/11/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 09/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>02/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 10/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>09/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 11/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>27/01/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 12/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>03/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 13/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>10/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 14/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>17/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 15/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>24/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 16/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>03/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 17/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>10/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 18/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>17/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 19/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>24/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 20/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>31/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 21/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:30</end>
+		<week>07/04/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses II/Clinic 22/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>24/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses Ii/Lecture/Spring/01</activity>
+		<desc>Contact Lenses II Lecture</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Morris, Judith </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses Ii/Lecture/Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Morris, Judith </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14, 17/02/14, 31/03/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses Ii/Lecture/Spring/01</activity>
+		<desc>Contact Lenses II Lecture</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Morris, Judith </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>03/02/14</week>
+		<modulecode>OV3004</modulecode>
+		<activity>OV3004 Contact Lenses Ii/Lecture/Spring/01</activity>
+		<desc>Contact Lenses II Lecture</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Morris, Judith </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

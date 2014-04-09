@@ -1,91 +1,93 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ETM067</modulecode>
-	<activity>ETM067 MEng Group Design Project/Practical 1/02/JOINT</activity>
-	<desc>Joint with ETM066: total students 18</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM067</modulecode>
-	<activity>ETM067 MEng Group Design Project - EGPR/Practical 1/01/JOINT</activity>
-	<desc>Joint with ETM066: total students 18</desc>
-	<joint>ETM066;ETM067</joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM067</modulecode>
-	<activity>ETM067 MEng Group Design Project/Lecture 1/01/JOINT</activity>
-	<desc>Joint with ETM063</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM067</modulecode>
-	<activity>ETM067 MEng Group Design Project/Formula Student/Lecture 2/01/JOINT</activity>
-	<desc>Joint with ETM063</desc>
-	<joint>ETM063;ETM067</joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM067</modulecode>
-	<activity>ETM067 MEng Group Design Project - EPGR/Practical 2/01/JOINT</activity>
-	<desc>Joint with ETM066: total students 18</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM067</modulecode>
-	<activity>ETM067 MEng Group Design Project/Developing Technologies/Lecture 3/01/JOINT</activity>
-	<desc>Joint with ETM069</desc>
-	<joint>ME3100M;ETM069;ETM067</joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ETM067</modulecode>
-	<activity>ETM067 MEng Group Design Project/Practical 2/02/JOINT</activity>
-	<desc>Joint with ETM066: total students 18</desc>
-	<joint>ETM067;ETM066</joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ETM067</modulecode>
+		<activity>ETM067 MEng Group Design Project/Practical 1/02/JOINT</activity>
+		<desc>Joint with ETM066: total students 18</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM067</modulecode>
+		<activity>ETM067 MEng Group Design Project - EGPR/Practical 1/01/JOINT</activity>
+		<desc>Joint with ETM066: total students 18</desc>
+		<joint>ETM066;ETM067</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM067</modulecode>
+		<activity>ETM067 MEng Group Design Project/Lecture 1/01/JOINT</activity>
+		<desc>Joint with ETM063</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM067</modulecode>
+		<activity>ETM067 MEng Group Design Project/Formula Student/Lecture 2/01/JOINT</activity>
+		<desc>Joint with ETM063</desc>
+		<joint>ETM063;ETM067</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM067</modulecode>
+		<activity>ETM067 MEng Group Design Project - EPGR/Practical 2/01/JOINT</activity>
+		<desc>Joint with ETM066: total students 18</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM067</modulecode>
+		<activity>ETM067 MEng Group Design Project/Developing Technologies/Lecture 3/01/JOINT</activity>
+		<desc>Joint with ETM069</desc>
+		<joint>ME3100M;ETM069;ETM067</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ETM067</modulecode>
+		<activity>ETM067 MEng Group Design Project/Practical 2/02/JOINT</activity>
+		<desc>Joint with ETM066: total students 18</desc>
+		<joint>ETM067;ETM066</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

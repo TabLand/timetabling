@@ -1,312 +1,314 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 14/01</activity>
-	<desc>Regression and Correlation</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>02/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 1/01</activity>
-	<desc>Introduction to module</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>02/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 2/01</activity>
-	<desc>Types of Data</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 6/01</activity>
-	<desc>Introduction to Qualitative Statistics</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>09/12/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Tutorial 1/01</activity>
-	<desc>Qualitative Tutorial</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>Birley</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 10/01</activity>
-	<desc>Sensitivity and Specificity</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 3/01</activity>
-	<desc>Data Collection</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 13/01</activity>
-	<desc>Reading Journal Articles</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>09/12/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 18/01</activity>
-	<desc>Society and College of Radiographers</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>Geary</room>
-	<lecturer>Thorne, Richard;VL 01 - HARADI </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>02/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 4/01</activity>
-	<desc>Descriptive Statistics</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>09/12/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Tutorial 3/01</activity>
-	<desc>Quantitative Tutorial</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>BG03</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 8/01</activity>
-	<desc>Radiography Research & Statistics (confirm session title)</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>16/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 7/01</activity>
-	<desc>Methods of Qualitative Research</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>23/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 17/01</activity>
-	<desc>Ethics</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Drey, N </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Practical 1/01</activity>
-	<desc>SPSS Practical Group 1 (51 students)</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>A307&8</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 5/01</activity>
-	<desc>Inferential Statistics</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 12/01</activity>
-	<desc>Epidemiological Research (correct week?)</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Practical 2/01</activity>
-	<desc>SPSS Practical Group 2 (51 students)</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>A307&8</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 11/01</activity>
-	<desc>How to read review articles</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>16/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 9/01</activity>
-	<desc>Data Collection Tools</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>16/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 16/01</activity>
-	<desc>Qualitative Data Interpretation</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG21</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>09/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 15/01</activity>
-	<desc>Reading Journal Articles SD Study</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>No room needed</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>16/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Lecture 9/02</activity>
-	<desc>How to read review articles SD Study</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>23/09/13</week>
-	<modulecode>RC2021</modulecode>
-	<activity>RC2021 Radiography Research & Statistics/Tutorial 1/02</activity>
-	<desc>Qualitative Tutorial (correct wk?)</desc>
-	<joint> </joint>
-	<studentnos>98</studentnos>
-	<room>AG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 14/01</activity>
+		<desc>Regression and Correlation</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>02/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 1/01</activity>
+		<desc>Introduction to module</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>02/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 2/01</activity>
+		<desc>Types of Data</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 6/01</activity>
+		<desc>Introduction to Qualitative Statistics</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>09/12/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Tutorial 1/01</activity>
+		<desc>Qualitative Tutorial</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>Birley</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 10/01</activity>
+		<desc>Sensitivity and Specificity</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 3/01</activity>
+		<desc>Data Collection</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 13/01</activity>
+		<desc>Reading Journal Articles</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>09/12/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 18/01</activity>
+		<desc>Society and College of Radiographers</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>Geary</room>
+		<lecturer>Thorne, Richard;VL 01 - HARADI </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>02/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 4/01</activity>
+		<desc>Descriptive Statistics</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>09/12/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Tutorial 3/01</activity>
+		<desc>Quantitative Tutorial</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>BG03</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 8/01</activity>
+		<desc>Radiography Research & Statistics (confirm session title)</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>16/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 7/01</activity>
+		<desc>Methods of Qualitative Research</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>23/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 17/01</activity>
+		<desc>Ethics</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Drey, N </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Practical 1/01</activity>
+		<desc>SPSS Practical Group 1 (51 students)</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>A307&8</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 5/01</activity>
+		<desc>Inferential Statistics</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 12/01</activity>
+		<desc>Epidemiological Research (correct week?)</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Practical 2/01</activity>
+		<desc>SPSS Practical Group 2 (51 students)</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>A307&8</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 11/01</activity>
+		<desc>How to read review articles</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>16/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 9/01</activity>
+		<desc>Data Collection Tools</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>16/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 16/01</activity>
+		<desc>Qualitative Data Interpretation</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG21</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>09/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 15/01</activity>
+		<desc>Reading Journal Articles SD Study</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>No room needed</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>16/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Lecture 9/02</activity>
+		<desc>How to read review articles SD Study</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>23/09/13</week>
+		<modulecode>RC2021</modulecode>
+		<activity>RC2021 Radiography Research & Statistics/Tutorial 1/02</activity>
+		<desc>Qualitative Tutorial (correct wk?)</desc>
+		<joint>-</joint>
+		<studentnos>98</studentnos>
+		<room>AG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

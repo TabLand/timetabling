@@ -1,91 +1,93 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM470</modulecode>
-	<activity>JOM470 Journalism Practice 1/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG07</room>
-	<lecturer>Bromley, Prof Michael </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM470 TV</modulecode>
-	<activity>JOM470 Journalism Practice 1/workshop 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG29b;AG29a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM470</modulecode>
-	<activity>JOM470 Journalism Practice 1/workshop 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG34b;AG34a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM470</modulecode>
-	<activity>JOM470 Journalism Practice 1/workshop 5</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG37</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM470</modulecode>
-	<activity>JOM470 Journalism Practice 1/workshop 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG34b;AG34a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM470</modulecode>
-	<activity>JOM470 Journalism Practice 1/workshop 4</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG29b;AG29a</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>JOM470</modulecode>
-	<activity>JOM470 Journalism Practice 2/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>E212</room>
-	<lecturer>Martin, Brendan </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM470</modulecode>
+		<activity>JOM470 Journalism Practice 1/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG07</room>
+		<lecturer>Bromley, Prof Michael </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM470 TV</modulecode>
+		<activity>JOM470 Journalism Practice 1/workshop 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG29b;AG29a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM470</modulecode>
+		<activity>JOM470 Journalism Practice 1/workshop 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG34b;AG34a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM470</modulecode>
+		<activity>JOM470 Journalism Practice 1/workshop 5</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG37</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM470</modulecode>
+		<activity>JOM470 Journalism Practice 1/workshop 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG34b;AG34a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM470</modulecode>
+		<activity>JOM470 Journalism Practice 1/workshop 4</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG29b;AG29a</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>JOM470</modulecode>
+		<activity>JOM470 Journalism Practice 2/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>E212</room>
+		<lecturer>Martin, Brendan </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,819 +1,821 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
-	<desc>Introductory Lecture/Grps 1-4</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/M</activity>
-	<desc>LAB/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4/M</activity>
-	<desc>Tutorial/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D220;D221</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
-	<desc>Computer LAB/02/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2/M</activity>
-	<desc>Tutorial/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D220;D221</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/M</activity>
-	<desc>LAB/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2/M</activity>
-	<desc>Tutorial/02/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D220;D221</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2/M</activity>
-	<desc>Computer LAB/04/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4/M</activity>
-	<desc>Tutorial/04/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D220;D221</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
-	<desc>Introductory Lecture/Grps 1-4</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4/T</activity>
-	<desc>Tutorial/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A109</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/T</activity>
-	<desc>LAB/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2/T</activity>
-	<desc>Tutorial/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A109</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4/T</activity>
-	<desc>Computer LAB/02/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/T</activity>
-	<desc>LAB/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2/T</activity>
-	<desc>Tutorial/02/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A109</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2/T</activity>
-	<desc>Computer LAB/04/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4/T</activity>
-	<desc>Tutorial/04/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A109</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
-	<desc>Introductory Lecture/Grps 1-4</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4/W</activity>
-	<desc>Tutorial/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A111</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/W</activity>
-	<desc>LAB/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Timetable collection</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG10</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2/W</activity>
-	<desc>Tutorial/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A111</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
-	<desc>Computer LAB/02/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Welcome Talk</activity>
-	<desc>Induction Lecture</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/W</activity>
-	<desc>LAB/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2/W</activity>
-	<desc>Tutorial/02/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A111</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2/W</activity>
-	<desc>Computer LAB/04/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4/W</activity>
-	<desc>Tutorial/04/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112;A111</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>09/09/13-16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
-	<desc>Introductory Lecture/Grps 1-4</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2</activity>
-	<desc>LAB/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
-	<desc>Tutorial/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
-	<desc>Tutorial/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/TH</activity>
-	<desc>LAB/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
-	<desc>Computer LAB/02/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
-	<desc>Tutorial/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
-	<desc>Tutorial/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4/TH</activity>
-	<desc>Computer LAB/02/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4</activity>
-	<desc>LAB/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
-	<desc>Tutorial/02/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
-	<desc>Tutorial/02/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/TH</activity>
-	<desc>LAB/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
-	<desc>Computer LAB/04/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
-	<desc>Tutorial/04/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
-	<desc>Tutorial/04/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
-	<desc>Computer LAB/04/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A220;A218</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>09/09/13-16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
-	<desc>Introductory Lecture/Grps 1-4</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2</activity>
-	<desc>LAB/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
-	<desc>Tutorial/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
-	<desc>Computer LAB/02/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
-	<desc>Tutorial/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4</activity>
-	<desc>LAB/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
-	<desc>Tutorial/02/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
-	<desc>Computer LAB/04/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A307&8;A220</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>09/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
-	<desc>Tutorial/04/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
-	<desc>Tutorial/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/F</activity>
-	<desc>LAB/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A218;EG04</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
-	<desc>Tutorial/01/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4/F</activity>
-	<desc>Computer LAB/02/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A218;EG04</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
-	<desc>Tutorial/02/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/F</activity>
-	<desc>LAB/03/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A218;EG04</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
-	<desc>Tutorial/04/Grps 3&4</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>16/09/13</week>
-	<modulecode>#SPLUSFE86C8</modulecode>
-	<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
-	<desc>Computer LAB/04/Grps 1&2</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A218;EG04</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
+		<desc>Introductory Lecture/Grps 1-4</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/M</activity>
+		<desc>LAB/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4/M</activity>
+		<desc>Tutorial/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D220;D221</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
+		<desc>Computer LAB/02/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2/M</activity>
+		<desc>Tutorial/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D220;D221</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/M</activity>
+		<desc>LAB/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2/M</activity>
+		<desc>Tutorial/02/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D220;D221</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2/M</activity>
+		<desc>Computer LAB/04/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4/M</activity>
+		<desc>Tutorial/04/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D220;D221</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
+		<desc>Introductory Lecture/Grps 1-4</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4/T</activity>
+		<desc>Tutorial/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A109</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/T</activity>
+		<desc>LAB/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2/T</activity>
+		<desc>Tutorial/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A109</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4/T</activity>
+		<desc>Computer LAB/02/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/T</activity>
+		<desc>LAB/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2/T</activity>
+		<desc>Tutorial/02/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A109</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2/T</activity>
+		<desc>Computer LAB/04/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4/T</activity>
+		<desc>Tutorial/04/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A109</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
+		<desc>Introductory Lecture/Grps 1-4</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4/W</activity>
+		<desc>Tutorial/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A111</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/W</activity>
+		<desc>LAB/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Timetable collection</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG10</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2/W</activity>
+		<desc>Tutorial/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A111</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
+		<desc>Computer LAB/02/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Welcome Talk</activity>
+		<desc>Induction Lecture</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/W</activity>
+		<desc>LAB/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2/W</activity>
+		<desc>Tutorial/02/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A111</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2/W</activity>
+		<desc>Computer LAB/04/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4/W</activity>
+		<desc>Tutorial/04/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112;A111</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>09/09/13-16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
+		<desc>Introductory Lecture/Grps 1-4</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2</activity>
+		<desc>LAB/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
+		<desc>Tutorial/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
+		<desc>Tutorial/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/TH</activity>
+		<desc>LAB/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
+		<desc>Computer LAB/02/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
+		<desc>Tutorial/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
+		<desc>Tutorial/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4/TH</activity>
+		<desc>Computer LAB/02/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4</activity>
+		<desc>LAB/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
+		<desc>Tutorial/02/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
+		<desc>Tutorial/02/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/TH</activity>
+		<desc>LAB/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
+		<desc>Computer LAB/04/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
+		<desc>Tutorial/04/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
+		<desc>Tutorial/04/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
+		<desc>Computer LAB/04/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A220;A218</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>09/09/13-16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Introductory Lecture/Grps 1-4</activity>
+		<desc>Introductory Lecture/Grps 1-4</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2</activity>
+		<desc>LAB/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
+		<desc>Tutorial/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4</activity>
+		<desc>Computer LAB/02/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
+		<desc>Tutorial/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4</activity>
+		<desc>LAB/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
+		<desc>Tutorial/02/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
+		<desc>Computer LAB/04/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A307&8;A220</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>09/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
+		<desc>Tutorial/04/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/03/Grps 3&4</activity>
+		<desc>Tutorial/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/01/Grps 1&2/F</activity>
+		<desc>LAB/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A218;EG04</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/01/Grps 1&2</activity>
+		<desc>Tutorial/01/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/02/Grps 3&4/F</activity>
+		<desc>Computer LAB/02/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A218;EG04</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/02/Grps 1&2</activity>
+		<desc>Tutorial/02/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/03/Grps 3&4/F</activity>
+		<desc>LAB/03/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A218;EG04</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/Tutorial/04/Grps 3&4</activity>
+		<desc>Tutorial/04/Grps 3&4</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>16/09/13</week>
+		<modulecode>#SPLUSFE86C8</modulecode>
+		<activity>Cass UG Pre-Sessional Maths/LAB/04/Grps 1&2</activity>
+		<desc>Computer LAB/04/Grps 1&2</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A218;EG04</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

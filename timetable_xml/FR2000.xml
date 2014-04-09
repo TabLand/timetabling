@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13</week>
-	<modulecode>FR2000</modulecode>
-	<activity>FR2000 Welcome back/IFRM yr 2/WK 1</activity>
-	<desc>Course Director briefing: IFRM year 2: Week 1 ONLY</desc>
-	<joint> </joint>
-	<studentnos>110</studentnos>
-	<room>Oakden</room>
-	<lecturer>Staikouras, Sotiris </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>03/03/14</week>
-	<modulecode>FR2000</modulecode>
-	<activity>FR2000 Dissertation/IFRM yr 2/WK 6</activity>
-	<desc>Course Director briefing : Final year project: IFRM year 2: Week 6 ONLY</desc>
-	<joint> </joint>
-	<studentnos>110</studentnos>
-	<room>AG07</room>
-	<lecturer>Staikouras, Sotiris </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13</week>
+		<modulecode>FR2000</modulecode>
+		<activity>FR2000 Welcome back/IFRM yr 2/WK 1</activity>
+		<desc>Course Director briefing: IFRM year 2: Week 1 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>110</studentnos>
+		<room>Oakden</room>
+		<lecturer>Staikouras, Sotiris </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>03/03/14</week>
+		<modulecode>FR2000</modulecode>
+		<activity>FR2000 Dissertation/IFRM yr 2/WK 6</activity>
+		<desc>Course Director briefing : Final year project: IFRM year 2: Week 6 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>110</studentnos>
+		<room>AG07</room>
+		<lecturer>Staikouras, Sotiris </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

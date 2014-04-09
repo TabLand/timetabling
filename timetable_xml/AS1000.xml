@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>20/01/14</week>
-	<modulecode>AS1000</modulecode>
-	<activity>AS1xxx Progress Test</activity>
-	<desc>Nick Howes</desc>
-	<joint> </joint>
-	<studentnos>107</studentnos>
-	<room>Oakden</room>
-	<lecturer>Gerrard, Russell </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>20/01/14</week>
+		<modulecode>AS1000</modulecode>
+		<activity>AS1xxx Progress Test</activity>
+		<desc>Nick Howes</desc>
+		<joint>-</joint>
+		<studentnos>107</studentnos>
+		<room>Oakden</room>
+		<lecturer>Gerrard, Russell </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

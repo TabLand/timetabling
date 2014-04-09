@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>14/10/13, 28/10/13, 11/11/13</week>
-	<modulecode>SMM522 CF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals (MSc CF) B2/LAB 02/02</activity>
-	<desc>MSc CF: LAB: Group 02 of 02 : Weeks 3, 5, 7</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>1001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>14/10/13, 28/10/13, 11/11/13</week>
-	<modulecode>SMM522 CF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals (MSc CF)/B1/LAB 01/02</activity>
-	<desc>MSc CF: LAB: Group 01 of 02 : Weeks 3, 5, 7</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>14/10/13, 28/10/13, 11/11/13</week>
+		<modulecode>SMM522 CF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals (MSc CF) B2/LAB 02/02</activity>
+		<desc>MSc CF: LAB: Group 02 of 02 : Weeks 3, 5, 7</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>1001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>14/10/13, 28/10/13, 11/11/13</week>
+		<modulecode>SMM522 CF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals (MSc CF)/B1/LAB 01/02</activity>
+		<desc>MSc CF: LAB: Group 01 of 02 : Weeks 3, 5, 7</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

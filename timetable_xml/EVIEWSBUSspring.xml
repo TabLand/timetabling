@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>EVIEWSBUSspring</modulecode>
-	<activity>EVIEWS YR 3 (BUS)/Spring/01/01</activity>
-	<desc>Optional Lab Weeks 1-5 only</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>EVIEWSBUSspring</modulecode>
+		<activity>EVIEWS YR 3 (BUS)/Spring/01/01</activity>
+		<desc>Optional Lab Weeks 1-5 only</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

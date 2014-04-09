@@ -1,208 +1,210 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>17/03/14-31/03/14, 14/04/14, 28/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A111</room>
-	<lecturer>Saunder, L </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>24/03/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment (Mental Health)/Exam resit/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>A225</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A111</room>
-	<lecturer>Simpson, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>17/03/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/03</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>DLG19</room>
-	<lecturer>Saunder, L </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>17/03/14-21/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Saunder, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>07/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A111</room>
-	<lecturer>King, K </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>28/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Simpson, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>17/03/14, 31/03/14-28/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 1/01</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>A110</room>
-	<lecturer>Blows, W </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 1/01</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>A110</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>13:50</end>
-	<week>28/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/07</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>A110</room>
-	<lecturer>Saunder, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>24/03/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/06</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>C302</room>
-	<lecturer>Davies, Jacqueline </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>07/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/04</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>E212</room>
-	<lecturer>Lindsay, T </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>14/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 3/01</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>A110</room>
-	<lecturer>Blows, W </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>21/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/05</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>A110</room>
-	<lecturer>Saunder, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14-28/04/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 2/01</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>D104</room>
-	<lecturer>Blows, W </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>17/03/14-31/03/14</week>
-	<modulecode>HSM332</modulecode>
-	<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 2/01</activity>
-	<desc>All MHN</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>C170</room>
-	<lecturer>Blows, W </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>17/03/14-31/03/14, 14/04/14, 28/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A111</room>
+		<lecturer>Saunder, L </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>24/03/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment (Mental Health)/Exam resit/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>A225</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A111</room>
+		<lecturer>Simpson, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>17/03/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/03</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>DLG19</room>
+		<lecturer>Saunder, L </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>17/03/14-21/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Saunder, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>07/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A111</room>
+		<lecturer>King, K </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>28/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Simpson, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>17/03/14, 31/03/14-28/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 1/01</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>A110</room>
+		<lecturer>Blows, W </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 1/01</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>A110</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>13:50</end>
+		<week>28/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/07</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>A110</room>
+		<lecturer>Saunder, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>24/03/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/06</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>C302</room>
+		<lecturer>Davies, Jacqueline </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>07/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/04</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>E212</room>
+		<lecturer>Lindsay, T </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>14/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 3/01</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>A110</room>
+		<lecturer>Blows, W </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>21/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/05</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>A110</room>
+		<lecturer>Saunder, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14-28/04/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 2/01</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>D104</room>
+		<lecturer>Blows, W </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>17/03/14-31/03/14</week>
+		<modulecode>HSM332</modulecode>
+		<activity>HSM332 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 2/01</activity>
+		<desc>All MHN</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>C170</room>
+		<lecturer>Blows, W </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

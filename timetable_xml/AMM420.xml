@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMM420</modulecode>
-	<activity>AMM420 Evaluation Politics & Advocacy/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C350</room>
-	<lecturer>Gaio, Ana </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMM420</modulecode>
-	<activity>AMM420 Evaluation Politics & Advocacy/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C337</room>
-	<lecturer>Gaio, Ana </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMM420</modulecode>
+		<activity>AMM420 Evaluation Politics & Advocacy/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C350</room>
+		<lecturer>Gaio, Ana </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMM420</modulecode>
+		<activity>AMM420 Evaluation Politics & Advocacy/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C337</room>
+		<lecturer>Gaio, Ana </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

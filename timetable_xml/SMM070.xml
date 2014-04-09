@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>12/05/14-26/05/14, 16/06/14</week>
-	<modulecode>SMM070</modulecode>
-	<activity>SMM070 Topics in Quantitative Risk Management/Lecture/WKS 1,2,3,6</activity>
-	<desc>Weeks 1, 2, 3, 6 (Lecture)</desc>
-	<joint>SMM070;SMM070</joint>
-	<studentnos>38</studentnos>
-	<room>2006</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>02/06/14-09/06/14</week>
-	<modulecode>SMM070</modulecode>
-	<activity>SMM070 Topics in Quantitative Risk Management/Computer Lab/WKS 4 & 5</activity>
-	<desc>Weeks 4 & 5 only ( Computer LAB )</desc>
-	<joint>SMM070;SMM070</joint>
-	<studentnos>38</studentnos>
-	<room>2001</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>12/05/14-26/05/14, 16/06/14</week>
+		<modulecode>SMM070</modulecode>
+		<activity>SMM070 Topics in Quantitative Risk Management/Lecture/WKS 1,2,3,6</activity>
+		<desc>Weeks 1, 2, 3, 6 (Lecture)</desc>
+		<joint>SMM070;SMM070</joint>
+		<studentnos>38</studentnos>
+		<room>2006</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>02/06/14-09/06/14</week>
+		<modulecode>SMM070</modulecode>
+		<activity>SMM070 Topics in Quantitative Risk Management/Computer Lab/WKS 4 & 5</activity>
+		<desc>Weeks 4 & 5 only ( Computer LAB )</desc>
+		<joint>SMM070;SMM070</joint>
+		<studentnos>38</studentnos>
+		<room>2001</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

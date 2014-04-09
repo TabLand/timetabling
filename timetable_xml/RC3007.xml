@@ -1,13 +1,15 @@
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>02/09/13</week>
-	<modulecode>RC3007</modulecode>
-	<activity>RC3007 Research Project/Lecture 1/1</activity>
-	<desc>Dissertation (D&T only)</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A226</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>02/09/13</week>
+		<modulecode>RC3007</modulecode>
+		<activity>RC3007 Research Project/Lecture 1/1</activity>
+		<desc>Dissertation (D&T only)</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A226</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

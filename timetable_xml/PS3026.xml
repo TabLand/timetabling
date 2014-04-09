@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PS3026</modulecode>
-	<activity>PS3026 Social Perception/Lecture 01/01 LEAD</activity>
-	<desc> </desc>
-	<joint>PS3026;PSM523</joint>
-	<studentnos>29</studentnos>
-	<room>C337</room>
-	<lecturer>Cooke, Richard </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PS3026</modulecode>
-	<activity>PS3026 Social Perception/Drop-In Clinic 01/01 LEAD</activity>
-	<desc> </desc>
-	<joint>PS3026;PSM523</joint>
-	<studentnos>5</studentnos>
-	<room>D429</room>
-	<lecturer>Cooke, Richard </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PS3026</modulecode>
+		<activity>PS3026 Social Perception/Lecture 01/01 LEAD</activity>
+		<desc>-</desc>
+		<joint>PS3026;PSM523</joint>
+		<studentnos>29</studentnos>
+		<room>C337</room>
+		<lecturer>Cooke, Richard </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PS3026</modulecode>
+		<activity>PS3026 Social Perception/Drop-In Clinic 01/01 LEAD</activity>
+		<desc>-</desc>
+		<joint>PS3026;PSM523</joint>
+		<studentnos>5</studentnos>
+		<room>D429</room>
+		<lecturer>Cooke, Richard </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

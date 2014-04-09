@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SGM106</modulecode>
-	<activity>SGM106 Criminal Minds/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>D221</room>
-	<lecturer>McLaughlin, Eugene </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SGM106</modulecode>
+		<activity>SGM106 Criminal Minds/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>D221</room>
+		<lecturer>McLaughlin, Eugene </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

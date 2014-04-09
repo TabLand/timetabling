@@ -1,52 +1,54 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ETM066</modulecode>
-	<activity>ETM066 MEng Design Studies F - Egpr/Practical 1/02/LEAD</activity>
-	<desc>Joint with ETM067: total numbers 18</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>C341</room>
-	<lecturer>Kovacevic, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM066</modulecode>
-	<activity>ETM066 MEng Design Studies F - Egpr/Practical 1/01/LEAD</activity>
-	<desc>Joint with ETM067: total numbers 18</desc>
-	<joint>ETM066;ETM067</joint>
-	<studentnos>18</studentnos>
-	<room>C341</room>
-	<lecturer>Kovacevic, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM066</modulecode>
-	<activity>ETM066 MEng Design Studies F - Egpr/Practical 2/01/LEAD</activity>
-	<desc>C341: Joint with ETM067: total numbers 18</desc>
-	<joint>ETM066;ME3100M</joint>
-	<studentnos>18</studentnos>
-	<room>C341</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ETM066</modulecode>
-	<activity>ETM066 MEng Design Studies F - Egpr/Practical 2/02/LEAD</activity>
-	<desc>Joint with ETM067: total numbers 18</desc>
-	<joint>ETM067;ETM066</joint>
-	<studentnos>18</studentnos>
-	<room>C341</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ETM066</modulecode>
+		<activity>ETM066 MEng Design Studies F - Egpr/Practical 1/02/LEAD</activity>
+		<desc>Joint with ETM067: total numbers 18</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>C341</room>
+		<lecturer>Kovacevic, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM066</modulecode>
+		<activity>ETM066 MEng Design Studies F - Egpr/Practical 1/01/LEAD</activity>
+		<desc>Joint with ETM067: total numbers 18</desc>
+		<joint>ETM066;ETM067</joint>
+		<studentnos>18</studentnos>
+		<room>C341</room>
+		<lecturer>Kovacevic, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM066</modulecode>
+		<activity>ETM066 MEng Design Studies F - Egpr/Practical 2/01/LEAD</activity>
+		<desc>C341: Joint with ETM067: total numbers 18</desc>
+		<joint>ETM066;ME3100M</joint>
+		<studentnos>18</studentnos>
+		<room>C341</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ETM066</modulecode>
+		<activity>ETM066 MEng Design Studies F - Egpr/Practical 2/02/LEAD</activity>
+		<desc>Joint with ETM067: total numbers 18</desc>
+		<joint>ETM067;ETM066</joint>
+		<studentnos>18</studentnos>
+		<room>C341</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

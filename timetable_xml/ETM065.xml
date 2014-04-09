@@ -1,26 +1,28 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ETM065</modulecode>
-	<activity>ETM065 MEng Design Studies (Aero)/Tutorial 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>I203/I206</room>
-	<lecturer>McParlin, S Mr;Atkin, C Prof </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ETM065</modulecode>
-	<activity>ETM065 MEng Design Studies (Aero)/Tutorial 1/01/JOINT</activity>
-	<desc>Joint with ME3100A</desc>
-	<joint>ETM065;ME3100A;ME3100A;ME3100A</joint>
-	<studentnos>15</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ETM065</modulecode>
+		<activity>ETM065 MEng Design Studies (Aero)/Tutorial 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>I203/I206</room>
+		<lecturer>McParlin, S Mr;Atkin, C Prof </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ETM065</modulecode>
+		<activity>ETM065 MEng Design Studies (Aero)/Tutorial 1/01/JOINT</activity>
+		<desc>Joint with ME3100A</desc>
+		<joint>ETM065;ME3100A;ME3100A;ME3100A</joint>
+		<studentnos>15</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

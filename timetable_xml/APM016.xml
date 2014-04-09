@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>12/05/14-23/06/14</week>
-	<modulecode>APM016</modulecode>
-	<activity>APM016 Managing the physical, mental & social wellbeing needs of people with long-term conditions/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D106</room>
-	<lecturer>Roberts, S </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>12/05/14-23/06/14</week>
+		<modulecode>APM016</modulecode>
+		<activity>APM016 Managing the physical, mental & social wellbeing needs of people with long-term conditions/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D106</room>
+		<lecturer>Roberts, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

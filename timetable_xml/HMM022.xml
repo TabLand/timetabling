@@ -1,117 +1,119 @@
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 03/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>25/11/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 05/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>02/12/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 07/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 02/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 04/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg;Abbott, S </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>25/11/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 06/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>02/12/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/Lecture 08/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2E (WS)</room>
-	<lecturer>Layther, Greg </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>16:50</end>
-	<week>09/12/13</week>
-	<modulecode>HMM022</modulecode>
-	<activity>HMM022 Leadership in Health Management/ Tutorial on Formative Assessment/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 03/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>25/11/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 05/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>02/12/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 07/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 02/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 04/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg;Abbott, S </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>25/11/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 06/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>02/12/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/Lecture 08/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2E (WS)</room>
+		<lecturer>Layther, Greg </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>16:50</end>
+		<week>09/12/13</week>
+		<modulecode>HMM022</modulecode>
+		<activity>HMM022 Leadership in Health Management/ Tutorial on Formative Assessment/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

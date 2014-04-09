@@ -1,26 +1,28 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LG3080</modulecode>
-	<activity>LG3080 Maritime Law/Tutorial 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LU3080;LG3080</joint>
-	<studentnos>7</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>LG3080</modulecode>
-	<activity>LG3080 Maritime Law/Lecture 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LU3080;LG3080</joint>
-	<studentnos>7</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LG3080</modulecode>
+		<activity>LG3080 Maritime Law/Tutorial 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LU3080;LG3080</joint>
+		<studentnos>7</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>LG3080</modulecode>
+		<activity>LG3080 Maritime Law/Lecture 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LU3080;LG3080</joint>
+		<studentnos>7</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

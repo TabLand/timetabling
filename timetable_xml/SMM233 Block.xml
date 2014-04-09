@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>15:00</end>
-	<week>16/06/14</week>
-	<modulecode>SMM233 Block</modulecode>
-	<activity>SMM233 Mergers & Acquisitions/Lecture/Stream 03/03 (Block)/wk 6</activity>
-	<desc>Block : Stream 3 of 3</desc>
-	<joint> </joint>
-	<studentnos>52</studentnos>
-	<room>G001</room>
-	<lecturer>Faelten, Anna </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>15:00</end>
+		<week>16/06/14</week>
+		<modulecode>SMM233 Block</modulecode>
+		<activity>SMM233 Mergers & Acquisitions/Lecture/Stream 03/03 (Block)/wk 6</activity>
+		<desc>Block : Stream 3 of 3</desc>
+		<joint>-</joint>
+		<studentnos>52</studentnos>
+		<room>G001</room>
+		<lecturer>Faelten, Anna </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

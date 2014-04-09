@@ -1,182 +1,184 @@
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>18/11/13-09/12/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07;CG17</room>
-	<lecturer>Grattan, K </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07;CG17</room>
-	<lecturer>Grattan, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
-	<desc>Group Project Week</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG17</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Tutorial 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>C338</room>
-	<lecturer>Grattan, K </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>EE1500</modulecode>
-	<activity>EE1500 Engineering Practice/Lab 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B103</room>
-	<lecturer>Grattan, K </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>18/11/13-09/12/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07;CG17</room>
+		<lecturer>Grattan, K </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07;CG17</room>
+		<lecturer>Grattan, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 1/01 AM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab SEMS 2/01 PM</activity>
+		<desc>Group Project Week</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG17</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Tutorial 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>C338</room>
+		<lecturer>Grattan, K </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>EE1500</modulecode>
+		<activity>EE1500 Engineering Practice/Lab 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B103</room>
+		<lecturer>Grattan, K </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

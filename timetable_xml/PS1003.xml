@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>PS1003</modulecode>
-	<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Lecture 01A/01</activity>
-	<desc>Weeks 1-5</desc>
-	<joint>PS1003;PS1003</joint>
-	<studentnos>150</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Poirier, Marie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>11/11/13-09/12/13</week>
-	<modulecode>PS1003</modulecode>
-	<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Lecture 01B/01</activity>
-	<desc>Weeks 7-11</desc>
-	<joint>PS1003;PS1003</joint>
-	<studentnos>150</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Knott, Lauren </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>PS1003</modulecode>
-	<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Drop-In Clinic 01A/01</activity>
-	<desc>Weeks 1-5</desc>
-	<joint>PS1003;PS1003</joint>
-	<studentnos>5</studentnos>
-	<room>D408</room>
-	<lecturer>Poirier, Marie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>11/11/13-09/12/13</week>
-	<modulecode>PS1003</modulecode>
-	<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Drop-In Clinic 01B/01</activity>
-	<desc>Weeks 7-11</desc>
-	<joint>PS1003;PS1003</joint>
-	<studentnos>2</studentnos>
-	<room>D334</room>
-	<lecturer>Knott, Lauren </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>PS1003</modulecode>
+		<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Lecture 01A/01</activity>
+		<desc>Weeks 1-5</desc>
+		<joint>PS1003;PS1003</joint>
+		<studentnos>150</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Poirier, Marie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>11/11/13-09/12/13</week>
+		<modulecode>PS1003</modulecode>
+		<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Lecture 01B/01</activity>
+		<desc>Weeks 7-11</desc>
+		<joint>PS1003;PS1003</joint>
+		<studentnos>150</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Knott, Lauren </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>PS1003</modulecode>
+		<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Drop-In Clinic 01A/01</activity>
+		<desc>Weeks 1-5</desc>
+		<joint>PS1003;PS1003</joint>
+		<studentnos>5</studentnos>
+		<room>D408</room>
+		<lecturer>Poirier, Marie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>11/11/13-09/12/13</week>
+		<modulecode>PS1003</modulecode>
+		<activity>PS1003 Cognitive Approaches To Mind And Behaviour/Drop-In Clinic 01B/01</activity>
+		<desc>Weeks 7-11</desc>
+		<joint>PS1003;PS1003</joint>
+		<studentnos>2</studentnos>
+		<room>D334</room>
+		<lecturer>Knott, Lauren </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

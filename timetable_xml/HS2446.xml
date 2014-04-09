@@ -1,91 +1,93 @@
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>20/01/14</week>
-	<modulecode>HS2446</modulecode>
-	<activity>HS2446 Communities in Health/Lecture/01</activity>
-	<desc>Optional module (all divisions)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Bryar, R </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>HS2446</modulecode>
-	<activity>HS2446 Communities in Health/Lecture/01</activity>
-	<desc>Optional module (all divisions)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Craig, G </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>03/02/14</week>
-	<modulecode>HS2446</modulecode>
-	<activity>HS2446 Communities in Health/Lecture/01</activity>
-	<desc>Optional module (all divisions)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>McGraw, C </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS2446</modulecode>
-	<activity>HS2446 Communities in Health/Lecture/01</activity>
-	<desc>Optional module (all divisions)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Benato, R </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>17/02/14</week>
-	<modulecode>HS2446</modulecode>
-	<activity>HS2446 Communities in Health/Lecture/01</activity>
-	<desc>Optional module (all divisions)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Christie, J </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>HS2446</modulecode>
-	<activity>HS2446 Communities in Health/Lecture/01</activity>
-	<desc>Optional module (all divisions)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Hill, Marie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/03/14</week>
-	<modulecode>HS2446</modulecode>
-	<activity>HS2446 Communities in Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>McGraw, C </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>20/01/14</week>
+		<modulecode>HS2446</modulecode>
+		<activity>HS2446 Communities in Health/Lecture/01</activity>
+		<desc>Optional module (all divisions)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Bryar, R </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>HS2446</modulecode>
+		<activity>HS2446 Communities in Health/Lecture/01</activity>
+		<desc>Optional module (all divisions)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Craig, G </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>03/02/14</week>
+		<modulecode>HS2446</modulecode>
+		<activity>HS2446 Communities in Health/Lecture/01</activity>
+		<desc>Optional module (all divisions)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>McGraw, C </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS2446</modulecode>
+		<activity>HS2446 Communities in Health/Lecture/01</activity>
+		<desc>Optional module (all divisions)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Benato, R </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>17/02/14</week>
+		<modulecode>HS2446</modulecode>
+		<activity>HS2446 Communities in Health/Lecture/01</activity>
+		<desc>Optional module (all divisions)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Christie, J </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>HS2446</modulecode>
+		<activity>HS2446 Communities in Health/Lecture/01</activity>
+		<desc>Optional module (all divisions)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Hill, Marie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/03/14</week>
+		<modulecode>HS2446</modulecode>
+		<activity>HS2446 Communities in Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>McGraw, C </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

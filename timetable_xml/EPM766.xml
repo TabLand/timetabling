@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EPM766</modulecode>
-	<activity>EPM766 Internal Combustion Engines/Lecture 2/01/JOINT</activity>
-	<desc>Joint with ME3151: total numbers 45</desc>
-	<joint>ME3151;EPM766</joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EPM766</modulecode>
-	<activity>EPM766 Internal Combustion Engines/Lecture 1/01/JOINT</activity>
-	<desc>Joint with ME3151: total numbers 45</desc>
-	<joint>ME3151;EPM766</joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EPM766</modulecode>
+		<activity>EPM766 Internal Combustion Engines/Lecture 2/01/JOINT</activity>
+		<desc>Joint with ME3151: total numbers 45</desc>
+		<joint>ME3151;EPM766</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EPM766</modulecode>
+		<activity>EPM766 Internal Combustion Engines/Lecture 1/01/JOINT</activity>
+		<desc>Joint with ME3151: total numbers 45</desc>
+		<joint>ME3151;EPM766</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

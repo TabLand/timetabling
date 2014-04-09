@@ -1,234 +1,236 @@
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>07/10/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Lab 01/01</activity>
-	<desc>Week 2</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D518</room>
-	<lecturer>Yarnold, Antonella </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>21/10/13, 11/11/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01/02</activity>
-	<desc>Weeks 4 & 7</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D109</room>
-	<lecturer>Denis, Andy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>21/10/13, 11/11/13, 02/12/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01/01</activity>
-	<desc>Weeks 4, 7 & 10</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Yaman, Firat </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>11/11/13, 02/12/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01/03</activity>
-	<desc>Weeks 7 & 10</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D222</room>
-	<lecturer>Pearlman, Joseph </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>21/10/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01/03/Oct 22nd</activity>
-	<desc>Week 4</desc>
-	<joint> </joint>
-	<studentnos>9</studentnos>
-	<room>AG24a</room>
-	<lecturer>Pearlman, Joseph </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>02/12/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01/02/Dec 3rd</activity>
-	<desc>Week 10 (+EC3023)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG24a</room>
-	<lecturer>Denis, Andy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14, 17/02/14, 24/03/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 02/03</activity>
-	<desc>Weeks 1, 4, & 9</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>IG03</room>
-	<lecturer>Pearlman, Joseph </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14, 17/02/14, 24/03/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 02/01</activity>
-	<desc>Weeks 1, 4, & 9</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D113</room>
-	<lecturer>Yaman, Firat </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>24/03/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 02/02/Mar 25th</activity>
-	<desc>Week 9</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C357</room>
-	<lecturer>Denis, Andy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/04/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 02/03/Apr 9th</activity>
-	<desc>Week 11</desc>
-	<joint> </joint>
-	<studentnos>9</studentnos>
-	<room>D106</room>
-	<lecturer>Pearlman, Joseph </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 02/01/Apr 10th</activity>
-	<desc>Week 11</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D222</room>
-	<lecturer>Yaman, Firat </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/02/14-24/02/14, 10/03/14-17/03/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Lab 02/01</activity>
-	<desc>Weeks 4, 5, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C301</room>
-	<lecturer>Kapar, Burcu </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Lecture 01/01</activity>
-	<desc>Week 1</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D221</room>
-	<lecturer>Serra-Sastre, Victoria </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01a/03</activity>
-	<desc>Week 1</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D106</room>
-	<lecturer>Pearlman, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01a/02</activity>
-	<desc>Week 1</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D109</room>
-	<lecturer>Denis, Andy </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 01a/01</activity>
-	<desc>Week 1</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>A112</room>
-	<lecturer>Yaman, Firat </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14, 17/02/14, 24/03/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 02/02</activity>
-	<desc>Weeks 1, 4, & 9</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C140</room>
-	<lecturer>Denis, Andy </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>24/03/14</week>
-	<modulecode>EC3009</modulecode>
-	<activity>EC3009 Project/Tutorial 02/02/Mar 27th</activity>
-	<desc>Week 9: Extension</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C140</room>
-	<lecturer>Denis, Andy </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>07/10/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Lab 01/01</activity>
+		<desc>Week 2</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D518</room>
+		<lecturer>Yarnold, Antonella </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>21/10/13, 11/11/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01/02</activity>
+		<desc>Weeks 4 & 7</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D109</room>
+		<lecturer>Denis, Andy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>21/10/13, 11/11/13, 02/12/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01/01</activity>
+		<desc>Weeks 4, 7 & 10</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Yaman, Firat </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>11/11/13, 02/12/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01/03</activity>
+		<desc>Weeks 7 & 10</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D222</room>
+		<lecturer>Pearlman, Joseph </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>21/10/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01/03/Oct 22nd</activity>
+		<desc>Week 4</desc>
+		<joint>-</joint>
+		<studentnos>9</studentnos>
+		<room>AG24a</room>
+		<lecturer>Pearlman, Joseph </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>02/12/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01/02/Dec 3rd</activity>
+		<desc>Week 10 (+EC3023)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG24a</room>
+		<lecturer>Denis, Andy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14, 17/02/14, 24/03/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 02/03</activity>
+		<desc>Weeks 1, 4, & 9</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>IG03</room>
+		<lecturer>Pearlman, Joseph </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14, 17/02/14, 24/03/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 02/01</activity>
+		<desc>Weeks 1, 4, & 9</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D113</room>
+		<lecturer>Yaman, Firat </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>24/03/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 02/02/Mar 25th</activity>
+		<desc>Week 9</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C357</room>
+		<lecturer>Denis, Andy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/04/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 02/03/Apr 9th</activity>
+		<desc>Week 11</desc>
+		<joint>-</joint>
+		<studentnos>9</studentnos>
+		<room>D106</room>
+		<lecturer>Pearlman, Joseph </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 02/01/Apr 10th</activity>
+		<desc>Week 11</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D222</room>
+		<lecturer>Yaman, Firat </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/02/14-24/02/14, 10/03/14-17/03/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Lab 02/01</activity>
+		<desc>Weeks 4, 5, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C301</room>
+		<lecturer>Kapar, Burcu </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Lecture 01/01</activity>
+		<desc>Week 1</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D221</room>
+		<lecturer>Serra-Sastre, Victoria </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01a/03</activity>
+		<desc>Week 1</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D106</room>
+		<lecturer>Pearlman, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01a/02</activity>
+		<desc>Week 1</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D109</room>
+		<lecturer>Denis, Andy </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 01a/01</activity>
+		<desc>Week 1</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>A112</room>
+		<lecturer>Yaman, Firat </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14, 17/02/14, 24/03/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 02/02</activity>
+		<desc>Weeks 1, 4, & 9</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C140</room>
+		<lecturer>Denis, Andy </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>24/03/14</week>
+		<modulecode>EC3009</modulecode>
+		<activity>EC3009 Project/Tutorial 02/02/Mar 27th</activity>
+		<desc>Week 9: Extension</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C140</room>
+		<lecturer>Denis, Andy </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

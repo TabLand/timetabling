@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM280</modulecode>
-	<activity>SMM280 Introduction to C/LAB</activity>
-	<desc>Computer Lab</desc>
-	<joint> </joint>
-	<studentnos>61</studentnos>
-	<room>2001</room>
-	<lecturer>Kherraz, Ammar </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM280</modulecode>
+		<activity>SMM280 Introduction to C/LAB</activity>
+		<desc>Computer Lab</desc>
+		<joint>-</joint>
+		<studentnos>61</studentnos>
+		<room>2001</room>
+		<lecturer>Kherraz, Ammar </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

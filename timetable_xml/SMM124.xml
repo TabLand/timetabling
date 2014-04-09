@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM124</modulecode>
-	<activity>SMM124 Financial Risk Management (MSc FI)/Lecture 01</activity>
-	<desc>FI: YR 2</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2005</room>
-	<lecturer>Cuthbertson, Keith </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM124</modulecode>
+		<activity>SMM124 Financial Risk Management (MSc FI)/Lecture 01</activity>
+		<desc>FI: YR 2</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2005</room>
+		<lecturer>Cuthbertson, Keith </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2769</modulecode>
-	<activity>CS2769 Advanced Marketing term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D221</room>
-	<lecturer>Ahmed, Saud </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>03/02/14-07/04/14</week>
-	<modulecode>CS2769</modulecode>
-	<activity>CS2769 Advanced Marketing term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D221</room>
-	<lecturer>Ahmed, Saud </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2769</modulecode>
+		<activity>CS2769 Advanced Marketing term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D221</room>
+		<lecturer>Ahmed, Saud </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>03/02/14-07/04/14</week>
+		<modulecode>CS2769</modulecode>
+		<activity>CS2769 Advanced Marketing term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D221</room>
+		<lecturer>Ahmed, Saud </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

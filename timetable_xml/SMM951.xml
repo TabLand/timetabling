@@ -1,52 +1,54 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-21/10/13</week>
-	<modulecode>SMM951</modulecode>
-	<activity>SMM951 Quantitative Methods/FI/Lecture 01/wks 1-4</activity>
-	<desc>FI : YR1 :Lecture : weeks 1-4</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>3003</room>
-	<lecturer>Trapani, Lorenzo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>28/10/13</week>
-	<modulecode>SMM951</modulecode>
-	<activity>SMM951 Quantitative Methods/FI/Computer Room 01/wk 5</activity>
-	<desc>FI : YR1 : Computer Lab Autumn: Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>1001</room>
-	<lecturer>Trapani, Lorenzo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>04/11/13-25/11/13</week>
-	<modulecode>SMM951</modulecode>
-	<activity>SMM951 Quantitative Methods/FI/Lecture 02/wks 6-9</activity>
-	<desc>FI : YR1 : Lecture : weeks 6-9</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>3003</room>
-	<lecturer>Payne, Richard Prof </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>SMM951</modulecode>
-	<activity>SMM951 Quantitative Methods/FI/Computer Room 01/wk 10</activity>
-	<desc>FI : YR1 : Computer Lab Autumn: Week 10 only</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>1001</room>
-	<lecturer>Payne, Richard Prof </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-21/10/13</week>
+		<modulecode>SMM951</modulecode>
+		<activity>SMM951 Quantitative Methods/FI/Lecture 01/wks 1-4</activity>
+		<desc>FI : YR1 :Lecture : weeks 1-4</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>3003</room>
+		<lecturer>Trapani, Lorenzo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>28/10/13</week>
+		<modulecode>SMM951</modulecode>
+		<activity>SMM951 Quantitative Methods/FI/Computer Room 01/wk 5</activity>
+		<desc>FI : YR1 : Computer Lab Autumn: Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>1001</room>
+		<lecturer>Trapani, Lorenzo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>04/11/13-25/11/13</week>
+		<modulecode>SMM951</modulecode>
+		<activity>SMM951 Quantitative Methods/FI/Lecture 02/wks 6-9</activity>
+		<desc>FI : YR1 : Lecture : weeks 6-9</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>3003</room>
+		<lecturer>Payne, Richard Prof </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>SMM951</modulecode>
+		<activity>SMM951 Quantitative Methods/FI/Computer Room 01/wk 10</activity>
+		<desc>FI : YR1 : Computer Lab Autumn: Week 10 only</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>1001</room>
+		<lecturer>Payne, Richard Prof </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

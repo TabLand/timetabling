@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/02/14-10/03/14, 31/03/14</week>
-	<modulecode>SMM477</modulecode>
-	<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wks 4-7, 10</activity>
-	<desc>ENTstream Weeks 4-7,10</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>3003</room>
-	<lecturer>Zerbinati, Stefani </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>SMM477</modulecode>
-	<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wk 8</activity>
-	<desc>ENTstream Week 8 only + Guest speaker</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>3003</room>
-	<lecturer>Zerbinati, Stefani </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>13:00</end>
-	<week>17/03/14</week>
-	<modulecode>SMM477</modulecode>
-	<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wk 8</activity>
-	<desc>ENTstream Week 8 only + Guest speaker : 1hour</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>3002</room>
-	<lecturer>Zerbinati, Stefani </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>SMM477</modulecode>
-	<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wk 10</activity>
-	<desc>ENTstream Week 10 ONLY (replacement for wk 9 missed)</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>G001</room>
-	<lecturer>Zerbinati, Stefani </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/02/14-10/03/14, 31/03/14</week>
+		<modulecode>SMM477</modulecode>
+		<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wks 4-7, 10</activity>
+		<desc>ENTstream Weeks 4-7,10</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>3003</room>
+		<lecturer>Zerbinati, Stefani </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>SMM477</modulecode>
+		<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wk 8</activity>
+		<desc>ENTstream Week 8 only + Guest speaker</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>3003</room>
+		<lecturer>Zerbinati, Stefani </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>13:00</end>
+		<week>17/03/14</week>
+		<modulecode>SMM477</modulecode>
+		<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wk 8</activity>
+		<desc>ENTstream Week 8 only + Guest speaker : 1hour</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>3002</room>
+		<lecturer>Zerbinati, Stefani </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>SMM477</modulecode>
+		<activity>SMM477 Entrepreneurship 101/ENT/Lecture/wk 10</activity>
+		<desc>ENTstream Week 10 ONLY (replacement for wk 9 missed)</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>G001</room>
+		<lecturer>Zerbinati, Stefani </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

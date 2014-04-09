@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SGM011</modulecode>
-	<activity>SGM011 Representation and Reception/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D112</room>
-	<lecturer>Fanthome, Christine </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SGM011</modulecode>
+		<activity>SGM011 Representation and Reception/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D112</room>
+		<lecturer>Fanthome, Christine </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

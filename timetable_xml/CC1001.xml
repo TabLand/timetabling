@@ -1,52 +1,54 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>CC1001</modulecode>
-	<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C350</room>
-	<lecturer>Littler, Jo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>CC1001</modulecode>
-	<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Lecture 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Miller, Toby </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>CC1001</modulecode>
-	<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Seminar 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>ALG16</room>
-	<lecturer>Littler, Jo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>CC1001</modulecode>
-	<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Seminar 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C345</room>
-	<lecturer>Miller, Toby </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>CC1001</modulecode>
+		<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C350</room>
+		<lecturer>Littler, Jo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>CC1001</modulecode>
+		<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Lecture 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Miller, Toby </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>CC1001</modulecode>
+		<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Seminar 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>ALG16</room>
+		<lecturer>Littler, Jo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>CC1001</modulecode>
+		<activity>CC1001 Cultural and Creative Industries, Art and Popular Culture/Seminar 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C345</room>
+		<lecturer>Miller, Toby </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

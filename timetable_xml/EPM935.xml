@@ -1,78 +1,80 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>11/11/13</week>
-	<modulecode>EPM935</modulecode>
-	<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>A307&8</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:50</end>
-	<week>25/11/13</week>
-	<modulecode>EPM935</modulecode>
-	<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>11/11/13</week>
-	<modulecode>EPM935</modulecode>
-	<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C340</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:50</end>
-	<week>07/10/13-28/10/13</week>
-	<modulecode>EPM935</modulecode>
-	<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C161</room>
-	<lecturer>Radosavljevich, M </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:50</end>
-	<week>04/11/13</week>
-	<modulecode>EPM935</modulecode>
-	<activity>EPM935 ICT for Construction Management/SEMS/Lab 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG12</room>
-	<lecturer>Radosavljevich, M </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:50</end>
-	<week>18/11/13</week>
-	<modulecode>EPM935</modulecode>
-	<activity>EPM935 ICT for Construction Management/SEMS/Lab 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG12</room>
-	<lecturer>Radosavljevich, M </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>11/11/13</week>
+		<modulecode>EPM935</modulecode>
+		<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>A307&8</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:50</end>
+		<week>25/11/13</week>
+		<modulecode>EPM935</modulecode>
+		<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>11/11/13</week>
+		<modulecode>EPM935</modulecode>
+		<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C340</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:50</end>
+		<week>07/10/13-28/10/13</week>
+		<modulecode>EPM935</modulecode>
+		<activity>EPM935 ICT for Construction Management/SEMS/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C161</room>
+		<lecturer>Radosavljevich, M </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:50</end>
+		<week>04/11/13</week>
+		<modulecode>EPM935</modulecode>
+		<activity>EPM935 ICT for Construction Management/SEMS/Lab 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG12</room>
+		<lecturer>Radosavljevich, M </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:50</end>
+		<week>18/11/13</week>
+		<modulecode>EPM935</modulecode>
+		<activity>EPM935 ICT for Construction Management/SEMS/Lab 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG12</room>
+		<lecturer>Radosavljevich, M </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

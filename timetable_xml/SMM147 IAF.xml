@@ -1,52 +1,54 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM147 IAF</modulecode>
-	<activity>SMM147 Financial Statement Analysis (MSc IAF)/Lecture 1/01</activity>
-	<desc>(MSc IAF) Spring</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3002</room>
-	<lecturer>Yim, Andrew </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>03/03/14, 17/03/14</week>
-	<modulecode>SMM147 IAF</modulecode>
-	<activity>SMM147 Financial Statement Analysis (MSc IAF)/Tutorial 01/WKS 6 &8</activity>
-	<desc>(MSc IAF) Tutorial : Weeks 6 & 8 : Spring</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2004</room>
-	<lecturer>Yim, Andrew </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:30</end>
-	<week>24/03/14</week>
-	<modulecode>SMM147 IAF</modulecode>
-	<activity>SMM147 Financial Statement Analysis (MSc IAF)/Tutorial 01/WK 9</activity>
-	<desc>(MSc IAF) Tutorial : Week 9 ONLY</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3003</room>
-	<lecturer>De Cesaris, Stephano </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>10/03/14, 31/03/14</week>
-	<modulecode>SMM147 IAF</modulecode>
-	<activity>SMM147 Financial Statement Analysis (MSc IAF)/Tutorial 01/WKS 7&10</activity>
-	<desc>(MSc IAF) Tutorial : Weeks 7 & 10 ONLY</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2003</room>
-	<lecturer>De Cesaris, Stephano </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM147 IAF</modulecode>
+		<activity>SMM147 Financial Statement Analysis (MSc IAF)/Lecture 1/01</activity>
+		<desc>(MSc IAF) Spring</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3002</room>
+		<lecturer>Yim, Andrew </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>03/03/14, 17/03/14</week>
+		<modulecode>SMM147 IAF</modulecode>
+		<activity>SMM147 Financial Statement Analysis (MSc IAF)/Tutorial 01/WKS 6 &8</activity>
+		<desc>(MSc IAF) Tutorial : Weeks 6 & 8 : Spring</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2004</room>
+		<lecturer>Yim, Andrew </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:30</end>
+		<week>24/03/14</week>
+		<modulecode>SMM147 IAF</modulecode>
+		<activity>SMM147 Financial Statement Analysis (MSc IAF)/Tutorial 01/WK 9</activity>
+		<desc>(MSc IAF) Tutorial : Week 9 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3003</room>
+		<lecturer>De Cesaris, Stephano </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>10/03/14, 31/03/14</week>
+		<modulecode>SMM147 IAF</modulecode>
+		<activity>SMM147 Financial Statement Analysis (MSc IAF)/Tutorial 01/WKS 7&10</activity>
+		<desc>(MSc IAF) Tutorial : Weeks 7 & 10 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2003</room>
+		<lecturer>De Cesaris, Stephano </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

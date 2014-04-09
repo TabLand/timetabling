@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>PS3013</modulecode>
-	<activity>PS3013 Organisational Psychology/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B104</room>
-	<lecturer>Sealy, Ruth </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>PS3013</modulecode>
-	<activity>PS3013 Organisational Psychology/Drop-In Clinic 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D624a</room>
-	<lecturer>Sealy, Ruth </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>PS3013</modulecode>
+		<activity>PS3013 Organisational Psychology/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B104</room>
+		<lecturer>Sealy, Ruth </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>PS3013</modulecode>
+		<activity>PS3013 Organisational Psychology/Drop-In Clinic 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D624a</room>
+		<lecturer>Sealy, Ruth </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

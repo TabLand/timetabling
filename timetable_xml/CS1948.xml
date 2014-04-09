@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>CS1948</modulecode>
-	<activity>CS1948 Bank Financial Management term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ALG16</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>10/02/14-31/03/14</week>
-	<modulecode>CS1948</modulecode>
-	<activity>CS1948 Bank Financial Management term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CG56</room>
-	<lecturer>Singh, Permjit </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1948</modulecode>
-	<activity>CS1948 Bank Financial Management term 3 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>E212</room>
-	<lecturer>Singh, Permjit </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>CS1948</modulecode>
+		<activity>CS1948 Bank Financial Management term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ALG16</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>10/02/14-31/03/14</week>
+		<modulecode>CS1948</modulecode>
+		<activity>CS1948 Bank Financial Management term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CG56</room>
+		<lecturer>Singh, Permjit </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1948</modulecode>
+		<activity>CS1948 Bank Financial Management term 3 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>E212</room>
+		<lecturer>Singh, Permjit </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

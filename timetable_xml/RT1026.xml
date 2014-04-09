@@ -1,468 +1,470 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Tutorial 1/01</activity>
-	<desc>Radiotherapy Equipment - optional tutorial</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C161</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/07</activity>
-	<desc>VERT 7A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/01</activity>
-	<desc>VERT 4B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 01/1</activity>
-	<desc>Module Introduction</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C303</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 3/01</activity>
-	<desc>Kilovoltage units</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C339</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 10/1</activity>
-	<desc>CT</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C161</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/02</activity>
-	<desc>VERT 8A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/02</activity>
-	<desc>VERT 6B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>17/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 12/1</activity>
-	<desc>RNI&PET (VL tbc)</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>ALG16</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/03</activity>
-	<desc>VERT 1A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/03</activity>
-	<desc>VERT 2B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 7/01</activity>
-	<desc>Brachytherapy</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C161</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>17/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 16/1</activity>
-	<desc>Mould room</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/01</activity>
-	<desc>VERT 3A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 2/01</activity>
-	<desc>Radioactivity</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C339</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 8/01</activity>
-	<desc>Other equipment</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>E212</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/04</activity>
-	<desc>VERT 2A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/04</activity>
-	<desc>VERT 5B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>17/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 13/1</activity>
-	<desc>Ultrasound</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>AG03</room>
-	<lecturer>Harris, Allison </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 11/1</activity>
-	<desc>Networking SD Study</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C339</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/05</activity>
-	<desc>VERT 5A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/05</activity>
-	<desc>VERT 1B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/07</activity>
-	<desc>VERT 3B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 5/01</activity>
-	<desc>Megavoltage units</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>AG03</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 9/01</activity>
-	<desc>Acc & Comm</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>No room needed</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/08</activity>
-	<desc>VERT 8B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 4/01</activity>
-	<desc>Megavoltage units</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>AG03</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 6/01</activity>
-	<desc>Pre treatment units</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>BLG07</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/02</activity>
-	<desc>VERT 4A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 2/06</activity>
-	<desc>VERT 7B</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 15/1</activity>
-	<desc>Dose calculations</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>C348</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Laboratory 1/06</activity>
-	<desc>VERT 6A</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Tutorial 1/03</activity>
-	<desc>Tutorial (optional)</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>AG03</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>17/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 14/1</activity>
-	<desc>MRI</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>D221</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Lecture 15/2</activity>
-	<desc>Dose calculations</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>D221</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>19/08/13</week>
-	<modulecode>RT1026</modulecode>
-	<activity>RT1026 Radiotherapy Equipment/Tutorial 1/04</activity>
-	<desc>MCT: revision</desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>I203/I206</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Tutorial 1/01</activity>
+		<desc>Radiotherapy Equipment - optional tutorial</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C161</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/07</activity>
+		<desc>VERT 7A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/01</activity>
+		<desc>VERT 4B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 01/1</activity>
+		<desc>Module Introduction</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C303</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 3/01</activity>
+		<desc>Kilovoltage units</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C339</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 10/1</activity>
+		<desc>CT</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C161</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/02</activity>
+		<desc>VERT 8A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/02</activity>
+		<desc>VERT 6B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>17/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 12/1</activity>
+		<desc>RNI&PET (VL tbc)</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>ALG16</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/03</activity>
+		<desc>VERT 1A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/03</activity>
+		<desc>VERT 2B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 7/01</activity>
+		<desc>Brachytherapy</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C161</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>17/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 16/1</activity>
+		<desc>Mould room</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/01</activity>
+		<desc>VERT 3A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 2/01</activity>
+		<desc>Radioactivity</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C339</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 8/01</activity>
+		<desc>Other equipment</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>E212</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/04</activity>
+		<desc>VERT 2A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/04</activity>
+		<desc>VERT 5B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>17/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 13/1</activity>
+		<desc>Ultrasound</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>AG03</room>
+		<lecturer>Harris, Allison </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 11/1</activity>
+		<desc>Networking SD Study</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C339</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/05</activity>
+		<desc>VERT 5A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/05</activity>
+		<desc>VERT 1B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/07</activity>
+		<desc>VERT 3B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 5/01</activity>
+		<desc>Megavoltage units</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>AG03</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 9/01</activity>
+		<desc>Acc & Comm</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>No room needed</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/08</activity>
+		<desc>VERT 8B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 4/01</activity>
+		<desc>Megavoltage units</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>AG03</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 6/01</activity>
+		<desc>Pre treatment units</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>BLG07</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/02</activity>
+		<desc>VERT 4A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 2/06</activity>
+		<desc>VERT 7B</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 15/1</activity>
+		<desc>Dose calculations</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>C348</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Laboratory 1/06</activity>
+		<desc>VERT 6A</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Tutorial 1/03</activity>
+		<desc>Tutorial (optional)</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>AG03</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>17/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 14/1</activity>
+		<desc>MRI</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>D221</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Lecture 15/2</activity>
+		<desc>Dose calculations</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>D221</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>19/08/13</week>
+		<modulecode>RT1026</modulecode>
+		<activity>RT1026 Radiotherapy Equipment/Tutorial 1/04</activity>
+		<desc>MCT: revision</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>I203/I206</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

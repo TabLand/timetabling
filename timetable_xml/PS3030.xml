@@ -1,78 +1,80 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>PS3030</modulecode>
-	<activity>PS3030 Introduction to Counselling Psychology/Lecture 01/Apr 10th/am</activity>
-	<desc>Week 8 replaced in week 11</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Jones Neilsen, Jessica;Costa, Alex </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>PS3030</modulecode>
-	<activity>PS3030 Introduction to Counselling Psychology/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>Jones Neilsen, Jessica;Costa, Alex </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>PS3030</modulecode>
-	<activity>PS3030 Introduction to Counselling Psychology/Drop-In Clinic 01/Apr 10th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D436</room>
-	<lecturer>Jones Neilsen, Jessica </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>PS3030</modulecode>
-	<activity>PS3030 Introduction to Counselling Psychology/Drop-In Clinic 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D434;D436</room>
-	<lecturer>Jones Neilsen, Jessica </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/04/14</week>
-	<modulecode>PS3030</modulecode>
-	<activity>PS3030 Introduction to Counselling Psychology/Lecture 01/Apr 10th/pm</activity>
-	<desc>Week 11: Later start</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>AG22</room>
-	<lecturer>Jones Neilsen, Jessica;Costa, Alex </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>17/02/14</week>
-	<modulecode>PS3030</modulecode>
-	<activity>PS3030 Introduction to Counselling Psychology/Seminar/Feb 20th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A225</room>
-	<lecturer>Jones Neilsen, Jessica </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>PS3030</modulecode>
+		<activity>PS3030 Introduction to Counselling Psychology/Lecture 01/Apr 10th/am</activity>
+		<desc>Week 8 replaced in week 11</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Jones Neilsen, Jessica;Costa, Alex </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>PS3030</modulecode>
+		<activity>PS3030 Introduction to Counselling Psychology/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>Jones Neilsen, Jessica;Costa, Alex </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>PS3030</modulecode>
+		<activity>PS3030 Introduction to Counselling Psychology/Drop-In Clinic 01/Apr 10th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D436</room>
+		<lecturer>Jones Neilsen, Jessica </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>PS3030</modulecode>
+		<activity>PS3030 Introduction to Counselling Psychology/Drop-In Clinic 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D434;D436</room>
+		<lecturer>Jones Neilsen, Jessica </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/04/14</week>
+		<modulecode>PS3030</modulecode>
+		<activity>PS3030 Introduction to Counselling Psychology/Lecture 01/Apr 10th/pm</activity>
+		<desc>Week 11: Later start</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>AG22</room>
+		<lecturer>Jones Neilsen, Jessica;Costa, Alex </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>17/02/14</week>
+		<modulecode>PS3030</modulecode>
+		<activity>PS3030 Introduction to Counselling Psychology/Seminar/Feb 20th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A225</room>
+		<lecturer>Jones Neilsen, Jessica </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

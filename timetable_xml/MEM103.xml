@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MEM103</modulecode>
-	<activity>MEM103 Advanced Mechatronics/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C343</room>
-	<lecturer>Edney, R </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MEM103</modulecode>
-	<activity>MEM103 Advanced Mechatronics/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG04</room>
-	<lecturer>Edney, R </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MEM103</modulecode>
+		<activity>MEM103 Advanced Mechatronics/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C343</room>
+		<lecturer>Edney, R </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MEM103</modulecode>
+		<activity>MEM103 Advanced Mechatronics/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG04</room>
+		<lecturer>Edney, R </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

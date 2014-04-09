@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>ECM004</modulecode>
-	<activity>ECM004 Econometrics for Business Economics/Lecture 01/Apr 7th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Atak, Alev </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>24/02/14-07/04/14</week>
-	<modulecode>ECM004</modulecode>
-	<activity>ECM004 Econometrics for Business Economics/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG08</room>
-	<lecturer>Atak, Alev </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>ECM004</modulecode>
-	<activity>ECM004 Econometrics for Business Economics/Laboratory 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D518</room>
-	<lecturer>Atak, Alev </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>ECM004</modulecode>
+		<activity>ECM004 Econometrics for Business Economics/Lecture 01/Apr 7th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Atak, Alev </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>24/02/14-07/04/14</week>
+		<modulecode>ECM004</modulecode>
+		<activity>ECM004 Econometrics for Business Economics/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG08</room>
+		<lecturer>Atak, Alev </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>ECM004</modulecode>
+		<activity>ECM004 Econometrics for Business Economics/Laboratory 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D518</room>
+		<lecturer>Atak, Alev </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

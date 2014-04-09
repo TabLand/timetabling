@@ -1,91 +1,93 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG1016</modulecode>
-	<activity>SG1016 Sociology in Action/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>144</studentnos>
-	<room>Poynton</room>
-	<lecturer>Cohen, Rachel;Gash, Vanessa </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG1016</modulecode>
-	<activity>SG1016 Sociology in Action/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BLG08</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG1016</modulecode>
-	<activity>SG1016 Sociology in Action/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Cohen, Rachel </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG1016</modulecode>
-	<activity>SG1016 Sociology in Action/Tutorial 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BLG08</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG1016</modulecode>
-	<activity>SG1016 Sociology in Action/Tutorial 01/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BLG08</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG1016</modulecode>
-	<activity>SG1016 Sociology in Action/Tutorial 01/06</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG08</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG1016</modulecode>
-	<activity>SG1016 Sociology in Action/Tutorial 01/02</activity>
-	<desc>Smaller group</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>AG10</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG1016</modulecode>
+		<activity>SG1016 Sociology in Action/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>144</studentnos>
+		<room>Poynton</room>
+		<lecturer>Cohen, Rachel;Gash, Vanessa </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG1016</modulecode>
+		<activity>SG1016 Sociology in Action/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BLG08</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG1016</modulecode>
+		<activity>SG1016 Sociology in Action/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Cohen, Rachel </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG1016</modulecode>
+		<activity>SG1016 Sociology in Action/Tutorial 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BLG08</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG1016</modulecode>
+		<activity>SG1016 Sociology in Action/Tutorial 01/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BLG08</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG1016</modulecode>
+		<activity>SG1016 Sociology in Action/Tutorial 01/06</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG08</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG1016</modulecode>
+		<activity>SG1016 Sociology in Action/Tutorial 01/02</activity>
+		<desc>Smaller group</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>AG10</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

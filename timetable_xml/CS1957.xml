@@ -1,78 +1,80 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
-	<modulecode>CS1957</modulecode>
-	<activity>CS1957 Risk Management in Banking and Finance term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG03</room>
-	<lecturer>Caird, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14, 10/02/14-10/03/14, 24/03/14</week>
-	<modulecode>CS1957</modulecode>
-	<activity>CS1957 Risk Management in Banking and Finance term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG03</room>
-	<lecturer>Caird, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
-	<modulecode>CS1957</modulecode>
-	<activity>CS1957 Risk Management in Banking and Finance term 3 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C340</room>
-	<lecturer>Caird, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>18/11/13</week>
-	<modulecode>CS1957</modulecode>
-	<activity>CS1957 Risk Management in Banking and Finance term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG03</room>
-	<lecturer>Caird, John </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>17/03/14</week>
-	<modulecode>CS1957</modulecode>
-	<activity>CS1957 Risk Management in Banking and Finance term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A107</room>
-	<lecturer>Caird, John </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>31/03/14</week>
-	<modulecode>CS1957</modulecode>
-	<activity>CS1957 Risk Management in Banking and Finance term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A225</room>
-	<lecturer>Caird, John </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+		<modulecode>CS1957</modulecode>
+		<activity>CS1957 Risk Management in Banking and Finance term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG03</room>
+		<lecturer>Caird, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14, 10/02/14-10/03/14, 24/03/14</week>
+		<modulecode>CS1957</modulecode>
+		<activity>CS1957 Risk Management in Banking and Finance term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG03</room>
+		<lecturer>Caird, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+		<modulecode>CS1957</modulecode>
+		<activity>CS1957 Risk Management in Banking and Finance term 3 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C340</room>
+		<lecturer>Caird, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>18/11/13</week>
+		<modulecode>CS1957</modulecode>
+		<activity>CS1957 Risk Management in Banking and Finance term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG03</room>
+		<lecturer>Caird, John </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>17/03/14</week>
+		<modulecode>CS1957</modulecode>
+		<activity>CS1957 Risk Management in Banking and Finance term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A107</room>
+		<lecturer>Caird, John </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>31/03/14</week>
+		<modulecode>CS1957</modulecode>
+		<activity>CS1957 Risk Management in Banking and Finance term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A225</room>
+		<lecturer>Caird, John </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

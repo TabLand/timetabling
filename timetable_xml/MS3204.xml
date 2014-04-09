@@ -1,65 +1,67 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>MS3204</modulecode>
-	<activity>MS3204 Integral Innovation & Practice/Lecture 01/wks 1-4, 6-11</activity>
-	<desc>Lecture /Workshop: Weeks 1-4, 6-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C340</room>
-	<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/02/14</week>
-	<modulecode>MS3204</modulecode>
-	<activity>MS3204 Integral Innovation & Practice/Lecture 01/wk 5</activity>
-	<desc>Lecture /Workshop: Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM03</room>
-	<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>MS3204</modulecode>
-	<activity>MS3204 Integral Innovation & Practice/Tutorial 01/02/wk 5</activity>
-	<desc>Tutorial 01/02: Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM03</room>
-	<lecturer>Foit, Benedikt </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>MS3204</modulecode>
-	<activity>MS3204 Integral Innovation & Practice/Tutorial 01/01/wks 1-4 ,6-11</activity>
-	<desc>Tutorial 01/01: Weeks 1-4, 6-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C340</room>
-	<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>MS3204</modulecode>
-	<activity>MS3204 Integral Innovation & Practice/Tutorial 02/02/wk 5</activity>
-	<desc>Tutorial 02/02: Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM03</room>
-	<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>MS3204</modulecode>
+		<activity>MS3204 Integral Innovation & Practice/Lecture 01/wks 1-4, 6-11</activity>
+		<desc>Lecture /Workshop: Weeks 1-4, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C340</room>
+		<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/02/14</week>
+		<modulecode>MS3204</modulecode>
+		<activity>MS3204 Integral Innovation & Practice/Lecture 01/wk 5</activity>
+		<desc>Lecture /Workshop: Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM03</room>
+		<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>MS3204</modulecode>
+		<activity>MS3204 Integral Innovation & Practice/Tutorial 01/02/wk 5</activity>
+		<desc>Tutorial 01/02: Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM03</room>
+		<lecturer>Foit, Benedikt </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>MS3204</modulecode>
+		<activity>MS3204 Integral Innovation & Practice/Tutorial 01/01/wks 1-4 ,6-11</activity>
+		<desc>Tutorial 01/01: Weeks 1-4, 6-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C340</room>
+		<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>MS3204</modulecode>
+		<activity>MS3204 Integral Innovation & Practice/Tutorial 02/02/wk 5</activity>
+		<desc>Tutorial 02/02: Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM03</room>
+		<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

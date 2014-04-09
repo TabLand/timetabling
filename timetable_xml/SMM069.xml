@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM069</modulecode>
-	<activity>SMM069 Modelling & Data Analysis/Computer LAB/01/02</activity>
-	<desc>Group 1 of 2</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>1001</room>
-	<lecturer>Siu, Ken Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM069</modulecode>
-	<activity>SMM069 Modelling & Data Analysis/Computer LAB/02/02</activity>
-	<desc>Group 1 of 2</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>2001</room>
-	<lecturer>Siu, Ken Prof. </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM069</modulecode>
+		<activity>SMM069 Modelling & Data Analysis/Computer LAB/01/02</activity>
+		<desc>Group 1 of 2</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>1001</room>
+		<lecturer>Siu, Ken Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM069</modulecode>
+		<activity>SMM069 Modelling & Data Analysis/Computer LAB/02/02</activity>
+		<desc>Group 1 of 2</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>2001</room>
+		<lecturer>Siu, Ken Prof. </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

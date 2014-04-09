@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/03/14, 07/04/14</week>
-	<modulecode>FR3210</modulecode>
-	<activity>FR3210 Climate Change & its impact on the World Economy/Lecture/WKS 1-9, 11</activity>
-	<desc>Spring Lecture: Weeks 1-9, 11</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B104</room>
-	<lecturer>Banerjee, Bobby </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/03/14, 07/04/14</week>
+		<modulecode>FR3210</modulecode>
+		<activity>FR3210 Climate Change & its impact on the World Economy/Lecture/WKS 1-9, 11</activity>
+		<desc>Spring Lecture: Weeks 1-9, 11</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B104</room>
+		<lecturer>Banerjee, Bobby </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

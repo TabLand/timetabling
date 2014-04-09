@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>30/06/14, 21/07/14</week>
-	<modulecode>MBM316</modulecode>
-	<activity>MBM316 Global Real Estate Markets FTMBA/Syn Rooms 01</activity>
-	<desc>FTMBA Term 3 : Syndicate rooms - T. Key</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6009;6008;6003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>30/06/14, 21/07/14</week>
-	<modulecode>MBM316</modulecode>
-	<activity>MBM316 Global Real Estate Markets FTMBA/Lecture 01</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2006</room>
-	<lecturer>Key Tony </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>30/06/14, 21/07/14</week>
-	<modulecode>MBM316</modulecode>
-	<activity>MBM316 Global Real Estate Markets FTMBA/Syn Rooms 01</activity>
-	<desc>FTMBA Term 3 : Syndicate rooms - T. Key</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6009;6008;6003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>30/06/14, 21/07/14</week>
-	<modulecode>MBM316</modulecode>
-	<activity>MBM316 Global Real Estate Markets FTMBA/Lecture 01</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2006</room>
-	<lecturer>Key Tony </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>30/06/14, 21/07/14</week>
+		<modulecode>MBM316</modulecode>
+		<activity>MBM316 Global Real Estate Markets FTMBA/Syn Rooms 01</activity>
+		<desc>FTMBA Term 3 : Syndicate rooms - T. Key</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6009;6008;6003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>30/06/14, 21/07/14</week>
+		<modulecode>MBM316</modulecode>
+		<activity>MBM316 Global Real Estate Markets FTMBA/Lecture 01</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2006</room>
+		<lecturer>Key Tony </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>30/06/14, 21/07/14</week>
+		<modulecode>MBM316</modulecode>
+		<activity>MBM316 Global Real Estate Markets FTMBA/Syn Rooms 01</activity>
+		<desc>FTMBA Term 3 : Syndicate rooms - T. Key</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6009;6008;6003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>30/06/14, 21/07/14</week>
+		<modulecode>MBM316</modulecode>
+		<activity>MBM316 Global Real Estate Markets FTMBA/Lecture 01</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2006</room>
+		<lecturer>Key Tony </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

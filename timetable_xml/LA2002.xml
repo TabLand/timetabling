@@ -1,26 +1,28 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA2002</modulecode>
-	<activity>LA2002 Lgp French Upper Intermediate/Autumn/Joint</activity>
-	<desc>Joint with LA2402</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>LA2002</modulecode>
-	<activity>LA2002 Lgp French Upper Intermediate/Spring/Joint</activity>
-	<desc>Joint with LA2402</desc>
-	<joint>LA2402;LA2002</joint>
-	<studentnos>15</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA2002</modulecode>
+		<activity>LA2002 Lgp French Upper Intermediate/Autumn/Joint</activity>
+		<desc>Joint with LA2402</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>LA2002</modulecode>
+		<activity>LA2002 Lgp French Upper Intermediate/Spring/Joint</activity>
+		<desc>Joint with LA2402</desc>
+		<joint>LA2402;LA2002</joint>
+		<studentnos>15</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

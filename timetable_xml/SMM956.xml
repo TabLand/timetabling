@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-09/06/14, 23/06/14</week>
-	<modulecode>SMM956</modulecode>
-	<activity>SMM956 Retail Supply Chain Management/Lecture/wks 1-5, 7</activity>
-	<desc>Weeks 1-5, 7</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2002</room>
-	<lecturer>Bourlakis, Michael </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-09/06/14, 23/06/14</week>
+		<modulecode>SMM956</modulecode>
+		<activity>SMM956 Retail Supply Chain Management/Lecture/wks 1-5, 7</activity>
+		<desc>Weeks 1-5, 7</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2002</room>
+		<lecturer>Bourlakis, Michael </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

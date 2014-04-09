@@ -1,39 +1,41 @@
-<booking>
-	<start>8:00</start>
-	<end>16:50</end>
-	<week>17/02/14</week>
-	<modulecode>EPM820</modulecode>
-	<activity>EPM820 Airline Operations/01</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>16:50</end>
-	<week>17/02/14</week>
-	<modulecode>EPM820</modulecode>
-	<activity>EPM820 Airline Operations/01</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>16:50</end>
-	<week>17/02/14</week>
-	<modulecode>EPM820</modulecode>
-	<activity>EPM820 Airline Operations/01</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>8:00</start>
+		<end>16:50</end>
+		<week>17/02/14</week>
+		<modulecode>EPM820</modulecode>
+		<activity>EPM820 Airline Operations/01</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>16:50</end>
+		<week>17/02/14</week>
+		<modulecode>EPM820</modulecode>
+		<activity>EPM820 Airline Operations/01</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>16:50</end>
+		<week>17/02/14</week>
+		<modulecode>EPM820</modulecode>
+		<activity>EPM820 Airline Operations/01</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

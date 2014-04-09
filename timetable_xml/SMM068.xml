@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM068</modulecode>
-	<activity>SMM068 Financial Economics (Ct8)/Lecture 01/02</activity>
-	<desc>Ct8 ; SPRING : FT/PT2</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>3002</room>
-	<lecturer>Owadally, Iqbal </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM068</modulecode>
-	<activity>SMM068 Financial Economics (Ct8)/Lecture 02/02</activity>
-	<desc>Ct8 ; SPRING : FT/PT2</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>3002</room>
-	<lecturer>Owadally, Iqbal </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM068</modulecode>
+		<activity>SMM068 Financial Economics (Ct8)/Lecture 01/02</activity>
+		<desc>Ct8 ; SPRING : FT/PT2</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>3002</room>
+		<lecturer>Owadally, Iqbal </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM068</modulecode>
+		<activity>SMM068 Financial Economics (Ct8)/Lecture 02/02</activity>
+		<desc>Ct8 ; SPRING : FT/PT2</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>3002</room>
+		<lecturer>Owadally, Iqbal </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

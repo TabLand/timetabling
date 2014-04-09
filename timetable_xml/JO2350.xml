@@ -1,143 +1,145 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 18/11/13-09/12/13</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG20</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>11/11/13</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG24a</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG24a</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>CG05</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>11/11/13</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG24a</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>18/11/13-09/12/13</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C348</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A110</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>10/03/14</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG24a</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 2/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>CG05</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>JO2350</modulecode>
-	<activity>JO2350 Visual Journalism Term 2/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C301</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 18/11/13-09/12/13</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG20</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>11/11/13</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG24a</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG24a</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>CG05</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>11/11/13</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG24a</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>18/11/13-09/12/13</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C348</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A110</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>10/03/14</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG24a</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 2/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>CG05</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>JO2350</modulecode>
+		<activity>JO2350 Visual Journalism Term 2/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C301</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

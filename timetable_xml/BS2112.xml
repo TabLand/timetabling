@@ -1,65 +1,67 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>BS2112</modulecode>
-	<activity>BS2112 Intellectual Property Management/Lecture 01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C170</room>
-	<lecturer>Soetendorp, Ruth </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>13/01/14</week>
-	<modulecode>BS2112</modulecode>
-	<activity>BS2112 Intellectual Property Management/Revision Lecture/Jan 16th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C170</room>
-	<lecturer>Soetendorp, Ruth </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>07/10/13</week>
-	<modulecode>BS2112</modulecode>
-	<activity>BS2112 Intellectual Property Management/Tutorial 02/wk 2</activity>
-	<desc>Autumn Tutorial : Group 2 : Week 2 only : replacement room</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C322</room>
-	<lecturer>Soetendorp, Ruth </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>BS2112</modulecode>
-	<activity>BS2112 Intellectual Property Management/Tutorial 01/wks 3,5,7,9,11</activity>
-	<desc>Autumn Tutorial : Group 1 (Weeks 3,5,7,9, 11)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C170</room>
-	<lecturer>Soetendorp, Ruth </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>BS2112</modulecode>
-	<activity>BS2112 Intellectual Property Management/Tutorial 02/wks 4,6,8,10</activity>
-	<desc>Autumn Tutorial : Group 2 ( Weeks 4, 6, 8, 10)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM02</room>
-	<lecturer>Soetendorp, Ruth </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>BS2112</modulecode>
+		<activity>BS2112 Intellectual Property Management/Lecture 01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C170</room>
+		<lecturer>Soetendorp, Ruth </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>13/01/14</week>
+		<modulecode>BS2112</modulecode>
+		<activity>BS2112 Intellectual Property Management/Revision Lecture/Jan 16th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C170</room>
+		<lecturer>Soetendorp, Ruth </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>07/10/13</week>
+		<modulecode>BS2112</modulecode>
+		<activity>BS2112 Intellectual Property Management/Tutorial 02/wk 2</activity>
+		<desc>Autumn Tutorial : Group 2 : Week 2 only : replacement room</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C322</room>
+		<lecturer>Soetendorp, Ruth </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>14/10/13, 28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>BS2112</modulecode>
+		<activity>BS2112 Intellectual Property Management/Tutorial 01/wks 3,5,7,9,11</activity>
+		<desc>Autumn Tutorial : Group 1 (Weeks 3,5,7,9, 11)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C170</room>
+		<lecturer>Soetendorp, Ruth </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>BS2112</modulecode>
+		<activity>BS2112 Intellectual Property Management/Tutorial 02/wks 4,6,8,10</activity>
+		<desc>Autumn Tutorial : Group 2 ( Weeks 4, 6, 8, 10)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM02</room>
+		<lecturer>Soetendorp, Ruth </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

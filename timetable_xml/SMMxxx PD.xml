@@ -1,26 +1,28 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMMxxx PD</modulecode>
-	<activity>SMMxxx Professional Development/AM/AS/IRM/Lecture/01</activity>
-	<desc>Autumm ; AM, AS, IRM : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>2004</room>
-	<lecturer>Fairbank, Michelle (formerly Cowdrey) </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>17:00</end>
-	<week>03/02/14-17/02/14</week>
-	<modulecode>SMMxxx PD</modulecode>
-	<activity>SMMxxx Professional Development/AM/AS/IRM/Lecture/02</activity>
-	<desc>Spring : AM, AS, IRM : Weeks 2-4 only</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>G001</room>
-	<lecturer>Fairbank, Michelle (formerly Cowdrey) </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMMxxx PD</modulecode>
+		<activity>SMMxxx Professional Development/AM/AS/IRM/Lecture/01</activity>
+		<desc>Autumm ; AM, AS, IRM : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>2004</room>
+		<lecturer>Fairbank, Michelle (formerly Cowdrey) </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>17:00</end>
+		<week>03/02/14-17/02/14</week>
+		<modulecode>SMMxxx PD</modulecode>
+		<activity>SMMxxx Professional Development/AM/AS/IRM/Lecture/02</activity>
+		<desc>Spring : AM, AS, IRM : Weeks 2-4 only</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>G001</room>
+		<lecturer>Fairbank, Michelle (formerly Cowdrey) </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

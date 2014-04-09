@@ -1,247 +1,249 @@
-<booking>
-	<start>12:00</start>
-	<end>16:30</end>
-	<week>02/09/13</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Introduction to Advanced Practice Models of Care/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3F (WS)</room>
-	<lecturer>Walters, R;Cox, C;Meyer, J;Hicks, S </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>05/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Introduction to module, review of coursework and assessment guidelines/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>12/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Update on advanced practice/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>19/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Advanced Clinical Practice- pain and Medicines management/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Outside speaker </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>26/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Advanced clinical practice and case management/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/06/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Principles of Chest X Ray/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>09/06/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Underpinning Service Development with Advanced Practice Principles/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>05/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Principles of advanced practice/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>05/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>12/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Tutorial 02/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>19/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Tutorial 03/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>26/05/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Tutorial 04/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>02/06/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Tutorial 05/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>09/06/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Tutorial 06 & Evaluation/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>16:30</end>
-	<week>02/09/13</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Research Presentations on Advanced Practice/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3F (WS)</room>
-	<lecturer>King, C;Owen, T;Mapani, A;Cox, C;Gibbons, H </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>16/06/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Clinical practicum 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>No room needed</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>23/06/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Clinical practicum 02/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>No room needed</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>30/06/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Clinical practicum 03/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>No room needed</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>07/07/14</week>
-	<modulecode>NMM053</modulecode>
-	<activity>NMM053 Clinical practicum 04/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>No room needed</room>
-	<lecturer>Apau, D </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>16:30</end>
+		<week>02/09/13</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Introduction to Advanced Practice Models of Care/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3F (WS)</room>
+		<lecturer>Walters, R;Cox, C;Meyer, J;Hicks, S </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>05/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Introduction to module, review of coursework and assessment guidelines/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>12/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Update on advanced practice/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>19/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Advanced Clinical Practice- pain and Medicines management/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Outside speaker </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>26/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Advanced clinical practice and case management/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/06/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Principles of Chest X Ray/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>09/06/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Underpinning Service Development with Advanced Practice Principles/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>05/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Principles of advanced practice/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>05/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>12/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Tutorial 02/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>19/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Tutorial 03/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>26/05/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Tutorial 04/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>02/06/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Tutorial 05/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>09/06/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Tutorial 06 & Evaluation/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>16:30</end>
+		<week>02/09/13</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Research Presentations on Advanced Practice/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3F (WS)</room>
+		<lecturer>King, C;Owen, T;Mapani, A;Cox, C;Gibbons, H </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>16/06/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Clinical practicum 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>No room needed</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>23/06/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Clinical practicum 02/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>No room needed</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>30/06/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Clinical practicum 03/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>No room needed</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>07/07/14</week>
+		<modulecode>NMM053</modulecode>
+		<activity>NMM053 Clinical practicum 04/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>No room needed</room>
+		<lecturer>Apau, D </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

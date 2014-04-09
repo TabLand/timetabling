@@ -1,104 +1,106 @@
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002</room>
-	<lecturer>Baden-Fuller, Charles </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
-	<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002</room>
-	<lecturer>Baden-Fuller, Charles </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
-	<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002</room>
-	<lecturer>Baden-Fuller, Charles </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
-	<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
-	<desc>FTMBA Term 3</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002</room>
-	<lecturer>Baden-Fuller, Charles </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>26/05/14</week>
-	<modulecode>MBM517</modulecode>
-	<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
-	<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002</room>
+		<lecturer>Baden-Fuller, Charles </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
+		<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002</room>
+		<lecturer>Baden-Fuller, Charles </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
+		<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002</room>
+		<lecturer>Baden-Fuller, Charles </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
+		<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Lecture 01</activity>
+		<desc>FTMBA Term 3</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002</room>
+		<lecturer>Baden-Fuller, Charles </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>26/05/14</week>
+		<modulecode>MBM517</modulecode>
+		<activity>MBM517 Frontiers Of Strategy FTMBA/Syn Rooms 01</activity>
+		<desc>FTMBA Term 3 : Syndicate Rooms : CB Fuller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6009;6008;6007;6006;6003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

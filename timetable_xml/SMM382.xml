@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>19/05/14-23/06/14</week>
-	<modulecode>SMM382</modulecode>
-	<activity>SMM382 Alternative Risk Transfer & Risk Securitisation/Lecture/wks 2-7</activity>
-	<desc>Weeks 2-7</desc>
-	<joint> </joint>
-	<studentnos>52</studentnos>
-	<room>2002</room>
-	<lecturer>Punter, Alan </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>19/05/14-23/06/14</week>
+		<modulecode>SMM382</modulecode>
+		<activity>SMM382 Alternative Risk Transfer & Risk Securitisation/Lecture/wks 2-7</activity>
+		<desc>Weeks 2-7</desc>
+		<joint>-</joint>
+		<studentnos>52</studentnos>
+		<room>2002</room>
+		<lecturer>Punter, Alan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

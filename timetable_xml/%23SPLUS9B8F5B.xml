@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>27/01/14</week>
-	<modulecode>#SPLUS9B8F5B</modulecode>
-	<activity>SMMxxx Away Trip/Paris/MGT & FIN/01</activity>
-	<desc>MSc Management & MSc Finance ; Student trip to Paris (no lecture rooms req'd)</desc>
-	<joint> </joint>
-	<studentnos>162</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>27/01/14</week>
+		<modulecode>#SPLUS9B8F5B</modulecode>
+		<activity>SMMxxx Away Trip/Paris/MGT & FIN/01</activity>
+		<desc>MSc Management & MSc Finance ; Student trip to Paris (no lecture rooms req'd)</desc>
+		<joint>-</joint>
+		<studentnos>162</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

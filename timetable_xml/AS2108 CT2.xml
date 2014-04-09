@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>AS2108 CT2</modulecode>
-	<activity>AS2108 Finance & Financial Reporting/Lecture 01/02/LEAD</activity>
-	<desc>Joint with MA2612: total numbers 160 : Weeks 1-10</desc>
-	<joint>AS2108 CT2;MA2612</joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Osborne, Alison </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>AS2108 CT2</modulecode>
-	<activity>AS2108 Finance & Financial Reporting/Lecture 02/02/wks 1-5,7-11/LEAD</activity>
-	<desc>Joint with MA2613: total numbers 180; Weeks 1-5, 7-11</desc>
-	<joint>AS2108 CT2;MA2613</joint>
-	<studentnos>180</studentnos>
-	<room>A130</room>
-	<lecturer>Osborne, Alison </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>AS2108 CT2</modulecode>
+		<activity>AS2108 Finance & Financial Reporting/Lecture 01/02/LEAD</activity>
+		<desc>Joint with MA2612: total numbers 160 : Weeks 1-10</desc>
+		<joint>AS2108 CT2;MA2612</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Osborne, Alison </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>AS2108 CT2</modulecode>
+		<activity>AS2108 Finance & Financial Reporting/Lecture 02/02/wks 1-5,7-11/LEAD</activity>
+		<desc>Joint with MA2613: total numbers 180; Weeks 1-5, 7-11</desc>
+		<joint>AS2108 CT2;MA2613</joint>
+		<studentnos>180</studentnos>
+		<room>A130</room>
+		<lecturer>Osborne, Alison </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

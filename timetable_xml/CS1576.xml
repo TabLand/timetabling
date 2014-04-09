@@ -1,91 +1,93 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1576</modulecode>
-	<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 2 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A220</room>
-	<lecturer>Kosmopoulos, Kosmas </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-07/10/13, 21/10/13-09/12/13</week>
-	<modulecode>CS1576</modulecode>
-	<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 1 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>EG12</room>
-	<lecturer>Kosmopoulos, Kosmas </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-17/03/14, 31/03/14</week>
-	<modulecode>CS1576</modulecode>
-	<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A308</room>
-	<lecturer>Kosmopoulos, Kosmas </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1576</modulecode>
-	<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 3 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>A220</room>
-	<lecturer>Kosmopoulos, Kosmas </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1576</modulecode>
-	<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 1 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG24a</room>
-	<lecturer>Kosmopoulos, Kosmas </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1576</modulecode>
-	<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 3 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C301</room>
-	<lecturer>Kosmopoulos, Kosmas </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>24/03/14</week>
-	<modulecode>CS1576</modulecode>
-	<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>EG12</room>
-	<lecturer>Kosmopoulos, Kosmas </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1576</modulecode>
+		<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 2 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A220</room>
+		<lecturer>Kosmopoulos, Kosmas </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-07/10/13, 21/10/13-09/12/13</week>
+		<modulecode>CS1576</modulecode>
+		<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 1 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>EG12</room>
+		<lecturer>Kosmopoulos, Kosmas </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-17/03/14, 31/03/14</week>
+		<modulecode>CS1576</modulecode>
+		<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A308</room>
+		<lecturer>Kosmopoulos, Kosmas </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1576</modulecode>
+		<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 3 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>A220</room>
+		<lecturer>Kosmopoulos, Kosmas </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1576</modulecode>
+		<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 1 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG24a</room>
+		<lecturer>Kosmopoulos, Kosmas </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1576</modulecode>
+		<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 3 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C301</room>
+		<lecturer>Kosmopoulos, Kosmas </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>24/03/14</week>
+		<modulecode>CS1576</modulecode>
+		<activity>CS1576 C/C++ Part 1 - Introduction to Programming term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>EG12</room>
+		<lecturer>Kosmopoulos, Kosmas </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

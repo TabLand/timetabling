@@ -1,52 +1,54 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-07/10/13</week>
-	<modulecode>LA0022</modulecode>
-	<activity>LA0022 Extracurricular Business German Beginner Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG20</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>14/10/13</week>
-	<modulecode>LA0022</modulecode>
-	<activity>LA0022 Extracurricular Business German Beginner Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>CLG36</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>21/10/13-09/12/13</week>
-	<modulecode>LA0022</modulecode>
-	<activity>LA0022 Extracurricular Business German Beginner Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>BM03</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA0022</modulecode>
-	<activity>LA0022 Extracurricular Business German Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A109</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-07/10/13</week>
+		<modulecode>LA0022</modulecode>
+		<activity>LA0022 Extracurricular Business German Beginner Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG20</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>14/10/13</week>
+		<modulecode>LA0022</modulecode>
+		<activity>LA0022 Extracurricular Business German Beginner Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>CLG36</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>21/10/13-09/12/13</week>
+		<modulecode>LA0022</modulecode>
+		<activity>LA0022 Extracurricular Business German Beginner Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>BM03</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA0022</modulecode>
+		<activity>LA0022 Extracurricular Business German Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A109</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

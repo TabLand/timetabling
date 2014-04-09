@@ -1,13 +1,15 @@
-<booking>
-	<start>13:30</start>
-	<end>17:30</end>
-	<week>29/07/13</week>
-	<modulecode>OVM053</modulecode>
-	<activity>OVM053 Independent Prescribing/Exam/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A307&8</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:30</start>
+		<end>17:30</end>
+		<week>29/07/13</week>
+		<modulecode>OVM053</modulecode>
+		<activity>OVM053 Independent Prescribing/Exam/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A307&8</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

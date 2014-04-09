@@ -1,65 +1,67 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM401</modulecode>
-	<activity>INM401 Information Architecture/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B103</room>
-	<lecturer>Stumpf, Simone </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>INM401</modulecode>
-	<activity>INM401 Information Architecture/Lab 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Stumpf, Simone </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>02/12/13</week>
-	<modulecode>INM401</modulecode>
-	<activity>INM401</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG02</room>
-	<lecturer>Makri, Stephann </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>09/12/13</week>
-	<modulecode>INM401</modulecode>
-	<activity>INM401 Information Architecture/Lecture</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B103</room>
-	<lecturer>Stumpf, Simone </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>INM401</modulecode>
-	<activity>INM401 Information Architecture/Lab 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>VL 03 - IISOIN </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM401</modulecode>
+		<activity>INM401 Information Architecture/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B103</room>
+		<lecturer>Stumpf, Simone </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>INM401</modulecode>
+		<activity>INM401 Information Architecture/Lab 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Stumpf, Simone </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>02/12/13</week>
+		<modulecode>INM401</modulecode>
+		<activity>INM401</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG02</room>
+		<lecturer>Makri, Stephann </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>09/12/13</week>
+		<modulecode>INM401</modulecode>
+		<activity>INM401 Information Architecture/Lecture</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B103</room>
+		<lecturer>Stumpf, Simone </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>INM401</modulecode>
+		<activity>INM401 Information Architecture/Lab 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>VL 03 - IISOIN </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

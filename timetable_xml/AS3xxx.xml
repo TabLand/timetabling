@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>07/10/13</week>
-	<modulecode>AS3xxx</modulecode>
-	<activity>AS3xxx ReMetrica workshop/LAB/wk 2</activity>
-	<desc>Autumn : Computer Lab: Week 2 only</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2001</room>
-	<lecturer>Sakkas, Stathis </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>07/10/13</week>
+		<modulecode>AS3xxx</modulecode>
+		<activity>AS3xxx ReMetrica workshop/LAB/wk 2</activity>
+		<desc>Autumn : Computer Lab: Week 2 only</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2001</room>
+		<lecturer>Sakkas, Stathis </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

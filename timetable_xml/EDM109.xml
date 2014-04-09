@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>EDM109</modulecode>
-	<activity>EDM109 Educational Research Methods/01</activity>
-	<desc>LG01b</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>No room needed</room>
-	<lecturer>Parker, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>19/05/14</week>
-	<modulecode>EDM109</modulecode>
-	<activity>EDM109 Educational Research Methods/02</activity>
-	<desc>LG01b</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>No room needed</room>
-	<lecturer>Parker, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>EDM109</modulecode>
-	<activity>EDM109 Educational Research Methods/03</activity>
-	<desc>LG01b</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>No room needed</room>
-	<lecturer>Parker, P </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>EDM109</modulecode>
+		<activity>EDM109 Educational Research Methods/01</activity>
+		<desc>LG01b</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>No room needed</room>
+		<lecturer>Parker, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>19/05/14</week>
+		<modulecode>EDM109</modulecode>
+		<activity>EDM109 Educational Research Methods/02</activity>
+		<desc>LG01b</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>No room needed</room>
+		<lecturer>Parker, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>EDM109</modulecode>
+		<activity>EDM109 Educational Research Methods/03</activity>
+		<desc>LG01b</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>No room needed</room>
+		<lecturer>Parker, P </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

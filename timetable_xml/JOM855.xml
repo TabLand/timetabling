@@ -1,39 +1,41 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>31/03/14</week>
-	<modulecode>JOM855</modulecode>
-	<activity>JOM874 Financial Reporting</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>AG03</room>
-	<lecturer>Cox, Adam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-10/03/14, 24/03/14</week>
-	<modulecode>JOM855</modulecode>
-	<activity>JOM874 Financial Reporting</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>AG11</room>
-	<lecturer>Cox, Adam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>JOM855</modulecode>
-	<activity>JOM874 Financial Reporting</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>D111</room>
-	<lecturer>Cox, Adam </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>31/03/14</week>
+		<modulecode>JOM855</modulecode>
+		<activity>JOM874 Financial Reporting</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>AG03</room>
+		<lecturer>Cox, Adam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-10/03/14, 24/03/14</week>
+		<modulecode>JOM855</modulecode>
+		<activity>JOM874 Financial Reporting</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>AG11</room>
+		<lecturer>Cox, Adam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>JOM855</modulecode>
+		<activity>JOM874 Financial Reporting</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>D111</room>
+		<lecturer>Cox, Adam </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

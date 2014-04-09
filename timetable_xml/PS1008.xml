@@ -1,273 +1,275 @@
-<booking>
-	<start>14:00</start>
-	<end>14:30</end>
-	<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01A/01</activity>
-	<desc>Weeks 2, 3, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D518</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>21/10/13-28/10/13, 25/11/13-02/12/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 01A/01</activity>
-	<desc>Weeks 4, 5, 9 & 10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>09/12/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Class Test 01/01</activity>
-	<desc>Week 11</desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>A130</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:30</end>
-	<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02A/01</activity>
-	<desc>Weeks 1, 2, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D518</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>10/02/14-17/02/14, 24/03/14-31/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 02A/01</activity>
-	<desc>Weeks 3, 4, 9 & 10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>E212</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>24/02/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Class Test 02/01</activity>
-	<desc>Week 5</desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Class Test 02/02</activity>
-	<desc>Week 11</desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>14:50</end>
-	<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01A/01i</activity>
-	<desc>2nd half of session (overlapping with LDA)</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D518</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:50</end>
-	<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 01A/01</activity>
-	<desc>Weeks 2, 3, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D111</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>14:50</end>
-	<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02A/01i</activity>
-	<desc>2nd half of session (overlapping with LDA)</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D518</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:50</end>
-	<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 02A/01</activity>
-	<desc>Weeks 1, 2, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D111</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Introductory Lecture 01/02</activity>
-	<desc>Week 1 - Introductory Lecture Part 1</desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Introductory Lecture 02/02</activity>
-	<desc>Week 1 - Introductory Lecture Part 2</desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:30</end>
-	<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01B/01</activity>
-	<desc>Weeks 2, 3, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D518</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>21/10/13-28/10/13, 25/11/13-02/12/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 01B/01</activity>
-	<desc>Weeks 4, 5, 9 & 10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:30</end>
-	<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02B/01</activity>
-	<desc>Weeks 1, 2, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D518</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>10/02/14-17/02/14, 24/03/14-31/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 02B/01</activity>
-	<desc>Weeks 3, 4, 9 & 10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>E212</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>14:50</end>
-	<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01B/01i</activity>
-	<desc>2nd half of session (overlapping with LDA)</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D518</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:50</end>
-	<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 01B/01</activity>
-	<desc>Weeks 2, 3, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D111</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:30</end>
-	<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02B/01i</activity>
-	<desc>2nd half of session (overlapping with LDA)</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D518</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:50</end>
-	<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
-	<modulecode>PS1008</modulecode>
-	<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 02B/01</activity>
-	<desc>Weeks 1, 2, 7 & 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D111</room>
-	<lecturer>Menzies, Stuart </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:30</end>
+		<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01A/01</activity>
+		<desc>Weeks 2, 3, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D518</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>21/10/13-28/10/13, 25/11/13-02/12/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 01A/01</activity>
+		<desc>Weeks 4, 5, 9 & 10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>09/12/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Class Test 01/01</activity>
+		<desc>Week 11</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>A130</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:30</end>
+		<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02A/01</activity>
+		<desc>Weeks 1, 2, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D518</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>10/02/14-17/02/14, 24/03/14-31/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 02A/01</activity>
+		<desc>Weeks 3, 4, 9 & 10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>E212</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>24/02/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Class Test 02/01</activity>
+		<desc>Week 5</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Class Test 02/02</activity>
+		<desc>Week 11</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>14:50</end>
+		<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01A/01i</activity>
+		<desc>2nd half of session (overlapping with LDA)</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D518</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:50</end>
+		<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 01A/01</activity>
+		<desc>Weeks 2, 3, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D111</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>14:50</end>
+		<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02A/01i</activity>
+		<desc>2nd half of session (overlapping with LDA)</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D518</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:50</end>
+		<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 02A/01</activity>
+		<desc>Weeks 1, 2, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D111</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Introductory Lecture 01/02</activity>
+		<desc>Week 1 - Introductory Lecture Part 1</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Introductory Lecture 02/02</activity>
+		<desc>Week 1 - Introductory Lecture Part 2</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:30</end>
+		<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01B/01</activity>
+		<desc>Weeks 2, 3, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D518</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>21/10/13-28/10/13, 25/11/13-02/12/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 01B/01</activity>
+		<desc>Weeks 4, 5, 9 & 10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:30</end>
+		<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02B/01</activity>
+		<desc>Weeks 1, 2, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D518</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>10/02/14-17/02/14, 24/03/14-31/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Laboratory 02B/01</activity>
+		<desc>Weeks 3, 4, 9 & 10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>E212</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>14:50</end>
+		<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 01B/01i</activity>
+		<desc>2nd half of session (overlapping with LDA)</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D518</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:50</end>
+		<week>07/10/13-14/10/13, 11/11/13-18/11/13</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 01B/01</activity>
+		<desc>Weeks 2, 3, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D111</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:30</end>
+		<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Collection 02B/01i</activity>
+		<desc>2nd half of session (overlapping with LDA)</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D518</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:50</end>
+		<week>27/01/14-03/02/14, 10/03/14-17/03/14</week>
+		<modulecode>PS1008</modulecode>
+		<activity>PS1008 Research Design And Analysis (Laboratory Methods)/Lab Data Analysis 02B/01</activity>
+		<desc>Weeks 1, 2, 7 & 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D111</room>
+		<lecturer>Menzies, Stuart </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

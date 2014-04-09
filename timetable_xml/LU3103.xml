@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LU3103</modulecode>
-	<activity>LU3103 Media Law/Tutorial 1/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3103;LG3103</joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>de Than, Claire </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>LU3103</modulecode>
-	<activity>LU3103 Media Law/Lecture 1/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3103;LG3103</joint>
-	<studentnos>37</studentnos>
-	<room>DLG09</room>
-	<lecturer>de Than, Claire </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LU3103</modulecode>
+		<activity>LU3103 Media Law/Tutorial 1/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3103;LG3103</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>de Than, Claire </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>LU3103</modulecode>
+		<activity>LU3103 Media Law/Lecture 1/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3103;LG3103</joint>
+		<studentnos>37</studentnos>
+		<room>DLG09</room>
+		<lecturer>de Than, Claire </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

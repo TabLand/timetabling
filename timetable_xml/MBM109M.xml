@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>12/05/14</week>
-	<modulecode>MBM109M</modulecode>
-	<activity>MBM109 Innovation & New Product Development MEMBA/BR/Syn Rooms 04</activity>
-	<desc>MEMBA - Syndicate Rooms - Bunhill Row: V. Souitaris</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>12/05/14</week>
-	<modulecode>MBM109M</modulecode>
-	<activity>MBM109 Innovation & New Product Development MEMBA/BR/Lecture 04</activity>
-	<desc>MEMBA - Bunhill Row</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>Souitaris, Vangelis Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>05/05/14</week>
-	<modulecode>MBM109M</modulecode>
-	<activity>MBM109 Innovation & New Product Development MEMBA/BR/Syn Rooms 01-03</activity>
-	<desc>MEMBA - Syndicate Rooms - Bunhill Row : V. Souitaris</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6010;6021;6020;6003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>05/05/14</week>
-	<modulecode>MBM109M</modulecode>
-	<activity>MBM109 Innovation & New Product Development MEMBA/BR/Lecture 01-03</activity>
-	<desc>MEMBA - Bunhill Row</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>Souitaris, Vangelis Prof. </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>12/05/14</week>
+		<modulecode>MBM109M</modulecode>
+		<activity>MBM109 Innovation & New Product Development MEMBA/BR/Syn Rooms 04</activity>
+		<desc>MEMBA - Syndicate Rooms - Bunhill Row: V. Souitaris</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>12/05/14</week>
+		<modulecode>MBM109M</modulecode>
+		<activity>MBM109 Innovation & New Product Development MEMBA/BR/Lecture 04</activity>
+		<desc>MEMBA - Bunhill Row</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>Souitaris, Vangelis Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>05/05/14</week>
+		<modulecode>MBM109M</modulecode>
+		<activity>MBM109 Innovation & New Product Development MEMBA/BR/Syn Rooms 01-03</activity>
+		<desc>MEMBA - Syndicate Rooms - Bunhill Row : V. Souitaris</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6010;6021;6020;6003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>05/05/14</week>
+		<modulecode>MBM109M</modulecode>
+		<activity>MBM109 Innovation & New Product Development MEMBA/BR/Lecture 01-03</activity>
+		<desc>MEMBA - Bunhill Row</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>Souitaris, Vangelis Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
-	<modulecode>SMM306</modulecode>
-	<activity>SMM306 Advanced Stochastic Modelling Methods In Finance/Lecture/WKS 1-3, 5-10</activity>
-	<desc>FM Weeks 1-3, 5-10</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>2006</room>
-	<lecturer>Cerny, Ales </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>10/02/14</week>
-	<modulecode>SMM306</modulecode>
-	<activity>SMM306 Advanced Stochastic Modelling Methods In Finance/Lecture/WK 3</activity>
-	<desc>FM : Week 3 ONLY (replacement for wk 4 missed)</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>LG001</room>
-	<lecturer>Cerny, Ales </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+		<modulecode>SMM306</modulecode>
+		<activity>SMM306 Advanced Stochastic Modelling Methods In Finance/Lecture/WKS 1-3, 5-10</activity>
+		<desc>FM Weeks 1-3, 5-10</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>2006</room>
+		<lecturer>Cerny, Ales </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>10/02/14</week>
+		<modulecode>SMM306</modulecode>
+		<activity>SMM306 Advanced Stochastic Modelling Methods In Finance/Lecture/WK 3</activity>
+		<desc>FM : Week 3 ONLY (replacement for wk 4 missed)</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>LG001</room>
+		<lecturer>Cerny, Ales </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

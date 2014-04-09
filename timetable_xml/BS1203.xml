@@ -1,156 +1,158 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/A&F/Tutorial 1/9</activity>
-	<desc>Group 1 A&F : Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Coombe, Fiona </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/A&F/Tutorial 6/9</activity>
-	<desc>Group 6 A&F : Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>I103</room>
-	<lecturer>Chapman, Simon </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/MGT/Tutorial 2/9</activity>
-	<desc>Group 2 MGT : Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Llewellyn, Geoff </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13-25/11/13, 09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/A&F/Tutorial 8/9/wks 2-9,11</activity>
-	<desc>Group 8 A&F : Weeks 2-9, 11</desc>
-	<joint>BS1203;BS1203</joint>
-	<studentnos>22</studentnos>
-	<room>C340</room>
-	<lecturer>O'Kane, Brendan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/A&F/Tutorial 8/9/wk 10</activity>
-	<desc>Group 8 A&F : Week 10 only</desc>
-	<joint>BS1203;BS1203</joint>
-	<studentnos>22</studentnos>
-	<room>C115</room>
-	<lecturer>O'Kane, Brendan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/10/13-28/10/13, 18/11/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/MGT/Tutorial 3/9</activity>
-	<desc>Group 3 MGT: Weeks 2-5, 8-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Daniell, Ian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/10/13-28/10/13, 18/11/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/MGT/Tutorial 4/9</activity>
-	<desc>Group 4 MGT : Weeks 2-5, 8-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D222</room>
-	<lecturer>Chapman, Simon </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>04/11/13-11/11/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/MGT/Tutorial 3 & 4/wks 6 & 7</activity>
-	<desc>Groups 3 & 4 (Combined) : MGT: Week 6 & 7 only</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>DLG09</room>
-	<lecturer>Chapman, Simon;Daniell, Ian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/Lecture 01/wk 1</activity>
-	<desc>Lecture - Week 1 only : A&F, IFRM, MGT</desc>
-	<joint> </joint>
-	<studentnos>180</studentnos>
-	<room>Oakden</room>
-	<lecturer>Daniell, Ian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/IFRM/Tutorial 5/9</activity>
-	<desc>Group 5 IFRM : Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>I103</room>
-	<lecturer>Pugh, Lesley </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/A&F/Tutorial 9/9</activity>
-	<desc>Group 9 A&F Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>A225</room>
-	<lecturer>O'Kane, Brendan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS1203</modulecode>
-	<activity>BS1203 Professional Skills/A&F/Tutorial 7/9</activity>
-	<desc>Group 7 A&F : Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Pugh, Lesley </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/A&F/Tutorial 1/9</activity>
+		<desc>Group 1 A&F : Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Coombe, Fiona </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/A&F/Tutorial 6/9</activity>
+		<desc>Group 6 A&F : Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>I103</room>
+		<lecturer>Chapman, Simon </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/MGT/Tutorial 2/9</activity>
+		<desc>Group 2 MGT : Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Llewellyn, Geoff </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13-25/11/13, 09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/A&F/Tutorial 8/9/wks 2-9,11</activity>
+		<desc>Group 8 A&F : Weeks 2-9, 11</desc>
+		<joint>BS1203;BS1203</joint>
+		<studentnos>22</studentnos>
+		<room>C340</room>
+		<lecturer>O'Kane, Brendan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/A&F/Tutorial 8/9/wk 10</activity>
+		<desc>Group 8 A&F : Week 10 only</desc>
+		<joint>BS1203;BS1203</joint>
+		<studentnos>22</studentnos>
+		<room>C115</room>
+		<lecturer>O'Kane, Brendan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/10/13-28/10/13, 18/11/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/MGT/Tutorial 3/9</activity>
+		<desc>Group 3 MGT: Weeks 2-5, 8-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Daniell, Ian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/10/13-28/10/13, 18/11/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/MGT/Tutorial 4/9</activity>
+		<desc>Group 4 MGT : Weeks 2-5, 8-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D222</room>
+		<lecturer>Chapman, Simon </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>04/11/13-11/11/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/MGT/Tutorial 3 & 4/wks 6 & 7</activity>
+		<desc>Groups 3 & 4 (Combined) : MGT: Week 6 & 7 only</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>DLG09</room>
+		<lecturer>Chapman, Simon;Daniell, Ian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/Lecture 01/wk 1</activity>
+		<desc>Lecture - Week 1 only : A&F, IFRM, MGT</desc>
+		<joint>-</joint>
+		<studentnos>180</studentnos>
+		<room>Oakden</room>
+		<lecturer>Daniell, Ian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/IFRM/Tutorial 5/9</activity>
+		<desc>Group 5 IFRM : Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>I103</room>
+		<lecturer>Pugh, Lesley </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/A&F/Tutorial 9/9</activity>
+		<desc>Group 9 A&F Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>A225</room>
+		<lecturer>O'Kane, Brendan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS1203</modulecode>
+		<activity>BS1203 Professional Skills/A&F/Tutorial 7/9</activity>
+		<desc>Group 7 A&F : Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Pugh, Lesley </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

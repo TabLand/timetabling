@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>30/09/13-18/11/13</week>
-	<modulecode>CS1781</modulecode>
-	<activity>CS1781 Presentation Skills term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A109</room>
-	<lecturer>Glossop, Karen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>10/02/14-31/03/14</week>
-	<modulecode>CS1781</modulecode>
-	<activity>CS1781 Presentation Skills term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A109</room>
-	<lecturer>Glossop, Karen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1781</modulecode>
-	<activity>CS1781 Presentation Skills term 3 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG01</room>
-	<lecturer>Glossop, Karen </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>30/09/13-18/11/13</week>
+		<modulecode>CS1781</modulecode>
+		<activity>CS1781 Presentation Skills term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A109</room>
+		<lecturer>Glossop, Karen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>10/02/14-31/03/14</week>
+		<modulecode>CS1781</modulecode>
+		<activity>CS1781 Presentation Skills term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A109</room>
+		<lecturer>Glossop, Karen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1781</modulecode>
+		<activity>CS1781 Presentation Skills term 3 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG01</room>
+		<lecturer>Glossop, Karen </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

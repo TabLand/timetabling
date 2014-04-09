@@ -1,390 +1,392 @@
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Main Room (Monday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D427 (Boardroom)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D427 (Boardroom)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D111</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Break Out Room (Monday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>DLG02;D106;D107;D108</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Break Out Room (Monday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D106;D107;D108;D109</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Monday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>A129i;AG04;AG02</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D427 (Boardroom)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D111</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Tuesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>AG06;AG02</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Main Room (Tuesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG01</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Break Out Room (Tuesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>DLG02;D106;D107;D108</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Break Out Room (Tuesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D104;D112;D113;D222</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D427 (Boardroom)</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D111</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Main Room (Wednesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>B307B/C</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:30</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Wednesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>BLG08;AG04;AG02</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Break Out Room (Wednesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D104;DLG09;D107;D108</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Break Out Room (Wednesday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D104;D112;D113;D222</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D427 (Boardroom)</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D111</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Thursday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>AG02</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Main Room (Thursday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG01</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Break Out Room (Thursday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D106;D107;DLG19;DLG20</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Break Out Room (Thursday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D113;D107;D108;D109</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Thursday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>A112</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D427 (Boardroom)</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D111</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Oct/Nov: Main Room (Friday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>B307B/C</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop Apr/May: Break Out Room (Friday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D104;D106;D107;D108</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>23/06/14</week>
-	<modulecode>CSW</modulecode>
-	<activity>Counselling Skills Workshop June: Break Out Room (Friday)</activity>
-	<desc>Amber Bowring 4567</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D106;D107;D108;D109</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Main Room (Monday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D427 (Boardroom)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D427 (Boardroom)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D111</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Break Out Room (Monday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>DLG02;D106;D107;D108</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Break Out Room (Monday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D106;D107;D108;D109</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Monday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>A129i;AG04;AG02</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D427 (Boardroom)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D111</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Tuesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>AG06;AG02</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Main Room (Tuesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG01</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Break Out Room (Tuesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>DLG02;D106;D107;D108</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Break Out Room (Tuesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D104;D112;D113;D222</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D427 (Boardroom)</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D111</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Main Room (Wednesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>B307B/C</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:30</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Wednesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>BLG08;AG04;AG02</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Break Out Room (Wednesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D104;DLG09;D107;D108</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Break Out Room (Wednesday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D104;D112;D113;D222</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D427 (Boardroom)</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D111</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Thursday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>AG02</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Main Room (Thursday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG01</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Break Out Room (Thursday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D106;D107;DLG19;DLG20</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Break Out Room (Thursday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D113;D107;D108;D109</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Break Out Room (Thursday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>A112</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D427 (Boardroom)</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Main Room (Mon-Fri)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D111</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Oct/Nov: Main Room (Friday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>B307B/C</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop Apr/May: Break Out Room (Friday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D104;D106;D107;D108</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>23/06/14</week>
+		<modulecode>CSW</modulecode>
+		<activity>Counselling Skills Workshop June: Break Out Room (Friday)</activity>
+		<desc>Amber Bowring 4567</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D106;D107;D108;D109</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

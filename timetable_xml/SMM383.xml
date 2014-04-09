@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM383</modulecode>
-	<activity>SMM383 Claims Management/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>3002</room>
-	<lecturer>James, Samantha </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM383</modulecode>
+		<activity>SMM383 Claims Management/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>3002</room>
+		<lecturer>James, Samantha </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

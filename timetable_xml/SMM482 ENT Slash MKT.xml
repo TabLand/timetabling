@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>SMM482 ENT/MKT</modulecode>
-	<activity>SMM482 Research Methods for Business/ENT& MKT/Lecture 01/WKS 1-3</activity>
-	<desc>ENT & MKT Streams Only: WEEKS 1-3</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>LG003</room>
-	<lecturer>Furnari, Santi </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/02/14, 10/03/14</week>
-	<modulecode>SMM482 ENT/MKT</modulecode>
-	<activity>SMM482 Research Methods for Business/ENT& MKT/Tutorial/WKS 5 & 7</activity>
-	<desc>ENT & MKT Streams Only: Tutorials : WEEKS 5 & 7 only</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>LG003</room>
-	<lecturer>Furnari, Santi </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>SMM482 ENT/MKT</modulecode>
+		<activity>SMM482 Research Methods for Business/ENT& MKT/Lecture 01/WKS 1-3</activity>
+		<desc>ENT & MKT Streams Only: WEEKS 1-3</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>LG003</room>
+		<lecturer>Furnari, Santi </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/02/14, 10/03/14</week>
+		<modulecode>SMM482 ENT/MKT</modulecode>
+		<activity>SMM482 Research Methods for Business/ENT& MKT/Tutorial/WKS 5 & 7</activity>
+		<desc>ENT & MKT Streams Only: Tutorials : WEEKS 5 & 7 only</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>LG003</room>
+		<lecturer>Furnari, Santi </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

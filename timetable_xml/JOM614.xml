@@ -1,26 +1,28 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>20/01/14-24/02/14</week>
-	<modulecode>JOM614</modulecode>
-	<activity>JOM614 International Publishing Case Studies/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>BM02</room>
-	<lecturer>Kernan, Mary-Ann </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:30</end>
-	<week>20/01/14-24/02/14</week>
-	<modulecode>JOM614</modulecode>
-	<activity>JOM614 International Publishing Case Studies/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C350</room>
-	<lecturer>Kernan, Mary-Ann </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>20/01/14-24/02/14</week>
+		<modulecode>JOM614</modulecode>
+		<activity>JOM614 International Publishing Case Studies/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>BM02</room>
+		<lecturer>Kernan, Mary-Ann </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:30</end>
+		<week>20/01/14-24/02/14</week>
+		<modulecode>JOM614</modulecode>
+		<activity>JOM614 International Publishing Case Studies/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C350</room>
+		<lecturer>Kernan, Mary-Ann </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

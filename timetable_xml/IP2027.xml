@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP2027</modulecode>
-	<activity>IP2027 Foreign Policy Analysis 2/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>AG08</room>
-	<lecturer>Beckerman-Boys, Carly </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP2027</modulecode>
-	<activity>IP2027 Foreign Policy Analysis 2/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG08</room>
-	<lecturer>Sabbag, Hisham </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP2027</modulecode>
-	<activity>IP2027 Foreign Policy Analysis 2/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG08</room>
-	<lecturer>Sabbag, Hisham </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP2027</modulecode>
+		<activity>IP2027 Foreign Policy Analysis 2/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>AG08</room>
+		<lecturer>Beckerman-Boys, Carly </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP2027</modulecode>
+		<activity>IP2027 Foreign Policy Analysis 2/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG08</room>
+		<lecturer>Sabbag, Hisham </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP2027</modulecode>
+		<activity>IP2027 Foreign Policy Analysis 2/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG08</room>
+		<lecturer>Sabbag, Hisham </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

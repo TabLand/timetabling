@@ -1,65 +1,67 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1586</modulecode>
-	<activity>CS1586 Web Authoring (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>B307A</room>
-	<lecturer>Seyedarabi, Faezeh </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>20/01/14-24/03/14</week>
-	<modulecode>CS1586</modulecode>
-	<activity>CS1586 Web Authoring term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A218</room>
-	<lecturer>Seyedarabi, Faezeh </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1586</modulecode>
-	<activity>CS1586 Web Authoring term 3 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>B307A</room>
-	<lecturer>Seyedarabi, Faezeh </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1586</modulecode>
-	<activity>CS1586 Web Authoring 1 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>B307A</room>
-	<lecturer>Seyedarabi, Faezeh </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1586</modulecode>
-	<activity>CS1586 Web Authoring term 3 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>A220</room>
-	<lecturer>Seyedarabi, Faezeh </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1586</modulecode>
+		<activity>CS1586 Web Authoring (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>B307A</room>
+		<lecturer>Seyedarabi, Faezeh </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>20/01/14-24/03/14</week>
+		<modulecode>CS1586</modulecode>
+		<activity>CS1586 Web Authoring term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A218</room>
+		<lecturer>Seyedarabi, Faezeh </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1586</modulecode>
+		<activity>CS1586 Web Authoring term 3 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>B307A</room>
+		<lecturer>Seyedarabi, Faezeh </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1586</modulecode>
+		<activity>CS1586 Web Authoring 1 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>B307A</room>
+		<lecturer>Seyedarabi, Faezeh </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1586</modulecode>
+		<activity>CS1586 Web Authoring term 3 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>A220</room>
+		<lecturer>Seyedarabi, Faezeh </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

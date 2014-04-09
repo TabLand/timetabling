@@ -1,260 +1,262 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>21/10/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Mgt/Tutorial 05/wk 4</activity>
-	<desc>Group 5 MGT & Exchange (Week 4 only : to replace wk 3 missed)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>28/10/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wk 5</activity>
-	<desc>Lecture: Stream 1- BUS/MGT: week 5</desc>
-	<joint> </joint>
-	<studentnos>183</studentnos>
-	<room>Poynton</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13-21/10/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wks 1-4</activity>
-	<desc>Lecture: Stream 1- BUS/MGT: weeks 1-4</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>04/11/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wk 6</activity>
-	<desc>Lecture: Stream 1- BUS/MGT: week 6 only</desc>
-	<joint> </joint>
-	<studentnos>183</studentnos>
-	<room>Oakden</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>11/11/13-02/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wks 7-10</activity>
-	<desc>Lecture: Stream 1- BUS/MGT</desc>
-	<joint> </joint>
-	<studentnos>183</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>09/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wk 11</activity>
-	<desc>Lecture: Stream 1- BUS/MGT: week 11</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/A&F/Lecture 01</activity>
-	<desc>Lecture: Stream 2- A&F & Exchange students.</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Mgt/Tutorial 05</activity>
-	<desc>Group 5 MGT & Exchange (Wks 5,7,9,11)</desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>E212</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/A&F/Tutorial 08</activity>
-	<desc>Group 8 A&F (Wks 2,4,6,8,10)</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>AG03</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Bus/Tutorial 03/wk 4</activity>
-	<desc>Group 3 BUS (week 4 only - to replace wk 3 missed)</desc>
-	<joint> </joint>
-	<studentnos>27</studentnos>
-	<room>C150</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>28/10/13, 18/11/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/A&F/QUIZ/WKS 5 & 8</activity>
-	<desc>Quiz : Stream 2- A&F & Exchange students : Weeks 5 & 8 only: 85 students need 170 seats</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>Poynton</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/A&F/Tutorial 07</activity>
-	<desc>Group 7 A&F (Wks 2,4,6,8,10)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C170</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>28/10/13, 18/11/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/BS,MGT/QUIZ/WKS 5 & 8</activity>
-	<desc>Quiz : Stream 1- BUS/MGT: Weeks 5 & 8 only: 183 students require 366 seats</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>Birley;BG02;BG03</room>
-	<lecturer>Hahn, Peter </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>02/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/A&F/Tutorial 07 & 08/WK 10</activity>
-	<desc>Groups 7&8 : A&F (Week 10 only - Extra Tutorial)</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>C303</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Bus/Tutorial 02</activity>
-	<desc>Group 2 BUS (Wks 2,4,6,8,10)</desc>
-	<joint> </joint>
-	<studentnos>27</studentnos>
-	<room>C339</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Bus/Tutorial 01</activity>
-	<desc>Group 1 BUS (wks 5,7,9,11)</desc>
-	<joint> </joint>
-	<studentnos>27</studentnos>
-	<room>C337</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Mgt/Tutorial 06</activity>
-	<desc>Group 6 MGT & Exchange (Wks 2,4,6,8,10)</desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>ALG16</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Bus/Tutorial 03</activity>
-	<desc>Group 3 BUS (wks 5,7,9,11)</desc>
-	<joint> </joint>
-	<studentnos>27</studentnos>
-	<room>C322</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Bus/Tutorial 04</activity>
-	<desc>Group 4 BUS (wks 2,4,6,8,10)</desc>
-	<joint> </joint>
-	<studentnos>27</studentnos>
-	<room>C322</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>BS2100</modulecode>
-	<activity>BS2100 Principles Of Finance/Bus/Tutorial 01/wk 4</activity>
-	<desc>Group 1 BUS (week 4 only - to replace wk 3 missed)</desc>
-	<joint> </joint>
-	<studentnos>27</studentnos>
-	<room>C345</room>
-	<lecturer>Vitkova, Valeriya </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>21/10/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Mgt/Tutorial 05/wk 4</activity>
+		<desc>Group 5 MGT & Exchange (Week 4 only : to replace wk 3 missed)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>28/10/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wk 5</activity>
+		<desc>Lecture: Stream 1- BUS/MGT: week 5</desc>
+		<joint>-</joint>
+		<studentnos>183</studentnos>
+		<room>Poynton</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13-21/10/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wks 1-4</activity>
+		<desc>Lecture: Stream 1- BUS/MGT: weeks 1-4</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>04/11/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wk 6</activity>
+		<desc>Lecture: Stream 1- BUS/MGT: week 6 only</desc>
+		<joint>-</joint>
+		<studentnos>183</studentnos>
+		<room>Oakden</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>11/11/13-02/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wks 7-10</activity>
+		<desc>Lecture: Stream 1- BUS/MGT</desc>
+		<joint>-</joint>
+		<studentnos>183</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>09/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/BS,MGT/Lecture 01/wk 11</activity>
+		<desc>Lecture: Stream 1- BUS/MGT: week 11</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/A&F/Lecture 01</activity>
+		<desc>Lecture: Stream 2- A&F & Exchange students.</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Mgt/Tutorial 05</activity>
+		<desc>Group 5 MGT & Exchange (Wks 5,7,9,11)</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>E212</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/A&F/Tutorial 08</activity>
+		<desc>Group 8 A&F (Wks 2,4,6,8,10)</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>AG03</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Bus/Tutorial 03/wk 4</activity>
+		<desc>Group 3 BUS (week 4 only - to replace wk 3 missed)</desc>
+		<joint>-</joint>
+		<studentnos>27</studentnos>
+		<room>C150</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>28/10/13, 18/11/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/A&F/QUIZ/WKS 5 & 8</activity>
+		<desc>Quiz : Stream 2- A&F & Exchange students : Weeks 5 & 8 only: 85 students need 170 seats</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>Poynton</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/A&F/Tutorial 07</activity>
+		<desc>Group 7 A&F (Wks 2,4,6,8,10)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C170</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>28/10/13, 18/11/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/BS,MGT/QUIZ/WKS 5 & 8</activity>
+		<desc>Quiz : Stream 1- BUS/MGT: Weeks 5 & 8 only: 183 students require 366 seats</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>Birley;BG02;BG03</room>
+		<lecturer>Hahn, Peter </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>02/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/A&F/Tutorial 07 & 08/WK 10</activity>
+		<desc>Groups 7&8 : A&F (Week 10 only - Extra Tutorial)</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>C303</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Bus/Tutorial 02</activity>
+		<desc>Group 2 BUS (Wks 2,4,6,8,10)</desc>
+		<joint>-</joint>
+		<studentnos>27</studentnos>
+		<room>C339</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Bus/Tutorial 01</activity>
+		<desc>Group 1 BUS (wks 5,7,9,11)</desc>
+		<joint>-</joint>
+		<studentnos>27</studentnos>
+		<room>C337</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Mgt/Tutorial 06</activity>
+		<desc>Group 6 MGT & Exchange (Wks 2,4,6,8,10)</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>ALG16</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Bus/Tutorial 03</activity>
+		<desc>Group 3 BUS (wks 5,7,9,11)</desc>
+		<joint>-</joint>
+		<studentnos>27</studentnos>
+		<room>C322</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Bus/Tutorial 04</activity>
+		<desc>Group 4 BUS (wks 2,4,6,8,10)</desc>
+		<joint>-</joint>
+		<studentnos>27</studentnos>
+		<room>C322</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>BS2100</modulecode>
+		<activity>BS2100 Principles Of Finance/Bus/Tutorial 01/wk 4</activity>
+		<desc>Group 1 BUS (week 4 only - to replace wk 3 missed)</desc>
+		<joint>-</joint>
+		<studentnos>27</studentnos>
+		<room>C345</room>
+		<lecturer>Vitkova, Valeriya </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

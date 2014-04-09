@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>EPM746</modulecode>
-	<activity>EPM746 Digital Signal Processing/Lecture 1/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C336</room>
-	<lecturer>Halikias, G </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>EPM746</modulecode>
+		<activity>EPM746 Digital Signal Processing/Lecture 1/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C336</room>
+		<lecturer>Halikias, G </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

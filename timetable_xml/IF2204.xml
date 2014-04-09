@@ -1,91 +1,93 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/02/14-31/03/14</week>
-	<modulecode>IF2204</modulecode>
-	<activity>IF2204 Personal Finance/Study Abroad/Presentations/Lecture/wks 3-10</activity>
-	<desc>Exchange student presentations: Weeks 3-10</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C312</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>IF2204</modulecode>
-	<activity>IF2204 Personal Finance/Lecture 01/1</activity>
-	<desc>Lecture</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>IF2204</modulecode>
-	<activity>IF2204 Personal Finance/MGT/Tutorial 4/4</activity>
-	<desc>Group 4 MGT : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C338</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>IF2204</modulecode>
-	<activity>IF2204 Personal Finance/IFRM/Tutorial 2/4</activity>
-	<desc>Group 2 IFRM : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>IF2204</modulecode>
-	<activity>IF2204 Personal Finance/BUS/Tutorial 3/4</activity>
-	<desc>Group 3 BUS : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C302</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>IF2204</modulecode>
-	<activity>IF2204 Personal Finance/A&F,BIF/Tutorial 1/4</activity>
-	<desc>Group 1 A&F & BIF : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C161</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>24/03/14</week>
-	<modulecode>IF2204</modulecode>
-	<activity>IF2204 Personal Finance/Presentations/wk 9</activity>
-	<desc>Student presentations: Week 9 ONLY</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C357</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/02/14-31/03/14</week>
+		<modulecode>IF2204</modulecode>
+		<activity>IF2204 Personal Finance/Study Abroad/Presentations/Lecture/wks 3-10</activity>
+		<desc>Exchange student presentations: Weeks 3-10</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C312</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>IF2204</modulecode>
+		<activity>IF2204 Personal Finance/Lecture 01/1</activity>
+		<desc>Lecture</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>IF2204</modulecode>
+		<activity>IF2204 Personal Finance/MGT/Tutorial 4/4</activity>
+		<desc>Group 4 MGT : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C338</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>IF2204</modulecode>
+		<activity>IF2204 Personal Finance/IFRM/Tutorial 2/4</activity>
+		<desc>Group 2 IFRM : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>IF2204</modulecode>
+		<activity>IF2204 Personal Finance/BUS/Tutorial 3/4</activity>
+		<desc>Group 3 BUS : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C302</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>IF2204</modulecode>
+		<activity>IF2204 Personal Finance/A&F,BIF/Tutorial 1/4</activity>
+		<desc>Group 1 A&F & BIF : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C161</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>24/03/14</week>
+		<modulecode>IF2204</modulecode>
+		<activity>IF2204 Personal Finance/Presentations/wk 9</activity>
+		<desc>Student presentations: Week 9 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C357</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

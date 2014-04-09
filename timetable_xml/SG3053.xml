@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3053</modulecode>
-	<activity>SG3053 New Media: From Cyberspace to Social Media/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>C303</room>
-	<lecturer>Holly, Chris </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3053</modulecode>
-	<activity>SG3053 New Media: From Cyberspace to Social Media/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C340</room>
-	<lecturer>Holly, Chris </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3053</modulecode>
-	<activity>SG3053 New Media: From Cyberspace to Social Media/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C340</room>
-	<lecturer>Holly, Chris </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3053</modulecode>
+		<activity>SG3053 New Media: From Cyberspace to Social Media/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>C303</room>
+		<lecturer>Holly, Chris </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3053</modulecode>
+		<activity>SG3053 New Media: From Cyberspace to Social Media/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C340</room>
+		<lecturer>Holly, Chris </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3053</modulecode>
+		<activity>SG3053 New Media: From Cyberspace to Social Media/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C340</room>
+		<lecturer>Holly, Chris </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

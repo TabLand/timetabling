@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA2600</modulecode>
-	<activity>MA2600 Complex Variable/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>Oakden</room>
-	<lecturer>Caudrelier, V </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA2600</modulecode>
-	<activity>MA2600 Complex Variable/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>BG03</room>
-	<lecturer>Caudrelier, V </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA2600</modulecode>
+		<activity>MA2600 Complex Variable/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>Oakden</room>
+		<lecturer>Caudrelier, V </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA2600</modulecode>
+		<activity>MA2600 Complex Variable/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>BG03</room>
+		<lecturer>Caudrelier, V </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

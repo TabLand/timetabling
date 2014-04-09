@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMM407</modulecode>
-	<activity>AMM407 Working Cultures</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>BLG08</room>
-	<lecturer>Littler, Jo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMM407</modulecode>
-	<activity>AMM407 Working Cultures</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C170</room>
-	<lecturer>Littler, Jo </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMM407</modulecode>
+		<activity>AMM407 Working Cultures</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>BLG08</room>
+		<lecturer>Littler, Jo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMM407</modulecode>
+		<activity>AMM407 Working Cultures</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C170</room>
+		<lecturer>Littler, Jo </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

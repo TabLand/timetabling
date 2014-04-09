@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM483</modulecode>
-	<activity>SMM483 Practices of Management</activity>
-	<desc>Core - All Mgt streams</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>3003</room>
-	<lecturer>Holtham, Clive </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM483</modulecode>
+		<activity>SMM483 Practices of Management</activity>
+		<desc>Core - All Mgt streams</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>3003</room>
+		<lecturer>Holtham, Clive </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

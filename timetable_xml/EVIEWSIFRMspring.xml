@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>EVIEWSIFRMspring</modulecode>
-	<activity>EVIEWS YR 3 (IFRM/REFI)/Spring /01/02</activity>
-	<desc>Optional Lab: IFRM,REFI Weeks 1-5 only</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>EVIEWSIFRMspring</modulecode>
+		<activity>EVIEWS YR 3 (IFRM/REFI)/Spring /01/02</activity>
+		<desc>Optional Lab: IFRM,REFI Weeks 1-5 only</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

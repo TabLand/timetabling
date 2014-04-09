@@ -1,13 +1,15 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/02/14-07/04/14</week>
-	<modulecode>FR3207</modulecode>
-	<activity>FR3207 Financial Services Regulation/Lecture/wks 2-11</activity>
-	<desc>Spring Lecture: Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B103</room>
-	<lecturer>Robertson, Andy </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/02/14-07/04/14</week>
+		<modulecode>FR3207</modulecode>
+		<activity>FR3207 Financial Services Regulation/Lecture/wks 2-11</activity>
+		<desc>Spring Lecture: Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B103</room>
+		<lecturer>Robertson, Andy </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

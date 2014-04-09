@@ -1,91 +1,93 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>28/10/13</week>
-	<modulecode>SMM196</modulecode>
-	<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 5</activity>
-	<desc>REI: LAB- week 5</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>1001</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>04/11/13</week>
-	<modulecode>SMM196</modulecode>
-	<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 6</activity>
-	<desc>REI: LAB- week 6</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>1001</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>18/11/13</week>
-	<modulecode>SMM196</modulecode>
-	<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 8</activity>
-	<desc>REI: LAB- week 8</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>1001</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>02/12/13</week>
-	<modulecode>SMM196</modulecode>
-	<activity>SMM196 Quantitative Techniques (Advanced)/Lecture 01/wk 10</activity>
-	<desc>REI: Lecture Autumn : Week 10 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3003</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-04/11/13, 18/11/13</week>
-	<modulecode>SMM196</modulecode>
-	<activity>SMM196 Quantitative Techniques (Advanced)/Lecture 01/wks 1-6,8</activity>
-	<desc>REI: Lecture Autumn : Weeks 1-6, 8</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2004</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>11/11/13, 25/11/13</week>
-	<modulecode>SMM196</modulecode>
-	<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WKS 7 & 9</activity>
-	<desc>REI: Computer Lab : Autumn : Weeks 7 & 9 only</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>1001</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>14/10/13</week>
-	<modulecode>SMM196</modulecode>
-	<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 3</activity>
-	<desc>REI: LAB- week 3</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2001</room>
-	<lecturer>Tsolacos, Sotiris </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>28/10/13</week>
+		<modulecode>SMM196</modulecode>
+		<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 5</activity>
+		<desc>REI: LAB- week 5</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>1001</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>04/11/13</week>
+		<modulecode>SMM196</modulecode>
+		<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 6</activity>
+		<desc>REI: LAB- week 6</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>1001</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>18/11/13</week>
+		<modulecode>SMM196</modulecode>
+		<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 8</activity>
+		<desc>REI: LAB- week 8</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>1001</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>02/12/13</week>
+		<modulecode>SMM196</modulecode>
+		<activity>SMM196 Quantitative Techniques (Advanced)/Lecture 01/wk 10</activity>
+		<desc>REI: Lecture Autumn : Week 10 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3003</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-04/11/13, 18/11/13</week>
+		<modulecode>SMM196</modulecode>
+		<activity>SMM196 Quantitative Techniques (Advanced)/Lecture 01/wks 1-6,8</activity>
+		<desc>REI: Lecture Autumn : Weeks 1-6, 8</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2004</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>11/11/13, 25/11/13</week>
+		<modulecode>SMM196</modulecode>
+		<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WKS 7 & 9</activity>
+		<desc>REI: Computer Lab : Autumn : Weeks 7 & 9 only</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>1001</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>14/10/13</week>
+		<modulecode>SMM196</modulecode>
+		<activity>SMM196 Quantitative Techniques (Advanced)/Computer Lab/WK 3</activity>
+		<desc>REI: LAB- week 3</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2001</room>
+		<lecturer>Tsolacos, Sotiris </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

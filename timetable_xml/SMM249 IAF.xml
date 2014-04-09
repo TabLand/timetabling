@@ -1,39 +1,41 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
-	<modulecode>SMM249 IAF</modulecode>
-	<activity>SMM249 Financial Reporting (MSc IAF)/Lecture 01/wks 1-4, 6-10</activity>
-	<desc>Autumn Lecture (MSc IAF) : weeks 1-4, 6-10</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>G001</room>
-	<lecturer>Raonic, Ivana </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>SMM249 IAF</modulecode>
-	<activity>SMM249 Financial Reporting (MSc IAF)/TEST/WK 5</activity>
-	<desc>Joint (MSc IAF) TEST - Week 5 only</desc>
-	<joint>SMM249 IAF;SMM249 CF;SMM249 FIN</joint>
-	<studentnos>72</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>07/10/13-14/10/13, 18/11/13</week>
-	<modulecode>SMM249 IAF</modulecode>
-	<activity>SMM249 Financial Reporting (MSc IAF)/Tutorial 01/WKS 2,3,8</activity>
-	<desc>Autumn (MSc IAF) Tutorial Weeks 2,3,8</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2003</room>
-	<lecturer>Raonic, Ivana </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
+		<modulecode>SMM249 IAF</modulecode>
+		<activity>SMM249 Financial Reporting (MSc IAF)/Lecture 01/wks 1-4, 6-10</activity>
+		<desc>Autumn Lecture (MSc IAF) : weeks 1-4, 6-10</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>G001</room>
+		<lecturer>Raonic, Ivana </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>SMM249 IAF</modulecode>
+		<activity>SMM249 Financial Reporting (MSc IAF)/TEST/WK 5</activity>
+		<desc>Joint (MSc IAF) TEST - Week 5 only</desc>
+		<joint>SMM249 IAF;SMM249 CF;SMM249 FIN</joint>
+		<studentnos>72</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>07/10/13-14/10/13, 18/11/13</week>
+		<modulecode>SMM249 IAF</modulecode>
+		<activity>SMM249 Financial Reporting (MSc IAF)/Tutorial 01/WKS 2,3,8</activity>
+		<desc>Autumn (MSc IAF) Tutorial Weeks 2,3,8</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2003</room>
+		<lecturer>Raonic, Ivana </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

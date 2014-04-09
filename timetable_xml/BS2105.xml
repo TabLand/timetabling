@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>BS2105</modulecode>
-	<activity>BS2105 European Studies/Lecture 1/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C170</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>BS2105</modulecode>
+		<activity>BS2105 European Studies/Lecture 1/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C170</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

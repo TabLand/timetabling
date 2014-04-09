@@ -1,13 +1,15 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2509</modulecode>
-	<activity>CS2509 Financial Engineering in C++ term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG24a</room>
-	<lecturer>Turfus, Colin </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2509</modulecode>
+		<activity>CS2509 Financial Engineering in C++ term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG24a</room>
+		<lecturer>Turfus, Colin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

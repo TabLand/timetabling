@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1204</modulecode>
-	<activity>BS1204 International Business Environment/BIF/MGT/A&F/Lecture 1/02</activity>
-	<desc>Lecture Stream 1: BIF/MGT/A&F</desc>
-	<joint> </joint>
-	<studentnos>190</studentnos>
-	<room>Poynton</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS1204</modulecode>
-	<activity>BS1204 International Business Environment/BUS,IFRM Lecture 2/02</activity>
-	<desc>Lecture Stream 2: BUS/IFRM/Exchange</desc>
-	<joint> </joint>
-	<studentnos>190</studentnos>
-	<room>Oakden</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1204</modulecode>
+		<activity>BS1204 International Business Environment/BIF/MGT/A&F/Lecture 1/02</activity>
+		<desc>Lecture Stream 1: BIF/MGT/A&F</desc>
+		<joint>-</joint>
+		<studentnos>190</studentnos>
+		<room>Poynton</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS1204</modulecode>
+		<activity>BS1204 International Business Environment/BUS,IFRM Lecture 2/02</activity>
+		<desc>Lecture Stream 2: BUS/IFRM/Exchange</desc>
+		<joint>-</joint>
+		<studentnos>190</studentnos>
+		<room>Oakden</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

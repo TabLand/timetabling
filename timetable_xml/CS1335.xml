@@ -1,78 +1,80 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>17/03/14</week>
-	<modulecode>CS1335</modulecode>
-	<activity>CS1335 Digital Film Maiking: an introduction term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG29a</room>
-	<lecturer>Pope, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>04/11/13-25/11/13</week>
-	<modulecode>CS1335</modulecode>
-	<activity>CS1335 Digital Film Making: a practical introduction term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG29a</room>
-	<lecturer>Granese, Marco </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1335</modulecode>
-	<activity>CS1335 Digital Film Making: a practical introduction term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>EG07</room>
-	<lecturer>Pope, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1335</modulecode>
-	<activity>CS1334 The Business of the Visual Art World</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C167</room>
-	<lecturer>Pfister, Renee </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>03/02/14-03/03/14, 07/04/14</week>
-	<modulecode>CS1335</modulecode>
-	<activity>CS1335 Digital Film Maiking: an introduction term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D104</room>
-	<lecturer>Pope, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>CS1335</modulecode>
-	<activity>CS1335 Digital Film Maiking: an introduction term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG29a</room>
-	<lecturer>Pope, David </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>17/03/14</week>
+		<modulecode>CS1335</modulecode>
+		<activity>CS1335 Digital Film Maiking: an introduction term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG29a</room>
+		<lecturer>Pope, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>04/11/13-25/11/13</week>
+		<modulecode>CS1335</modulecode>
+		<activity>CS1335 Digital Film Making: a practical introduction term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG29a</room>
+		<lecturer>Granese, Marco </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1335</modulecode>
+		<activity>CS1335 Digital Film Making: a practical introduction term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>EG07</room>
+		<lecturer>Pope, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1335</modulecode>
+		<activity>CS1334 The Business of the Visual Art World</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C167</room>
+		<lecturer>Pfister, Renee </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>03/02/14-03/03/14, 07/04/14</week>
+		<modulecode>CS1335</modulecode>
+		<activity>CS1335 Digital Film Maiking: an introduction term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D104</room>
+		<lecturer>Pope, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>CS1335</modulecode>
+		<activity>CS1335 Digital Film Maiking: an introduction term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG29a</room>
+		<lecturer>Pope, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
-	<modulecode>LU3102</modulecode>
-	<activity>LU3102 Canadian Corporate Law/Tutorial 1/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3102;LG3102</joint>
-	<studentnos>19</studentnos>
-	<room>D222</room>
-	<lecturer>Dungey, Robert </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>LU3102</modulecode>
-	<activity>LU3102 Canadian Corporate Law/Lecture 1/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3102;LG3102</joint>
-	<studentnos>19</studentnos>
-	<room>D222</room>
-	<lecturer>Dungey, Robert </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+		<modulecode>LU3102</modulecode>
+		<activity>LU3102 Canadian Corporate Law/Tutorial 1/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3102;LG3102</joint>
+		<studentnos>19</studentnos>
+		<room>D222</room>
+		<lecturer>Dungey, Robert </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>LU3102</modulecode>
+		<activity>LU3102 Canadian Corporate Law/Lecture 1/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3102;LG3102</joint>
+		<studentnos>19</studentnos>
+		<room>D222</room>
+		<lecturer>Dungey, Robert </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

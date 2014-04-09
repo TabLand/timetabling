@@ -1,26 +1,28 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>03/03/14</week>
-	<modulecode>MS2105</modulecode>
-	<activity>MS2105 Creativity, Innovation & Design/Lecture/WK 6</activity>
-	<desc>Spring - Week 6 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Haefliger, Stefan;Bruhlmann, Sonja </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MS2105</modulecode>
-	<activity>MS2105 Creativity, Innovation & Design/Lecture/WKS 1-5, 7-11</activity>
-	<desc>Spring - Weeks 1-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Haefliger, Stefan </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>03/03/14</week>
+		<modulecode>MS2105</modulecode>
+		<activity>MS2105 Creativity, Innovation & Design/Lecture/WK 6</activity>
+		<desc>Spring - Week 6 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Haefliger, Stefan;Bruhlmann, Sonja </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MS2105</modulecode>
+		<activity>MS2105 Creativity, Innovation & Design/Lecture/WKS 1-5, 7-11</activity>
+		<desc>Spring - Weeks 1-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Haefliger, Stefan </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

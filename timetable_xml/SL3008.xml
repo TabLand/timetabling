@@ -1,208 +1,210 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13, 14/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture 01/01</activity>
-	<desc>Professional Studies (4) - stream 1</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>A110</room>
-	<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-10/03/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Tutorial 01/02</activity>
-	<desc>Spring Tutorial</desc>
-	<joint>SL3008;SL3008</joint>
-	<studentnos>16</studentnos>
-	<room>C330</room>
-	<lecturer>Harding, Celia </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-10/03/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Tutorial 01/01</activity>
-	<desc>Spring Tutorial</desc>
-	<joint>SL3008;SL3008</joint>
-	<studentnos>16</studentnos>
-	<room>C328</room>
-	<lecturer>Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/10/13</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture 01/01 wk2</activity>
-	<desc>Professional Studies (4) - stream 1</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>AG08</room>
-	<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>13/01/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Exam 01/02</activity>
-	<desc>S.A exams</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CG02</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>13/01/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Exam 01/01</activity>
-	<desc>Clinical Management Exam (grp=46 doubled-spaced)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>AG07</room>
-	<lecturer>VL 14/1 - HACOMS - SL3008;Harding, Celia;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>13:50</end>
-	<week>24/03/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Exam 02/02</activity>
-	<desc>Exam S.Arrangements</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture/Spring 01/01</activity>
-	<desc>Professional Studies (4)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>D104</room>
-	<lecturer>Joffe, Vicky </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>24/03/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Exam 02/01</activity>
-	<desc>In-house clinical video visit exam (grp=46 doubled-spaced)</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>Convocation Suite</room>
-	<lecturer>VL 14/1 - HACOMS - SL3008;Harding, Celia;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13, 14/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture 02/01</activity>
-	<desc>Professional Studies (4) stream 2</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>DLG03</room>
-	<lecturer>VL 14/2 - HACOMS - SL3008;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>14/10/13-21/10/13</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture 02/02 - wk3 -4</activity>
-	<desc>Professional Studies (4) stream 2</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-10/03/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Tutorial 01/03</activity>
-	<desc>Spring Tutorial</desc>
-	<joint>SL3008;SL3008</joint>
-	<studentnos>16</studentnos>
-	<room>C313</room>
-	<lecturer>Harding, Celia </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-10/03/14</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Tutorial 01/04</activity>
-	<desc>Spring Tutorial</desc>
-	<joint>SL3008;SL3008</joint>
-	<studentnos>16</studentnos>
-	<room>C328</room>
-	<lecturer>Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>07/10/13</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture 02/01 - wk2</activity>
-	<desc>Professional Studies (4) stream 2</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>ALG16</room>
-	<lecturer>VL 14/2 - HACOMS - SL3008;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>11/11/13</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture 01/01 - wk7</activity>
-	<desc>Professional Studies (4) - stream 1</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>B307B/C</room>
-	<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>25/11/13</week>
-	<modulecode>SL3008</modulecode>
-	<activity>SL3008 Professional Studies (4)/Lecture 01/01 - wk9</activity>
-	<desc>Professional Studies (4) - stream 2</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>C340</room>
-	<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13, 14/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture 01/01</activity>
+		<desc>Professional Studies (4) - stream 1</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>A110</room>
+		<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-10/03/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Tutorial 01/02</activity>
+		<desc>Spring Tutorial</desc>
+		<joint>SL3008;SL3008</joint>
+		<studentnos>16</studentnos>
+		<room>C330</room>
+		<lecturer>Harding, Celia </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-10/03/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Tutorial 01/01</activity>
+		<desc>Spring Tutorial</desc>
+		<joint>SL3008;SL3008</joint>
+		<studentnos>16</studentnos>
+		<room>C328</room>
+		<lecturer>Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/10/13</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture 01/01 wk2</activity>
+		<desc>Professional Studies (4) - stream 1</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>AG08</room>
+		<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>13/01/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Exam 01/02</activity>
+		<desc>S.A exams</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CG02</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>13/01/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Exam 01/01</activity>
+		<desc>Clinical Management Exam (grp=46 doubled-spaced)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>AG07</room>
+		<lecturer>VL 14/1 - HACOMS - SL3008;Harding, Celia;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>13:50</end>
+		<week>24/03/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Exam 02/02</activity>
+		<desc>Exam S.Arrangements</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture/Spring 01/01</activity>
+		<desc>Professional Studies (4)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>D104</room>
+		<lecturer>Joffe, Vicky </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>24/03/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Exam 02/01</activity>
+		<desc>In-house clinical video visit exam (grp=46 doubled-spaced)</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>Convocation Suite</room>
+		<lecturer>VL 14/1 - HACOMS - SL3008;Harding, Celia;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13, 14/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture 02/01</activity>
+		<desc>Professional Studies (4) stream 2</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>DLG03</room>
+		<lecturer>VL 14/2 - HACOMS - SL3008;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>14/10/13-21/10/13</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture 02/02 - wk3 -4</activity>
+		<desc>Professional Studies (4) stream 2</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-10/03/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Tutorial 01/03</activity>
+		<desc>Spring Tutorial</desc>
+		<joint>SL3008;SL3008</joint>
+		<studentnos>16</studentnos>
+		<room>C313</room>
+		<lecturer>Harding, Celia </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-10/03/14</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Tutorial 01/04</activity>
+		<desc>Spring Tutorial</desc>
+		<joint>SL3008;SL3008</joint>
+		<studentnos>16</studentnos>
+		<room>C328</room>
+		<lecturer>Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>07/10/13</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture 02/01 - wk2</activity>
+		<desc>Professional Studies (4) stream 2</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>ALG16</room>
+		<lecturer>VL 14/2 - HACOMS - SL3008;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>11/11/13</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture 01/01 - wk7</activity>
+		<desc>Professional Studies (4) - stream 1</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>B307B/C</room>
+		<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>25/11/13</week>
+		<modulecode>SL3008</modulecode>
+		<activity>SL3008 Professional Studies (4)/Lecture 01/01 - wk9</activity>
+		<desc>Professional Studies (4) - stream 2</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>C340</room>
+		<lecturer>VL 14/1 - HACOMS - SL3008;Cruice, Madeline </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

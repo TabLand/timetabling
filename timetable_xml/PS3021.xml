@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PS3021</modulecode>
-	<activity>PS3021 Coaching Psychology: Theory, Research and Practice/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>AG21</room>
-	<lecturer>Ellam-Dyson, Victoria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PS3021</modulecode>
-	<activity>PS3021 Coaching Psychology: Theory, Research and Practice/Drop-In Clinic 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D222</room>
-	<lecturer>Ellam-Dyson, Victoria </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PS3021</modulecode>
+		<activity>PS3021 Coaching Psychology: Theory, Research and Practice/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>AG21</room>
+		<lecturer>Ellam-Dyson, Victoria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PS3021</modulecode>
+		<activity>PS3021 Coaching Psychology: Theory, Research and Practice/Drop-In Clinic 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D222</room>
+		<lecturer>Ellam-Dyson, Victoria </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

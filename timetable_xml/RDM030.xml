@@ -1,117 +1,119 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/03/14</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/OSCE1/01</activity>
-	<desc>Gynaecology Ultrasound OSE Exam</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C301</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>03/02/14, 17/02/14</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/Tutorial 3/02</activity>
-	<desc>Formative Clinical Assessments (AM) 4 rooms (was ELG06/7/9/12)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S);C232</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>10/02/14</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 mock OSE</activity>
-	<desc>Allison Harris</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>EG07</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>07/10/13</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/Tutorial 1/01</activity>
-	<desc>Clinical Skills Suite Session (AM) Shared with RDM004 & RDM031 - TVS and Reflection</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ELG12 (Radiography)</room>
-	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>23/09/13-30/09/13, 14/10/13-21/10/13, 04/11/13-02/12/13</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/Lecture 1/01</activity>
-	<desc>Gynaecology Ultrasound (see Moodle timetable for details)-</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>07/10/13</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/Tutorial 2/01</activity>
-	<desc>Clinical Skills Suite Session (PM) Shared with RDM004 & RDM031 - Portfolio introduction</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>Harris, Allison </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>28/10/13</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/Lecture 1/02</activity>
-	<desc>Simulator drop in tutorials</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG12 (Radiography)</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>03/02/14, 17/02/14</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/Tutorial 3/01</activity>
-	<desc>Formative Clinical Assessments (PM) 4 labs (was ELG06/7/9/12)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S);C232</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13</week>
-	<modulecode>RDM030</modulecode>
-	<activity>RDM030 Gynaecology Ultrasound/Tutorial 2/02</activity>
-	<desc>Clinical Skills Suite Session (PM) Shared with RDM004 & RDM031 - Reflection</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ELG12 (Radiography)</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/03/14</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/OSCE1/01</activity>
+		<desc>Gynaecology Ultrasound OSE Exam</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C301</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>03/02/14, 17/02/14</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/Tutorial 3/02</activity>
+		<desc>Formative Clinical Assessments (AM) 4 rooms (was ELG06/7/9/12)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S);C232</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>10/02/14</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 mock OSE</activity>
+		<desc>Allison Harris</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>EG07</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>07/10/13</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/Tutorial 1/01</activity>
+		<desc>Clinical Skills Suite Session (AM) Shared with RDM004 & RDM031 - TVS and Reflection</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ELG12 (Radiography)</room>
+		<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>23/09/13-30/09/13, 14/10/13-21/10/13, 04/11/13-02/12/13</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/Lecture 1/01</activity>
+		<desc>Gynaecology Ultrasound (see Moodle timetable for details)-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>07/10/13</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/Tutorial 2/01</activity>
+		<desc>Clinical Skills Suite Session (PM) Shared with RDM004 & RDM031 - Portfolio introduction</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>Harris, Allison </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>28/10/13</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/Lecture 1/02</activity>
+		<desc>Simulator drop in tutorials</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG12 (Radiography)</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>03/02/14, 17/02/14</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/Tutorial 3/01</activity>
+		<desc>Formative Clinical Assessments (PM) 4 labs (was ELG06/7/9/12)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S);C232</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13</week>
+		<modulecode>RDM030</modulecode>
+		<activity>RDM030 Gynaecology Ultrasound/Tutorial 2/02</activity>
+		<desc>Clinical Skills Suite Session (PM) Shared with RDM004 & RDM031 - Reflection</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ELG12 (Radiography)</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

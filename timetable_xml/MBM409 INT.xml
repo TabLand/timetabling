@@ -1,182 +1,184 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
-	<desc>FTMBA 2012 Block 4</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
-	<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/A&B/Briefing/01</activity>
-	<desc>FTMBA 2013 Block 4 Briefing - LG001 required</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>Cacciatori, Eugenia;Melville, Rob;Holtham, Clive;Nakajima, Chizu;Hahn, Peter </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
-	<desc>FTMBA 2012 Block 4</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
-	<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
-	<desc>FTMBA 2012 Block 4</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
-	<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
-	<desc>FTMBA 2012 Block 4</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
-	<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/A&B/Presentations 01</activity>
-	<desc>FTMBA 2013 Integration Week Presentations</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
-	<desc>FTMBA 2012 Block 4</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
-	<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Integration Week/A&B/Presentations 02</activity>
-	<desc>FTMBA 2013 Integration Week: Assessed Presentations 02</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:00</end>
-	<week>03/03/14</week>
-	<modulecode>MBM409 INT</modulecode>
-	<activity>MBM409 Mba Block 4: Iceland Trip/ briefing</activity>
-	<desc>FTMBA 2014 Iceland briefing</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>Robinson, Sionade </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
+		<desc>FTMBA 2012 Block 4</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
+		<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/A&B/Briefing/01</activity>
+		<desc>FTMBA 2013 Block 4 Briefing - LG001 required</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>Cacciatori, Eugenia;Melville, Rob;Holtham, Clive;Nakajima, Chizu;Hahn, Peter </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
+		<desc>FTMBA 2012 Block 4</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
+		<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
+		<desc>FTMBA 2012 Block 4</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
+		<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
+		<desc>FTMBA 2012 Block 4</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
+		<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/A&B/Presentations 01</activity>
+		<desc>FTMBA 2013 Integration Week Presentations</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Student Presentations/01</activity>
+		<desc>FTMBA 2012 Block 4</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/Syn Rooms /01</activity>
+		<desc>FTMBA 2012 Block 4 Syndicate Rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Integration Week/A&B/Presentations 02</activity>
+		<desc>FTMBA 2013 Integration Week: Assessed Presentations 02</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:00</end>
+		<week>03/03/14</week>
+		<modulecode>MBM409 INT</modulecode>
+		<activity>MBM409 Mba Block 4: Iceland Trip/ briefing</activity>
+		<desc>FTMBA 2014 Iceland briefing</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>Robinson, Sionade </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

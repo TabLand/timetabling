@@ -1,78 +1,80 @@
-<booking>
-	<start>8:30</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>AE3030</modulecode>
-	<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
-	<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C313;C312</room>
-	<lecturer>Tomas-Rodriguez, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>AE3030</modulecode>
-	<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
-	<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C357</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:30</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>AE3030</modulecode>
-	<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
-	<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C313;C312</room>
-	<lecturer>Tomas-Rodriguez, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>20/01/14</week>
-	<modulecode>AE3030</modulecode>
-	<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
-	<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C330</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:50</end>
-	<week>13/01/14</week>
-	<modulecode>AE3030</modulecode>
-	<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
-	<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C330</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>AE3030</modulecode>
-	<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
-	<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C335</room>
-	<lecturer>Tomas-Rodriguez, M </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>8:30</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>AE3030</modulecode>
+		<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
+		<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C313;C312</room>
+		<lecturer>Tomas-Rodriguez, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>AE3030</modulecode>
+		<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
+		<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C357</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:30</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>AE3030</modulecode>
+		<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
+		<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C313;C312</room>
+		<lecturer>Tomas-Rodriguez, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>20/01/14</week>
+		<modulecode>AE3030</modulecode>
+		<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
+		<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C330</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:50</end>
+		<week>13/01/14</week>
+		<modulecode>AE3030</modulecode>
+		<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
+		<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C330</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>AE3030</modulecode>
+		<activity>AE3030 Individual Project/Final Year Projects presentations for the Mechanical and Aeronautical groups</activity>
+		<desc>Dr. Maria Tomas-Rodriguez 3638</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C335</room>
+		<lecturer>Tomas-Rodriguez, M </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

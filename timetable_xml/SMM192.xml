@@ -1,39 +1,41 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM192</modulecode>
-	<activity>SMM192 Real Estate Finance/Lecture 01/01</activity>
-	<desc>Lecture: Spring RE</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2005</room>
-	<lecturer>Rodney, Bill </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>03/03/14</week>
-	<modulecode>SMM192</modulecode>
-	<activity>SMM192 Real Estate Finance/Computer Room 02/B/WK 6</activity>
-	<desc>Labs - Group B : Week 6</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2001</room>
-	<lecturer>Rodney, Bill </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/03/14</week>
-	<modulecode>SMM192</modulecode>
-	<activity>SMM192 Real Estate Finance/Computer Room 01/A/WK 6</activity>
-	<desc>Labs - Group B : Week 6</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>1001</room>
-	<lecturer>Rodney, Bill </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM192</modulecode>
+		<activity>SMM192 Real Estate Finance/Lecture 01/01</activity>
+		<desc>Lecture: Spring RE</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2005</room>
+		<lecturer>Rodney, Bill </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>03/03/14</week>
+		<modulecode>SMM192</modulecode>
+		<activity>SMM192 Real Estate Finance/Computer Room 02/B/WK 6</activity>
+		<desc>Labs - Group B : Week 6</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2001</room>
+		<lecturer>Rodney, Bill </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/03/14</week>
+		<modulecode>SMM192</modulecode>
+		<activity>SMM192 Real Estate Finance/Computer Room 01/A/WK 6</activity>
+		<desc>Labs - Group B : Week 6</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>1001</room>
+		<lecturer>Rodney, Bill </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

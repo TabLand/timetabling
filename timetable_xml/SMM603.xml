@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
-	<modulecode>SMM603</modulecode>
-	<activity>SMM603 Derivatives 1/Lecture 01/wks 1-4, 6-10</activity>
-	<desc>Autumn: FT and PT1: Weeks 1-4, 6-10</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>2006</room>
-	<lecturer>Neuberger Anthony Prof. </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
+		<modulecode>SMM603</modulecode>
+		<activity>SMM603 Derivatives 1/Lecture 01/wks 1-4, 6-10</activity>
+		<desc>Autumn: FT and PT1: Weeks 1-4, 6-10</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>2006</room>
+		<lecturer>Neuberger Anthony Prof. </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

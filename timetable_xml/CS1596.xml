@@ -1,78 +1,80 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1596</modulecode>
-	<activity>CS1596 Applied MS Excel for Business 1 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>EG07</room>
-	<lecturer>Stephenson, Robert </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14, 14/04/14</week>
-	<modulecode>CS1596</modulecode>
-	<activity>CS1596 Applied MS Excel for Business term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A218</room>
-	<lecturer>Stephenson, Robert </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1596</modulecode>
-	<activity>CS1596 Applied MS Excel for Business term 3 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A218</room>
-	<lecturer>Stephenson, Robert </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-14/10/13, 28/10/13-02/12/13</week>
-	<modulecode>CS1596</modulecode>
-	<activity>CS1596 Applied MS Excel for Business term 1 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A218</room>
-	<lecturer>Stephenson, Robert </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1596</modulecode>
-	<activity>CS1596 Applied MS Excel for Business term 2 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A218</room>
-	<lecturer>Stephenson, Robert </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1596</modulecode>
-	<activity>CS1596 Applied MS Excel for Business term 3 (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A218</room>
-	<lecturer>Stephenson, Robert </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1596</modulecode>
+		<activity>CS1596 Applied MS Excel for Business 1 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>EG07</room>
+		<lecturer>Stephenson, Robert </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14, 14/04/14</week>
+		<modulecode>CS1596</modulecode>
+		<activity>CS1596 Applied MS Excel for Business term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A218</room>
+		<lecturer>Stephenson, Robert </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1596</modulecode>
+		<activity>CS1596 Applied MS Excel for Business term 3 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A218</room>
+		<lecturer>Stephenson, Robert </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-14/10/13, 28/10/13-02/12/13</week>
+		<modulecode>CS1596</modulecode>
+		<activity>CS1596 Applied MS Excel for Business term 1 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A218</room>
+		<lecturer>Stephenson, Robert </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1596</modulecode>
+		<activity>CS1596 Applied MS Excel for Business term 2 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A218</room>
+		<lecturer>Stephenson, Robert </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1596</modulecode>
+		<activity>CS1596 Applied MS Excel for Business term 3 (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A218</room>
+		<lecturer>Stephenson, Robert </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

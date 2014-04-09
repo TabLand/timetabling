@@ -1,52 +1,54 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>07/04/14</week>
-	<modulecode>BS3206</modulecode>
-	<activity>BS3206 Financial Accounting Theory/Lecture 01/wk 11</activity>
-	<desc>Spring: Week 11 only (extra lecture: Revision)</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>DLG02</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>10/02/14, 24/02/14, 17/03/14-24/03/14</week>
-	<modulecode>BS3206</modulecode>
-	<activity>BS3206 Financial Accounting Theory/Tutorial 01</activity>
-	<desc>Spring: Tutorial: Weeks 3, 5, 7, 8, 9</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>CG05</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>10/03/14</week>
-	<modulecode>BS3206</modulecode>
-	<activity>BS3206 Financial Accounting Theory/Lecture 01/wk 7</activity>
-	<desc>Spring: Week 7 ONLY</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>CG05</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
-	<modulecode>BS3206</modulecode>
-	<activity>BS3206 Financial Accounting Theory/Lecture 01/wks 1-6, 8-10</activity>
-	<desc>Spring: Weeks 1-6, 8-10</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>CG05</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>07/04/14</week>
+		<modulecode>BS3206</modulecode>
+		<activity>BS3206 Financial Accounting Theory/Lecture 01/wk 11</activity>
+		<desc>Spring: Week 11 only (extra lecture: Revision)</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>DLG02</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>10/02/14, 24/02/14, 17/03/14-24/03/14</week>
+		<modulecode>BS3206</modulecode>
+		<activity>BS3206 Financial Accounting Theory/Tutorial 01</activity>
+		<desc>Spring: Tutorial: Weeks 3, 5, 7, 8, 9</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>CG05</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>10/03/14</week>
+		<modulecode>BS3206</modulecode>
+		<activity>BS3206 Financial Accounting Theory/Lecture 01/wk 7</activity>
+		<desc>Spring: Week 7 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>CG05</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
+		<modulecode>BS3206</modulecode>
+		<activity>BS3206 Financial Accounting Theory/Lecture 01/wks 1-6, 8-10</activity>
+		<desc>Spring: Weeks 1-6, 8-10</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>CG05</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

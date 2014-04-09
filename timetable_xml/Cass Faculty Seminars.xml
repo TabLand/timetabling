@@ -1,429 +1,431 @@
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Workshops/Term 1</activity>
-	<desc>AM Fuertes 0186 Geraldine Davis 8838: Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>27/01/14-10/02/14, 24/02/14-10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Workshops/Term 2/Wks 1-3, 5-7, 9-10</activity>
-	<desc>AM Fuertes 0186 Geraldine Davis 8838: Term 2 : Weeks 1-3, 5-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>17/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Workshops/Term 2/Wk 8</activity>
-	<desc>AM Fuertes 0186 Geraldine Davis 8838 : Term 2 Week 8 only</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>12/05/14-19/05/14, 02/06/14-23/06/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Workshops/Term 3/WKS 1-2, 4-7</activity>
-	<desc>AM Fuertes 0186 : Weeks 1-2, 4-7</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>17:00</end>
-	<week>10/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>FTMBA SSLC meeting</activity>
-	<desc>Jas Kaur</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:30</end>
-	<week>09/12/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Actuarial Science Seminar Series/Term 1/Wk 11</activity>
-	<desc>Dimitrina Dimitorva x 5208 : Week 11 only</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Dimitrova, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>18/11/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 1/WK 8</activity>
-	<desc>Nicola Jackson 8747</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2006</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>21:00</end>
-	<week>24/02/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Actuarial Science Seminar Series/Term 2/WK 5/syn room (storage/set up)</activity>
-	<desc>Dimitrina Dimitorva x 5208 : Week 5 : Syndicate room (furniture storage) D. Dimitrova</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>31/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Joint MGT & Dept of Economics/G.Loewenstein/Term 2/WK 10</activity>
-	<desc>Nicola Jackson 8747 : Term 2 : Week 10 Only (extra seminar)</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Seminar Series/Term 1</activity>
-	<desc>Aneel Keswani 8763 Alexander Scott 8951</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Seminar Series/Term 2/wks 1-4, 6-10</activity>
-	<desc>Aneel Keswani 8763 Alexander Scott 8951: Term 2 : WEEKS 1-4, 6-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>24/02/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Seminar Series/Term 2/wk 5</activity>
-	<desc>Aneel Keswani 8763 Alexander Scott 8951: Term 2 : WEEK 5 (replacment room)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>3003</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>12/05/14-23/06/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Seminar Series/Term 3/wks 1-7</activity>
-	<desc>Aneel Keswani 8763 Alexander Scott 8951: Weeks 1-7</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:00</end>
-	<week>30/06/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Finance Research Seminar Series/Term 3/wk 8</activity>
-	<desc>Aneel Keswani 8763 Alexander Scott 8951: Week 8 only</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2003</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>15:30</end>
-	<week>24/02/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Set up/Faculty of Actuarial Science Seminar Series/Term 2/WK 5</activity>
-	<desc>Room SET UP</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>18:00</end>
-	<week>14/10/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Actuarial Science Seminar Series/Term 1/Wk 3</activity>
-	<desc>Dimitrina Dimitorva x 5208 : Week 3</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>3003</room>
-	<lecturer>Dimitrova, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:30</end>
-	<week>28/10/13-04/11/13, 18/11/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Actuarial Science Seminar Series/Term 1/Wks 5-6, 8</activity>
-	<desc>Dimitrina Dimitorva x 5208 : Weeks 5-6, 8</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Dimitrova, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:30</end>
-	<week>03/02/14, 10/03/14-17/03/14, 31/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Actuarial Science Seminar Series/Term 2/WKS 2,7,8,10</activity>
-	<desc>Dimitrina Dimitorva x 5208 : Weeks 2,7, 8,10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Dimitrova, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:30</end>
-	<week>24/02/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Actuarial Science Seminar Series/Term 2/WK 5</activity>
-	<desc>Dimitrina Dimitorva x 5208 : Week 5 (Replacement)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>Dimitrova, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>17:30</end>
-	<week>12/05/14, 26/05/14-02/06/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Actuarial Science Seminar Series/Term 3/wks 1,3,4</activity>
-	<desc>Dimitrina Dimitorva x 5208: Term 3 : Weeks 1,3, 4</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Dimitrova, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>17:30</start>
-	<end>19:30</end>
-	<week>03/02/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Financial Engineering/Risk management Workshop/Term 2</activity>
-	<desc>Lucy Green 0928/ Gianluca Fusai ~ Guest speakers : Weeks 2,4,6, 8,10 : Term 2</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Fusai, Gianluca </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>17:30</start>
-	<end>18:00</end>
-	<week>24/02/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Reset/Faculty of Actuarial Science Seminar Series/Term 2/WK 5</activity>
-	<desc>Room reSET</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>19:30</end>
-	<week>21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Financial Engineering/Risk management Workshop/Term 1</activity>
-	<desc>Lucy Green 0928/ L. Ballotta ~ Guest speakers :Week 4,6, 8,10 : Term 1</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Ballotta, Laura </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>19:30</end>
-	<week>17/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Financial Engineering/Risk management Workshop/Term 2</activity>
-	<desc>Lucy Green 0928/ Gianluca Fusai ~ Guest speakers : Weeks 2,4,6, 8,10 : Term 2</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Fusai, Gianluca </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>19:30</end>
-	<week>19/05/14, 02/06/14, 16/06/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Financial Engineering/Risk management Workshop/Term 3</activity>
-	<desc>Lucy Green 0928/ Gianluca Fusai ~ Guest speakers :Weeks 2,4,6 : Term 3</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2005</room>
-	<lecturer>Fusai, Gianluca </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>09/09/13-23/09/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 1/Sep 12, 19 & 26</activity>
-	<desc>Nicola Jackson 8747</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3002</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 1</activity>
-	<desc>Nicola Jackson 8747</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>27/01/14-03/02/14, 17/02/14-31/03/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 2/WKS 1-2, 4-10</activity>
-	<desc>Nicola Jackson 8747 : Term 2 : Weeks 1-2, 4-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>10/02/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 2/WK 3</activity>
-	<desc>Nicola Jackson 8747 : Term 2 : Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2006</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>21/04/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 3/24th April</activity>
-	<desc>Nicola Jackson 8747</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>28/04/14-05/05/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 3/1st & 8th May</activity>
-	<desc>Nicola Jackson 8747</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>12/05/14-23/06/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 3/wks 1-7</activity>
-	<desc>Nicola Jackson 8747</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>30/06/14-07/07/14</week>
-	<modulecode>Cass Faculty Seminars</modulecode>
-	<activity>Faculty of Management Seminar Series/Term 3/wks 8 &9</activity>
-	<desc>Nicola Jackson 8747</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3002</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Workshops/Term 1</activity>
+		<desc>AM Fuertes 0186 Geraldine Davis 8838: Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>27/01/14-10/02/14, 24/02/14-10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Workshops/Term 2/Wks 1-3, 5-7, 9-10</activity>
+		<desc>AM Fuertes 0186 Geraldine Davis 8838: Term 2 : Weeks 1-3, 5-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>17/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Workshops/Term 2/Wk 8</activity>
+		<desc>AM Fuertes 0186 Geraldine Davis 8838 : Term 2 Week 8 only</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>12/05/14-19/05/14, 02/06/14-23/06/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Workshops/Term 3/WKS 1-2, 4-7</activity>
+		<desc>AM Fuertes 0186 : Weeks 1-2, 4-7</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>17:00</end>
+		<week>10/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>FTMBA SSLC meeting</activity>
+		<desc>Jas Kaur</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:30</end>
+		<week>09/12/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Actuarial Science Seminar Series/Term 1/Wk 11</activity>
+		<desc>Dimitrina Dimitorva x 5208 : Week 11 only</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Dimitrova, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>18/11/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 1/WK 8</activity>
+		<desc>Nicola Jackson 8747</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2006</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>21:00</end>
+		<week>24/02/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Actuarial Science Seminar Series/Term 2/WK 5/syn room (storage/set up)</activity>
+		<desc>Dimitrina Dimitorva x 5208 : Week 5 : Syndicate room (furniture storage) D. Dimitrova</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>31/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Joint MGT & Dept of Economics/G.Loewenstein/Term 2/WK 10</activity>
+		<desc>Nicola Jackson 8747 : Term 2 : Week 10 Only (extra seminar)</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Seminar Series/Term 1</activity>
+		<desc>Aneel Keswani 8763 Alexander Scott 8951</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Seminar Series/Term 2/wks 1-4, 6-10</activity>
+		<desc>Aneel Keswani 8763 Alexander Scott 8951: Term 2 : WEEKS 1-4, 6-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>24/02/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Seminar Series/Term 2/wk 5</activity>
+		<desc>Aneel Keswani 8763 Alexander Scott 8951: Term 2 : WEEK 5 (replacment room)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>3003</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>12/05/14-23/06/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Seminar Series/Term 3/wks 1-7</activity>
+		<desc>Aneel Keswani 8763 Alexander Scott 8951: Weeks 1-7</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:00</end>
+		<week>30/06/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Finance Research Seminar Series/Term 3/wk 8</activity>
+		<desc>Aneel Keswani 8763 Alexander Scott 8951: Week 8 only</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2003</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>15:30</end>
+		<week>24/02/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Set up/Faculty of Actuarial Science Seminar Series/Term 2/WK 5</activity>
+		<desc>Room SET UP</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>18:00</end>
+		<week>14/10/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Actuarial Science Seminar Series/Term 1/Wk 3</activity>
+		<desc>Dimitrina Dimitorva x 5208 : Week 3</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>3003</room>
+		<lecturer>Dimitrova, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:30</end>
+		<week>28/10/13-04/11/13, 18/11/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Actuarial Science Seminar Series/Term 1/Wks 5-6, 8</activity>
+		<desc>Dimitrina Dimitorva x 5208 : Weeks 5-6, 8</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Dimitrova, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:30</end>
+		<week>03/02/14, 10/03/14-17/03/14, 31/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Actuarial Science Seminar Series/Term 2/WKS 2,7,8,10</activity>
+		<desc>Dimitrina Dimitorva x 5208 : Weeks 2,7, 8,10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Dimitrova, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:30</end>
+		<week>24/02/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Actuarial Science Seminar Series/Term 2/WK 5</activity>
+		<desc>Dimitrina Dimitorva x 5208 : Week 5 (Replacement)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>Dimitrova, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>17:30</end>
+		<week>12/05/14, 26/05/14-02/06/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Actuarial Science Seminar Series/Term 3/wks 1,3,4</activity>
+		<desc>Dimitrina Dimitorva x 5208: Term 3 : Weeks 1,3, 4</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Dimitrova, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>17:30</start>
+		<end>19:30</end>
+		<week>03/02/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Financial Engineering/Risk management Workshop/Term 2</activity>
+		<desc>Lucy Green 0928/ Gianluca Fusai ~ Guest speakers : Weeks 2,4,6, 8,10 : Term 2</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Fusai, Gianluca </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>17:30</start>
+		<end>18:00</end>
+		<week>24/02/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Reset/Faculty of Actuarial Science Seminar Series/Term 2/WK 5</activity>
+		<desc>Room reSET</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>19:30</end>
+		<week>21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Financial Engineering/Risk management Workshop/Term 1</activity>
+		<desc>Lucy Green 0928/ L. Ballotta ~ Guest speakers :Week 4,6, 8,10 : Term 1</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Ballotta, Laura </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>19:30</end>
+		<week>17/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Financial Engineering/Risk management Workshop/Term 2</activity>
+		<desc>Lucy Green 0928/ Gianluca Fusai ~ Guest speakers : Weeks 2,4,6, 8,10 : Term 2</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Fusai, Gianluca </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>19:30</end>
+		<week>19/05/14, 02/06/14, 16/06/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Financial Engineering/Risk management Workshop/Term 3</activity>
+		<desc>Lucy Green 0928/ Gianluca Fusai ~ Guest speakers :Weeks 2,4,6 : Term 3</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2005</room>
+		<lecturer>Fusai, Gianluca </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>09/09/13-23/09/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 1/Sep 12, 19 & 26</activity>
+		<desc>Nicola Jackson 8747</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3002</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 1</activity>
+		<desc>Nicola Jackson 8747</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>27/01/14-03/02/14, 17/02/14-31/03/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 2/WKS 1-2, 4-10</activity>
+		<desc>Nicola Jackson 8747 : Term 2 : Weeks 1-2, 4-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>10/02/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 2/WK 3</activity>
+		<desc>Nicola Jackson 8747 : Term 2 : Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2006</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>21/04/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 3/24th April</activity>
+		<desc>Nicola Jackson 8747</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>28/04/14-05/05/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 3/1st & 8th May</activity>
+		<desc>Nicola Jackson 8747</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>12/05/14-23/06/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 3/wks 1-7</activity>
+		<desc>Nicola Jackson 8747</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>30/06/14-07/07/14</week>
+		<modulecode>Cass Faculty Seminars</modulecode>
+		<activity>Faculty of Management Seminar Series/Term 3/wks 8 &9</activity>
+		<desc>Nicola Jackson 8747</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3002</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

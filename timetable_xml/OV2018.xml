@@ -1,260 +1,262 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>03/03/14-10/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Lecture 2/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>Birley</room>
-	<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint>OV2018;OV2018</joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint>OV2018;OV2018</joint>
-	<studentnos>112</studentnos>
-	<room>Oakden</room>
-	<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 1/02</activity>
-	<desc>02B BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C203 (Refraction 1)</room>
-	<lecturer>Suttle, Catherine;Conway, Miriam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 2/02</activity>
-	<desc>02B BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C203 (Refraction 1)</room>
-	<lecturer>Suttle, Catherine;Conway, Miriam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 BV/Clinical Skills practice sessions/01</activity>
-	<desc>02A</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C203 (Refraction 1)</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>10/03/14-24/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 3/02</activity>
-	<desc>02B Visual Neuroscience Laboratory</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C209</room>
-	<lecturer>Grant, Simon </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 1/01</activity>
-	<desc>02A BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>Suttle, Catherine;Smith, Laura </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 2/01</activity>
-	<desc>02A BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>Suttle, Catherine;Smith, Laura </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 BV/Clinical Skills practice sessions/04</activity>
-	<desc>02D</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>10/03/14-24/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 3/01</activity>
-	<desc>02A Visual Neuroscience Laboratory</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C209</room>
-	<lecturer>Grant, Simon </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 1/03</activity>
-	<desc>02C BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 2/03</activity>
-	<desc>02C BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 BV/Clinical Skills practice sessions/02</activity>
-	<desc>02B</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>10/03/14-24/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 3/03</activity>
-	<desc>02C Visual Neuroscience Laboratory</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C209</room>
-	<lecturer>Grant, Simon </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 1/04</activity>
-	<desc>02D BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 2/04</activity>
-	<desc>02D BV lab</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 BV/Clinical Skills practice sessions/03</activity>
-	<desc>02C</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C204 (Refraction 2)</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>10/03/14-24/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Laboratory 3/04</activity>
-	<desc>02D Visual Neuroscience Laboratory</desc>
-	<joint>OV2018;OV2018;OV2018</joint>
-	<studentnos>28</studentnos>
-	<room>C209</room>
-	<lecturer>Grant, Simon </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV2018</modulecode>
-	<activity>OV2018 Binocular Vision/Exam/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>03/03/14-10/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Lecture 2/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>Birley</room>
+		<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>OV2018;OV2018</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>OV2018;OV2018</joint>
+		<studentnos>112</studentnos>
+		<room>Oakden</room>
+		<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 1/02</activity>
+		<desc>02B BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C203 (Refraction 1)</room>
+		<lecturer>Suttle, Catherine;Conway, Miriam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 2/02</activity>
+		<desc>02B BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C203 (Refraction 1)</room>
+		<lecturer>Suttle, Catherine;Conway, Miriam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 BV/Clinical Skills practice sessions/01</activity>
+		<desc>02A</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C203 (Refraction 1)</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>10/03/14-24/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 3/02</activity>
+		<desc>02B Visual Neuroscience Laboratory</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C209</room>
+		<lecturer>Grant, Simon </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 1/01</activity>
+		<desc>02A BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>Suttle, Catherine;Smith, Laura </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 2/01</activity>
+		<desc>02A BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>Suttle, Catherine;Smith, Laura </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 BV/Clinical Skills practice sessions/04</activity>
+		<desc>02D</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>10/03/14-24/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 3/01</activity>
+		<desc>02A Visual Neuroscience Laboratory</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C209</room>
+		<lecturer>Grant, Simon </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 1/03</activity>
+		<desc>02C BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 2/03</activity>
+		<desc>02C BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 BV/Clinical Skills practice sessions/02</activity>
+		<desc>02B</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>10/03/14-24/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 3/03</activity>
+		<desc>02C Visual Neuroscience Laboratory</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C209</room>
+		<lecturer>Grant, Simon </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 1/04</activity>
+		<desc>02D BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 2/04</activity>
+		<desc>02D BV lab</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 BV/Clinical Skills practice sessions/03</activity>
+		<desc>02C</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C204 (Refraction 2)</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>10/03/14-24/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Laboratory 3/04</activity>
+		<desc>02D Visual Neuroscience Laboratory</desc>
+		<joint>OV2018;OV2018;OV2018</joint>
+		<studentnos>28</studentnos>
+		<room>C209</room>
+		<lecturer>Grant, Simon </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV2018</modulecode>
+		<activity>OV2018 Binocular Vision/Exam/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Grant, Simon;Weddell, Lynne;Conway, Miriam </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

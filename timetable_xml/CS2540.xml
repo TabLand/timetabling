@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2540</modulecode>
-	<activity>CS2540 .NET Object-orientated programming using C# term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A308</room>
-	<lecturer>Robbins, Mark </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-03/02/14, 17/02/14-07/04/14</week>
-	<modulecode>CS2540</modulecode>
-	<activity>CS2540 .NET Object-orientated programming using C# term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>B307A</room>
-	<lecturer>Robbins, Mark </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS2540</modulecode>
-	<activity>CS2540 .NET Object-orientated programming using C# term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>A308</room>
-	<lecturer>Robbins, Mark </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2540</modulecode>
+		<activity>CS2540 .NET Object-orientated programming using C# term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A308</room>
+		<lecturer>Robbins, Mark </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-03/02/14, 17/02/14-07/04/14</week>
+		<modulecode>CS2540</modulecode>
+		<activity>CS2540 .NET Object-orientated programming using C# term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>B307A</room>
+		<lecturer>Robbins, Mark </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS2540</modulecode>
+		<activity>CS2540 .NET Object-orientated programming using C# term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>A308</room>
+		<lecturer>Robbins, Mark </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EPM501</modulecode>
-	<activity>EPM501 Power Electronics/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C140</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>EPM501</modulecode>
-	<activity>EPM501 Power Electronics/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>EPM501</modulecode>
-	<activity>EPM501 Power Electronics/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>EPM501</modulecode>
-	<activity>EPM501 Power Electronics/Lecture 2/02</activity>
-	<desc>Extra hour</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EPM501</modulecode>
+		<activity>EPM501 Power Electronics/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C140</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>EPM501</modulecode>
+		<activity>EPM501 Power Electronics/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>EPM501</modulecode>
+		<activity>EPM501 Power Electronics/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>EPM501</modulecode>
+		<activity>EPM501 Power Electronics/Lecture 2/02</activity>
+		<desc>Extra hour</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

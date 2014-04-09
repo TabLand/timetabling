@@ -1,143 +1,145 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>23/09/13</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Tutorial 1/01</activity>
-	<desc>Pre-Course Ultrasound AM</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>CG03</room>
-	<lecturer>Harrison, Gill </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>23/09/13</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Tutorial 1/03</activity>
-	<desc>Pre-Course Ultrasound PM - additional breakout</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A109</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>23/09/13</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Tutorial 1/02</activity>
-	<desc>Pre-Course Ultrasound PM</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ELG12 (Radiography);ELG09 (Radiography)</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>16/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Practical 1/01</activity>
-	<desc>Developing Advanced Practice - Oral Presentation (Wed am) Group 1</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>A107</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>16/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Practical 1/02</activity>
-	<desc>Developing Advanced Practice - Oral Presentation (Wed Pm) Group 2</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>A107</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14, 26/05/14-02/06/14, 23/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Lecture 1/01</activity>
-	<desc>Developing Advanced Practice (AM Session) (see Moodle timetable for details)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>16/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Practical 2/01</activity>
-	<desc>Developing Advanced Practice - Oral Presentation (Thu am) Group 3</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>A111</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>23/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Laboratory 1/01</activity>
-	<desc>Developing Advanced Practice</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C213 (Radiography - U/S)</room>
-	<lecturer>Harris, Allison </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>23/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Lecture 1/01a</activity>
-	<desc>Student staff liaison meeting</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>12/05/14, 26/05/14-02/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Lecture 1/02</activity>
-	<desc>Developing Advanced Practice (PM session)(see Moodle timetable for details)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG03</room>
-	<lecturer>Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>16/06/14</week>
-	<modulecode>RCM021</modulecode>
-	<activity>RCM021 Developing Advanced Practice/Practical 2/02</activity>
-	<desc>Developing Advanced Practice - Oral Presentation (Thu pm) Group 4</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>A111</room>
-	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>23/09/13</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Tutorial 1/01</activity>
+		<desc>Pre-Course Ultrasound AM</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>CG03</room>
+		<lecturer>Harrison, Gill </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>23/09/13</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Tutorial 1/03</activity>
+		<desc>Pre-Course Ultrasound PM - additional breakout</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A109</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>23/09/13</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Tutorial 1/02</activity>
+		<desc>Pre-Course Ultrasound PM</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ELG12 (Radiography);ELG09 (Radiography)</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>16/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Practical 1/01</activity>
+		<desc>Developing Advanced Practice - Oral Presentation (Wed am) Group 1</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>A107</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>16/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Practical 1/02</activity>
+		<desc>Developing Advanced Practice - Oral Presentation (Wed Pm) Group 2</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>A107</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14, 26/05/14-02/06/14, 23/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Lecture 1/01</activity>
+		<desc>Developing Advanced Practice (AM Session) (see Moodle timetable for details)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>16/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Practical 2/01</activity>
+		<desc>Developing Advanced Practice - Oral Presentation (Thu am) Group 3</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>A111</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>23/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Laboratory 1/01</activity>
+		<desc>Developing Advanced Practice</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C213 (Radiography - U/S)</room>
+		<lecturer>Harris, Allison </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>23/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Lecture 1/01a</activity>
+		<desc>Student staff liaison meeting</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>12/05/14, 26/05/14-02/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Lecture 1/02</activity>
+		<desc>Developing Advanced Practice (PM session)(see Moodle timetable for details)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG03</room>
+		<lecturer>Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>16/06/14</week>
+		<modulecode>RCM021</modulecode>
+		<activity>RCM021 Developing Advanced Practice/Practical 2/02</activity>
+		<desc>Developing Advanced Practice - Oral Presentation (Thu pm) Group 4</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>A111</room>
+		<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

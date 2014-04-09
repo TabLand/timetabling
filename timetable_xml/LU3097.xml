@@ -1,78 +1,80 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-21/10/13, 11/11/13-09/12/13</week>
-	<modulecode>LU3097</modulecode>
-	<activity>LU3097 Justice, Law and History/Lecture 1/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3097;LU3097</joint>
-	<studentnos>30</studentnos>
-	<room>A214</room>
-	<lecturer>Elvin, Jesse </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>LU3097</modulecode>
-	<activity>LU3097 Justice, Law and History/Lecture 1/2/LEAD/Nov 7th</activity>
-	<desc>Location change</desc>
-	<joint>LG3097;LU3097</joint>
-	<studentnos>30</studentnos>
-	<room>A227</room>
-	<lecturer>Elvin, Jesse </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
-	<modulecode>LU3097</modulecode>
-	<activity>LU3097 Justice, Law and History/Lecture 2/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3097;LG3097</joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>de Than, Claire </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>14/10/13, 04/11/13, 18/11/13</week>
-	<modulecode>LU3097</modulecode>
-	<activity>LU3097 Justice, Law and History/Tutorial 1/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LU3097;LG3097</joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Elvin, Jesse </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>02/12/13</week>
-	<modulecode>LU3097</modulecode>
-	<activity>LU3097 Justice, Law and History/Mock Exam/Dec 6th/LEAD</activity>
-	<desc>Week 10</desc>
-	<joint>LG3097;LU3097</joint>
-	<studentnos>30</studentnos>
-	<room>A307&8</room>
-	<lecturer>Elvin, Jesse </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LU3097</modulecode>
-	<activity>LU3097 Justice, Law and History/Tutorial 2/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3097;LU3097</joint>
-	<studentnos>25</studentnos>
-	<room>A227</room>
-	<lecturer>de Than, Claire </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-21/10/13, 11/11/13-09/12/13</week>
+		<modulecode>LU3097</modulecode>
+		<activity>LU3097 Justice, Law and History/Lecture 1/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3097;LU3097</joint>
+		<studentnos>30</studentnos>
+		<room>A214</room>
+		<lecturer>Elvin, Jesse </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>LU3097</modulecode>
+		<activity>LU3097 Justice, Law and History/Lecture 1/2/LEAD/Nov 7th</activity>
+		<desc>Location change</desc>
+		<joint>LG3097;LU3097</joint>
+		<studentnos>30</studentnos>
+		<room>A227</room>
+		<lecturer>Elvin, Jesse </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
+		<modulecode>LU3097</modulecode>
+		<activity>LU3097 Justice, Law and History/Lecture 2/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3097;LG3097</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>de Than, Claire </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>14/10/13, 04/11/13, 18/11/13</week>
+		<modulecode>LU3097</modulecode>
+		<activity>LU3097 Justice, Law and History/Tutorial 1/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LU3097;LG3097</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Elvin, Jesse </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>02/12/13</week>
+		<modulecode>LU3097</modulecode>
+		<activity>LU3097 Justice, Law and History/Mock Exam/Dec 6th/LEAD</activity>
+		<desc>Week 10</desc>
+		<joint>LG3097;LU3097</joint>
+		<studentnos>30</studentnos>
+		<room>A307&8</room>
+		<lecturer>Elvin, Jesse </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LU3097</modulecode>
+		<activity>LU3097 Justice, Law and History/Tutorial 2/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3097;LU3097</joint>
+		<studentnos>25</studentnos>
+		<room>A227</room>
+		<lecturer>de Than, Claire </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

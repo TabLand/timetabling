@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>03/02/14-07/04/14</week>
-	<modulecode>AS2021</modulecode>
-	<activity>AS2021 Decision Analysis/AS/SEMS/Tutorial</activity>
-	<desc>Joint AS/SEMS tutorial - Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>D104</room>
-	<lecturer>Glass, Celia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>AS2021</modulecode>
-	<activity>AS2021 Decision Analysis/Lecture 01</activity>
-	<desc>Lecture Spring term</desc>
-	<joint> </joint>
-	<studentnos>130</studentnos>
-	<room>BG02</room>
-	<lecturer>Glass, Celia </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>03/02/14-07/04/14</week>
+		<modulecode>AS2021</modulecode>
+		<activity>AS2021 Decision Analysis/AS/SEMS/Tutorial</activity>
+		<desc>Joint AS/SEMS tutorial - Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>D104</room>
+		<lecturer>Glass, Celia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>AS2021</modulecode>
+		<activity>AS2021 Decision Analysis/Lecture 01</activity>
+		<desc>Lecture Spring term</desc>
+		<joint>-</joint>
+		<studentnos>130</studentnos>
+		<room>BG02</room>
+		<lecturer>Glass, Celia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE2425</modulecode>
-	<activity>EE2425 Object-oriented Programming/Lab Sems 2/02</activity>
-	<desc>Group 2 *</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A220</room>
-	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE2425</modulecode>
-	<activity>EE2425 Object-oriented Programming/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C338</room>
-	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE2425</modulecode>
-	<activity>EE2425 Object-oriented Programming/Lab Sems 1/02</activity>
-	<desc>Group 1 *</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A218</room>
-	<lecturer>Styles, D </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE2425</modulecode>
+		<activity>EE2425 Object-oriented Programming/Lab Sems 2/02</activity>
+		<desc>Group 2 *</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A220</room>
+		<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE2425</modulecode>
+		<activity>EE2425 Object-oriented Programming/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C338</room>
+		<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE2425</modulecode>
+		<activity>EE2425 Object-oriented Programming/Lab Sems 1/02</activity>
+		<desc>Group 1 *</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A218</room>
+		<lecturer>Styles, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

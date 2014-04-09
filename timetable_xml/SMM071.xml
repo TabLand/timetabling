@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM071</modulecode>
-	<activity>SMM071 Business Economics (CT7)/Lecture/01</activity>
-	<desc>CT7 : FT/PT2: Autumn</desc>
-	<joint> </joint>
-	<studentnos>62</studentnos>
-	<room>2006</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM071</modulecode>
+		<activity>SMM071 Business Economics (CT7)/Lecture/01</activity>
+		<desc>CT7 : FT/PT2: Autumn</desc>
+		<joint>-</joint>
+		<studentnos>62</studentnos>
+		<room>2006</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

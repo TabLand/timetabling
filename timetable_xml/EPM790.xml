@@ -1,91 +1,93 @@
-<booking>
-	<start>8:00</start>
-	<end>17:50</end>
-	<week>10/02/14</week>
-	<modulecode>EPM790</modulecode>
-	<activity>EPM790 Environmental Issues/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>B307B/C</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>17:50</end>
-	<week>10/02/14</week>
-	<modulecode>EPM790</modulecode>
-	<activity>EPM790 Environmental Issues/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>B307B/C</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>17:50</end>
-	<week>10/02/14</week>
-	<modulecode>EPM790</modulecode>
-	<activity>EPM790 Environmental Issues/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>B307B/C</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>17:50</end>
-	<week>10/02/14</week>
-	<modulecode>EPM790</modulecode>
-	<activity>EPM790 Environmental Issues/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>B307B/C</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>EPM790</modulecode>
-	<activity>EPM790 Environmental Issues/Revision class/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG02</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>17:50</end>
-	<week>10/02/14</week>
-	<modulecode>EPM790</modulecode>
-	<activity>EPM790 Environmental Issues/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>B307B/C</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>EPM790</modulecode>
-	<activity>EPM790 Environmental Issues/Revision class/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C300</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>8:00</start>
+		<end>17:50</end>
+		<week>10/02/14</week>
+		<modulecode>EPM790</modulecode>
+		<activity>EPM790 Environmental Issues/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>B307B/C</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>17:50</end>
+		<week>10/02/14</week>
+		<modulecode>EPM790</modulecode>
+		<activity>EPM790 Environmental Issues/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>B307B/C</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>17:50</end>
+		<week>10/02/14</week>
+		<modulecode>EPM790</modulecode>
+		<activity>EPM790 Environmental Issues/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>B307B/C</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>17:50</end>
+		<week>10/02/14</week>
+		<modulecode>EPM790</modulecode>
+		<activity>EPM790 Environmental Issues/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>B307B/C</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>EPM790</modulecode>
+		<activity>EPM790 Environmental Issues/Revision class/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG02</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>17:50</end>
+		<week>10/02/14</week>
+		<modulecode>EPM790</modulecode>
+		<activity>EPM790 Environmental Issues/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>B307B/C</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>EPM790</modulecode>
+		<activity>EPM790 Environmental Issues/Revision class/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C300</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

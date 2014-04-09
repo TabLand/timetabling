@@ -1,39 +1,41 @@
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ETM069</modulecode>
-	<activity>ETM069 Developing Technologies/Lecture 1/02/JOINT</activity>
-	<desc>Joint with ME3100M</desc>
-	<joint>ME3100M;ETM069</joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14</week>
-	<modulecode>ETM069</modulecode>
-	<activity>ETM069 Developing Technologies/Lecture 1/02/JOINT</activity>
-	<desc>Joint with ME3100M</desc>
-	<joint>ETM069;ME3100M</joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ETM069</modulecode>
-	<activity>ETM069 Developing Technologies/Lecture 1/01/JOINT</activity>
-	<desc>Joint with ME3100M</desc>
-	<joint>ME3100M;ETM069;ETM067</joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ETM069</modulecode>
+		<activity>ETM069 Developing Technologies/Lecture 1/02/JOINT</activity>
+		<desc>Joint with ME3100M</desc>
+		<joint>ME3100M;ETM069</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14</week>
+		<modulecode>ETM069</modulecode>
+		<activity>ETM069 Developing Technologies/Lecture 1/02/JOINT</activity>
+		<desc>Joint with ME3100M</desc>
+		<joint>ETM069;ME3100M</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ETM069</modulecode>
+		<activity>ETM069 Developing Technologies/Lecture 1/01/JOINT</activity>
+		<desc>Joint with ME3100M</desc>
+		<joint>ME3100M;ETM069;ETM067</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>02/09/13</week>
-	<modulecode>MBM126 emba</modulecode>
-	<activity>MBM126 The New Strategic Landscape: Innovative Perspectives on Strategy/EMBA/Lecture 01</activity>
-	<desc>EMBA: Week 1</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N217</room>
-	<lecturer>Verity, Julie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>16/09/13-23/09/13, 07/10/13-04/11/13</week>
-	<modulecode>MBM126 emba</modulecode>
-	<activity>MBM126 The New Strategic Landscape: Innovative Perspectives on Strategy/EMBA/Lectures 02-03, 05-09</activity>
-	<desc>EMBA: Lectures 02-03, 05-09</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216b</room>
-	<lecturer>Verity, Julie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13</week>
-	<modulecode>MBM126 emba</modulecode>
-	<activity>MBM126 The New Strategic Landscape: Innovative Perspectives on Strategy/EMBA/Lectures 04</activity>
-	<desc>EMBA: Lecture 04 (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N215</room>
-	<lecturer>Verity, Julie </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>02/09/13</week>
+		<modulecode>MBM126 emba</modulecode>
+		<activity>MBM126 The New Strategic Landscape: Innovative Perspectives on Strategy/EMBA/Lecture 01</activity>
+		<desc>EMBA: Week 1</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N217</room>
+		<lecturer>Verity, Julie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>16/09/13-23/09/13, 07/10/13-04/11/13</week>
+		<modulecode>MBM126 emba</modulecode>
+		<activity>MBM126 The New Strategic Landscape: Innovative Perspectives on Strategy/EMBA/Lectures 02-03, 05-09</activity>
+		<desc>EMBA: Lectures 02-03, 05-09</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216b</room>
+		<lecturer>Verity, Julie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13</week>
+		<modulecode>MBM126 emba</modulecode>
+		<activity>MBM126 The New Strategic Landscape: Innovative Perspectives on Strategy/EMBA/Lectures 04</activity>
+		<desc>EMBA: Lecture 04 (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N215</room>
+		<lecturer>Verity, Julie </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 17/03/14-24/03/14, 07/04/14</week>
-	<modulecode>JO3125</modulecode>
-	<activity>JO3125 Advanced Photo Journalism</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C323</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>10/03/14</week>
-	<modulecode>JO3125</modulecode>
-	<activity>JO3125 Advanced Photo Journalism</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG07</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>31/03/14</week>
-	<modulecode>JO3125</modulecode>
-	<activity>JO3125 Advanced Photo Journalism</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG07</room>
-	<lecturer>Hannat, Sara </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 17/03/14-24/03/14, 07/04/14</week>
+		<modulecode>JO3125</modulecode>
+		<activity>JO3125 Advanced Photo Journalism</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C323</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>10/03/14</week>
+		<modulecode>JO3125</modulecode>
+		<activity>JO3125 Advanced Photo Journalism</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG07</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>31/03/14</week>
+		<modulecode>JO3125</modulecode>
+		<activity>JO3125 Advanced Photo Journalism</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG07</room>
+		<lecturer>Hannat, Sara </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>17/03/14</week>
-	<modulecode>PSM505</modulecode>
-	<activity>PSM505 Professional Skills/Lecture 01/Mar 19th</activity>
-	<desc>Week 8</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>DLG03</room>
-	<lecturer>Pangallo, Antonio </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-10/03/14, 24/03/14-07/04/14</week>
-	<modulecode>PSM505</modulecode>
-	<activity>PSM505 Professional Skills/Lecture 01/01</activity>
-	<desc>Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>DLG20</room>
-	<lecturer>Pangallo, Antonio </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>17/03/14</week>
+		<modulecode>PSM505</modulecode>
+		<activity>PSM505 Professional Skills/Lecture 01/Mar 19th</activity>
+		<desc>Week 8</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>DLG03</room>
+		<lecturer>Pangallo, Antonio </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-10/03/14, 24/03/14-07/04/14</week>
+		<modulecode>PSM505</modulecode>
+		<activity>PSM505 Professional Skills/Lecture 01/01</activity>
+		<desc>Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>DLG20</room>
+		<lecturer>Pangallo, Antonio </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>12/05/14</week>
-	<modulecode>MBM027 MEMBA</modulecode>
-	<activity>MBM027 Information Management/MEMBA14/Lecture 02</activity>
-	<desc>MEMBA 14 Intake</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Bhalla, Ajay </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>12/05/14</week>
-	<modulecode>MBM027 MEMBA</modulecode>
-	<activity>MBM027 Information Management/MEMBA14/Syn rooms 02</activity>
-	<desc>MEMBA 14 Intake : Syndicate rooms - A. Bhalla</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>N220;N214;N213;N212</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>12/05/14</week>
+		<modulecode>MBM027 MEMBA</modulecode>
+		<activity>MBM027 Information Management/MEMBA14/Lecture 02</activity>
+		<desc>MEMBA 14 Intake</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Bhalla, Ajay </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>12/05/14</week>
+		<modulecode>MBM027 MEMBA</modulecode>
+		<activity>MBM027 Information Management/MEMBA14/Syn rooms 02</activity>
+		<desc>MEMBA 14 Intake : Syndicate rooms - A. Bhalla</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>N220;N214;N213;N212</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

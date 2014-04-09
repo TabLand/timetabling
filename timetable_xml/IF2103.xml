@@ -1,39 +1,41 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>IF2103</modulecode>
-	<activity>IF2103 International Banking/B/Tutorial 02/02</activity>
-	<desc>Autumn : Tutorial : Group B : Weeks 3,5,7,9</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>DLG03</room>
-	<lecturer>Casu Lukac, Barbara </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>IF2103</modulecode>
-	<activity>IF2103 International Banking/A/Tutorial 01/02</activity>
-	<desc>Autumn : Tutorial : Group A : Weeks 3,5,7,9</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>D104</room>
-	<lecturer>Casu Lukac, Barbara </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>IF2103</modulecode>
-	<activity>IF2103 International Banking/Lecture 01</activity>
-	<desc>Autumn: Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>116</studentnos>
-	<room>BG03</room>
-	<lecturer>Casu Lukac, Barbara </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>IF2103</modulecode>
+		<activity>IF2103 International Banking/B/Tutorial 02/02</activity>
+		<desc>Autumn : Tutorial : Group B : Weeks 3,5,7,9</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>DLG03</room>
+		<lecturer>Casu Lukac, Barbara </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>IF2103</modulecode>
+		<activity>IF2103 International Banking/A/Tutorial 01/02</activity>
+		<desc>Autumn : Tutorial : Group A : Weeks 3,5,7,9</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>D104</room>
+		<lecturer>Casu Lukac, Barbara </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>IF2103</modulecode>
+		<activity>IF2103 International Banking/Lecture 01</activity>
+		<desc>Autumn: Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>116</studentnos>
+		<room>BG03</room>
+		<lecturer>Casu Lukac, Barbara </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>19:00</start>
-	<end>20:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1863</modulecode>
-	<activity>CS1863 Japanese - Accelerated term 2 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D220</room>
-	<lecturer>Ogura, Takayuki </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>19:00</start>
-	<end>20:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1863</modulecode>
-	<activity>CS1863 Japanese - Accelerated term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D220</room>
-	<lecturer>Ogura, Takayuki </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>19:00</start>
-	<end>20:50</end>
-	<week>24/03/14</week>
-	<modulecode>CS1863</modulecode>
-	<activity>CS1863 Japanese - Accelerated term 2 (Wed) 24/3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D106</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>19:00</start>
+		<end>20:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1863</modulecode>
+		<activity>CS1863 Japanese - Accelerated term 2 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D220</room>
+		<lecturer>Ogura, Takayuki </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>19:00</start>
+		<end>20:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1863</modulecode>
+		<activity>CS1863 Japanese - Accelerated term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D220</room>
+		<lecturer>Ogura, Takayuki </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>19:00</start>
+		<end>20:50</end>
+		<week>24/03/14</week>
+		<modulecode>CS1863</modulecode>
+		<activity>CS1863 Japanese - Accelerated term 2 (Wed) 24/3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D106</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

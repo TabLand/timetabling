@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14, 24/02/14-10/03/14, 31/03/14</week>
-	<modulecode>SMM355</modulecode>
-	<activity>SMM373 Business Organisation & Corporate Strategy in Insurance & Financial Services/Lecture/WKS 1,5-7,10</activity>
-	<desc>Lecture Spring ; IRM - FT & PT2 : Weeks 1,5,6,7,10</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>2002</room>
-	<lecturer>Atkins, Derek </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>SMM355</modulecode>
-	<activity>SMM373 Business Organisation & Corporate Strategy in Insurance & Financial Services/Lecture/WK 8</activity>
-	<desc>Lecture Spring ; IRM - FT & PT2 : Week 8 ONLY (Replacement)</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>2004</room>
-	<lecturer>Atkins, Derek </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>03/02/14-17/02/14, 17/03/14</week>
-	<modulecode>SMM355</modulecode>
-	<activity>SMM373 Business Organisation & Corporate Strategy in Insurance & Financial Services/Lecture/WKS 2,3,4,8</activity>
-	<desc>Lecture Spring ; IRM : Weeks 2,3,4,8 - FT & PT2</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>2006</room>
-	<lecturer>Sault, Tony </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14, 24/02/14-10/03/14, 31/03/14</week>
+		<modulecode>SMM355</modulecode>
+		<activity>SMM373 Business Organisation & Corporate Strategy in Insurance & Financial Services/Lecture/WKS 1,5-7,10</activity>
+		<desc>Lecture Spring ; IRM - FT & PT2 : Weeks 1,5,6,7,10</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>2002</room>
+		<lecturer>Atkins, Derek </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>SMM355</modulecode>
+		<activity>SMM373 Business Organisation & Corporate Strategy in Insurance & Financial Services/Lecture/WK 8</activity>
+		<desc>Lecture Spring ; IRM - FT & PT2 : Week 8 ONLY (Replacement)</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>2004</room>
+		<lecturer>Atkins, Derek </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>03/02/14-17/02/14, 17/03/14</week>
+		<modulecode>SMM355</modulecode>
+		<activity>SMM373 Business Organisation & Corporate Strategy in Insurance & Financial Services/Lecture/WKS 2,3,4,8</activity>
+		<desc>Lecture Spring ; IRM : Weeks 2,3,4,8 - FT & PT2</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>2006</room>
+		<lecturer>Sault, Tony </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

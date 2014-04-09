@@ -1,26 +1,28 @@
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>#SPLUSB04FBC</modulecode>
-	<activity>Extracurricular Business Spanish Upper Intermediate Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>Iwulski, Sonia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>#SPLUSB04FBC</modulecode>
-	<activity>Extracurricular Business Spanish Upper Intermediate Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>Iwulski, Sonia </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>#SPLUSB04FBC</modulecode>
+		<activity>Extracurricular Business Spanish Upper Intermediate Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>Iwulski, Sonia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>#SPLUSB04FBC</modulecode>
+		<activity>Extracurricular Business Spanish Upper Intermediate Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>Iwulski, Sonia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

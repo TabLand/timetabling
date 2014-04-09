@@ -1,13 +1,15 @@
-<booking>
-	<start>16:00</start>
-	<end>18:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>FPM002</modulecode>
-	<activity>FPM002 Political Economy Of Food/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG03</room>
-	<lecturer>Barling, David </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>18:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>FPM002</modulecode>
+		<activity>FPM002 Political Economy Of Food/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG03</room>
+		<lecturer>Barling, David </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

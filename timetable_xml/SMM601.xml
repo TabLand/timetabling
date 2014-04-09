@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>21/10/13-04/11/13</week>
-	<modulecode>SMM601</modulecode>
-	<activity>SMM601 Advanced Financial Econometrics/FT/Tutorial 01/WKS 4-6</activity>
-	<desc>Tutorial : Full Time MTF only : Weeks 4,5,6 only</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>G001</room>
-	<lecturer>Urga, Giovanni </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>SMM601</modulecode>
-	<activity>SMM601 Advanced Financial Econometrics/Lecture 01/wks 2-10</activity>
-	<desc>Autumn: jnt ft/pt2: Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>51</studentnos>
-	<room>2006</room>
-	<lecturer>Urga, Giovanni </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>21/10/13-04/11/13</week>
-	<modulecode>SMM601</modulecode>
-	<activity>SMM601 Advanced Financial Econometrics/PT2/Tutorial 01/WKS 4-6</activity>
-	<desc>Tutorial : MTF Part Time year 2 only : Weeks 4,5, 6 only</desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>2002</room>
-	<lecturer>Urga, Giovanni </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>21/10/13-04/11/13</week>
+		<modulecode>SMM601</modulecode>
+		<activity>SMM601 Advanced Financial Econometrics/FT/Tutorial 01/WKS 4-6</activity>
+		<desc>Tutorial : Full Time MTF only : Weeks 4,5,6 only</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>G001</room>
+		<lecturer>Urga, Giovanni </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>SMM601</modulecode>
+		<activity>SMM601 Advanced Financial Econometrics/Lecture 01/wks 2-10</activity>
+		<desc>Autumn: jnt ft/pt2: Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>51</studentnos>
+		<room>2006</room>
+		<lecturer>Urga, Giovanni </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>21/10/13-04/11/13</week>
+		<modulecode>SMM601</modulecode>
+		<activity>SMM601 Advanced Financial Econometrics/PT2/Tutorial 01/WKS 4-6</activity>
+		<desc>Tutorial : MTF Part Time year 2 only : Weeks 4,5, 6 only</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>2002</room>
+		<lecturer>Urga, Giovanni </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

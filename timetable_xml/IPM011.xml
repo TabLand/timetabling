@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IPM011</modulecode>
-	<activity>IPM011 Global Capitalism: Past, Present and Future/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D220</room>
-	<lecturer>Nesvetailova, Anastasia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IPM011</modulecode>
-	<activity>IPM011 Global Capitalism: Past, Present and Future/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>DLG09</room>
-	<lecturer>Nesvetailova, Anastasia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IPM011</modulecode>
-	<activity>IPM011 Global Capitalism: Past, Present and Future/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>DLG09</room>
-	<lecturer>Nesvetailova, Anastasia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IPM011</modulecode>
-	<activity>IPM011 Global Capitalism: Past, Present and Future/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>D104</room>
-	<lecturer>Nesvetailova, Anastasia </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IPM011</modulecode>
+		<activity>IPM011 Global Capitalism: Past, Present and Future/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D220</room>
+		<lecturer>Nesvetailova, Anastasia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IPM011</modulecode>
+		<activity>IPM011 Global Capitalism: Past, Present and Future/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>DLG09</room>
+		<lecturer>Nesvetailova, Anastasia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IPM011</modulecode>
+		<activity>IPM011 Global Capitalism: Past, Present and Future/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>DLG09</room>
+		<lecturer>Nesvetailova, Anastasia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IPM011</modulecode>
+		<activity>IPM011 Global Capitalism: Past, Present and Future/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>D104</room>
+		<lecturer>Nesvetailova, Anastasia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

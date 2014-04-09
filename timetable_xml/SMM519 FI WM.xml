@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>SMM519 FI WM</modulecode>
-	<activity>SMM519 Alternative Investments (MSc FI)/Lecture 01/WKS 1-5</activity>
-	<desc>FI : Elective year 2, Term 2 (choose 2 from SMM519/520/962) Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2005</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>03/03/14-31/03/14</week>
-	<modulecode>SMM519 FI WM</modulecode>
-	<activity>SMM519 Alternative Investments (MSc FI)/Lecture 1/WKS 6-10</activity>
-	<desc>FI - Elective year 2, Term 2 (choose 2 from SMM519/520/962/ Week 6-10</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2005</room>
-	<lecturer>Miller, Edgar </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>SMM519 FI WM</modulecode>
+		<activity>SMM519 Alternative Investments (MSc FI)/Lecture 01/WKS 1-5</activity>
+		<desc>FI : Elective year 2, Term 2 (choose 2 from SMM519/520/962) Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2005</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>03/03/14-31/03/14</week>
+		<modulecode>SMM519 FI WM</modulecode>
+		<activity>SMM519 Alternative Investments (MSc FI)/Lecture 1/WKS 6-10</activity>
+		<desc>FI - Elective year 2, Term 2 (choose 2 from SMM519/520/962/ Week 6-10</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2005</room>
+		<lecturer>Miller, Edgar </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

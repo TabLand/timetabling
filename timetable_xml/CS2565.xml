@@ -1,39 +1,41 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>30/09/13-18/11/13</week>
-	<modulecode>CS2565</modulecode>
-	<activity>CE2565 VBA in Excel Part 2 term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A307</room>
-	<lecturer>Wilkinson, Joseph </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-10/02/14, 24/02/14-07/04/14</week>
-	<modulecode>CS2565</modulecode>
-	<activity>CS2565 VBA in Excel Part 2 term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A308</room>
-	<lecturer>Wilkinson, Joseph </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS2565</modulecode>
-	<activity>CS2565 VBA in Excel Part 2 term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>A308</room>
-	<lecturer>Wilkinson, Joseph </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>30/09/13-18/11/13</week>
+		<modulecode>CS2565</modulecode>
+		<activity>CE2565 VBA in Excel Part 2 term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A307</room>
+		<lecturer>Wilkinson, Joseph </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-10/02/14, 24/02/14-07/04/14</week>
+		<modulecode>CS2565</modulecode>
+		<activity>CS2565 VBA in Excel Part 2 term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A308</room>
+		<lecturer>Wilkinson, Joseph </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS2565</modulecode>
+		<activity>CS2565 VBA in Excel Part 2 term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>A308</room>
+		<lecturer>Wilkinson, Joseph </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

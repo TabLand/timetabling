@@ -1,52 +1,54 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM522 QF/FM/IM</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/SMU/IM ONLY /Comp Lab/WK 4</activity>
-	<desc>Computer Lab SMU/ IM ONLY : Term 2 : Week 4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>1001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/02/14-10/02/14</week>
-	<modulecode>SMM522 QF/FM/IM</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/SMU/IM/Comp Lab/WKS 2-3</activity>
-	<desc>Computer Lab SMU/ IM ONLY : Term 2 : Weeks 2-3</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>1001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMM522 QF/FM/IM</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/QF/FM/T2/Lecture/WK 4</activity>
-	<desc>Spring Lecture : Term 3 route info session with CD' QF, FM : Week 4 ONLY</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2004</room>
-	<lecturer>Nitzsche, Dirk </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>28/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>SMM522 QF/FM/IM</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/QF, FM/Comp Lab/WKS 5,7,9</activity>
-	<desc>Computer Lab : QF, FM : Weeks 5, 7, 9</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM522 QF/FM/IM</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/SMU/IM ONLY /Comp Lab/WK 4</activity>
+		<desc>Computer Lab SMU/ IM ONLY : Term 2 : Week 4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>1001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/02/14-10/02/14</week>
+		<modulecode>SMM522 QF/FM/IM</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/SMU/IM/Comp Lab/WKS 2-3</activity>
+		<desc>Computer Lab SMU/ IM ONLY : Term 2 : Weeks 2-3</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>1001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMM522 QF/FM/IM</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/QF/FM/T2/Lecture/WK 4</activity>
+		<desc>Spring Lecture : Term 3 route info session with CD' QF, FM : Week 4 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2004</room>
+		<lecturer>Nitzsche, Dirk </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>28/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>SMM522 QF/FM/IM</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/QF, FM/Comp Lab/WKS 5,7,9</activity>
+		<desc>Computer Lab : QF, FM : Weeks 5, 7, 9</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

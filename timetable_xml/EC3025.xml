@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>EC3025</modulecode>
-	<activity>EC3025 Company Law/Lecture 01/01</activity>
-	<desc>Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>B103</room>
-	<lecturer>Krishnan, Vick </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>EC3025</modulecode>
+		<activity>EC3025 Company Law/Lecture 01/01</activity>
+		<desc>Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>B103</room>
+		<lecturer>Krishnan, Vick </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

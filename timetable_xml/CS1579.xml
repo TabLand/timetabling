@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1579</modulecode>
-	<activity>CS1579 Introduction to Oracle SQL term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A218</room>
-	<lecturer>Karkalas, Sokratis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-24/03/14, 07/04/14</week>
-	<modulecode>CS1579</modulecode>
-	<activity>CS1579 Introduction to Oracle SQL term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A220</room>
-	<lecturer>Karkalas, Sokratis </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1579</modulecode>
-	<activity>CS1579 Introduction to Oracle SQL term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG24a</room>
-	<lecturer>Karkalas, Sokratis </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1579</modulecode>
+		<activity>CS1579 Introduction to Oracle SQL term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A218</room>
+		<lecturer>Karkalas, Sokratis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-24/03/14, 07/04/14</week>
+		<modulecode>CS1579</modulecode>
+		<activity>CS1579 Introduction to Oracle SQL term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A220</room>
+		<lecturer>Karkalas, Sokratis </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1579</modulecode>
+		<activity>CS1579 Introduction to Oracle SQL term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG24a</room>
+		<lecturer>Karkalas, Sokratis </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,299 +1,301 @@
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>03/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Additional tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2H (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>20/01/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Introduction to Module & Introduction to Reflective practice/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>03/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Reflective practice/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11D (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>17/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Reflective practice/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Reflective practice/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>03/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Reflective practice/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>17/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Reflective practice/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Reflective practice/06</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>20/01/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 The philosophy of early identification & the legislative framework: defining mental health & the impact of the 'label'/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>03/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Working collaboratively: the family and assessment/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11D (WS)</room>
-	<lecturer>Campbell, S;Outside speaker </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>17/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Early year's interventions/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>24/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 The role of schools in early intervention/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>03/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Early Intervention, Assessment and Psychosis/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>17/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Parents with mental health problems/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>24/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Parents with mental health problems/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>20/01/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Introduction to Journal Group/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>03/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Journal Group/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11D (WS)</room>
-	<lecturer>Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>17/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Journal Group/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>24/02/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Journal Group/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>03/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Journal Group/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2C/2D (WS)</room>
-	<lecturer>Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>17/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Journal Group/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:30</end>
-	<week>24/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Journal Group/06</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:30</start>
-	<end>16:50</end>
-	<week>24/03/14</week>
-	<modulecode>APM012</modulecode>
-	<activity>APM012 Module evaluation/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Campbell, S </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>03/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Additional tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2H (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>20/01/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Introduction to Module & Introduction to Reflective practice/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>03/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Reflective practice/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11D (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>17/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Reflective practice/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Reflective practice/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>03/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Reflective practice/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>17/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Reflective practice/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Reflective practice/06</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>20/01/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 The philosophy of early identification & the legislative framework: defining mental health & the impact of the 'label'/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>03/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Working collaboratively: the family and assessment/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11D (WS)</room>
+		<lecturer>Campbell, S;Outside speaker </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>17/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Early year's interventions/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>24/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 The role of schools in early intervention/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>03/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Early Intervention, Assessment and Psychosis/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>17/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Parents with mental health problems/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>24/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Parents with mental health problems/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>20/01/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Introduction to Journal Group/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>03/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Journal Group/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11D (WS)</room>
+		<lecturer>Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>17/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Journal Group/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>24/02/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Journal Group/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>03/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Journal Group/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2C/2D (WS)</room>
+		<lecturer>Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>17/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Journal Group/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:30</end>
+		<week>24/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Journal Group/06</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:30</start>
+		<end>16:50</end>
+		<week>24/03/14</week>
+		<modulecode>APM012</modulecode>
+		<activity>APM012 Module evaluation/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Campbell, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-07/10/13</week>
-	<modulecode>LA2308</modulecode>
-	<activity>LA2308 Spanish For Media (intermediate)/Group 2 Autumn</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C170</room>
-	<lecturer>Alvarez, Ramon </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>14/10/13-09/12/13</week>
-	<modulecode>LA2308</modulecode>
-	<activity>LA2308 Spanish For Media (intermediate)/Group 2 Autumn</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM02</room>
-	<lecturer>Alvarez, Ramon </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>LA2308</modulecode>
-	<activity>LA2308 Spanish For Media (intermediate)/Group 2 Spring</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM02</room>
-	<lecturer>Alvarez, Ramon </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-07/10/13</week>
+		<modulecode>LA2308</modulecode>
+		<activity>LA2308 Spanish For Media (intermediate)/Group 2 Autumn</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C170</room>
+		<lecturer>Alvarez, Ramon </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>14/10/13-09/12/13</week>
+		<modulecode>LA2308</modulecode>
+		<activity>LA2308 Spanish For Media (intermediate)/Group 2 Autumn</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM02</room>
+		<lecturer>Alvarez, Ramon </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>LA2308</modulecode>
+		<activity>LA2308 Spanish For Media (intermediate)/Group 2 Spring</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM02</room>
+		<lecturer>Alvarez, Ramon </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

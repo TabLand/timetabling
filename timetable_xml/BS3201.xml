@@ -1,52 +1,54 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>02/12/13</week>
-	<modulecode>BS3201</modulecode>
-	<activity>BS3201 Strategic Marketing/Lecture 01/WK 10</activity>
-	<desc>LECTURE- Week 10 only (3 hrs to include presentations)</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>CG56</room>
-	<lecturer>Balabanis, George </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>25/11/13</week>
-	<modulecode>BS3201</modulecode>
-	<activity>BS3201 Strategic Marketing/Presentations 01/WK 9</activity>
-	<desc>Student presentations WEEK 9 ONLY</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C357</room>
-	<lecturer>Balabanis, George;Andriopoulos, Costas Prof;Gotsi, Manto </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>17:50</end>
-	<week>25/11/13</week>
-	<modulecode>BS3201</modulecode>
-	<activity>BS3201 Strategic Marketing/Presentations 02/WK 9</activity>
-	<desc>Student presentations WEEK 9 ONLY : Prof. Costas Andriosopoulos</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C357</room>
-	<lecturer>Balabanis, George;Andriopoulos, Costas Prof;Gotsi, Manto </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-18/11/13, 09/12/13</week>
-	<modulecode>BS3201</modulecode>
-	<activity>BS3201 Strategic Marketing/Lecture 01/WKS 1-8,11</activity>
-	<desc>LECTURE- Weeks 1-8, 11</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>DLG08</room>
-	<lecturer>Balabanis, George </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>02/12/13</week>
+		<modulecode>BS3201</modulecode>
+		<activity>BS3201 Strategic Marketing/Lecture 01/WK 10</activity>
+		<desc>LECTURE- Week 10 only (3 hrs to include presentations)</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>CG56</room>
+		<lecturer>Balabanis, George </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>25/11/13</week>
+		<modulecode>BS3201</modulecode>
+		<activity>BS3201 Strategic Marketing/Presentations 01/WK 9</activity>
+		<desc>Student presentations WEEK 9 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C357</room>
+		<lecturer>Balabanis, George;Andriopoulos, Costas Prof;Gotsi, Manto </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>17:50</end>
+		<week>25/11/13</week>
+		<modulecode>BS3201</modulecode>
+		<activity>BS3201 Strategic Marketing/Presentations 02/WK 9</activity>
+		<desc>Student presentations WEEK 9 ONLY : Prof. Costas Andriosopoulos</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C357</room>
+		<lecturer>Balabanis, George;Andriopoulos, Costas Prof;Gotsi, Manto </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-18/11/13, 09/12/13</week>
+		<modulecode>BS3201</modulecode>
+		<activity>BS3201 Strategic Marketing/Lecture 01/WKS 1-8,11</activity>
+		<desc>LECTURE- Weeks 1-8, 11</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>DLG08</room>
+		<lecturer>Balabanis, George </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

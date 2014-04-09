@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM272</modulecode>
-	<activity>SMM272 Risk Analysis/Lecture 01</activity>
-	<desc>Joint: QFFM/SMU</desc>
-	<joint> </joint>
-	<studentnos>67</studentnos>
-	<room>G001</room>
-	<lecturer>Fusai, Gianluca </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM272</modulecode>
+		<activity>SMM272 Risk Analysis/Lecture 01</activity>
+		<desc>Joint: QFFM/SMU</desc>
+		<joint>-</joint>
+		<studentnos>67</studentnos>
+		<room>G001</room>
+		<lecturer>Fusai, Gianluca </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

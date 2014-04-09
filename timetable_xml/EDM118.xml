@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>13/01/14</week>
-	<modulecode>EDM118</modulecode>
-	<activity>EDM118 Student Support and Personal Tutoring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C161</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>17/02/14</week>
-	<modulecode>EDM118</modulecode>
-	<activity>EDM118 Student Support and Personal Tutoring/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C170</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>14:50</end>
-	<week>17/02/14</week>
-	<modulecode>EDM118</modulecode>
-	<activity>EDM118 Student Support and Personal Tutoring/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>BLG07</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>13/01/14</week>
-	<modulecode>EDM118</modulecode>
-	<activity>EDM118 Student Support and Personal Tutoring/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C161</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>13/01/14</week>
+		<modulecode>EDM118</modulecode>
+		<activity>EDM118 Student Support and Personal Tutoring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C161</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>17/02/14</week>
+		<modulecode>EDM118</modulecode>
+		<activity>EDM118 Student Support and Personal Tutoring/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C170</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>14:50</end>
+		<week>17/02/14</week>
+		<modulecode>EDM118</modulecode>
+		<activity>EDM118 Student Support and Personal Tutoring/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>BLG07</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>13/01/14</week>
+		<modulecode>EDM118</modulecode>
+		<activity>EDM118 Student Support and Personal Tutoring/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C161</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

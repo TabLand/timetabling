@@ -1,13 +1,15 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM035</modulecode>
-	<activity>SMM035 Finance & Investment B (ST6) /Lecture 1/01</activity>
-	<desc>AM Only - spring : FT/PT1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3003</room>
-	<lecturer>Dimitrova, D </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM035</modulecode>
+		<activity>SMM035 Finance & Investment B (ST6) /Lecture 1/01</activity>
+		<desc>AM Only - spring : FT/PT1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3003</room>
+		<lecturer>Dimitrova, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

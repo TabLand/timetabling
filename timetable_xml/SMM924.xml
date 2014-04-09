@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM924</modulecode>
-	<activity>SMM924 Foreign Exchange/Lecture 01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>LG002/3</room>
-	<lecturer>Marsh, Ian Prof. </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM924</modulecode>
+		<activity>SMM924 Foreign Exchange/Lecture 01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>LG002/3</room>
+		<lecturer>Marsh, Ian Prof. </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>JOM845F</modulecode>
-	<activity>JOM845 Online Journalism/Financel term 1</activity>
-	<desc>Group of 23</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35a</room>
-	<lecturer>Tinworth, Adam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13</week>
-	<modulecode>JOM845F</modulecode>
-	<activity>JOM845 Online Journalism/Financel term 1</activity>
-	<desc>Group of 23</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35a</room>
-	<lecturer>Tinworth, Adam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>18:50</end>
-	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>JOM845F</modulecode>
-	<activity>JOM845 Online Journalism/Financel term 2</activity>
-	<desc>Group of 23</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG24a</room>
-	<lecturer>Tinworth, Adam </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>JOM845F</modulecode>
+		<activity>JOM845 Online Journalism/Financel term 1</activity>
+		<desc>Group of 23</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35a</room>
+		<lecturer>Tinworth, Adam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13</week>
+		<modulecode>JOM845F</modulecode>
+		<activity>JOM845 Online Journalism/Financel term 1</activity>
+		<desc>Group of 23</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35a</room>
+		<lecturer>Tinworth, Adam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>18:50</end>
+		<week>03/02/14, 17/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>JOM845F</modulecode>
+		<activity>JOM845 Online Journalism/Financel term 2</activity>
+		<desc>Group of 23</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG24a</room>
+		<lecturer>Tinworth, Adam </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

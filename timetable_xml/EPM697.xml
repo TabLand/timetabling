@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>EPM697</modulecode>
-	<activity>EPM697 Research Skills/Lecture 1/2</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>214</studentnos>
-	<room>Poynton</room>
-	<lecturer>Kaparias, I </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>EPM697</modulecode>
+		<activity>EPM697 Research Skills/Lecture 1/2</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>214</studentnos>
+		<room>Poynton</room>
+		<lecturer>Kaparias, I </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

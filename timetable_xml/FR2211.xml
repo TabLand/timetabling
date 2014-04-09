@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>FR2211</modulecode>
-	<activity>FR2211 Derivatives Trading & Hedging/Lecture 1/01</activity>
-	<desc>Lecture</desc>
-	<joint> </joint>
-	<studentnos>119</studentnos>
-	<room>BG03</room>
-	<lecturer>Hayley, Simon </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>FR2211</modulecode>
+		<activity>FR2211 Derivatives Trading & Hedging/Lecture 1/01</activity>
+		<desc>Lecture</desc>
+		<joint>-</joint>
+		<studentnos>119</studentnos>
+		<room>BG03</room>
+		<lecturer>Hayley, Simon </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

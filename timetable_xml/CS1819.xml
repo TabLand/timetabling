@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1819</modulecode>
-	<activity>CS1819 Italian: Year 1 term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A112</room>
-	<lecturer>Di Felice, Veronica </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1819</modulecode>
-	<activity>CS1819 Italian - Year 1 term 2 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Di Felice, Veronica </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
-	<modulecode>CS1819</modulecode>
-	<activity>CS1819 Italian: Year 1 term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A112</room>
-	<lecturer>Di Felice, Veronica </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1819</modulecode>
+		<activity>CS1819 Italian: Year 1 term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A112</room>
+		<lecturer>Di Felice, Veronica </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1819</modulecode>
+		<activity>CS1819 Italian - Year 1 term 2 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Di Felice, Veronica </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+		<modulecode>CS1819</modulecode>
+		<activity>CS1819 Italian: Year 1 term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A112</room>
+		<lecturer>Di Felice, Veronica </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

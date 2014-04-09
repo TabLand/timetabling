@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>02/09/13</week>
-	<modulecode>RC3002</modulecode>
-	<activity>RC3002 Extended Literature Review/Lecture 1/1</activity>
-	<desc>BP yr2 only</desc>
-	<joint> </joint>
-	<studentnos>3</studentnos>
-	<room>D106</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>02/09/13</week>
+		<modulecode>RC3002</modulecode>
+		<activity>RC3002 Extended Literature Review/Lecture 1/1</activity>
+		<desc>BP yr2 only</desc>
+		<joint>-</joint>
+		<studentnos>3</studentnos>
+		<room>D106</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

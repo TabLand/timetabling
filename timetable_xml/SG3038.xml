@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG3038</modulecode>
-	<activity>SG3038 Youth, Crime and Society/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>DLG03</room>
-	<lecturer>Myers, Carrie-Anne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG3038</modulecode>
-	<activity>SG3038 Youth, Crime and Society/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D220</room>
-	<lecturer>Myers, Carrie-Anne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>SG3038</modulecode>
-	<activity>SG3038 Youth, Crime and Society/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D112</room>
-	<lecturer>Myers, Carrie-Anne </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG3038</modulecode>
+		<activity>SG3038 Youth, Crime and Society/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>DLG03</room>
+		<lecturer>Myers, Carrie-Anne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG3038</modulecode>
+		<activity>SG3038 Youth, Crime and Society/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D220</room>
+		<lecturer>Myers, Carrie-Anne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>SG3038</modulecode>
+		<activity>SG3038 Youth, Crime and Society/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D112</room>
+		<lecturer>Myers, Carrie-Anne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,52 +1,54 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1605</modulecode>
-	<activity>MA1605 Algebra/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>Birley</room>
-	<lecturer>He, Yang-Hui </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1605</modulecode>
-	<activity>MA1605 Algebra/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>A130</room>
-	<lecturer>He, Yang-Hui </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1605</modulecode>
-	<activity>MA1605 Algebra/Tutorial 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C150</room>
-	<lecturer>VL 04 - EMMATH </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1605</modulecode>
-	<activity>MA1605 Algebra/Tutorial 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C335</room>
-	<lecturer>VL 04 - EMMATH </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1605</modulecode>
+		<activity>MA1605 Algebra/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>Birley</room>
+		<lecturer>He, Yang-Hui </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1605</modulecode>
+		<activity>MA1605 Algebra/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>A130</room>
+		<lecturer>He, Yang-Hui </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1605</modulecode>
+		<activity>MA1605 Algebra/Tutorial 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C150</room>
+		<lecturer>VL 04 - EMMATH </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1605</modulecode>
+		<activity>MA1605 Algebra/Tutorial 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C335</room>
+		<lecturer>VL 04 - EMMATH </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

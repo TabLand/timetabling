@@ -1,13 +1,15 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM101</modulecode>
-	<activity>ECM101 Economics of Regulation/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D222</room>
-	<lecturer>Leinyuy, Jibirila </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM101</modulecode>
+		<activity>ECM101 Economics of Regulation/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D222</room>
+		<lecturer>Leinyuy, Jibirila </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

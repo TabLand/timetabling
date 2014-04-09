@@ -1,26 +1,28 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>09/06/14</week>
-	<modulecode>SMM591</modulecode>
-	<activity>SMM591 Commodity Derivatives & Trading/Lecture/wk 5</activity>
-	<desc>Week 5 only (to replace wk 6 missed)</desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>2004</room>
-	<lecturer>Tamvakis, Michael Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>12/05/14-09/06/14</week>
-	<modulecode>SMM591</modulecode>
-	<activity>SMM591 Commodity Derivatives & Trading/Lecture/wks 1-5</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>87</studentnos>
-	<room>2003</room>
-	<lecturer>Tamvakis, Michael Prof. </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>09/06/14</week>
+		<modulecode>SMM591</modulecode>
+		<activity>SMM591 Commodity Derivatives & Trading/Lecture/wk 5</activity>
+		<desc>Week 5 only (to replace wk 6 missed)</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>2004</room>
+		<lecturer>Tamvakis, Michael Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>12/05/14-09/06/14</week>
+		<modulecode>SMM591</modulecode>
+		<activity>SMM591 Commodity Derivatives & Trading/Lecture/wks 1-5</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>87</studentnos>
+		<room>2003</room>
+		<lecturer>Tamvakis, Michael Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

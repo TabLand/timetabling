@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>AE3268</modulecode>
-	<activity>AE3268 Human Resource Management/Lecture 1/02/JOINT</activity>
-	<desc>Behavioural Science. Joint with ET3051: total numbers 100</desc>
-	<joint>ME3100;AE3268;ET3051</joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>AE3268</modulecode>
+		<activity>AE3268 Human Resource Management/Lecture 1/02/JOINT</activity>
+		<desc>Behavioural Science. Joint with ET3051: total numbers 100</desc>
+		<joint>ME3100;AE3268;ET3051</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

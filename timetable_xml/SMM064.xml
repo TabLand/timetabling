@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM064</modulecode>
-	<activity>SMM064 Modelling (Ct4)/Lecture 01/02</activity>
-	<desc>(Ct4)/SPRING: FT/PT2</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>2004</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM064</modulecode>
-	<activity>SMM064 Modelling (Ct4)/Lecture 02/02</activity>
-	<desc>(Ct4)/SPRING: FT/PT2</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>2003</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM064</modulecode>
+		<activity>SMM064 Modelling (Ct4)/Lecture 01/02</activity>
+		<desc>(Ct4)/SPRING: FT/PT2</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>2004</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM064</modulecode>
+		<activity>SMM064 Modelling (Ct4)/Lecture 02/02</activity>
+		<desc>(Ct4)/SPRING: FT/PT2</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>2003</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

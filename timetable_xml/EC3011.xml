@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC3011</modulecode>
-	<activity>EC3011 Introduction to Financial Derivatives/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>DLG08</room>
-	<lecturer>Kapar, Burcu </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC3011</modulecode>
-	<activity>EC3011 Introduction to Financial Derivatives/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>D104</room>
-	<lecturer>Kapar, Burcu </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC3011</modulecode>
+		<activity>EC3011 Introduction to Financial Derivatives/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>DLG08</room>
+		<lecturer>Kapar, Burcu </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC3011</modulecode>
+		<activity>EC3011 Introduction to Financial Derivatives/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>D104</room>
+		<lecturer>Kapar, Burcu </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,78 +1,80 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-17/03/14, 31/03/14</week>
-	<modulecode>SMM313</modulecode>
-	<activity>SMM313 Numerical Methods 2 : Applications in Finance/Lecture 01/WKS 1-4, 6-8, 10</activity>
-	<desc>Joint QFFM/SMU Lecture : Weeks 1-4, 6-8 ,10 ONLY</desc>
-	<joint> </joint>
-	<studentnos>67</studentnos>
-	<room>G001</room>
-	<lecturer>Kyriakou, Ioannis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>SMM313</modulecode>
-	<activity>SMM313 Numerical Methods 2 : Applications in Finance/A/Computer Room 01/WK 5</activity>
-	<desc>QFFM/SMU: Stream A in Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>1001</room>
-	<lecturer>Kyriakou, Ioannis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/03/14</week>
-	<modulecode>SMM313</modulecode>
-	<activity>SMM313 Numerical Methods 2 : Applications in Finance/A/Computer Room 03/WK 9</activity>
-	<desc>QFFM/SMU: Stream A in Week 9 only</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>1001</room>
-	<lecturer>Kyriakou, Ioannis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>24/02/14</week>
-	<modulecode>SMM313</modulecode>
-	<activity>SMM313 Numerical Methods 2 : Applications in Finance/C/Computer Room 03/WK 5</activity>
-	<desc>QFFM/SMU: Stream C in Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>1001</room>
-	<lecturer>Kyriakou, Ioannis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>24/03/14</week>
-	<modulecode>SMM313</modulecode>
-	<activity>SMM313 Numerical Methods 2 : Applications in Finance/B& C/Computer Room 03/WK 9</activity>
-	<desc>QFFM/SMU: Streams B& C in Week 9 only</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>2001</room>
-	<lecturer>Kyriakou, Ioannis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>24/02/14</week>
-	<modulecode>SMM313</modulecode>
-	<activity>SMM313 Numerical Methods 2 : Applications in Finance/B/Computer Room 02/WK 5</activity>
-	<desc>QFFM/SMU: Stream B in Week 5 only</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>1001</room>
-	<lecturer>Kyriakou, Ioannis </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-17/03/14, 31/03/14</week>
+		<modulecode>SMM313</modulecode>
+		<activity>SMM313 Numerical Methods 2 : Applications in Finance/Lecture 01/WKS 1-4, 6-8, 10</activity>
+		<desc>Joint QFFM/SMU Lecture : Weeks 1-4, 6-8 ,10 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>67</studentnos>
+		<room>G001</room>
+		<lecturer>Kyriakou, Ioannis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>SMM313</modulecode>
+		<activity>SMM313 Numerical Methods 2 : Applications in Finance/A/Computer Room 01/WK 5</activity>
+		<desc>QFFM/SMU: Stream A in Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>1001</room>
+		<lecturer>Kyriakou, Ioannis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/03/14</week>
+		<modulecode>SMM313</modulecode>
+		<activity>SMM313 Numerical Methods 2 : Applications in Finance/A/Computer Room 03/WK 9</activity>
+		<desc>QFFM/SMU: Stream A in Week 9 only</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>1001</room>
+		<lecturer>Kyriakou, Ioannis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>24/02/14</week>
+		<modulecode>SMM313</modulecode>
+		<activity>SMM313 Numerical Methods 2 : Applications in Finance/C/Computer Room 03/WK 5</activity>
+		<desc>QFFM/SMU: Stream C in Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>1001</room>
+		<lecturer>Kyriakou, Ioannis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>24/03/14</week>
+		<modulecode>SMM313</modulecode>
+		<activity>SMM313 Numerical Methods 2 : Applications in Finance/B& C/Computer Room 03/WK 9</activity>
+		<desc>QFFM/SMU: Streams B& C in Week 9 only</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>2001</room>
+		<lecturer>Kyriakou, Ioannis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>24/02/14</week>
+		<modulecode>SMM313</modulecode>
+		<activity>SMM313 Numerical Methods 2 : Applications in Finance/B/Computer Room 02/WK 5</activity>
+		<desc>QFFM/SMU: Stream B in Week 5 only</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>1001</room>
+		<lecturer>Kyriakou, Ioannis </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

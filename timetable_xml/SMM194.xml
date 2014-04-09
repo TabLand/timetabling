@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM194</modulecode>
-	<activity>SMM194 Portfolio Risk Management/Lecture 1/01</activity>
-	<desc>REI Spring lecture</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2005</room>
-	<lecturer>Lee, Stephen </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/02/14-24/02/14</week>
-	<modulecode>SMM194</modulecode>
-	<activity>SMM194 Portfolio Risk Management/Computer Room 01/Week 4 & 5 only</activity>
-	<desc>LAB : WK 4 & 5 ONLY</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>2001</room>
-	<lecturer>Lee, Stephen </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM194</modulecode>
+		<activity>SMM194 Portfolio Risk Management/Lecture 1/01</activity>
+		<desc>REI Spring lecture</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2005</room>
+		<lecturer>Lee, Stephen </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/02/14-24/02/14</week>
+		<modulecode>SMM194</modulecode>
+		<activity>SMM194 Portfolio Risk Management/Computer Room 01/Week 4 & 5 only</activity>
+		<desc>LAB : WK 4 & 5 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>2001</room>
+		<lecturer>Lee, Stephen </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

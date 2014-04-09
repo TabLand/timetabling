@@ -1,39 +1,41 @@
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>14/10/13</week>
-	<modulecode>Databases MGT</modulecode>
-	<activity>SMMxxx Bloomberg/MGT/WK 3</activity>
-	<desc>MGT A & B : Autumn Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2004</room>
-	<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>Databases MGT</modulecode>
-	<activity>SMMxxx Thomson Reuters/MGT/WK 3</activity>
-	<desc>MGT A & B : Autumn Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2004</room>
-	<lecturer>Griffiths, Suzanne </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:10</start>
-	<end>15:00</end>
-	<week>23/09/13</week>
-	<modulecode>Databases MGT</modulecode>
-	<activity>SMMxxx Databases/MGT</activity>
-	<desc>MGT A & B</desc>
-	<joint>MSc Induction;Databases MGT</joint>
-	<studentnos>72</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>14/10/13</week>
+		<modulecode>Databases MGT</modulecode>
+		<activity>SMMxxx Bloomberg/MGT/WK 3</activity>
+		<desc>MGT A & B : Autumn Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2004</room>
+		<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>Databases MGT</modulecode>
+		<activity>SMMxxx Thomson Reuters/MGT/WK 3</activity>
+		<desc>MGT A & B : Autumn Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2004</room>
+		<lecturer>Griffiths, Suzanne </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:10</start>
+		<end>15:00</end>
+		<week>23/09/13</week>
+		<modulecode>Databases MGT</modulecode>
+		<activity>SMMxxx Databases/MGT</activity>
+		<desc>MGT A & B</desc>
+		<joint>MSc Induction;Databases MGT</joint>
+		<studentnos>72</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,117 +1,119 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-10/02/14, 10/03/14-31/03/14</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Tutorial 01/01</activity>
-	<desc>Lab (01/02 session ok to overlap with 01/01)</desc>
-	<joint>SLM006;SLM006</joint>
-	<studentnos>25</studentnos>
-	<room>B307A</room>
-	<lecturer>Hilari, Katerina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-03/02/14, 10/03/14-31/03/14</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Tutorial 01/02</activity>
-	<desc>Lab - 2nd room (01/02 session ok to overlap with 01/01)</desc>
-	<joint>SLM006;SLM006</joint>
-	<studentnos>20</studentnos>
-	<room>EG12</room>
-	<lecturer>Botting, Nikki </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/02/14-24/02/14</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Lecture 01/01 - wks 4&5</activity>
-	<desc>Research & Evidence-based Practice (1)</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>C304</room>
-	<lecturer>Hilari, Katerina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>10/02/14</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Tutorial 01/02</activity>
-	<desc>Lab - 2nd room (01/02 session ok to overlap with 01/01)</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG12</room>
-	<lecturer>Botting, Nikki </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>14/10/13, 11/11/13, 02/12/13</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Tutorial 01/01</activity>
-	<desc>Drop-in sessions wks 3, 7 & 10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>CG02</room>
-	<lecturer>Hilari, Katerina </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>10/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Tutorial 1/01</activity>
-	<desc>Research & Evidence-based Practice (1) - Drop-in Tutorials</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A218</room>
-	<lecturer>Hilari, Katerina </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Lecture 01/01</activity>
-	<desc>Autumn lecture - Some lectures will be N Botting</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>C304</room>
-	<lecturer>Hilari, Katerina;Botting, Nikki </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>09/12/13</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Lecture 01/04 - wk11</activity>
-	<desc>SA room in to addition to main LT - Nikki & Katerina</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C339</room>
-	<lecturer>Botting, Nikki </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>09/12/13</week>
-	<modulecode>SLM006</modulecode>
-	<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Lecture 01/03 - wk11</activity>
-	<desc>85 PG only test - double spaced</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Hilari, Katerina </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-10/02/14, 10/03/14-31/03/14</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Tutorial 01/01</activity>
+		<desc>Lab (01/02 session ok to overlap with 01/01)</desc>
+		<joint>SLM006;SLM006</joint>
+		<studentnos>25</studentnos>
+		<room>B307A</room>
+		<lecturer>Hilari, Katerina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-03/02/14, 10/03/14-31/03/14</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Tutorial 01/02</activity>
+		<desc>Lab - 2nd room (01/02 session ok to overlap with 01/01)</desc>
+		<joint>SLM006;SLM006</joint>
+		<studentnos>20</studentnos>
+		<room>EG12</room>
+		<lecturer>Botting, Nikki </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/02/14-24/02/14</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Lecture 01/01 - wks 4&5</activity>
+		<desc>Research & Evidence-based Practice (1)</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>C304</room>
+		<lecturer>Hilari, Katerina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>10/02/14</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Spring/Tutorial 01/02</activity>
+		<desc>Lab - 2nd room (01/02 session ok to overlap with 01/01)</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG12</room>
+		<lecturer>Botting, Nikki </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>14/10/13, 11/11/13, 02/12/13</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Tutorial 01/01</activity>
+		<desc>Drop-in sessions wks 3, 7 & 10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>CG02</room>
+		<lecturer>Hilari, Katerina </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>10/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Tutorial 1/01</activity>
+		<desc>Research & Evidence-based Practice (1) - Drop-in Tutorials</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A218</room>
+		<lecturer>Hilari, Katerina </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Lecture 01/01</activity>
+		<desc>Autumn lecture - Some lectures will be N Botting</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>C304</room>
+		<lecturer>Hilari, Katerina;Botting, Nikki </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>09/12/13</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Lecture 01/04 - wk11</activity>
+		<desc>SA room in to addition to main LT - Nikki & Katerina</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C339</room>
+		<lecturer>Botting, Nikki </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>09/12/13</week>
+		<modulecode>SLM006</modulecode>
+		<activity>SLM006 Research & Evidence-based Practice (1)/Autumn/Lecture 01/03 - wk11</activity>
+		<desc>85 PG only test - double spaced</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Hilari, Katerina </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

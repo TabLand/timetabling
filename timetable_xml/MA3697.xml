@@ -1,325 +1,327 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 2/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Kessar, R Prof </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 14/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C140</room>
-	<lecturer>Stefanski, B </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 7/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A226</room>
-	<lecturer>De Martino, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14, 31/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 5/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D109</room>
-	<lecturer>Chuang, J </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 12/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Linckelmann, M Prof </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 4/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C312</room>
-	<lecturer>Caudrelier, V </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 8/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D106</room>
-	<lecturer>Fring, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 11/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D108</room>
-	<lecturer>Silvers, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 15/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>He, Yang-Hui </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 5/02/25th March</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Chuang, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 1/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C339</room>
-	<lecturer>Alvarez, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 19/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D109</room>
-	<lecturer>Favier, B </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 10/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>I106</room>
-	<lecturer>Kerr, O S </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 20/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C330</room>
-	<lecturer>Kandler, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 20/02/1st April</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C357</room>
-	<lecturer>Kandler, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 9/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D108</room>
-	<lecturer>He, Yang-Hui </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 6/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>Cox, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 16/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C312</room>
-	<lecturer>Broom, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 11/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>I203/I206</room>
-	<lecturer>Silvers, L </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 13/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C312</room>
-	<lecturer>Stefanski, B </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 3/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C135</room>
-	<lecturer>Castro Alvaredo, O </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 1/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C339</room>
-	<lecturer>Alvarez, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 18/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Baronchelli, A </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 19/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>Favier, B </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA3697</modulecode>
-	<activity>MA3697 Group Project/Tutorial 17/02</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>Broom, M </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 2/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Kessar, R Prof </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 14/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C140</room>
+		<lecturer>Stefanski, B </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 7/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A226</room>
+		<lecturer>De Martino, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14, 31/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 5/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D109</room>
+		<lecturer>Chuang, J </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 12/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Linckelmann, M Prof </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 4/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C312</room>
+		<lecturer>Caudrelier, V </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 8/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D106</room>
+		<lecturer>Fring, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 11/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D108</room>
+		<lecturer>Silvers, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 15/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>He, Yang-Hui </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 5/02/25th March</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Chuang, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 1/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C339</room>
+		<lecturer>Alvarez, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 19/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D109</room>
+		<lecturer>Favier, B </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 10/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>I106</room>
+		<lecturer>Kerr, O S </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 20/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C330</room>
+		<lecturer>Kandler, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 20/02/1st April</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C357</room>
+		<lecturer>Kandler, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 9/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D108</room>
+		<lecturer>He, Yang-Hui </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 6/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>Cox, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 16/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C312</room>
+		<lecturer>Broom, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 11/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>I203/I206</room>
+		<lecturer>Silvers, L </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 13/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C312</room>
+		<lecturer>Stefanski, B </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 3/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C135</room>
+		<lecturer>Castro Alvaredo, O </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 1/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C339</room>
+		<lecturer>Alvarez, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 18/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Baronchelli, A </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 19/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>Favier, B </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA3697</modulecode>
+		<activity>MA3697 Group Project/Tutorial 17/02</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>Broom, M </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

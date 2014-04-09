@@ -1,39 +1,41 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 02/12/13</week>
-	<modulecode>JOM935</modulecode>
-	<activity>JOM935 Storytelling 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>AG21</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>18/11/13</week>
-	<modulecode>JOM935</modulecode>
-	<activity>JOM935 Storytelling 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>AG07</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>20/01/14, 03/02/14, 24/02/14-03/03/14, 17/03/14</week>
-	<modulecode>JOM935</modulecode>
-	<activity>JOM935 Storytelling 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 02/12/13</week>
+		<modulecode>JOM935</modulecode>
+		<activity>JOM935 Storytelling 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>AG21</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>18/11/13</week>
+		<modulecode>JOM935</modulecode>
+		<activity>JOM935 Storytelling 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>AG07</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>20/01/14, 03/02/14, 24/02/14-03/03/14, 17/03/14</week>
+		<modulecode>JOM935</modulecode>
+		<activity>JOM935 Storytelling 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

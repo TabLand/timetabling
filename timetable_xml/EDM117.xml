@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>09/06/14</week>
-	<modulecode>EDM117</modulecode>
-	<activity>EDM117 Mentoring/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>No room needed</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>15:50</end>
-	<week>09/06/14</week>
-	<modulecode>EDM117</modulecode>
-	<activity>EDM117 Mentoring/04</activity>
-	<desc>LG01b</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>No room needed</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>21/04/14</week>
-	<modulecode>EDM117</modulecode>
-	<activity>EDM117 Mentoring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>No room needed</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>21/04/14</week>
-	<modulecode>EDM117</modulecode>
-	<activity>EDM117 Mentoring/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>No room needed</room>
-	<lecturer>Baughan, Patrick </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>09/06/14</week>
+		<modulecode>EDM117</modulecode>
+		<activity>EDM117 Mentoring/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>No room needed</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>15:50</end>
+		<week>09/06/14</week>
+		<modulecode>EDM117</modulecode>
+		<activity>EDM117 Mentoring/04</activity>
+		<desc>LG01b</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>No room needed</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>21/04/14</week>
+		<modulecode>EDM117</modulecode>
+		<activity>EDM117 Mentoring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>No room needed</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>21/04/14</week>
+		<modulecode>EDM117</modulecode>
+		<activity>EDM117 Mentoring/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>No room needed</room>
+		<lecturer>Baughan, Patrick </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>19/05/14-26/05/14, 09/06/14-23/06/14</week>
-	<modulecode>SMM233 Evening</modulecode>
-	<activity>SMM233 Mergers & Acquisitions/Lecture/Stream 02/03 (Evening)/wks 2-3,5-7</activity>
-	<desc>Stream 02 (Evening) : Weeks 2-3, 5-7</desc>
-	<joint> </joint>
-	<studentnos>135</studentnos>
-	<room>LG001</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>21:00</end>
-	<week>02/06/14</week>
-	<modulecode>SMM233 Evening</modulecode>
-	<activity>SMM233 Mergers & Acquisitions/Lecture/Stream 02/03 (Evening)/NSQ/wk 4</activity>
-	<desc>Stream 02 (Evening) : Week 4 only : Northampton Square Site : Centenary Building : Room Oakden</desc>
-	<joint> </joint>
-	<studentnos>135</studentnos>
-	<room>Oakden</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>19/05/14-26/05/14, 09/06/14-23/06/14</week>
+		<modulecode>SMM233 Evening</modulecode>
+		<activity>SMM233 Mergers & Acquisitions/Lecture/Stream 02/03 (Evening)/wks 2-3,5-7</activity>
+		<desc>Stream 02 (Evening) : Weeks 2-3, 5-7</desc>
+		<joint>-</joint>
+		<studentnos>135</studentnos>
+		<room>LG001</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>21:00</end>
+		<week>02/06/14</week>
+		<modulecode>SMM233 Evening</modulecode>
+		<activity>SMM233 Mergers & Acquisitions/Lecture/Stream 02/03 (Evening)/NSQ/wk 4</activity>
+		<desc>Stream 02 (Evening) : Week 4 only : Northampton Square Site : Centenary Building : Room Oakden</desc>
+		<joint>-</joint>
+		<studentnos>135</studentnos>
+		<room>Oakden</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

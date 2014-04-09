@@ -1,104 +1,106 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>04/11/13</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 2: Strategy Project/A&B/Lecture</activity>
-	<desc>FTMBA 2013 Block 2: Strategy Project A&B</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>04/11/13</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 2: Strategy Project/A&B/Lecture</activity>
-	<desc>FTMBA 2013 Block 2: Strategy Project A&B</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>25/11/13</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 2: Strategy Project/A&B/Lecture</activity>
-	<desc>FTMBA 2013 Block 2: Strategy Project A&B</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:00</end>
-	<week>17/03/14-24/03/14</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 4: Strategy Project/A&B/Practice presentations/Workshop 01-02</activity>
-	<desc>FTMBA Block 4 : Strategy Project: Practice presentations</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>3002</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>04/11/13</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 1: Strategy Project/B2/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 1: Strategy Project B session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2004</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>25/11/13</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 2: Strategy Project/B2/Lecture 02</activity>
-	<desc>FTMBA 2013 Block 2: Strategy Project B session 2</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2006</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>04/11/13</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 1: Strategy Project/A2/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 1: Strategy Project A session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2006</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>25/11/13</week>
-	<modulecode>MBM536 FTMBA</modulecode>
-	<activity>MBM536 Mba Block 2: Strategy Project/A2/Lecture 02</activity>
-	<desc>FTMBA 2013 Block 2: Strategy Project A session 2</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2006</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>04/11/13</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 2: Strategy Project/A&B/Lecture</activity>
+		<desc>FTMBA 2013 Block 2: Strategy Project A&B</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>04/11/13</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 2: Strategy Project/A&B/Lecture</activity>
+		<desc>FTMBA 2013 Block 2: Strategy Project A&B</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>25/11/13</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 2: Strategy Project/A&B/Lecture</activity>
+		<desc>FTMBA 2013 Block 2: Strategy Project A&B</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:00</end>
+		<week>17/03/14-24/03/14</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 4: Strategy Project/A&B/Practice presentations/Workshop 01-02</activity>
+		<desc>FTMBA Block 4 : Strategy Project: Practice presentations</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>3002</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>04/11/13</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 1: Strategy Project/B2/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 1: Strategy Project B session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2004</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>25/11/13</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 2: Strategy Project/B2/Lecture 02</activity>
+		<desc>FTMBA 2013 Block 2: Strategy Project B session 2</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2006</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>04/11/13</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 1: Strategy Project/A2/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 1: Strategy Project A session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2006</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>25/11/13</week>
+		<modulecode>MBM536 FTMBA</modulecode>
+		<activity>MBM536 Mba Block 2: Strategy Project/A2/Lecture 02</activity>
+		<desc>FTMBA 2013 Block 2: Strategy Project A session 2</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2006</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

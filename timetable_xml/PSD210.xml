@@ -1,78 +1,80 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>13/01/14-20/01/14</week>
-	<modulecode>PSD210</modulecode>
-	<activity>PSD210 Elective Theory Advances/Tutorial 01/WKS 1&2</activity>
-	<desc>Weeks 1&2 (Different location)</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>D108</room>
-	<lecturer>Petter, Soren </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>13/01/14-10/02/14, 24/02/14-17/03/14</week>
-	<modulecode>PSD210</modulecode>
-	<activity>PSD210 Elective Theory Advances/Tutorial 03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>D109</room>
-	<lecturer>Filippopoulos, Pavlos </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>13/01/14-10/02/14, 24/02/14-17/03/14</week>
-	<modulecode>PSD210</modulecode>
-	<activity>PSD210 Elective Theory Advances/Tutorial 02</activity>
-	<desc>Weeks 1-5 & 7-10</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Raspin, Courtney </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-10/02/14, 24/02/14-17/03/14</week>
-	<modulecode>PSD210</modulecode>
-	<activity>PSD210 Elective Theory Advances/Tutorial 01/WKS 3-5&710</activity>
-	<desc>Weeks 3-5 & 710</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>D113</room>
-	<lecturer>Petter, Soren </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>17/02/14</week>
-	<modulecode>PSD210</modulecode>
-	<activity>PSD210 Elective Theory Advances/Tutorial 02&03/WK 6/Feb 21st</activity>
-	<desc>Week 6: Groups combined, different location</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>CG04</room>
-	<lecturer>Raspin, Courtney </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>17/02/14</week>
-	<modulecode>PSD210</modulecode>
-	<activity>PSD210 Elective Theory Advances/Tutorial 01&03/WK 6/Feb 21st</activity>
-	<desc>Week 6: Groups combined, different location</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>CG02</room>
-	<lecturer>Petter, Soren </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>13/01/14-20/01/14</week>
+		<modulecode>PSD210</modulecode>
+		<activity>PSD210 Elective Theory Advances/Tutorial 01/WKS 1&2</activity>
+		<desc>Weeks 1&2 (Different location)</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>D108</room>
+		<lecturer>Petter, Soren </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>13/01/14-10/02/14, 24/02/14-17/03/14</week>
+		<modulecode>PSD210</modulecode>
+		<activity>PSD210 Elective Theory Advances/Tutorial 03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>D109</room>
+		<lecturer>Filippopoulos, Pavlos </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>13/01/14-10/02/14, 24/02/14-17/03/14</week>
+		<modulecode>PSD210</modulecode>
+		<activity>PSD210 Elective Theory Advances/Tutorial 02</activity>
+		<desc>Weeks 1-5 & 7-10</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Raspin, Courtney </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-10/02/14, 24/02/14-17/03/14</week>
+		<modulecode>PSD210</modulecode>
+		<activity>PSD210 Elective Theory Advances/Tutorial 01/WKS 3-5&710</activity>
+		<desc>Weeks 3-5 & 710</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>D113</room>
+		<lecturer>Petter, Soren </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>17/02/14</week>
+		<modulecode>PSD210</modulecode>
+		<activity>PSD210 Elective Theory Advances/Tutorial 02&03/WK 6/Feb 21st</activity>
+		<desc>Week 6: Groups combined, different location</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>CG04</room>
+		<lecturer>Raspin, Courtney </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>17/02/14</week>
+		<modulecode>PSD210</modulecode>
+		<activity>PSD210 Elective Theory Advances/Tutorial 01&03/WK 6/Feb 21st</activity>
+		<desc>Week 6: Groups combined, different location</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>CG02</room>
+		<lecturer>Petter, Soren </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

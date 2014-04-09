@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>04/11/13-25/11/13</week>
-	<modulecode>MBM407 bus econ (B)</modulecode>
-	<activity>MBM407 Mba Block 2: Business Economics/B1/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 2 - Business Economics B session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2004</room>
-	<lecturer>Batchelor, Roy;Marsh, Ian Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>MBM407 bus econ (B)</modulecode>
-	<activity>MBM407 Mba Block 2: Business Economics/B1/Lecture revision (joint)</activity>
-	<desc>(Joint) - Business Economics Revision</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>04/11/13, 25/11/13</week>
-	<modulecode>MBM407 bus econ (B)</modulecode>
-	<activity>MBM407 Mba Block 2: Business Economics/B2/Lecture 02/wks 7,10</activity>
-	<desc>FTMBA 2013 Block 2 - Business Economics B session 2: Weeks 7&10</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2002</room>
-	<lecturer>Marsh, Ian Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>11/11/13-18/11/13</week>
-	<modulecode>MBM407 bus econ (B)</modulecode>
-	<activity>MBM407 Mba Block 2: Business Economics/B2/Lecture 02/wks 8,9</activity>
-	<desc>FTMBA 2013 Block 2 - Business Economics B session 2: Weeks 8, 9</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2002</room>
-	<lecturer>Batchelor, Roy </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>04/11/13-25/11/13</week>
+		<modulecode>MBM407 bus econ (B)</modulecode>
+		<activity>MBM407 Mba Block 2: Business Economics/B1/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 2 - Business Economics B session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2004</room>
+		<lecturer>Batchelor, Roy;Marsh, Ian Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>MBM407 bus econ (B)</modulecode>
+		<activity>MBM407 Mba Block 2: Business Economics/B1/Lecture revision (joint)</activity>
+		<desc>(Joint) - Business Economics Revision</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>04/11/13, 25/11/13</week>
+		<modulecode>MBM407 bus econ (B)</modulecode>
+		<activity>MBM407 Mba Block 2: Business Economics/B2/Lecture 02/wks 7,10</activity>
+		<desc>FTMBA 2013 Block 2 - Business Economics B session 2: Weeks 7&10</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2002</room>
+		<lecturer>Marsh, Ian Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>11/11/13-18/11/13</week>
+		<modulecode>MBM407 bus econ (B)</modulecode>
+		<activity>MBM407 Mba Block 2: Business Economics/B2/Lecture 02/wks 8,9</activity>
+		<desc>FTMBA 2013 Block 2 - Business Economics B session 2: Weeks 8, 9</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2002</room>
+		<lecturer>Batchelor, Roy </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

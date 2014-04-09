@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-11/11/13, 25/11/13-09/12/13</week>
-	<modulecode>CS1545</modulecode>
-	<activity>CS1545 Digital Illustration with Adobe Illustrator term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG12</room>
-	<lecturer>Pummell, Helen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1545</modulecode>
-	<activity>CS1545 Adobe Illustrator term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG13</room>
-	<lecturer>Pummell, Helen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1545</modulecode>
-	<activity>CS1545 Digital Illustration with Adobe Illustrator term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG12</room>
-	<lecturer>Pummell, Helen </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-11/11/13, 25/11/13-09/12/13</week>
+		<modulecode>CS1545</modulecode>
+		<activity>CS1545 Digital Illustration with Adobe Illustrator term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG12</room>
+		<lecturer>Pummell, Helen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1545</modulecode>
+		<activity>CS1545 Adobe Illustrator term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG13</room>
+		<lecturer>Pummell, Helen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1545</modulecode>
+		<activity>CS1545 Digital Illustration with Adobe Illustrator term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG12</room>
+		<lecturer>Pummell, Helen </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

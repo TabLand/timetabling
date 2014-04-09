@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>09/12/13</week>
-	<modulecode>SMM711</modulecode>
-	<activity>SMM711 Energy Economics/Lecture/WK 11</activity>
-	<desc>EE Lecture - ETF only : Week 11 only (replacement for wk 8 missed)</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2006</room>
-	<lecturer>Tamvakis, Michael Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13-28/10/13, 11/11/13, 25/11/13-09/12/13</week>
-	<modulecode>SMM711</modulecode>
-	<activity>SMM711 Energy Economics/Lecture/WKS 1-5, 7, 9-11</activity>
-	<desc>EE Lecture - ETF only : Weeks 1-5, 7, 9-11</desc>
-	<joint>SMM711;SMM554</joint>
-	<studentnos>60</studentnos>
-	<room>2006</room>
-	<lecturer>Tamvakis, Michael Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>09/12/13</week>
+		<modulecode>SMM711</modulecode>
+		<activity>SMM711 Energy Economics/Lecture/WK 11</activity>
+		<desc>EE Lecture - ETF only : Week 11 only (replacement for wk 8 missed)</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2006</room>
+		<lecturer>Tamvakis, Michael Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13-28/10/13, 11/11/13, 25/11/13-09/12/13</week>
+		<modulecode>SMM711</modulecode>
+		<activity>SMM711 Energy Economics/Lecture/WKS 1-5, 7, 9-11</activity>
+		<desc>EE Lecture - ETF only : Weeks 1-5, 7, 9-11</desc>
+		<joint>SMM711;SMM554</joint>
+		<studentnos>60</studentnos>
+		<room>2006</room>
+		<lecturer>Tamvakis, Michael Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

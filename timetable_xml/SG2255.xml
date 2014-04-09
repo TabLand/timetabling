@@ -1,52 +1,54 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2255</modulecode>
-	<activity>SG2255 Sociology of Punishment/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>61</studentnos>
-	<room>B104</room>
-	<lecturer>Birkett, Gemma </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2255</modulecode>
-	<activity>SG2255 Sociology of Punishment/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D221</room>
-	<lecturer>Birkett, Gemma </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2255</modulecode>
-	<activity>SG2255 Sociology of Punishment/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG09</room>
-	<lecturer>Birkett, Gemma </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2255</modulecode>
-	<activity>SG2255 Sociology of Punishment/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG09</room>
-	<lecturer>Birkett, Gemma </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2255</modulecode>
+		<activity>SG2255 Sociology of Punishment/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>61</studentnos>
+		<room>B104</room>
+		<lecturer>Birkett, Gemma </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2255</modulecode>
+		<activity>SG2255 Sociology of Punishment/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D221</room>
+		<lecturer>Birkett, Gemma </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2255</modulecode>
+		<activity>SG2255 Sociology of Punishment/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG09</room>
+		<lecturer>Birkett, Gemma </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2255</modulecode>
+		<activity>SG2255 Sociology of Punishment/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG09</room>
+		<lecturer>Birkett, Gemma </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

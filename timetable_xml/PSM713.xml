@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>03/02/14</week>
-	<modulecode>PSM713</modulecode>
-	<activity>PSM713 Cognitive and Behavioural Approaches to Counselling Psychology/Lecture 01/WK 4</activity>
-	<desc>Week4: Earlier Start</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>DLG19</room>
-	<lecturer>Gale, Nicola </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>13/01/14-20/01/14</week>
-	<modulecode>PSM713</modulecode>
-	<activity>PSM713 Cognitive and Behavioural Approaches to Counselling Psychology/Lecture 01/WKS1&2</activity>
-	<desc>Weeks 1&2</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>E212</room>
-	<lecturer>Gale, Nicola </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14, 10/02/14-17/03/14</week>
-	<modulecode>PSM713</modulecode>
-	<activity>PSM713 Cognitive and Behavioural Approaches to Counselling Psychology/Lecture 01/WKS 3&5-10</activity>
-	<desc>Weeks 3 & 5-10</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>DLG19</room>
-	<lecturer>Gale, Nicola </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>03/02/14</week>
+		<modulecode>PSM713</modulecode>
+		<activity>PSM713 Cognitive and Behavioural Approaches to Counselling Psychology/Lecture 01/WK 4</activity>
+		<desc>Week4: Earlier Start</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>DLG19</room>
+		<lecturer>Gale, Nicola </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>13/01/14-20/01/14</week>
+		<modulecode>PSM713</modulecode>
+		<activity>PSM713 Cognitive and Behavioural Approaches to Counselling Psychology/Lecture 01/WKS1&2</activity>
+		<desc>Weeks 1&2</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>E212</room>
+		<lecturer>Gale, Nicola </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14, 10/02/14-17/03/14</week>
+		<modulecode>PSM713</modulecode>
+		<activity>PSM713 Cognitive and Behavioural Approaches to Counselling Psychology/Lecture 01/WKS 3&5-10</activity>
+		<desc>Weeks 3 & 5-10</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>DLG19</room>
+		<lecturer>Gale, Nicola </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,65 +1,67 @@
-<booking>
-	<start>17:30</start>
-	<end>20:00</end>
-	<week>06/01/14</week>
-	<modulecode>SMM802</modulecode>
-	<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 01/08</activity>
-	<desc>Extra lecture</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>Palmer, Paul Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>06/01/14</week>
-	<modulecode>SMM802</modulecode>
-	<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 02/08</activity>
-	<desc>(core module shared across all Charity Programmes)</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>3002</room>
-	<lecturer>Palmer, Paul Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>03/02/14</week>
-	<modulecode>SMM802</modulecode>
-	<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 04/08</activity>
-	<desc>(core module shared across all Charity Programmes)</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>3002</room>
-	<lecturer>Palmer, Paul Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>03/03/14</week>
-	<modulecode>SMM802</modulecode>
-	<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 08/08</activity>
-	<desc>(core module shared across all Charity Programmes)</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>3002</room>
-	<lecturer>Palmer, Paul Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>18:30</end>
-	<week>31/03/14</week>
-	<modulecode>SMM802</modulecode>
-	<activity>SMM802 Resource Management In The Voluntary Sector/EXAM/main room</activity>
-	<desc>(core module all Charity degrees) 80 students</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>LG002/3</room>
-	<lecturer>Palmer, Paul Prof. </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>17:30</start>
+		<end>20:00</end>
+		<week>06/01/14</week>
+		<modulecode>SMM802</modulecode>
+		<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 01/08</activity>
+		<desc>Extra lecture</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>Palmer, Paul Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>06/01/14</week>
+		<modulecode>SMM802</modulecode>
+		<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 02/08</activity>
+		<desc>(core module shared across all Charity Programmes)</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>3002</room>
+		<lecturer>Palmer, Paul Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>03/02/14</week>
+		<modulecode>SMM802</modulecode>
+		<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 04/08</activity>
+		<desc>(core module shared across all Charity Programmes)</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>3002</room>
+		<lecturer>Palmer, Paul Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>03/03/14</week>
+		<modulecode>SMM802</modulecode>
+		<activity>SMM802 Resource Management In The Voluntary Sector/Lecture 08/08</activity>
+		<desc>(core module shared across all Charity Programmes)</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>3002</room>
+		<lecturer>Palmer, Paul Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>18:30</end>
+		<week>31/03/14</week>
+		<modulecode>SMM802</modulecode>
+		<activity>SMM802 Resource Management In The Voluntary Sector/EXAM/main room</activity>
+		<desc>(core module all Charity degrees) 80 students</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>LG002/3</room>
+		<lecturer>Palmer, Paul Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

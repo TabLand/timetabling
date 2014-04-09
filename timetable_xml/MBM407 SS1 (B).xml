@@ -1,26 +1,28 @@
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>25/11/13</week>
-	<modulecode>MBM407 SS1 (B)</modulecode>
-	<activity>MBM407 Mba Block 2: Strategy Skills 1/B/Lecture 01</activity>
-	<desc>FTMBA 2013 - Block 2: Strategy Skills 1 B</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2002</room>
-	<lecturer>Verity, Julie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>18/11/13</week>
-	<modulecode>MBM407 SS1 (B)</modulecode>
-	<activity>MBM407 Mba Block 2: Strategy Skills 1/B1/Lecture 01</activity>
-	<desc>FTMBA 2013 - Block 2: Strategy Skills 1 B</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2006</room>
-	<lecturer>Verity, Julie </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>25/11/13</week>
+		<modulecode>MBM407 SS1 (B)</modulecode>
+		<activity>MBM407 Mba Block 2: Strategy Skills 1/B/Lecture 01</activity>
+		<desc>FTMBA 2013 - Block 2: Strategy Skills 1 B</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2002</room>
+		<lecturer>Verity, Julie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>18/11/13</week>
+		<modulecode>MBM407 SS1 (B)</modulecode>
+		<activity>MBM407 Mba Block 2: Strategy Skills 1/B1/Lecture 01</activity>
+		<desc>FTMBA 2013 - Block 2: Strategy Skills 1 B</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2006</room>
+		<lecturer>Verity, Julie </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

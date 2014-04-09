@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>07/10/13, 21/10/13, 04/11/13</week>
-	<modulecode>SMM522 BIF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/A/BIF/Computer Lab 01/02/WKS 2,4,6</activity>
-	<desc>RPMS: BIF Stream A: Weeks 2,4,6</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>10/02/14</week>
-	<modulecode>SMM522 BIF</modulecode>
-	<activity>SMM522 Research Project Management Skills/BIF/Lecture/WK 3</activity>
-	<desc>RPMS: BIF : Spring : Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>2003</room>
-	<lecturer>Casu Lukac, Barbara </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>07/10/13, 21/10/13, 04/11/13</week>
-	<modulecode>SMM522 BIF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/B/BIF/Computer Lab 02/02/WKS 2,4,6</activity>
-	<desc>RPMS: BIF Stream B: Weeks 2,4,6</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>1001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>07/10/13, 21/10/13, 04/11/13</week>
+		<modulecode>SMM522 BIF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/A/BIF/Computer Lab 01/02/WKS 2,4,6</activity>
+		<desc>RPMS: BIF Stream A: Weeks 2,4,6</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>10/02/14</week>
+		<modulecode>SMM522 BIF</modulecode>
+		<activity>SMM522 Research Project Management Skills/BIF/Lecture/WK 3</activity>
+		<desc>RPMS: BIF : Spring : Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>2003</room>
+		<lecturer>Casu Lukac, Barbara </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>07/10/13, 21/10/13, 04/11/13</week>
+		<modulecode>SMM522 BIF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/B/BIF/Computer Lab 02/02/WKS 2,4,6</activity>
+		<desc>RPMS: BIF Stream B: Weeks 2,4,6</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>1001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

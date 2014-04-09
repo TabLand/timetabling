@@ -1,65 +1,67 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14</week>
-	<modulecode>BS3205</modulecode>
-	<activity>BS3205 European Business Seminar/Lecture/wk 1</activity>
-	<desc>Spring Lecture: week 1 only</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>AG22</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/03/14-17/03/14</week>
-	<modulecode>BS3205</modulecode>
-	<activity>BS3205 European Business Seminar/Lecture/wks 7-8</activity>
-	<desc>Spring Lecture: weeks 7-8</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>C304</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/02/14-03/03/14, 24/03/14-07/04/14</week>
-	<modulecode>BS3205</modulecode>
-	<activity>BS3205 European Business Seminar/Lecture/wks 2-6,9-11</activity>
-	<desc>Spring Lecture: Weeks 2-6, 9-11</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>C338</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/03/14-17/03/14</week>
-	<modulecode>BS3205</modulecode>
-	<activity>BS3205 European Business Seminar/Lecture/Presentations/wks 7-8</activity>
-	<desc>Student Presentations : Weeks 7-8</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>C304</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>17/02/14-03/03/14, 24/03/14-07/04/14</week>
-	<modulecode>BS3205</modulecode>
-	<activity>BS3205 European Business Seminar/Lecture/Presentations/wks 4-6, 9-11</activity>
-	<desc>Student Presentations : Weeks 4-6, 9-11</desc>
-	<joint> </joint>
-	<studentnos>74</studentnos>
-	<room>C338</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14</week>
+		<modulecode>BS3205</modulecode>
+		<activity>BS3205 European Business Seminar/Lecture/wk 1</activity>
+		<desc>Spring Lecture: week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>AG22</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/03/14-17/03/14</week>
+		<modulecode>BS3205</modulecode>
+		<activity>BS3205 European Business Seminar/Lecture/wks 7-8</activity>
+		<desc>Spring Lecture: weeks 7-8</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>C304</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/02/14-03/03/14, 24/03/14-07/04/14</week>
+		<modulecode>BS3205</modulecode>
+		<activity>BS3205 European Business Seminar/Lecture/wks 2-6,9-11</activity>
+		<desc>Spring Lecture: Weeks 2-6, 9-11</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>C338</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/03/14-17/03/14</week>
+		<modulecode>BS3205</modulecode>
+		<activity>BS3205 European Business Seminar/Lecture/Presentations/wks 7-8</activity>
+		<desc>Student Presentations : Weeks 7-8</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>C304</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>17/02/14-03/03/14, 24/03/14-07/04/14</week>
+		<modulecode>BS3205</modulecode>
+		<activity>BS3205 European Business Seminar/Lecture/Presentations/wks 4-6, 9-11</activity>
+		<desc>Student Presentations : Weeks 4-6, 9-11</desc>
+		<joint>-</joint>
+		<studentnos>74</studentnos>
+		<room>C338</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

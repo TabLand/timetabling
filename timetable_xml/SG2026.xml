@@ -1,143 +1,145 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-10/02/14, 10/03/14-31/03/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>92</studentnos>
-	<room>AG21</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>17/02/14-24/02/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Lecture 01/Wks 4&5</activity>
-	<desc>Weeks 4 & 5: Different Location</desc>
-	<joint> </joint>
-	<studentnos>92</studentnos>
-	<room>AG07</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>07/04/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Lecture 01/Apr 11th</activity>
-	<desc>Week 11: 2 hour lecture, no labs</desc>
-	<joint> </joint>
-	<studentnos>89</studentnos>
-	<room>AG22</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/03</activity>
-	<desc>Group 3 - Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/02</activity>
-	<desc>Group 2 - Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D220</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>10/03/14-31/03/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/03</activity>
-	<desc>Group 3 - Weeks 7-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24a</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>10/03/14-31/03/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/02</activity>
-	<desc>Group 2 - Weeks 7-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>B307A</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/04</activity>
-	<desc>Group 4 - Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/01</activity>
-	<desc>Group 1 - Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D220</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>10/03/14-31/03/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/04</activity>
-	<desc>Group 4 - Weeks 7-1</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24a</room>
-	<lecturer>Hadjigeorgiou, Demetris </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>10/03/14-31/03/14</week>
-	<modulecode>SG2026</modulecode>
-	<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/01</activity>
-	<desc>Group 1 - Weeks 7-10</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>B307A</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-10/02/14, 10/03/14-31/03/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>92</studentnos>
+		<room>AG21</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>17/02/14-24/02/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Lecture 01/Wks 4&5</activity>
+		<desc>Weeks 4 & 5: Different Location</desc>
+		<joint>-</joint>
+		<studentnos>92</studentnos>
+		<room>AG07</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>07/04/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Lecture 01/Apr 11th</activity>
+		<desc>Week 11: 2 hour lecture, no labs</desc>
+		<joint>-</joint>
+		<studentnos>89</studentnos>
+		<room>AG22</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/03</activity>
+		<desc>Group 3 - Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/02</activity>
+		<desc>Group 2 - Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D220</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>10/03/14-31/03/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/03</activity>
+		<desc>Group 3 - Weeks 7-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24a</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>10/03/14-31/03/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/02</activity>
+		<desc>Group 2 - Weeks 7-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>B307A</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/04</activity>
+		<desc>Group 4 - Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Tutorial 01/01</activity>
+		<desc>Group 1 - Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D220</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>10/03/14-31/03/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/04</activity>
+		<desc>Group 4 - Weeks 7-1</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24a</room>
+		<lecturer>Hadjigeorgiou, Demetris </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>10/03/14-31/03/14</week>
+		<modulecode>SG2026</modulecode>
+		<activity>SG2026 Doing Sociology: Quantitative Methods/Lab 01/01</activity>
+		<desc>Group 1 - Weeks 7-10</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>B307A</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

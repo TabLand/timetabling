@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM950 FI WM</modulecode>
-	<activity>SMM950 Portfolio Management (MSc FI/Lecture 01</activity>
-	<desc>FI Core Year 2 - Autumn</desc>
-	<joint> </joint>
-	<studentnos>31</studentnos>
-	<room>2005</room>
-	<lecturer>Clare, Andrew </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM950 FI WM</modulecode>
+		<activity>SMM950 Portfolio Management (MSc FI/Lecture 01</activity>
+		<desc>FI Core Year 2 - Autumn</desc>
+		<joint>-</joint>
+		<studentnos>31</studentnos>
+		<room>2005</room>
+		<lecturer>Clare, Andrew </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

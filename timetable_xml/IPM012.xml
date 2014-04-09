@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IPM012</modulecode>
-	<activity>IPM012 Political Economy of Global Finance/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>DLG02</room>
-	<lecturer>Nesvetailova, Anastasia </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IPM012</modulecode>
+		<activity>IPM012 Political Economy of Global Finance/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>DLG02</room>
+		<lecturer>Nesvetailova, Anastasia </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

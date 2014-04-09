@@ -1,104 +1,106 @@
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>Geary</room>
-	<lecturer>Karamanidou, Lena </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Wilson, Neil </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG02</room>
-	<lecturer>Karamanidou, Lena </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Tutorial 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Wilson, Neil </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG02</room>
-	<lecturer>Karamanidou, Lena </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Tutorial 01/05</activity>
-	<desc>Smaller group</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D113</room>
-	<lecturer>Wilson, Neil </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Tutorial 01/07</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG07</room>
-	<lecturer>Karamanidou, Lena </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SG1017</modulecode>
-	<activity>SG1017 Understanding the Modern World/Tutorial 01/06</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG02</room>
-	<lecturer>Wilson, Neil </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>Geary</room>
+		<lecturer>Karamanidou, Lena </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Wilson, Neil </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG02</room>
+		<lecturer>Karamanidou, Lena </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Tutorial 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Wilson, Neil </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG02</room>
+		<lecturer>Karamanidou, Lena </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Tutorial 01/05</activity>
+		<desc>Smaller group</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D113</room>
+		<lecturer>Wilson, Neil </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Tutorial 01/07</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG07</room>
+		<lecturer>Karamanidou, Lena </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SG1017</modulecode>
+		<activity>SG1017 Understanding the Modern World/Tutorial 01/06</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG02</room>
+		<lecturer>Wilson, Neil </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

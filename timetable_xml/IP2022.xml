@@ -1,104 +1,106 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Lecture 01/Sep 30th</activity>
-	<desc>Week 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>B104</room>
-	<lecturer>Samman, Amin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A108</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>07/10/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Lecture 01/01</activity>
-	<desc>Weeks 2,3, 5 & 7-11</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>C303</room>
-	<lecturer>Samman, Amin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>09/12/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/Dec 10th</activity>
-	<desc>Revision</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>C302</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>21/10/13</week>
-	<modulecode>IP2022</modulecode>
-	<activity>IP2022 States and Markets in an Era of Globalisation/Lecture 01/Oct 25th</activity>
-	<desc>Week 4 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>D104</room>
-	<lecturer>Samman, Amin </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Lecture 01/Sep 30th</activity>
+		<desc>Week 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>B104</room>
+		<lecturer>Samman, Amin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A108</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>07/10/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Lecture 01/01</activity>
+		<desc>Weeks 2,3, 5 & 7-11</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>C303</room>
+		<lecturer>Samman, Amin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>09/12/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Tutorial 01/Dec 10th</activity>
+		<desc>Revision</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>C302</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>21/10/13</week>
+		<modulecode>IP2022</modulecode>
+		<activity>IP2022 States and Markets in an Era of Globalisation/Lecture 01/Oct 25th</activity>
+		<desc>Week 4 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>D104</room>
+		<lecturer>Samman, Amin </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

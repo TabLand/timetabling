@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC2018</modulecode>
-	<activity>EC2018 Intermediate Mathematical Methods/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>Mukherjee, Ravi </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EC2018</modulecode>
-	<activity>EC2018 Intermediate Mathematical Methods/Tutorial 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>Mukherjee, Ravi </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC2018</modulecode>
+		<activity>EC2018 Intermediate Mathematical Methods/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>Mukherjee, Ravi </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EC2018</modulecode>
+		<activity>EC2018 Intermediate Mathematical Methods/Tutorial 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>Mukherjee, Ravi </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

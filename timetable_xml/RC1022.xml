@@ -1,637 +1,639 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 1/01</activity>
-	<desc>Module Introduction</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>17/02/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 5/01</activity>
-	<desc>Data Protection & Ethics 3</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>24/02/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 7/01</activity>
-	<desc>Pharmacology 1</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 10/01</activity>
-	<desc>Patient Care Skills 5</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Coutts, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>31/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/OSCE2/1</activity>
-	<desc>OSCE 1: revision session</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>AG21</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>02/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/14</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>16/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/09</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>23/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/10</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/11</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/07/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/12</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 2/02</activity>
-	<desc>Factors Affecting Healthcare</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>31/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 17/01</activity>
-	<desc>Exam Revision</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 8/01</activity>
-	<desc>Patient Care Skills 1</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>Poynton</room>
-	<lecturer>VL 01 - HARADI </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 11/01</activity>
-	<desc>Communication 1 (Introduction)</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 15/01</activity>
-	<desc>Challenging Patient 1</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>Poynton</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>09/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/03</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>26/05/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/13</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>28/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 18/01</activity>
-	<desc>RC1022 portfolio distribution: DIAGNOSTIC STUDENTS ONLY</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>DLG08</room>
-	<lecturer>Walls, Darren;Willis, Sophie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/02/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 6/01</activity>
-	<desc>Infection Control 1</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 3/01</activity>
-	<desc>Healthcare Team & Interprofessionalism 1</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG02</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>03/02/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 4/01</activity>
-	<desc>Data Protection & Ethics 1</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>AG21</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>10/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 9/01</activity>
-	<desc>Patient Care Skills 2</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>A130</room>
-	<lecturer>VL 01 - HARADI </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/02/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/02</activity>
-	<desc>Data Protection & Ethics 2 (Directed Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>17/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 12/01</activity>
-	<desc>Communication 2 (Styles incl Assertiveness)</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG03</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>17/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 13/01</activity>
-	<desc>Communication 3 (The Global Hospital)</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>AG07</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>24/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/05</activity>
-	<desc>Challenging Patient 2 (Directed Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 14/01</activity>
-	<desc>Communication 4 (Counselling Skills)</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG02</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/01</activity>
-	<desc>Healthcare Team & Interprofessionalism 2 (Directed Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>17/02/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/03</activity>
-	<desc>Infection Control 2 (Directed Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>24/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Lecture 16/01</activity>
-	<desc>Challenging Patient 3</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>BG02</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/10</activity>
-	<desc>Revision (Self Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>28/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/09</activity>
-	<desc>Revision (Self Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/04</activity>
-	<desc>Pharmacology 2 (Directed Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/OSCE1/2</activity>
-	<desc>EXAM 1 (Extra Time Students) (was ELG09)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C239 (Radiography - computer room)</room>
-	<lecturer>Harrison, Gill </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/OSCE1/1</activity>
-	<desc>EXAM 1 (100 students)</desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>A218;EG07;EG12</room>
-	<lecturer>Willis, Sophie;Morgan, J;Bland, Paul </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/06</activity>
-	<desc>Patient Care Skills 3 (Directed study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/08</activity>
-	<desc>Communication 5 (Directed Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>28/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/MCT 1/2</activity>
-	<desc>EXAM 1 (extra time students) (was ELG09)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C239 (Radiography - computer room)</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>28/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/MCT 1/1</activity>
-	<desc>EXAM 1 (100 students)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A218;EG07;EG12</room>
-	<lecturer>Willis, Sophie;Morgan, J;Bland, Paul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>26/05/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/01</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>02/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/02</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>16/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/05</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>23/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/06</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/07</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/07/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/08</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Workshop 01/01</activity>
-	<desc>Pre-Clinical Training sessions</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>AG07</room>
-	<lecturer>Willis, Sophie </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/03/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Self Study 1/07</activity>
-	<desc>Patient Care Skills 4 (Directed Study)</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>09/06/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Practical 1/04</activity>
-	<desc>VERT - therapy only (was ELG04/06)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>RC1022</modulecode>
-	<activity>RC1022 Common Module 2/Workshop 01/02</activity>
-	<desc>Pre-Clinical Training sessions</desc>
-	<joint> </joint>
-	<studentnos>101</studentnos>
-	<room>AG21</room>
-	<lecturer>Davies, Jacqueline </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 1/01</activity>
+		<desc>Module Introduction</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>17/02/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 5/01</activity>
+		<desc>Data Protection & Ethics 3</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>24/02/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 7/01</activity>
+		<desc>Pharmacology 1</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 10/01</activity>
+		<desc>Patient Care Skills 5</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Coutts, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>31/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/OSCE2/1</activity>
+		<desc>OSCE 1: revision session</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>AG21</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>02/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/14</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>16/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/09</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>23/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/10</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/11</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/07/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/12</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 2/02</activity>
+		<desc>Factors Affecting Healthcare</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>31/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 17/01</activity>
+		<desc>Exam Revision</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 8/01</activity>
+		<desc>Patient Care Skills 1</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>Poynton</room>
+		<lecturer>VL 01 - HARADI </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 11/01</activity>
+		<desc>Communication 1 (Introduction)</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 15/01</activity>
+		<desc>Challenging Patient 1</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>Poynton</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>09/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/03</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>26/05/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/13</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>28/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 18/01</activity>
+		<desc>RC1022 portfolio distribution: DIAGNOSTIC STUDENTS ONLY</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>DLG08</room>
+		<lecturer>Walls, Darren;Willis, Sophie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/02/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 6/01</activity>
+		<desc>Infection Control 1</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 3/01</activity>
+		<desc>Healthcare Team & Interprofessionalism 1</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG02</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>03/02/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 4/01</activity>
+		<desc>Data Protection & Ethics 1</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>AG21</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>10/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 9/01</activity>
+		<desc>Patient Care Skills 2</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>A130</room>
+		<lecturer>VL 01 - HARADI </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/02/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/02</activity>
+		<desc>Data Protection & Ethics 2 (Directed Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>17/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 12/01</activity>
+		<desc>Communication 2 (Styles incl Assertiveness)</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG03</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>17/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 13/01</activity>
+		<desc>Communication 3 (The Global Hospital)</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>AG07</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>24/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/05</activity>
+		<desc>Challenging Patient 2 (Directed Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 14/01</activity>
+		<desc>Communication 4 (Counselling Skills)</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG02</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/01</activity>
+		<desc>Healthcare Team & Interprofessionalism 2 (Directed Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>17/02/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/03</activity>
+		<desc>Infection Control 2 (Directed Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>24/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Lecture 16/01</activity>
+		<desc>Challenging Patient 3</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>BG02</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/10</activity>
+		<desc>Revision (Self Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>28/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/09</activity>
+		<desc>Revision (Self Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/04</activity>
+		<desc>Pharmacology 2 (Directed Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/OSCE1/2</activity>
+		<desc>EXAM 1 (Extra Time Students) (was ELG09)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C239 (Radiography - computer room)</room>
+		<lecturer>Harrison, Gill </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/OSCE1/1</activity>
+		<desc>EXAM 1 (100 students)</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>A218;EG07;EG12</room>
+		<lecturer>Willis, Sophie;Morgan, J;Bland, Paul </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/06</activity>
+		<desc>Patient Care Skills 3 (Directed study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/08</activity>
+		<desc>Communication 5 (Directed Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>28/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/MCT 1/2</activity>
+		<desc>EXAM 1 (extra time students) (was ELG09)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C239 (Radiography - computer room)</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>28/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/MCT 1/1</activity>
+		<desc>EXAM 1 (100 students)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A218;EG07;EG12</room>
+		<lecturer>Willis, Sophie;Morgan, J;Bland, Paul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>26/05/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/01</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>02/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/02</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>16/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/05</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>23/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/06</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/07</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/07/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/08</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Workshop 01/01</activity>
+		<desc>Pre-Clinical Training sessions</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>AG07</room>
+		<lecturer>Willis, Sophie </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/03/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Self Study 1/07</activity>
+		<desc>Patient Care Skills 4 (Directed Study)</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>09/06/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Practical 1/04</activity>
+		<desc>VERT - therapy only (was ELG04/06)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>RC1022</modulecode>
+		<activity>RC1022 Common Module 2/Workshop 01/02</activity>
+		<desc>Pre-Clinical Training sessions</desc>
+		<joint>-</joint>
+		<studentnos>101</studentnos>
+		<room>AG21</room>
+		<lecturer>Davies, Jacqueline </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

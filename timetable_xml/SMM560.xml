@@ -1,104 +1,106 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-03/03/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/B/Lecture 02/02</activity>
-	<desc>AQM (B) : Weeks 1-6</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>G001</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>17:00</end>
-	<week>10/02/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/D: A2&B2/Computer Room 03/03/wk 3</activity>
-	<desc>AQM Lab (D) : extra : Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>52</studentnos>
-	<room>2001</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>17:00</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/C: A1/Computer Room 01/03</activity>
-	<desc>AQM Lab (C) : Weeks 4-6</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>2001</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-03/03/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/A/Lecture 01/02</activity>
-	<desc>AQM (A) : Weeks 1-6</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2006</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/02/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/C: A1/Computer Room 01/03/wk 3</activity>
-	<desc>AQM Lab (C) : extra : Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>2001</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/D: A2&B2/Computer Room 03/03</activity>
-	<desc>AQM Lab (D) : Weeks 4-6</desc>
-	<joint> </joint>
-	<studentnos>52</studentnos>
-	<room>2001</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>10/02/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/E: B1/Computer Room 02/03/wk 3</activity>
-	<desc>AQM Lab (E) : extra : Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>2001</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>14:00</end>
-	<week>17/02/14-03/03/14</week>
-	<modulecode>SMM560</modulecode>
-	<activity>SMM560 Advanced Quantitative Methods/E: B1/Computer Room 02/03</activity>
-	<desc>AQM Lab (E) : Weeks 4-6</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>2001</room>
-	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-03/03/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/B/Lecture 02/02</activity>
+		<desc>AQM (B) : Weeks 1-6</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>G001</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>17:00</end>
+		<week>10/02/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/D: A2&B2/Computer Room 03/03/wk 3</activity>
+		<desc>AQM Lab (D) : extra : Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>52</studentnos>
+		<room>2001</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>17:00</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/C: A1/Computer Room 01/03</activity>
+		<desc>AQM Lab (C) : Weeks 4-6</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>2001</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-03/03/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/A/Lecture 01/02</activity>
+		<desc>AQM (A) : Weeks 1-6</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2006</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/02/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/C: A1/Computer Room 01/03/wk 3</activity>
+		<desc>AQM Lab (C) : extra : Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>2001</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/D: A2&B2/Computer Room 03/03</activity>
+		<desc>AQM Lab (D) : Weeks 4-6</desc>
+		<joint>-</joint>
+		<studentnos>52</studentnos>
+		<room>2001</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>10/02/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/E: B1/Computer Room 02/03/wk 3</activity>
+		<desc>AQM Lab (E) : extra : Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>2001</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>14:00</end>
+		<week>17/02/14-03/03/14</week>
+		<modulecode>SMM560</modulecode>
+		<activity>SMM560 Advanced Quantitative Methods/E: B1/Computer Room 02/03</activity>
+		<desc>AQM Lab (E) : Weeks 4-6</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>2001</room>
+		<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

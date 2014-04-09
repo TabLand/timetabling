@@ -1,234 +1,236 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 4/01</activity>
-	<desc>Current issues in cancer services</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>AG11</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 4/02</activity>
-	<desc>Seminar1: Quality in relation to staff</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>A109</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 4/03</activity>
-	<desc>Seminar2: Role of professional and regulatory bodies</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>A109</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 1/01</activity>
-	<desc>Introduction to module and assessment</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Tutorial 2/01</activity>
-	<desc>Tutorial 2</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>AG11</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 1/02</activity>
-	<desc>Introduction to health policy and impact on cancer services 1</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Tutorial 2/02</activity>
-	<desc>Assessment tutorial 2</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>AG11</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 1/03</activity>
-	<desc>Introduction to health policy and impact on cancer services 2</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 1/04</activity>
-	<desc>NHS structure</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 3/01</activity>
-	<desc>Role of regulatory and professional bodies</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>BLG08</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Tutorial 1/01</activity>
-	<desc>Tutorial 1</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C161</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Tutorial 1/02</activity>
-	<desc>Assessment tutorial 1</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>BLG08</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 2/01</activity>
-	<desc>Role of quality standards in cancer services</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>05/05/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 4/04</activity>
-	<desc>Audit</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>AG11</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 2/02</activity>
-	<desc>Quality in relation to patients</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C337</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>05/05/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Tutorial 3/02</activity>
-	<desc>Seminar 4: Quality in relation to patients</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>D104</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>05/05/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Tutorial 3/01</activity>
-	<desc>Seminar 3: Use of quality standards</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>D104</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT3026</modulecode>
-	<activity>RT3026 Health Policy and Quality Management/Lecture 2/03</activity>
-	<desc>Quality in relation to staff</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>BLG08</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 4/01</activity>
+		<desc>Current issues in cancer services</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>AG11</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 4/02</activity>
+		<desc>Seminar1: Quality in relation to staff</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>A109</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 4/03</activity>
+		<desc>Seminar2: Role of professional and regulatory bodies</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>A109</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 1/01</activity>
+		<desc>Introduction to module and assessment</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Tutorial 2/01</activity>
+		<desc>Tutorial 2</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>AG11</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 1/02</activity>
+		<desc>Introduction to health policy and impact on cancer services 1</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Tutorial 2/02</activity>
+		<desc>Assessment tutorial 2</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>AG11</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 1/03</activity>
+		<desc>Introduction to health policy and impact on cancer services 2</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 1/04</activity>
+		<desc>NHS structure</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 3/01</activity>
+		<desc>Role of regulatory and professional bodies</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>BLG08</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Tutorial 1/01</activity>
+		<desc>Tutorial 1</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C161</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Tutorial 1/02</activity>
+		<desc>Assessment tutorial 1</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>BLG08</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 2/01</activity>
+		<desc>Role of quality standards in cancer services</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>05/05/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 4/04</activity>
+		<desc>Audit</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>AG11</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 2/02</activity>
+		<desc>Quality in relation to patients</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C337</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>05/05/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Tutorial 3/02</activity>
+		<desc>Seminar 4: Quality in relation to patients</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>D104</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>05/05/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Tutorial 3/01</activity>
+		<desc>Seminar 3: Use of quality standards</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>D104</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT3026</modulecode>
+		<activity>RT3026 Health Policy and Quality Management/Lecture 2/03</activity>
+		<desc>Quality in relation to staff</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>BLG08</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

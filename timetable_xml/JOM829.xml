@@ -1,78 +1,80 @@
-<booking>
-	<start>9:00</start>
-	<end>13:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>JOM829</modulecode>
-	<activity>JOM829 Editorial Production Newspapers/Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b</room>
-	<lecturer>VL 02 - AAJOUR </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-07/10/13</week>
-	<modulecode>JOM829</modulecode>
-	<activity>JOM829 Editorial Production Newspapers/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>CG02</room>
-	<lecturer>Emler, Ron </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>14/10/13-02/12/13</week>
-	<modulecode>JOM829</modulecode>
-	<activity>JOM829 Editorial Production Newspapers/Lab/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>Emler, Ron </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>27/01/14-03/03/14</week>
-	<modulecode>JOM829</modulecode>
-	<activity>JOM829 Editorial Production Newspapers/Lab Term 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>Emler, Ron </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-07/10/13</week>
-	<modulecode>JOM829</modulecode>
-	<activity>JOM829 Editorial Production Newspapers/Lab/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>Emler, Ron </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:30</start>
-	<end>16:50</end>
-	<week>27/01/14-03/03/14</week>
-	<modulecode>JOM829</modulecode>
-	<activity>JOM829 Editorial Production Newspapers/Lab Term 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b;AG35a</room>
-	<lecturer>Emler, Ron </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>13:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>JOM829</modulecode>
+		<activity>JOM829 Editorial Production Newspapers/Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b</room>
+		<lecturer>VL 02 - AAJOUR </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-07/10/13</week>
+		<modulecode>JOM829</modulecode>
+		<activity>JOM829 Editorial Production Newspapers/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>CG02</room>
+		<lecturer>Emler, Ron </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>14/10/13-02/12/13</week>
+		<modulecode>JOM829</modulecode>
+		<activity>JOM829 Editorial Production Newspapers/Lab/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>Emler, Ron </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>27/01/14-03/03/14</week>
+		<modulecode>JOM829</modulecode>
+		<activity>JOM829 Editorial Production Newspapers/Lab Term 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>Emler, Ron </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-07/10/13</week>
+		<modulecode>JOM829</modulecode>
+		<activity>JOM829 Editorial Production Newspapers/Lab/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>Emler, Ron </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:30</start>
+		<end>16:50</end>
+		<week>27/01/14-03/03/14</week>
+		<modulecode>JOM829</modulecode>
+		<activity>JOM829 Editorial Production Newspapers/Lab Term 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b;AG35a</room>
+		<lecturer>Emler, Ron </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

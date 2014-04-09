@@ -1,26 +1,28 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1825</modulecode>
-	<activity>CS1825 Italian: Year 3 Upper Intermediate term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C135</room>
-	<lecturer>Di Felice, Veronica </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1825</modulecode>
-	<activity>CS1825 Italian: Year 3 Upper Intermediate term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C135</room>
-	<lecturer>Di Felice, Veronica </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1825</modulecode>
+		<activity>CS1825 Italian: Year 3 Upper Intermediate term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C135</room>
+		<lecturer>Di Felice, Veronica </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1825</modulecode>
+		<activity>CS1825 Italian: Year 3 Upper Intermediate term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C135</room>
+		<lecturer>Di Felice, Veronica </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

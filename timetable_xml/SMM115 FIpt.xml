@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
-	<modulecode>SMM115 FIpt</modulecode>
-	<activity>SMM115 Financial Statement Analysis/FIpt/Lecture 01</activity>
-	<desc>FIpt Year 1 : Term 2 : Core</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>3003</room>
-	<lecturer>De Cesaris, Stephano </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+		<modulecode>SMM115 FIpt</modulecode>
+		<activity>SMM115 Financial Statement Analysis/FIpt/Lecture 01</activity>
+		<desc>FIpt Year 1 : Term 2 : Core</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>3003</room>
+		<lecturer>De Cesaris, Stephano </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

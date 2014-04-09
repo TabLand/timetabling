@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>FR2106</modulecode>
-	<activity>FR2106 Introduction to Real Estate Investment/Lecture 1/01</activity>
-	<desc>Lecture</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG03</room>
-	<lecturer>Herd, George </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>FR2106</modulecode>
+		<activity>FR2106 Introduction to Real Estate Investment/Lecture 1/01</activity>
+		<desc>Lecture</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG03</room>
+		<lecturer>Herd, George </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

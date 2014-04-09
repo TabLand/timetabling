@@ -1,91 +1,93 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>#SPLUSE83C48</modulecode>
-	<activity>SMMxxx Induction Presentations/REI/Lecture 01/WK 5</activity>
-	<desc>Induction Presentations/REI : Week 5 ONLY</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2006</room>
-	<lecturer>Lee, Stephen </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>21/10/13</week>
-	<modulecode>#SPLUSE83C48</modulecode>
-	<activity>SMMxxx Induction Presentations/RE/A/Lecture 01/WK 4</activity>
-	<desc>Induction Presentations/RE/Group A - Guest Lecturer : Week 4 ONLY</desc>
-	<joint> </joint>
-	<studentnos>47</studentnos>
-	<room>2003</room>
-	<lecturer>Herd, George </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>#SPLUSE83C48</modulecode>
-	<activity>SMMxxx Careers Presentations/RE,REI/Lecture/WKS 5,10</activity>
-	<desc>Careers Presentations/RE,REI - Guest Lecturer : Weeks 5, 10</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>G001</room>
-	<lecturer>Statham, Charlie;Herd, George </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>25/11/13</week>
-	<modulecode>#SPLUSE83C48</modulecode>
-	<activity>SMMxxx Careers Presentations/RE,REI/Lecture/WKS 9</activity>
-	<desc>Careers Presentations/RE,REI - Guest Lecturer : Week 9 only</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>G001</room>
-	<lecturer>VL 01 - BBUGPR </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>21/10/13</week>
-	<modulecode>#SPLUSE83C48</modulecode>
-	<activity>SMMxxx Induction Presentations/RE/B/Lecture 02/WK 4</activity>
-	<desc>Induction Presentations/RE/Group B - Guest Lecturer : Week 4 ONLY</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>2006</room>
-	<lecturer>Herd, George;Lee, Stephen </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>07/10/13</week>
-	<modulecode>#SPLUSE83C48</modulecode>
-	<activity>Clubs & Societies Event/RE/REI</activity>
-	<desc>MSc RE, REI - no room required</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>#SPLUSE83C48</modulecode>
-	<activity>MSc Inductions: Meet your tutor/17,18</activity>
-	<desc>MSc RE, REI - no room required</desc>
-	<joint> </joint>
-	<studentnos>106</studentnos>
-	<room> </room>
-	<lecturer>Herd, George;Key Tony;Lee, Stephen;Andrew, Mark </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>#SPLUSE83C48</modulecode>
+		<activity>SMMxxx Induction Presentations/REI/Lecture 01/WK 5</activity>
+		<desc>Induction Presentations/REI : Week 5 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2006</room>
+		<lecturer>Lee, Stephen </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>21/10/13</week>
+		<modulecode>#SPLUSE83C48</modulecode>
+		<activity>SMMxxx Induction Presentations/RE/A/Lecture 01/WK 4</activity>
+		<desc>Induction Presentations/RE/Group A - Guest Lecturer : Week 4 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>47</studentnos>
+		<room>2003</room>
+		<lecturer>Herd, George </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>#SPLUSE83C48</modulecode>
+		<activity>SMMxxx Careers Presentations/RE,REI/Lecture/WKS 5,10</activity>
+		<desc>Careers Presentations/RE,REI - Guest Lecturer : Weeks 5, 10</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>G001</room>
+		<lecturer>Statham, Charlie;Herd, George </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>25/11/13</week>
+		<modulecode>#SPLUSE83C48</modulecode>
+		<activity>SMMxxx Careers Presentations/RE,REI/Lecture/WKS 9</activity>
+		<desc>Careers Presentations/RE,REI - Guest Lecturer : Week 9 only</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>G001</room>
+		<lecturer>VL 01 - BBUGPR </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>21/10/13</week>
+		<modulecode>#SPLUSE83C48</modulecode>
+		<activity>SMMxxx Induction Presentations/RE/B/Lecture 02/WK 4</activity>
+		<desc>Induction Presentations/RE/Group B - Guest Lecturer : Week 4 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>2006</room>
+		<lecturer>Herd, George;Lee, Stephen </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>07/10/13</week>
+		<modulecode>#SPLUSE83C48</modulecode>
+		<activity>Clubs & Societies Event/RE/REI</activity>
+		<desc>MSc RE, REI - no room required</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>#SPLUSE83C48</modulecode>
+		<activity>MSc Inductions: Meet your tutor/17,18</activity>
+		<desc>MSc RE, REI - no room required</desc>
+		<joint>-</joint>
+		<studentnos>106</studentnos>
+		<room>-</room>
+		<lecturer>Herd, George;Key Tony;Lee, Stephen;Andrew, Mark </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

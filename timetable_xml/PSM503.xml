@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>PSM503</modulecode>
-	<activity>PSM503 Appraisal & Employee Relations/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>DLG20</room>
-	<lecturer>Pangallo, Antonio </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>PSM503</modulecode>
+		<activity>PSM503 Appraisal & Employee Relations/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>DLG20</room>
+		<lecturer>Pangallo, Antonio </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

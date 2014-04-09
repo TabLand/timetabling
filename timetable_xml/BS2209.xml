@@ -1,13 +1,15 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/03/14, 07/04/14</week>
-	<modulecode>BS2209</modulecode>
-	<activity>BS2209 Business & Industrial Economics /Lecture 01/WKS 1-9,11</activity>
-	<desc>Spring lecture - Weeks 1-9,11</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>AG21</room>
-	<lecturer>Cabanthous, Laure </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/03/14, 07/04/14</week>
+		<modulecode>BS2209</modulecode>
+		<activity>BS2209 Business & Industrial Economics /Lecture 01/WKS 1-9,11</activity>
+		<desc>Spring lecture - Weeks 1-9,11</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>AG21</room>
+		<lecturer>Cabanthous, Laure </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

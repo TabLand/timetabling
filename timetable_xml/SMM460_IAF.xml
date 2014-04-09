@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
-	<modulecode>SMM460_IAF</modulecode>
-	<activity>SMM460 International Financial Management (MSC IAF)/Lecture/wks 1-4, 6-10</activity>
-	<desc>Lecture : Spring IAF : Weeks 1-4, 6-10</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>SMM460_IAF</modulecode>
-	<activity>SMM460 International Financial Management (MSC IAF)/TEST/wk 5</activity>
-	<desc>TEST : Week 5 only : 180 seats for 70 students</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002;2004</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-31/03/14</week>
+		<modulecode>SMM460_IAF</modulecode>
+		<activity>SMM460 International Financial Management (MSC IAF)/Lecture/wks 1-4, 6-10</activity>
+		<desc>Lecture : Spring IAF : Weeks 1-4, 6-10</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>SMM460_IAF</modulecode>
+		<activity>SMM460 International Financial Management (MSC IAF)/TEST/wk 5</activity>
+		<desc>TEST : Week 5 only : 180 seats for 70 students</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002;2004</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>15:30</start>
-	<end>15:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>IF3206</modulecode>
-	<activity>IF3206 Emerging Markets/Travel time</activity>
-	<desc>Student Travel Time from NSQ to Bunhill Row</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>IF3206</modulecode>
-	<activity>IF3206 Emerging Markets/Lecture</activity>
-	<desc>BUNHILL ROW</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>3002</room>
-	<lecturer>Phylaktis, Kate </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:30</start>
+		<end>15:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>IF3206</modulecode>
+		<activity>IF3206 Emerging Markets/Travel time</activity>
+		<desc>Student Travel Time from NSQ to Bunhill Row</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>IF3206</modulecode>
+		<activity>IF3206 Emerging Markets/Lecture</activity>
+		<desc>BUNHILL ROW</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>3002</room>
+		<lecturer>Phylaktis, Kate </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

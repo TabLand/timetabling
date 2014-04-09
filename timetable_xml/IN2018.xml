@@ -1,182 +1,184 @@
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>31/03/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>07/04/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>07/04/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>31/03/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>20:50</end>
-	<week>31/03/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>31/03/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>07/04/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>31/03/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>07/04/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>31/03/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>20:50</end>
-	<week>07/04/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Dry Trial</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A303</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>200</studentnos>
-	<room>Oakden</room>
-	<lecturer>Stankovic, Vladimir </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:50</end>
-	<week>07/04/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project Demo</activity>
-	<desc>Vladimir Stancovic 0273</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG24a</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN2018</modulecode>
-	<activity>IN2018 Team Project/Lecture 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>200</studentnos>
-	<room>Oakden</room>
-	<lecturer>Stankovic, Vladimir </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>31/03/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>07/04/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>07/04/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>31/03/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>20:50</end>
+		<week>31/03/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>31/03/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>07/04/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>31/03/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>07/04/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>31/03/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>20:50</end>
+		<week>07/04/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Dry Trial</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A303</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>200</studentnos>
+		<room>Oakden</room>
+		<lecturer>Stankovic, Vladimir </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:50</end>
+		<week>07/04/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project Demo</activity>
+		<desc>Vladimir Stancovic 0273</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG24a</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN2018</modulecode>
+		<activity>IN2018 Team Project/Lecture 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>200</studentnos>
+		<room>Oakden</room>
+		<lecturer>Stankovic, Vladimir </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM375</modulecode>
-	<activity>INM375 Games Development Process/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C357</room>
-	<lecturer>Child, Chris </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>20:00</start>
-	<end>20:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM375</modulecode>
-	<activity>INM375 Games Development Process/Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A307</room>
-	<lecturer>Child, Chris </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM375</modulecode>
+		<activity>INM375 Games Development Process/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C357</room>
+		<lecturer>Child, Chris </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>20:00</start>
+		<end>20:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM375</modulecode>
+		<activity>INM375 Games Development Process/Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A307</room>
+		<lecturer>Child, Chris </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

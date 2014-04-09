@@ -1,65 +1,67 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>CV2318</modulecode>
-	<activity>CV2318 Engineering And Construction Management/Lecture 2/02/JOINT</activity>
-	<desc>Joint with ET2052 & ME2110: total numbers 200</desc>
-	<joint>ET2052;CV2318;ME2110</joint>
-	<studentnos>100</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>CV2318</modulecode>
-	<activity>CV2318 Engineering And Construction Management/Lecture 1/01/LEAD</activity>
-	<desc>Joint with CV2309: total numbers 100</desc>
-	<joint>CV2309;CV2318</joint>
-	<studentnos>100</studentnos>
-	<room>Birley</room>
-	<lecturer>Manu, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>13/01/14</week>
-	<modulecode>CV2318</modulecode>
-	<activity>CV2318 Engineering And Construction Management/Lecture 1/02 (LEAD</activity>
-	<desc>In-class test</desc>
-	<joint>CV2309;CV2318</joint>
-	<studentnos>200</studentnos>
-	<room>Poynton</room>
-	<lecturer>Manu, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>11/11/13</week>
-	<modulecode>CV2318</modulecode>
-	<activity>CV2318 Engineering And Construction Management/Tutorial 1/01/LEAD</activity>
-	<desc>Joint with CV2309: total numbers 100</desc>
-	<joint>CV2318;CV2309</joint>
-	<studentnos>100</studentnos>
-	<room>AG07</room>
-	<lecturer>Manu, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>11/11/13</week>
-	<modulecode>CV2318</modulecode>
-	<activity>CV2318 Engineering And Construction Management/Lab SEMS 1/1/LEAD</activity>
-	<desc>Joint with CV2309: total numbers 77</desc>
-	<joint>CV2318;CV2309</joint>
-	<studentnos>13</studentnos>
-	<room>A220;A219</room>
-	<lecturer>Manu, P </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>CV2318</modulecode>
+		<activity>CV2318 Engineering And Construction Management/Lecture 2/02/JOINT</activity>
+		<desc>Joint with ET2052 & ME2110: total numbers 200</desc>
+		<joint>ET2052;CV2318;ME2110</joint>
+		<studentnos>100</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>CV2318</modulecode>
+		<activity>CV2318 Engineering And Construction Management/Lecture 1/01/LEAD</activity>
+		<desc>Joint with CV2309: total numbers 100</desc>
+		<joint>CV2309;CV2318</joint>
+		<studentnos>100</studentnos>
+		<room>Birley</room>
+		<lecturer>Manu, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>13/01/14</week>
+		<modulecode>CV2318</modulecode>
+		<activity>CV2318 Engineering And Construction Management/Lecture 1/02 (LEAD</activity>
+		<desc>In-class test</desc>
+		<joint>CV2309;CV2318</joint>
+		<studentnos>200</studentnos>
+		<room>Poynton</room>
+		<lecturer>Manu, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>11/11/13</week>
+		<modulecode>CV2318</modulecode>
+		<activity>CV2318 Engineering And Construction Management/Tutorial 1/01/LEAD</activity>
+		<desc>Joint with CV2309: total numbers 100</desc>
+		<joint>CV2318;CV2309</joint>
+		<studentnos>100</studentnos>
+		<room>AG07</room>
+		<lecturer>Manu, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>11/11/13</week>
+		<modulecode>CV2318</modulecode>
+		<activity>CV2318 Engineering And Construction Management/Lab SEMS 1/1/LEAD</activity>
+		<desc>Joint with CV2309: total numbers 77</desc>
+		<joint>CV2318;CV2309</joint>
+		<studentnos>13</studentnos>
+		<room>A220;A219</room>
+		<lecturer>Manu, P </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

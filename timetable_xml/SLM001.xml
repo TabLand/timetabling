@@ -1,104 +1,106 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/03/14</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Lecture 01/02a</activity>
-	<desc>Linguistics Lecture-Spring</desc>
-	<joint> </joint>
-	<studentnos>88</studentnos>
-	<room>AG21</room>
-	<lecturer>Litosseliti, Lia </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Lecture 01/01</activity>
-	<desc>Linguistics Lecture Autumn -</desc>
-	<joint> </joint>
-	<studentnos>88</studentnos>
-	<room>Birley</room>
-	<lecturer>Litosseliti, Lia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>14/10/13-21/10/13, 11/11/13-18/11/13</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Tutorial 01/01</activity>
-	<desc>Autumn-Linguistics tutorial</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>D104</room>
-	<lecturer>Litosseliti, Lia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13, 25/11/13-09/12/13</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Lecture 02/01</activity>
-	<desc>Phonetics lecture-Autumn</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>Poynton</room>
-	<lecturer>Jones, Mark J </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-17/02/14, 10/03/14-31/03/14</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Lecture 01/02</activity>
-	<desc>Linguistics Lecture-Spring</desc>
-	<joint> </joint>
-	<studentnos>88</studentnos>
-	<room>AG22</room>
-	<lecturer>Litosseliti, Lia </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>07/10/13-28/10/13, 11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Tutorial 02/01</activity>
-	<desc>Phonetics tutorial-Autumn - half group</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>DLG19</room>
-	<lecturer>Jones, Mark J </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Lecture 02/02</activity>
-	<desc>Phonology Lecture-Spring</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>BG02</room>
-	<lecturer>Jones, Mark J </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SLM001</modulecode>
-	<activity>SLM001 Speech & Language Sciences/Tutorial 02/02</activity>
-	<desc>Spring-Phonology Tutorial</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>C338</room>
-	<lecturer>Jones, Mark J </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/03/14</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Lecture 01/02a</activity>
+		<desc>Linguistics Lecture-Spring</desc>
+		<joint>-</joint>
+		<studentnos>88</studentnos>
+		<room>AG21</room>
+		<lecturer>Litosseliti, Lia </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Lecture 01/01</activity>
+		<desc>Linguistics Lecture Autumn -</desc>
+		<joint>-</joint>
+		<studentnos>88</studentnos>
+		<room>Birley</room>
+		<lecturer>Litosseliti, Lia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>14/10/13-21/10/13, 11/11/13-18/11/13</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Tutorial 01/01</activity>
+		<desc>Autumn-Linguistics tutorial</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>D104</room>
+		<lecturer>Litosseliti, Lia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13, 25/11/13-09/12/13</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Lecture 02/01</activity>
+		<desc>Phonetics lecture-Autumn</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>Poynton</room>
+		<lecturer>Jones, Mark J </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-17/02/14, 10/03/14-31/03/14</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Lecture 01/02</activity>
+		<desc>Linguistics Lecture-Spring</desc>
+		<joint>-</joint>
+		<studentnos>88</studentnos>
+		<room>AG22</room>
+		<lecturer>Litosseliti, Lia </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>07/10/13-28/10/13, 11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Tutorial 02/01</activity>
+		<desc>Phonetics tutorial-Autumn - half group</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>DLG19</room>
+		<lecturer>Jones, Mark J </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Lecture 02/02</activity>
+		<desc>Phonology Lecture-Spring</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>BG02</room>
+		<lecturer>Jones, Mark J </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SLM001</modulecode>
+		<activity>SLM001 Speech & Language Sciences/Tutorial 02/02</activity>
+		<desc>Spring-Phonology Tutorial</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>C338</room>
+		<lecturer>Jones, Mark J </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

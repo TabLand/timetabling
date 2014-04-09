@@ -1,169 +1,171 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
-	<desc>Skin Apposition Session</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>09/12/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Tutorial 2/01</activity>
-	<desc>Manual handling and CPR update</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG03 (Radiography);ELG04 (Radiography);ELG09 (Radiography)</room>
-	<lecturer>Cherry, Pam;Humphries, Sue </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>30/09/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Lecture 4/01</activity>
-	<desc>Ethics, confidentiality and patient information</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>DLG09</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>18/11/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
-	<desc>Skin Apposition Session</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Lecture 1/01</activity>
-	<desc>Introduction to module and handout of clinical portfolios</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C161</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Lecture 2/01</activity>
-	<desc>Mock viva - holding room (see list)</desc>
-	<joint>RT2023;RT2023</joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Lecture 2/02</activity>
-	<desc>Mock vivas</desc>
-	<joint>RT2023;RT2023</joint>
-	<studentnos>2</studentnos>
-	<room>BLG08;BM03;BM02;A227;A225</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>31/03/14</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Lecture 1/02</activity>
-	<desc>Practise Vivas</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>D221</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>09/06/14</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Lecture 3/02</activity>
-	<desc>Viva - holdong room</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>09/06/14</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Lecture 3/01</activity>
-	<desc>Viva - see list labs</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>A112;A111;A108;A107</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
-	<desc>Skin Apposition Session (PC)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>11/11/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
-	<desc>Skin Apposition Session</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>25/11/13</week>
-	<modulecode>RT2023</modulecode>
-	<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
-	<desc>Skin Apposition Session (RT)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
+		<desc>Skin Apposition Session</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>09/12/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Tutorial 2/01</activity>
+		<desc>Manual handling and CPR update</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG03 (Radiography);ELG04 (Radiography);ELG09 (Radiography)</room>
+		<lecturer>Cherry, Pam;Humphries, Sue </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>30/09/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Lecture 4/01</activity>
+		<desc>Ethics, confidentiality and patient information</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>DLG09</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>18/11/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
+		<desc>Skin Apposition Session</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Lecture 1/01</activity>
+		<desc>Introduction to module and handout of clinical portfolios</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C161</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Lecture 2/01</activity>
+		<desc>Mock viva - holding room (see list)</desc>
+		<joint>RT2023;RT2023</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Lecture 2/02</activity>
+		<desc>Mock vivas</desc>
+		<joint>RT2023;RT2023</joint>
+		<studentnos>2</studentnos>
+		<room>BLG08;BM03;BM02;A227;A225</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>31/03/14</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Lecture 1/02</activity>
+		<desc>Practise Vivas</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>D221</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>09/06/14</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Lecture 3/02</activity>
+		<desc>Viva - holdong room</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>09/06/14</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Lecture 3/01</activity>
+		<desc>Viva - see list labs</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>A112;A111;A108;A107</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
+		<desc>Skin Apposition Session (PC)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>11/11/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
+		<desc>Skin Apposition Session</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>25/11/13</week>
+		<modulecode>RT2023</modulecode>
+		<activity>RT2023 Competence to Practice A/Tutorial 1/01</activity>
+		<desc>Skin Apposition Session (RT)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

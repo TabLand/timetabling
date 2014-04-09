@@ -1,39 +1,41 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>11/11/13-09/12/13</week>
-	<modulecode>CS1201</modulecode>
-	<activity>CS1201 An Approach to Creative Writing term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A107</room>
-	<lecturer>Boyes, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-21/10/13, 04/11/13</week>
-	<modulecode>CS1201</modulecode>
-	<activity>CS1201 An Approach to Creative Writing term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A107</room>
-	<lecturer>Boyes, Sara </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1201</modulecode>
-	<activity>CS1201 An Approach to Creative Writing term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A107</room>
-	<lecturer>Natzler, C </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>11/11/13-09/12/13</week>
+		<modulecode>CS1201</modulecode>
+		<activity>CS1201 An Approach to Creative Writing term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A107</room>
+		<lecturer>Boyes, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-21/10/13, 04/11/13</week>
+		<modulecode>CS1201</modulecode>
+		<activity>CS1201 An Approach to Creative Writing term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A107</room>
+		<lecturer>Boyes, Sara </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1201</modulecode>
+		<activity>CS1201 An Approach to Creative Writing term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A107</room>
+		<lecturer>Natzler, C </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

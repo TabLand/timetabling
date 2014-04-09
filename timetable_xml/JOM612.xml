@@ -1,39 +1,41 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>07/10/13</week>
-	<modulecode>JOM612</modulecode>
-	<activity>JOM612 Marketing in Publishing/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>D221</room>
-	<lecturer>Mesquita, Stephen </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13, 14/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>JOM612</modulecode>
-	<activity>JOM612 Marketing in Publishing/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>DLG03</room>
-	<lecturer>Mesquita, Stephen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM612</modulecode>
-	<activity>JOM612 Marketing in Publishing/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>C301</room>
-	<lecturer>Mesquita, Stephen </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>07/10/13</week>
+		<modulecode>JOM612</modulecode>
+		<activity>JOM612 Marketing in Publishing/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>D221</room>
+		<lecturer>Mesquita, Stephen </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13, 14/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>JOM612</modulecode>
+		<activity>JOM612 Marketing in Publishing/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>DLG03</room>
+		<lecturer>Mesquita, Stephen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM612</modulecode>
+		<activity>JOM612 Marketing in Publishing/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>C301</room>
+		<lecturer>Mesquita, Stephen </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

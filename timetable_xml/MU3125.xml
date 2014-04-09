@@ -1,26 +1,28 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU3125</modulecode>
-	<activity>MU3125 Composing for Moving Images/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>ALG04</room>
-	<lecturer>Mera, Miguel </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>MU3125</modulecode>
-	<activity>MU3125 Composing for Moving Images/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>ALG04</room>
-	<lecturer>Mera, Miguel </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU3125</modulecode>
+		<activity>MU3125 Composing for Moving Images/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>ALG04</room>
+		<lecturer>Mera, Miguel </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>MU3125</modulecode>
+		<activity>MU3125 Composing for Moving Images/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>ALG04</room>
+		<lecturer>Mera, Miguel </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

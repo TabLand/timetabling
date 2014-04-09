@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>07/10/13, 21/10/13, 04/11/13</week>
-	<modulecode>SMM522 IAF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/B/IAF/Computer Lab 02/02/WKS 2,4,6</activity>
-	<desc>RPMS: IAF Stream B : Weeks 2,4,6</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>SMM522 IAF</modulecode>
-	<activity>SMM522 Research Project Management Skills/IAF/Lecture/WK 3</activity>
-	<desc>RPMS: IAF : Spring : Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3002</room>
-	<lecturer>Kraft, Arthur </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13</week>
-	<modulecode>SMM522 IAF</modulecode>
-	<activity>SMM522 Research Methods for Finance Professionals/A/IAF/Computer Lab 01/02/WKS 2,4,6</activity>
-	<desc>RPMS: IAF Stream A: Weeks 2,4,6</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2001</room>
-	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>07/10/13, 21/10/13, 04/11/13</week>
+		<modulecode>SMM522 IAF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/B/IAF/Computer Lab 02/02/WKS 2,4,6</activity>
+		<desc>RPMS: IAF Stream B : Weeks 2,4,6</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>SMM522 IAF</modulecode>
+		<activity>SMM522 Research Project Management Skills/IAF/Lecture/WK 3</activity>
+		<desc>RPMS: IAF : Spring : Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3002</room>
+		<lecturer>Kraft, Arthur </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13</week>
+		<modulecode>SMM522 IAF</modulecode>
+		<activity>SMM522 Research Methods for Finance Professionals/A/IAF/Computer Lab 01/02/WKS 2,4,6</activity>
+		<desc>RPMS: IAF Stream A: Weeks 2,4,6</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2001</room>
+		<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

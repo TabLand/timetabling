@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>MS2107</modulecode>
-	<activity>MS2107 Management of Human Resources in a Global Context/Lecture 1/01</activity>
-	<desc>Autumn Lecture: Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C340</room>
-	<lecturer>Cunningham, Li Xue </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>MS2107</modulecode>
+		<activity>MS2107 Management of Human Resources in a Global Context/Lecture 1/01</activity>
+		<desc>Autumn Lecture: Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C340</room>
+		<lecturer>Cunningham, Li Xue </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

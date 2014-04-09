@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>EPM500</modulecode>
-	<activity>EPM500 Industrial Control/Lecture 1/02 A</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A110</room>
-	<lecturer>Liatsis, P;Milonidis, E;Thomas, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>EPM500</modulecode>
-	<activity>EPM500 Industrial Control/Lecture 1/02 B</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A109</room>
-	<lecturer>Liatsis, P;Milonidis, E;Thomas, P </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>EPM500</modulecode>
+		<activity>EPM500 Industrial Control/Lecture 1/02 A</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A110</room>
+		<lecturer>Liatsis, P;Milonidis, E;Thomas, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>EPM500</modulecode>
+		<activity>EPM500 Industrial Control/Lecture 1/02 B</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A109</room>
+		<lecturer>Liatsis, P;Milonidis, E;Thomas, P </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

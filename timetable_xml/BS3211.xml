@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS3211</modulecode>
-	<activity>BS3211 Supply Chain & Logistics Management/BUS,MGT1/Lecture 01</activity>
-	<desc>Stream 1: BUS & MGT1 (Group 1 of 2)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>C336</room>
-	<lecturer>Son, Byung Gak </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS3211</modulecode>
-	<activity>BS3211 Supply Chain & Logistics Management/MGT2/Lecture 02</activity>
-	<desc>Stream 2 : MGT only (Group 2 of 2)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>CG04</room>
-	<lecturer>Son, Byung Gak </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS3211</modulecode>
+		<activity>BS3211 Supply Chain & Logistics Management/BUS,MGT1/Lecture 01</activity>
+		<desc>Stream 1: BUS & MGT1 (Group 1 of 2)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>C336</room>
+		<lecturer>Son, Byung Gak </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS3211</modulecode>
+		<activity>BS3211 Supply Chain & Logistics Management/MGT2/Lecture 02</activity>
+		<desc>Stream 2 : MGT only (Group 2 of 2)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>CG04</room>
+		<lecturer>Son, Byung Gak </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

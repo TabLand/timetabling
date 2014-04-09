@@ -1,52 +1,54 @@
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU1058</modulecode>
-	<activity>MU1058 Materials of Tonal Music Monday Group A</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG09</room>
-	<lecturer>Loya, Shay </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU1058</modulecode>
-	<activity>MU1058 Materials of Tonal Music Monday Group B</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG09</room>
-	<lecturer>Loya, Shay </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU1058</modulecode>
-	<activity>MU1058 Materials of Tonal Music Friday Group A</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG09</room>
-	<lecturer>Loya, Shay </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU1058</modulecode>
-	<activity>MU1058 Materials of Tonal Music Friday Group B</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG09</room>
-	<lecturer>Loya, Shay </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU1058</modulecode>
+		<activity>MU1058 Materials of Tonal Music Monday Group A</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG09</room>
+		<lecturer>Loya, Shay </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU1058</modulecode>
+		<activity>MU1058 Materials of Tonal Music Monday Group B</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG09</room>
+		<lecturer>Loya, Shay </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU1058</modulecode>
+		<activity>MU1058 Materials of Tonal Music Friday Group A</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG09</room>
+		<lecturer>Loya, Shay </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU1058</modulecode>
+		<activity>MU1058 Materials of Tonal Music Friday Group B</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG09</room>
+		<lecturer>Loya, Shay </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

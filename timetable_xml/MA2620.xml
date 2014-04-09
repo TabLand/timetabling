@@ -1,156 +1,158 @@
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-24/03/14</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Exercise Class 2/02/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-21/10/13, 11/11/13-25/11/13</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lecture 2/01/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lecture 2/01/JOINT/T1/tests/wk 5 & 10</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lab 1/04/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/10/13-21/10/13, 04/11/13-25/11/13</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Exercise Class 1/01/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lecture 2/02/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/02/14, 31/03/14</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lecture 2/01/JOINT/T2/tests/wk 5 & 10</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lab 2/04/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-21/10/13, 11/11/13-25/11/13</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lecture 1/01/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lab 4/04/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lecture 1/02/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>24/02/14</week>
-	<modulecode>MA2620</modulecode>
-	<activity>MA2620 Probability And Statistics 2/Lab 3/04/JOINT</activity>
-	<desc>Joint with AS2101 *</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-24/03/14</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Exercise Class 2/02/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-21/10/13, 11/11/13-25/11/13</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lecture 2/01/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lecture 2/01/JOINT/T1/tests/wk 5 & 10</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lab 1/04/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/10/13-21/10/13, 04/11/13-25/11/13</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Exercise Class 1/01/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lecture 2/02/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/02/14, 31/03/14</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lecture 2/01/JOINT/T2/tests/wk 5 & 10</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lab 2/04/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-21/10/13, 11/11/13-25/11/13</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lecture 1/01/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lab 4/04/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lecture 1/02/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>24/02/14</week>
+		<modulecode>MA2620</modulecode>
+		<activity>MA2620 Probability And Statistics 2/Lab 3/04/JOINT</activity>
+		<desc>Joint with AS2101 *</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

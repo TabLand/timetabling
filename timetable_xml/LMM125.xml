@@ -1,39 +1,41 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>17/02/14, 03/03/14-10/03/14, 24/03/14-07/04/14</week>
-	<modulecode>LMM125</modulecode>
-	<activity>LMM125 Law of the Sea/Seminar 01/WKS 4,6,7&9-11</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C328</room>
-	<lecturer>Reece Thomas, Katherine </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>17/03/14</week>
-	<modulecode>LMM125</modulecode>
-	<activity>LMM125 Law of the Sea/Seminar 01/WK 8</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C167</room>
-	<lecturer>Reece Thomas, Katherine </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>LMM125</modulecode>
-	<activity>LMM125 Law of the Sea/Seminar 01/WKS 1-3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D109</room>
-	<lecturer>Reece Thomas, Katherine </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>17/02/14, 03/03/14-10/03/14, 24/03/14-07/04/14</week>
+		<modulecode>LMM125</modulecode>
+		<activity>LMM125 Law of the Sea/Seminar 01/WKS 4,6,7&9-11</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C328</room>
+		<lecturer>Reece Thomas, Katherine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>17/03/14</week>
+		<modulecode>LMM125</modulecode>
+		<activity>LMM125 Law of the Sea/Seminar 01/WK 8</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C167</room>
+		<lecturer>Reece Thomas, Katherine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>LMM125</modulecode>
+		<activity>LMM125 Law of the Sea/Seminar 01/WKS 1-3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D109</room>
+		<lecturer>Reece Thomas, Katherine </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

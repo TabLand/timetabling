@@ -1,156 +1,158 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-14/10/13, 02/12/13-09/12/13</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London/Autumn (US exchange)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>A110</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London/Spring (US exchange)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>75</studentnos>
-	<room>B103</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London/Spring (US exchange)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>A110</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>31/03/14</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>A130</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>31/03/14-07/04/14</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London/Spring (US exchange)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>75</studentnos>
-	<room>AG07</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C336</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-14/10/13</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London/Autumn (Cass)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>A110</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>02/12/13-09/12/13</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London/Autumn (Cass)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>AG22</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London/Spring (cass)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>A110</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>LA2017</modulecode>
-	<activity>LA2018 History in London</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C336</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>18:50</end>
-	<week>28/10/13-25/11/13</week>
-	<modulecode>LA2018</modulecode>
-	<activity>LA2018 History in London</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>ALG16</room>
-	<lecturer>Carroll, Mary </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-14/10/13, 02/12/13-09/12/13</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London/Autumn (US exchange)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>A110</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London/Spring (US exchange)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>75</studentnos>
+		<room>B103</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London/Spring (US exchange)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>A110</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>31/03/14</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>A130</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>31/03/14-07/04/14</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London/Spring (US exchange)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>75</studentnos>
+		<room>AG07</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C336</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-14/10/13</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London/Autumn (Cass)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>A110</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>02/12/13-09/12/13</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London/Autumn (Cass)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>AG22</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London/Spring (cass)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>A110</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>LA2017</modulecode>
+		<activity>LA2018 History in London</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C336</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>18:50</end>
+		<week>28/10/13-25/11/13</week>
+		<modulecode>LA2018</modulecode>
+		<activity>LA2018 History in London</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>ALG16</room>
+		<lecturer>Carroll, Mary </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

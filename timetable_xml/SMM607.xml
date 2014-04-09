@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM607</modulecode>
-	<activity>SMM607 Quantitative Asset Pricing/Lecture 01/1</activity>
-	<desc>Autumn: jnt ft/pt2</desc>
-	<joint> </joint>
-	<studentnos>51</studentnos>
-	<room>3002</room>
-	<lecturer>Nitzsche, Dirk </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM607</modulecode>
+		<activity>SMM607 Quantitative Asset Pricing/Lecture 01/1</activity>
+		<desc>Autumn: jnt ft/pt2</desc>
+		<joint>-</joint>
+		<studentnos>51</studentnos>
+		<room>3002</room>
+		<lecturer>Nitzsche, Dirk </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

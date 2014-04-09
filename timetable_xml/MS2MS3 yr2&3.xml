@@ -1,39 +1,41 @@
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>07/10/13</week>
-	<modulecode>MS2MS3 yr2&3</modulecode>
-	<activity>SmartWisdom 01/MGT yr 2 & 3</activity>
-	<desc>MGT yr 2 & 3 (optional) : Introduction/benefits to Cass postgraduates</desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>Oakden</room>
-	<lecturer>Kemp, Jonathan </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>28/10/13</week>
-	<modulecode>MS2MS3 yr2&3</modulecode>
-	<activity>SmartWisdom 03/MGT yr 2 & 3</activity>
-	<desc>MGT yr 2 & 3 (optional) : Advanced note-taking & planning review & Intro to Advanced study techniques</desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>Oakden</room>
-	<lecturer>Kemp, Jonathan </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>MS2MS3 yr2&3</modulecode>
-	<activity>SmartWisdom 04/MGT yr 2 & 3</activity>
-	<desc>MGT yr 2 & 3 (optional) : Further advanced study techniques</desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>Oakden</room>
-	<lecturer>Kemp, Jonathan </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>07/10/13</week>
+		<modulecode>MS2MS3 yr2&3</modulecode>
+		<activity>SmartWisdom 01/MGT yr 2 & 3</activity>
+		<desc>MGT yr 2 & 3 (optional) : Introduction/benefits to Cass postgraduates</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>Oakden</room>
+		<lecturer>Kemp, Jonathan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>28/10/13</week>
+		<modulecode>MS2MS3 yr2&3</modulecode>
+		<activity>SmartWisdom 03/MGT yr 2 & 3</activity>
+		<desc>MGT yr 2 & 3 (optional) : Advanced note-taking & planning review & Intro to Advanced study techniques</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>Oakden</room>
+		<lecturer>Kemp, Jonathan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>MS2MS3 yr2&3</modulecode>
+		<activity>SmartWisdom 04/MGT yr 2 & 3</activity>
+		<desc>MGT yr 2 & 3 (optional) : Further advanced study techniques</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>Oakden</room>
+		<lecturer>Kemp, Jonathan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

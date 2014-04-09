@@ -1,195 +1,197 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>30/09/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 01/02/wk 1</activity>
-	<desc>AS & Exchange students: WK 1</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>AG21</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/10/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 01/02/wk 2</activity>
-	<desc>AS & Exchange students: WK 2</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>AG21</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>14/10/13-04/11/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 01/02/wks 3-6</activity>
-	<desc>AS & Exchange students: Weeks 3-6</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>BG03</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>11/11/13, 25/11/13-09/12/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 01/02/wks 7,9-11</activity>
-	<desc>AS & Exchange students: Weeks 7, 9-11 : BUNHILL ROW</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>2006</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 01/02/wk 1</activity>
-	<desc>AS & Exchange students: WK 1</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>AG22</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>07/10/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 01/02/wk 2</activity>
-	<desc>AS & Exchange students: WK 2</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-04/11/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 02/02/wks 1-6</activity>
-	<desc>AS & Exchange students - Weeks 1-6 only</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>AG21</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>11/11/13, 25/11/13-09/12/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 02/02/wks 7, 9-11</activity>
-	<desc>AS & Exchange students - Weeks 7, 9-11 only : BUNHILL ROW</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>2006</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Intro/Lecture 02/WK 1</activity>
-	<desc>AS & Exchange students: Extra Introduction lecture : Week 1 only</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>14/10/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Tutorial 01</activity>
-	<desc>Tutorial : Autumn Weeks 3-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>BG03</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 01/02/wk 10</activity>
-	<desc>AS & Exchange students: Week 10 only (replacement for wk 8 missed) NSQ</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>Geary</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>02/12/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Lecture 02/02/wk 10</activity>
-	<desc>AS & Exchange students - Week 10 only (replacement for wk 8 missed) BUNHILL ROW</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>2002</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Intro/Lecture 03/WK 1</activity>
-	<desc>AS & Exchange students: Extra Introduction lecture : Week 1 only</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>C304</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>02/12/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Tutorial 01/wk 10</activity>
-	<desc>Tutorial : Autumn : Week 10 only (replacement for wk 8 missed) BUNHILL ROW</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>2002</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13</week>
-	<modulecode>AS2205</modulecode>
-	<activity>AS2205 Contingencies/Intro/Lecture 01/WK 1</activity>
-	<desc>AS & Exchange students: Extra Introduction lecture : Week 1 only</desc>
-	<joint> </joint>
-	<studentnos>84</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Asimit, Vali Dr </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>30/09/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 01/02/wk 1</activity>
+		<desc>AS & Exchange students: WK 1</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>AG21</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/10/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 01/02/wk 2</activity>
+		<desc>AS & Exchange students: WK 2</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>AG21</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>14/10/13-04/11/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 01/02/wks 3-6</activity>
+		<desc>AS & Exchange students: Weeks 3-6</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>BG03</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>11/11/13, 25/11/13-09/12/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 01/02/wks 7,9-11</activity>
+		<desc>AS & Exchange students: Weeks 7, 9-11 : BUNHILL ROW</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>2006</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 01/02/wk 1</activity>
+		<desc>AS & Exchange students: WK 1</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>AG22</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>07/10/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 01/02/wk 2</activity>
+		<desc>AS & Exchange students: WK 2</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-04/11/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 02/02/wks 1-6</activity>
+		<desc>AS & Exchange students - Weeks 1-6 only</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>AG21</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>11/11/13, 25/11/13-09/12/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 02/02/wks 7, 9-11</activity>
+		<desc>AS & Exchange students - Weeks 7, 9-11 only : BUNHILL ROW</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>2006</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Intro/Lecture 02/WK 1</activity>
+		<desc>AS & Exchange students: Extra Introduction lecture : Week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>14/10/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Tutorial 01</activity>
+		<desc>Tutorial : Autumn Weeks 3-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>BG03</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 01/02/wk 10</activity>
+		<desc>AS & Exchange students: Week 10 only (replacement for wk 8 missed) NSQ</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>Geary</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>02/12/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Lecture 02/02/wk 10</activity>
+		<desc>AS & Exchange students - Week 10 only (replacement for wk 8 missed) BUNHILL ROW</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>2002</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Intro/Lecture 03/WK 1</activity>
+		<desc>AS & Exchange students: Extra Introduction lecture : Week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>C304</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>02/12/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Tutorial 01/wk 10</activity>
+		<desc>Tutorial : Autumn : Week 10 only (replacement for wk 8 missed) BUNHILL ROW</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>2002</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13</week>
+		<modulecode>AS2205</modulecode>
+		<activity>AS2205 Contingencies/Intro/Lecture 01/WK 1</activity>
+		<desc>AS & Exchange students: Extra Introduction lecture : Week 1 only</desc>
+		<joint>-</joint>
+		<studentnos>84</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Asimit, Vali Dr </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,494 +1,496 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/04</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 11/01</activity>
-	<desc>Oncology of Special Senses</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>DLG09</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 06/01</activity>
-	<desc>Oncology of the Urinary System</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C161</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 01/01</activity>
-	<desc>Module Introduction</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C161</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/06</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:30</end>
-	<week>27/01/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 02/02</activity>
-	<desc>Overview of respiratory system</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C161</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 03/01</activity>
-	<desc>Oncology of respiratory</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 10/01</activity>
-	<desc>Oncology of the Central Nervous System</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 04/01</activity>
-	<desc>Overview of the Urinary System</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C161</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/02</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 08/01</activity>
-	<desc>Overview of the Central Nervous System</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 09/01</activity>
-	<desc>Overview of Special Senses</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 1/01</activity>
-	<desc>Tutorial on respiratory system</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 2/01</activity>
-	<desc>Tutorial on the Urinary System</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 07/01</activity>
-	<desc>Oncology of alimentary system</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>AG03</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 5/01</activity>
-	<desc>Tutorial on Special Senses</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/07</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/08</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 05/01</activity>
-	<desc>Overview of alimentary system</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C161</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/05</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 4/01</activity>
-	<desc>Tutorial on the Central Nervous System</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C161</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 3/01</activity>
-	<desc>Tutorial on alimentary system</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>C339</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/03</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/02</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/05</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/10</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/05a</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/05</activity>
-	<desc>RT1025 Directed Study (All day) (PC attached to RT103)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/01</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/07</activity>
-	<desc>RT1025 Directed Study</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 6/01</activity>
-	<desc>Drop in Tutorial for RT1025</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>DLG08</room>
-	<lecturer>Khine, Ricardo;Cherry, Pam;Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/01</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>03/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/04</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/03</activity>
-	<desc>VERT - see list labs (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>17/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/11</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>24/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/06</activity>
-	<desc>RT1025 Directed Study (All day)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/09</activity>
-	<desc>RT1025 Directed Study</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:30</end>
-	<week>17/02/14</week>
-	<modulecode>RT1025</modulecode>
-	<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/12</activity>
-	<desc>RT1025 Directed Study</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/04</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 11/01</activity>
+		<desc>Oncology of Special Senses</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>DLG09</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 06/01</activity>
+		<desc>Oncology of the Urinary System</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C161</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 01/01</activity>
+		<desc>Module Introduction</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C161</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/06</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:30</end>
+		<week>27/01/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 02/02</activity>
+		<desc>Overview of respiratory system</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C161</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 03/01</activity>
+		<desc>Oncology of respiratory</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 10/01</activity>
+		<desc>Oncology of the Central Nervous System</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 04/01</activity>
+		<desc>Overview of the Urinary System</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C161</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/02</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 08/01</activity>
+		<desc>Overview of the Central Nervous System</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 09/01</activity>
+		<desc>Overview of Special Senses</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 1/01</activity>
+		<desc>Tutorial on respiratory system</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 2/01</activity>
+		<desc>Tutorial on the Urinary System</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 07/01</activity>
+		<desc>Oncology of alimentary system</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>AG03</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 5/01</activity>
+		<desc>Tutorial on Special Senses</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/07</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/08</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Lecture 05/01</activity>
+		<desc>Overview of alimentary system</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C161</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/05</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 4/01</activity>
+		<desc>Tutorial on the Central Nervous System</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C161</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 3/01</activity>
+		<desc>Tutorial on alimentary system</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>C339</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/03</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/02</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/05</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/10</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/05a</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/05</activity>
+		<desc>RT1025 Directed Study (All day) (PC attached to RT103)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/01</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/07</activity>
+		<desc>RT1025 Directed Study</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Tutorial 6/01</activity>
+		<desc>Drop in Tutorial for RT1025</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>DLG08</room>
+		<lecturer>Khine, Ricardo;Cherry, Pam;Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/01</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>03/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/04</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Laboratory 1/03</activity>
+		<desc>VERT - see list labs (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>17/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/11</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>24/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/06</activity>
+		<desc>RT1025 Directed Study (All day)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/09</activity>
+		<desc>RT1025 Directed Study</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:30</end>
+		<week>17/02/14</week>
+		<modulecode>RT1025</modulecode>
+		<activity>RT1025 Anatomy, Physiology & Oncology 2/Self Study 1/12</activity>
+		<desc>RT1025 Directed Study</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/03/14-31/03/14</week>
-	<modulecode>AMMxx1</modulecode>
-	<activity>AMM413 Public Culture, Politics of Participation</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>BLG08</room>
-	<lecturer>Littler, Jo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>03/03/14-31/03/14</week>
-	<modulecode>AMMxx1</modulecode>
-	<activity>AMM413 Public Culture, Politics of Participation</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C170</room>
-	<lecturer>Littler, Jo </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/03/14-31/03/14</week>
+		<modulecode>AMMxx1</modulecode>
+		<activity>AMM413 Public Culture, Politics of Participation</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>BLG08</room>
+		<lecturer>Littler, Jo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>03/03/14-31/03/14</week>
+		<modulecode>AMMxx1</modulecode>
+		<activity>AMM413 Public Culture, Politics of Participation</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C170</room>
+		<lecturer>Littler, Jo </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

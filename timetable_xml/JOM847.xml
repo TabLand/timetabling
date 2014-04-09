@@ -1,143 +1,145 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Monday/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Monday/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Admin - TV catch-up</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG03</room>
-	<lecturer>Gaber, Ivor </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>18:30</end>
-	<week>11/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration Lecture (Ivor Gaber)</activity>
-	<desc>Neil Hodgkins 3242</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>Poynton</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Tuesday/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Tuesday/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Wednesday/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Wednesday/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>20:30</end>
-	<week>07/10/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/evening lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>250</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Thursday/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM847</modulecode>
-	<activity>JOM847 Public Administration/week 6 Thursday/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>210</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Johnson, Joy </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Monday/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Monday/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Admin - TV catch-up</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG03</room>
+		<lecturer>Gaber, Ivor </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>18:30</end>
+		<week>11/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration Lecture (Ivor Gaber)</activity>
+		<desc>Neil Hodgkins 3242</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>Poynton</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Tuesday/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Tuesday/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Wednesday/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Wednesday/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>20:30</end>
+		<week>07/10/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/evening lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>250</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Thursday/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM847</modulecode>
+		<activity>JOM847 Public Administration/week 6 Thursday/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>210</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Johnson, Joy </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

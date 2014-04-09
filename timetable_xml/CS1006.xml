@@ -1,13 +1,15 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1006</modulecode>
-	<activity>CS1006 Doing Business with China - Language and Culture term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>AG02</room>
-	<lecturer>Huang, Yinghong </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1006</modulecode>
+		<activity>CS1006 Doing Business with China - Language and Culture term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>AG02</room>
+		<lecturer>Huang, Yinghong </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

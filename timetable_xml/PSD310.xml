@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>13/01/14-20/01/14</week>
-	<modulecode>PSD310</modulecode>
-	<activity>PSD310 Consultancy and Continuous Professional Development Issues/Lecture 01/WKS 1&2</activity>
-	<desc>Weeks 1&2 (Different llocation)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG03</room>
-	<lecturer>Filippopoulos, Pavlos </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-17/03/14</week>
-	<modulecode>PSD310</modulecode>
-	<activity>PSD310 Consultancy and Continuous Professional Development Issues/Lecture 01/WKS 3-10</activity>
-	<desc>Weeks 3-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG02</room>
-	<lecturer>Filippopoulos, Pavlos </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>13/01/14-20/01/14</week>
+		<modulecode>PSD310</modulecode>
+		<activity>PSD310 Consultancy and Continuous Professional Development Issues/Lecture 01/WKS 1&2</activity>
+		<desc>Weeks 1&2 (Different llocation)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG03</room>
+		<lecturer>Filippopoulos, Pavlos </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-17/03/14</week>
+		<modulecode>PSD310</modulecode>
+		<activity>PSD310 Consultancy and Continuous Professional Development Issues/Lecture 01/WKS 3-10</activity>
+		<desc>Weeks 3-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG02</room>
+		<lecturer>Filippopoulos, Pavlos </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

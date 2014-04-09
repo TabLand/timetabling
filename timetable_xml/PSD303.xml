@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>16:50</end>
-	<week>09/06/14</week>
-	<modulecode>PSD303</modulecode>
-	<activity>PSD303 Psychometrics: Level B/Day 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>D104</room>
-	<lecturer>McDowall, Almuth </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>16:50</end>
-	<week>09/06/14</week>
-	<modulecode>PSD303</modulecode>
-	<activity>PSD303 Psychometrics: Level B/Day 02/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>D104</room>
-	<lecturer>McDowall, Almuth </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>16:50</end>
-	<week>09/06/14</week>
-	<modulecode>PSD303</modulecode>
-	<activity>PSD303 Psychometrics: Level B/Day 03/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>D104</room>
-	<lecturer>McDowall, Almuth </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>13:50</end>
-	<week>30/06/14</week>
-	<modulecode>PSD303</modulecode>
-	<activity>PSD303 Psychometrics: Level B/Drop-In Session/JOINT/Jul 4th</activity>
-	<desc> </desc>
-	<joint>PSD303;PSD302</joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>16:50</end>
+		<week>09/06/14</week>
+		<modulecode>PSD303</modulecode>
+		<activity>PSD303 Psychometrics: Level B/Day 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>D104</room>
+		<lecturer>McDowall, Almuth </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>16:50</end>
+		<week>09/06/14</week>
+		<modulecode>PSD303</modulecode>
+		<activity>PSD303 Psychometrics: Level B/Day 02/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>D104</room>
+		<lecturer>McDowall, Almuth </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>16:50</end>
+		<week>09/06/14</week>
+		<modulecode>PSD303</modulecode>
+		<activity>PSD303 Psychometrics: Level B/Day 03/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>D104</room>
+		<lecturer>McDowall, Almuth </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>13:50</end>
+		<week>30/06/14</week>
+		<modulecode>PSD303</modulecode>
+		<activity>PSD303 Psychometrics: Level B/Drop-In Session/JOINT/Jul 4th</activity>
+		<desc>-</desc>
+		<joint>PSD303;PSD302</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

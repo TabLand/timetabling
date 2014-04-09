@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>09/12/13</week>
-	<modulecode>MBM406 QM (B)</modulecode>
-	<activity>MBM406 Mba Block 1: Quantitative Methods/B/Revision Lecture (Joint)</activity>
-	<desc>(Joint )FTMBA 2013 Mba Block 1: QM revision</desc>
-	<joint>MBM406 QM (B);MBM406 QM (A)</joint>
-	<studentnos>100</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>23/09/13-30/09/13, 14/10/13</week>
-	<modulecode>MBM406 QM (B)</modulecode>
-	<activity>MBM406 Mba Block 1: Quantitative Methods/B/Lab Tutorial 01/wks 1-2, 4</activity>
-	<desc>FTMBA 2013 Mba Block 1: QM Tutorials B - Computer Lab : Weeks 1-2, 4</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2001</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/10/13</week>
-	<modulecode>MBM406 QM (B)</modulecode>
-	<activity>MBM406 Mba Block 1: Quantitative Methods/B/Tutorial 01/wk 3</activity>
-	<desc>FTMBA 2013 Mba Block 1: QM Tutorials B : Week 3 (replacement - standard room)</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2005</room>
-	<lecturer>Ribeiro, Carlos </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>09/12/13</week>
+		<modulecode>MBM406 QM (B)</modulecode>
+		<activity>MBM406 Mba Block 1: Quantitative Methods/B/Revision Lecture (Joint)</activity>
+		<desc>(Joint )FTMBA 2013 Mba Block 1: QM revision</desc>
+		<joint>MBM406 QM (B);MBM406 QM (A)</joint>
+		<studentnos>100</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>23/09/13-30/09/13, 14/10/13</week>
+		<modulecode>MBM406 QM (B)</modulecode>
+		<activity>MBM406 Mba Block 1: Quantitative Methods/B/Lab Tutorial 01/wks 1-2, 4</activity>
+		<desc>FTMBA 2013 Mba Block 1: QM Tutorials B - Computer Lab : Weeks 1-2, 4</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2001</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/10/13</week>
+		<modulecode>MBM406 QM (B)</modulecode>
+		<activity>MBM406 Mba Block 1: Quantitative Methods/B/Tutorial 01/wk 3</activity>
+		<desc>FTMBA 2013 Mba Block 1: QM Tutorials B : Week 3 (replacement - standard room)</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2005</room>
+		<lecturer>Ribeiro, Carlos </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

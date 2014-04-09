@@ -1,65 +1,67 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>JOM311</modulecode>
-	<activity>JOM311 Design And Layout For Electronic Media/Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG13</room>
-	<lecturer>Thurman, Neil </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>JOM311</modulecode>
-	<activity>JOM311 Design and Layout for Electronic Media Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A108</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>JOM311</modulecode>
-	<activity>JOM311 Design And Layout For Electronic Media/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A227</room>
-	<lecturer>Thurman, Neil </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>JOM311</modulecode>
-	<activity>JOM311 Design and Layout for Electronic Media Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>B307A</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>17/03/14</week>
-	<modulecode>JOM311</modulecode>
-	<activity>JOM311 Design and Layout for Electronic Media Lab - backup</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>EG12</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>JOM311</modulecode>
+		<activity>JOM311 Design And Layout For Electronic Media/Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG13</room>
+		<lecturer>Thurman, Neil </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>JOM311</modulecode>
+		<activity>JOM311 Design and Layout for Electronic Media Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A108</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>JOM311</modulecode>
+		<activity>JOM311 Design And Layout For Electronic Media/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A227</room>
+		<lecturer>Thurman, Neil </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>JOM311</modulecode>
+		<activity>JOM311 Design and Layout for Electronic Media Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>B307A</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>17/03/14</week>
+		<modulecode>JOM311</modulecode>
+		<activity>JOM311 Design and Layout for Electronic Media Lab - backup</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>EG12</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

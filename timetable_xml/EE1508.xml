@@ -1,52 +1,54 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>EE1508</modulecode>
-	<activity>EE1508 Introduction to Engineering Mechanics/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>I106</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>EE1508</modulecode>
-	<activity>EE1508 Introduction to Engineering Mechanics/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>I106</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE1508</modulecode>
-	<activity>EE1508 Introduction to Engineering Mechanics/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C135</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>EE1508</modulecode>
-	<activity>EE1508 Introduction to Engineering Mechanics/Lecture 1/02</activity>
-	<desc>Extra session</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>EE1508</modulecode>
+		<activity>EE1508 Introduction to Engineering Mechanics/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>I106</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>EE1508</modulecode>
+		<activity>EE1508 Introduction to Engineering Mechanics/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>I106</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE1508</modulecode>
+		<activity>EE1508 Introduction to Engineering Mechanics/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C135</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>EE1508</modulecode>
+		<activity>EE1508 Introduction to Engineering Mechanics/Lecture 1/02</activity>
+		<desc>Extra session</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

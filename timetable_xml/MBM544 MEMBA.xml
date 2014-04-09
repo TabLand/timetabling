@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>18/11/13</week>
-	<modulecode>MBM544 MEMBA</modulecode>
-	<activity>MBM544 Competitive Intelligence/MEMBA12/Syn rooms 02</activity>
-	<desc>MEMBA12 - Syndicate rooms : M .Neugarten</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>N220;N214;N213;N206</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>18/11/13</week>
-	<modulecode>MBM544 MEMBA</modulecode>
-	<activity>MBM544 Competitive Intelligence/MEMBA12/Lecture 02</activity>
-	<desc>MEMBA12</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216b</room>
-	<lecturer>Neugarten, Michael </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>11/11/13</week>
-	<modulecode>MBM544 MEMBA</modulecode>
-	<activity>MBM544 Competitive Intelligence/MEMBA12/Syndicate rooms 01</activity>
-	<desc>MEMBA12 - Syndicate rooms : M .Neugarten</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>N220;N214;N213;N212</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>11/11/13</week>
-	<modulecode>MBM544 MEMBA</modulecode>
-	<activity>MBM544 Competitive Intelligence/MEMBA12/Lecture 01</activity>
-	<desc>MEMBA12</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216b</room>
-	<lecturer>Neugarten, Michael </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>18/11/13</week>
+		<modulecode>MBM544 MEMBA</modulecode>
+		<activity>MBM544 Competitive Intelligence/MEMBA12/Syn rooms 02</activity>
+		<desc>MEMBA12 - Syndicate rooms : M .Neugarten</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>N220;N214;N213;N206</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>18/11/13</week>
+		<modulecode>MBM544 MEMBA</modulecode>
+		<activity>MBM544 Competitive Intelligence/MEMBA12/Lecture 02</activity>
+		<desc>MEMBA12</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216b</room>
+		<lecturer>Neugarten, Michael </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>11/11/13</week>
+		<modulecode>MBM544 MEMBA</modulecode>
+		<activity>MBM544 Competitive Intelligence/MEMBA12/Syndicate rooms 01</activity>
+		<desc>MEMBA12 - Syndicate rooms : M .Neugarten</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>N220;N214;N213;N212</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>11/11/13</week>
+		<modulecode>MBM544 MEMBA</modulecode>
+		<activity>MBM544 Competitive Intelligence/MEMBA12/Lecture 01</activity>
+		<desc>MEMBA12</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216b</room>
+		<lecturer>Neugarten, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

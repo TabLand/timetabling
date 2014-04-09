@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-07/10/13, 21/10/13, 04/11/13-02/12/13</week>
-	<modulecode>SMM148 FIN</modulecode>
-	<activity>SMM148 Theory of Finance (MSc Fin)/T1/Lecture 01/wks 1-2,4, 6-10</activity>
-	<desc>MSc Fin: Weeks 1-2, 4, 6-10</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>LG001</room>
-	<lecturer>Nitzsche, Dirk </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>SMM148 FIN</modulecode>
-	<activity>SMM148 Theory of Finance (MSc Fin)/T1/Lecture 01/wk 3</activity>
-	<desc>MSc Fin: Week 3 only</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>LG002/3</room>
-	<lecturer>Nitzsche, Dirk </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>28/10/13</week>
-	<modulecode>SMM148 FIN</modulecode>
-	<activity>SMM148 Theory of Finance (MSc Fin)/T1/Lecture 01/wk 5</activity>
-	<desc>MSc Fin: Week 5 only (replacement due to wk 5 tests smm249)</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>G001</room>
-	<lecturer>Nitzsche, Dirk </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-07/10/13, 21/10/13, 04/11/13-02/12/13</week>
+		<modulecode>SMM148 FIN</modulecode>
+		<activity>SMM148 Theory of Finance (MSc Fin)/T1/Lecture 01/wks 1-2,4, 6-10</activity>
+		<desc>MSc Fin: Weeks 1-2, 4, 6-10</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>LG001</room>
+		<lecturer>Nitzsche, Dirk </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>SMM148 FIN</modulecode>
+		<activity>SMM148 Theory of Finance (MSc Fin)/T1/Lecture 01/wk 3</activity>
+		<desc>MSc Fin: Week 3 only</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>LG002/3</room>
+		<lecturer>Nitzsche, Dirk </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>28/10/13</week>
+		<modulecode>SMM148 FIN</modulecode>
+		<activity>SMM148 Theory of Finance (MSc Fin)/T1/Lecture 01/wk 5</activity>
+		<desc>MSc Fin: Week 5 only (replacement due to wk 5 tests smm249)</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>G001</room>
+		<lecturer>Nitzsche, Dirk </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

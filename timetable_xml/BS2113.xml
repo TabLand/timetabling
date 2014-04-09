@@ -1,65 +1,67 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-25/11/13, 09/12/13</week>
-	<modulecode>BS2113</modulecode>
-	<activity>BS2113 Management Accounting for Business/Lecture/WKS 1-5, 7-9, 11</activity>
-	<desc>Lecture plus 10 exchange: Weeks 1-5, 7-9, 11</desc>
-	<joint> </joint>
-	<studentnos>78</studentnos>
-	<room>AG22</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>04/11/13</week>
-	<modulecode>BS2113</modulecode>
-	<activity>BS2113 Management Accounting for Business/TEST 01/WK 6</activity>
-	<desc>Test : Week 6 only : 156 Seats Required for 78 students</desc>
-	<joint> </joint>
-	<studentnos>156</studentnos>
-	<room>Oakden</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>02/12/13</week>
-	<modulecode>BS2113</modulecode>
-	<activity>BS2113 Management Accounting for Business/TEST 02/WK 10</activity>
-	<desc>Test : Week 10 only : 156 Seats Required for 78 students</desc>
-	<joint> </joint>
-	<studentnos>76</studentnos>
-	<room>C338;C303</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS2113</modulecode>
-	<activity>BS2113 Management Accounting for Business/BUS/Tutorial 01</activity>
-	<desc>Group 1 BUS</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>C170</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>BS2113</modulecode>
-	<activity>BS2113 Management Accounting for Business/MGT/Tutorial 01</activity>
-	<desc>Group 2 MGT</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>A110</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-25/11/13, 09/12/13</week>
+		<modulecode>BS2113</modulecode>
+		<activity>BS2113 Management Accounting for Business/Lecture/WKS 1-5, 7-9, 11</activity>
+		<desc>Lecture plus 10 exchange: Weeks 1-5, 7-9, 11</desc>
+		<joint>-</joint>
+		<studentnos>78</studentnos>
+		<room>AG22</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>04/11/13</week>
+		<modulecode>BS2113</modulecode>
+		<activity>BS2113 Management Accounting for Business/TEST 01/WK 6</activity>
+		<desc>Test : Week 6 only : 156 Seats Required for 78 students</desc>
+		<joint>-</joint>
+		<studentnos>156</studentnos>
+		<room>Oakden</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>02/12/13</week>
+		<modulecode>BS2113</modulecode>
+		<activity>BS2113 Management Accounting for Business/TEST 02/WK 10</activity>
+		<desc>Test : Week 10 only : 156 Seats Required for 78 students</desc>
+		<joint>-</joint>
+		<studentnos>76</studentnos>
+		<room>C338;C303</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS2113</modulecode>
+		<activity>BS2113 Management Accounting for Business/BUS/Tutorial 01</activity>
+		<desc>Group 1 BUS</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>C170</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>BS2113</modulecode>
+		<activity>BS2113 Management Accounting for Business/MGT/Tutorial 01</activity>
+		<desc>Group 2 MGT</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>A110</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

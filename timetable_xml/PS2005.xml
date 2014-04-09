@@ -1,52 +1,54 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>PS2005</modulecode>
-	<activity>PS2005 Developmental Psychology/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Birley</room>
-	<lecturer>Todd, Brenda </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/02/14, 10/03/14-24/03/14, 07/04/14</week>
-	<modulecode>PS2005</modulecode>
-	<activity>PS2005 Developmental Psychology/Drop-In Clinic 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D412</room>
-	<lecturer>Todd, Brenda </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/02/14</week>
-	<modulecode>PS2005</modulecode>
-	<activity>PS2005 Developmental Psychology/Tutorial 01/Feb 26th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D111</room>
-	<lecturer>Todd, Brenda </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>31/03/14</week>
-	<modulecode>PS2005</modulecode>
-	<activity>PS2005 Developmental Psychology/Tutorial 01/Apr 2nd</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D222</room>
-	<lecturer>Todd, Brenda </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>PS2005</modulecode>
+		<activity>PS2005 Developmental Psychology/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Birley</room>
+		<lecturer>Todd, Brenda </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/02/14, 10/03/14-24/03/14, 07/04/14</week>
+		<modulecode>PS2005</modulecode>
+		<activity>PS2005 Developmental Psychology/Drop-In Clinic 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D412</room>
+		<lecturer>Todd, Brenda </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/02/14</week>
+		<modulecode>PS2005</modulecode>
+		<activity>PS2005 Developmental Psychology/Tutorial 01/Feb 26th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D111</room>
+		<lecturer>Todd, Brenda </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>31/03/14</week>
+		<modulecode>PS2005</modulecode>
+		<activity>PS2005 Developmental Psychology/Tutorial 01/Apr 2nd</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D222</room>
+		<lecturer>Todd, Brenda </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

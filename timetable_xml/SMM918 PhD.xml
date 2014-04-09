@@ -1,13 +1,15 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM918 PhD</modulecode>
-	<activity>SMM918 Empirical Corporate Finance/PhD/Lecture 1/01</activity>
-	<desc>PhD: Finance students: Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Schroth, Enrique </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM918 PhD</modulecode>
+		<activity>SMM918 Empirical Corporate Finance/PhD/Lecture 1/01</activity>
+		<desc>PhD: Finance students: Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Schroth, Enrique </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

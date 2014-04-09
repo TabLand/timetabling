@@ -1,26 +1,28 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>SMM271</modulecode>
-	<activity>SMM271 Econometrics of Financial Markets/Lecture/wk 8</activity>
-	<desc>QF/SMU - additional lecture : Week 8 only</desc>
-	<joint> </joint>
-	<studentnos>49</studentnos>
-	<room>2005</room>
-	<lecturer>Urga, Giovanni </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM271</modulecode>
-	<activity>SMM271 Econometrics of Financial Markets/Lecture 1/01</activity>
-	<desc>QF/SMU</desc>
-	<joint> </joint>
-	<studentnos>49</studentnos>
-	<room>3003</room>
-	<lecturer>Urga, Giovanni </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>SMM271</modulecode>
+		<activity>SMM271 Econometrics of Financial Markets/Lecture/wk 8</activity>
+		<desc>QF/SMU - additional lecture : Week 8 only</desc>
+		<joint>-</joint>
+		<studentnos>49</studentnos>
+		<room>2005</room>
+		<lecturer>Urga, Giovanni </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM271</modulecode>
+		<activity>SMM271 Econometrics of Financial Markets/Lecture 1/01</activity>
+		<desc>QF/SMU</desc>
+		<joint>-</joint>
+		<studentnos>49</studentnos>
+		<room>3003</room>
+		<lecturer>Urga, Giovanni </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

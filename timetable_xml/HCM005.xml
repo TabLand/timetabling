@@ -1,52 +1,54 @@
-<booking>
-	<start>12:00</start>
-	<end>15:30</end>
-	<week>03/02/14</week>
-	<modulecode>HCM005</modulecode>
-	<activity>HCM005 Developmental Language Impairment/Lecture/wks 2-11</activity>
-	<desc>Spring DLI: Week 2</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG24b</room>
-	<lecturer>Chiat, Shula </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>HCM005</modulecode>
-	<activity>HCM005 HOLDING/wk 1/30th Jan</activity>
-	<desc>Spring DLI (replacement room wk 1 only )</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D107</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>HCM005</modulecode>
-	<activity>HCM005 Developmental Language Impairment/Lecture/wk 1/30th Jan</activity>
-	<desc>Spring DLI (replacement room wk 1 only )</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>A112</room>
-	<lecturer>Chiat, Shula </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>10/02/14-07/04/14</week>
-	<modulecode>HCM005</modulecode>
-	<activity>HCM005 Developmental Language Impairment/Lecture/wks 2-11</activity>
-	<desc>Spring DLI: Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>Chiat, Shula </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>15:30</end>
+		<week>03/02/14</week>
+		<modulecode>HCM005</modulecode>
+		<activity>HCM005 Developmental Language Impairment/Lecture/wks 2-11</activity>
+		<desc>Spring DLI: Week 2</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG24b</room>
+		<lecturer>Chiat, Shula </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>HCM005</modulecode>
+		<activity>HCM005 HOLDING/wk 1/30th Jan</activity>
+		<desc>Spring DLI (replacement room wk 1 only )</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D107</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>HCM005</modulecode>
+		<activity>HCM005 Developmental Language Impairment/Lecture/wk 1/30th Jan</activity>
+		<desc>Spring DLI (replacement room wk 1 only )</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>A112</room>
+		<lecturer>Chiat, Shula </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>10/02/14-07/04/14</week>
+		<modulecode>HCM005</modulecode>
+		<activity>HCM005 Developmental Language Impairment/Lecture/wks 2-11</activity>
+		<desc>Spring DLI: Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>Chiat, Shula </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

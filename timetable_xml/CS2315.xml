@@ -1,26 +1,28 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2315</modulecode>
-	<activity>CS2315 Documentary and Factual Programme Making term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG08</room>
-	<lecturer>Gibson, Nicola </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS2315</modulecode>
-	<activity>CS2315 Documentary and Factual Programme Making term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ALG16</room>
-	<lecturer>Gibson, Nicola </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2315</modulecode>
+		<activity>CS2315 Documentary and Factual Programme Making term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG08</room>
+		<lecturer>Gibson, Nicola </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS2315</modulecode>
+		<activity>CS2315 Documentary and Factual Programme Making term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ALG16</room>
+		<lecturer>Gibson, Nicola </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

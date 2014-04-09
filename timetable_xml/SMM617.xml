@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM617</modulecode>
-	<activity>SMM617 Advanced Financial Engineering & Credit Derivatives/Lecture 01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>3002</room>
-	<lecturer>Hatgioannides, John </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM617</modulecode>
+		<activity>SMM617 Advanced Financial Engineering & Credit Derivatives/Lecture 01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>3002</room>
+		<lecturer>Hatgioannides, John </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

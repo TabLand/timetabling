@@ -1,39 +1,41 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM372 (FT)</modulecode>
-	<activity>INM372 Project Management/Lecture (FT) (JOINT)</activity>
-	<desc> </desc>
-	<joint>IN3040;INM372 (FT)</joint>
-	<studentnos>60</studentnos>
-	<room> </room>
-	<lecturer>VL 06 - IISOIN </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM372 (FT)</modulecode>
-	<activity>INM372 Project Management/Tutorial 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>VL 06 - IISOIN </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM372 (FT)</modulecode>
-	<activity>INM372 Project Management/Tutorial 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>VL 04 - IISOIN </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM372 (FT)</modulecode>
+		<activity>INM372 Project Management/Lecture (FT) (JOINT)</activity>
+		<desc>-</desc>
+		<joint>IN3040;INM372 (FT)</joint>
+		<studentnos>60</studentnos>
+		<room>-</room>
+		<lecturer>VL 06 - IISOIN </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM372 (FT)</modulecode>
+		<activity>INM372 Project Management/Tutorial 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>VL 06 - IISOIN </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM372 (FT)</modulecode>
+		<activity>INM372 Project Management/Tutorial 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>VL 04 - IISOIN </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

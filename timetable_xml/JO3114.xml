@@ -1,117 +1,119 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 Advanced Practical Journalism term 1 (Mon)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG29a;AG29b;AG34a;AG34b</room>
-	<lecturer>Warr, Sandy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 Advanced Practical Journalism Radio term 2 (Mon)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG34b;AG34a;AG29b;AG29a</room>
-	<lecturer>Overton, Bill </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 Advanced Practical Journalism term 1 (Mon)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG29a;AG29b;AG34a;AG34b</room>
-	<lecturer>Warr, Sandy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 Advanced Practical Journalism Radio term 2 (Mon)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>AG34b;AG34a;AG29b;AG29a</room>
-	<lecturer>Overton, Bill </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>JO3114</modulecode>
-	<activity>Year 3 Introductory meeting</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>64</studentnos>
-	<room>C302</room>
-	<lecturer>Schofield, Barbara </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>30/09/13</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 Voice Presentation lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>D220</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>07/10/13</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 News Bulletins</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>D220</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>30/09/13</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 Voice Presentation lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>AG11</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>07/10/13</week>
-	<modulecode>JO3114</modulecode>
-	<activity>JO3114 News bulletins</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>A110</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 Advanced Practical Journalism term 1 (Mon)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG29a;AG29b;AG34a;AG34b</room>
+		<lecturer>Warr, Sandy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 Advanced Practical Journalism Radio term 2 (Mon)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG34b;AG34a;AG29b;AG29a</room>
+		<lecturer>Overton, Bill </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 Advanced Practical Journalism term 1 (Mon)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG29a;AG29b;AG34a;AG34b</room>
+		<lecturer>Warr, Sandy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 Advanced Practical Journalism Radio term 2 (Mon)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>AG34b;AG34a;AG29b;AG29a</room>
+		<lecturer>Overton, Bill </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>JO3114</modulecode>
+		<activity>Year 3 Introductory meeting</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>64</studentnos>
+		<room>C302</room>
+		<lecturer>Schofield, Barbara </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>30/09/13</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 Voice Presentation lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>D220</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>07/10/13</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 News Bulletins</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>D220</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>30/09/13</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 Voice Presentation lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>AG11</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>07/10/13</week>
+		<modulecode>JO3114</modulecode>
+		<activity>JO3114 News bulletins</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>A110</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM301</modulecode>
-	<activity>SMM301 Mathematical Models For Financial Derivatives/Lecture 01/1</activity>
-	<desc>FM</desc>
-	<joint>SMM301;SMM254</joint>
-	<studentnos>18</studentnos>
-	<room>2005</room>
-	<lecturer>Ballotta, Laura </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM301</modulecode>
+		<activity>SMM301 Mathematical Models For Financial Derivatives/Lecture 01/1</activity>
+		<desc>FM</desc>
+		<joint>SMM301;SMM254</joint>
+		<studentnos>18</studentnos>
+		<room>2005</room>
+		<lecturer>Ballotta, Laura </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

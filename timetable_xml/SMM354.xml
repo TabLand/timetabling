@@ -1,65 +1,67 @@
-<booking>
-	<start>13:10</start>
-	<end>17:00</end>
-	<week>20/01/14</week>
-	<modulecode>SMM354</modulecode>
-	<activity>SMM354 Principles of Finance & Financial Analysis - Invigilated Test</activity>
-	<desc>Sharron Charles 8850</desc>
-	<joint> </joint>
-	<studentnos>75</studentnos>
-	<room>3002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>17:00</end>
-	<week>20/01/14</week>
-	<modulecode>SMM354</modulecode>
-	<activity>SMM354 Principles of Finance & Financial Analysis - Invigilated Test</activity>
-	<desc>Sharron Charles 8850</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM354</modulecode>
-	<activity>SMM354 Principles Of Finance & Financial Analysis/T1/Lecture 01</activity>
-	<desc>Autumn Term 1 : FT & YR2</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2004</room>
-	<lecturer>Staikouras, Sotiris </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM354</modulecode>
-	<activity>SMM354 Principles Of Finance & Financial Analysis/T2/Lecture 01</activity>
-	<desc>Spring Term 2 : IRM :Exempt Route students :</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2007</room>
-	<lecturer>Chen, Cherie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>07/10/13</week>
-	<modulecode>SMM354</modulecode>
-	<activity>SMM354 Principles Of Finance & Financial Analysis/T1/Extra Lecture/wk 2</activity>
-	<desc>Autumn Term 1 : FT & YR2 : Extra lecture : Week 2 only</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2006</room>
-	<lecturer>Staikouras, Sotiris </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>17:00</end>
+		<week>20/01/14</week>
+		<modulecode>SMM354</modulecode>
+		<activity>SMM354 Principles of Finance & Financial Analysis - Invigilated Test</activity>
+		<desc>Sharron Charles 8850</desc>
+		<joint>-</joint>
+		<studentnos>75</studentnos>
+		<room>3002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>17:00</end>
+		<week>20/01/14</week>
+		<modulecode>SMM354</modulecode>
+		<activity>SMM354 Principles of Finance & Financial Analysis - Invigilated Test</activity>
+		<desc>Sharron Charles 8850</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM354</modulecode>
+		<activity>SMM354 Principles Of Finance & Financial Analysis/T1/Lecture 01</activity>
+		<desc>Autumn Term 1 : FT & YR2</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2004</room>
+		<lecturer>Staikouras, Sotiris </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM354</modulecode>
+		<activity>SMM354 Principles Of Finance & Financial Analysis/T2/Lecture 01</activity>
+		<desc>Spring Term 2 : IRM :Exempt Route students :</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2007</room>
+		<lecturer>Chen, Cherie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>07/10/13</week>
+		<modulecode>SMM354</modulecode>
+		<activity>SMM354 Principles Of Finance & Financial Analysis/T1/Extra Lecture/wk 2</activity>
+		<desc>Autumn Term 1 : FT & YR2 : Extra lecture : Week 2 only</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2006</room>
+		<lecturer>Staikouras, Sotiris </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

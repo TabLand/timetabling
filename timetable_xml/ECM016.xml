@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>ECM016</modulecode>
-	<activity>ECM016 Economics of Financial Markets/Lecture 01/Monday</activity>
-	<desc>Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>41</studentnos>
-	<room>C302</room>
-	<lecturer>Corsi, Fulvio </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>ECM016</modulecode>
-	<activity>ECM016 Economics of Financial Markets/Lecture 02/Wednesday</activity>
-	<desc>Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>41</studentnos>
-	<room>DLG03</room>
-	<lecturer>Corsi, Fulvio </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>ECM016</modulecode>
+		<activity>ECM016 Economics of Financial Markets/Lecture 01/Monday</activity>
+		<desc>Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>41</studentnos>
+		<room>C302</room>
+		<lecturer>Corsi, Fulvio </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>ECM016</modulecode>
+		<activity>ECM016 Economics of Financial Markets/Lecture 02/Wednesday</activity>
+		<desc>Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>41</studentnos>
+		<room>DLG03</room>
+		<lecturer>Corsi, Fulvio </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,52 +1,54 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>LU1009</modulecode>
-	<activity>LU1009 Employability & The Graduate Market/Lecture 2/01/Jan 27th</activity>
-	<desc>Week 1 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>325</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Gilchrist, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>03/02/14, 03/03/14-10/03/14</week>
-	<modulecode>LU1009</modulecode>
-	<activity>LU1009 Employability & The Graduate Market/Lecture 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>325</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-07/10/13, 11/11/13</week>
-	<modulecode>LU1009</modulecode>
-	<activity>LU1009 Employability & The Graduate Market/Lecture 1/01</activity>
-	<desc>Weeks 1, 2 & 7</desc>
-	<joint> </joint>
-	<studentnos>325</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>04/11/13</week>
-	<modulecode>LU1009</modulecode>
-	<activity>LU1009 Employability & The Graduate Market/Lecture 1/Nov 5th</activity>
-	<desc>Week 6: Different Location</desc>
-	<joint> </joint>
-	<studentnos>325</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>LU1009</modulecode>
+		<activity>LU1009 Employability & The Graduate Market/Lecture 2/01/Jan 27th</activity>
+		<desc>Week 1 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>325</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Gilchrist, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>03/02/14, 03/03/14-10/03/14</week>
+		<modulecode>LU1009</modulecode>
+		<activity>LU1009 Employability & The Graduate Market/Lecture 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>325</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-07/10/13, 11/11/13</week>
+		<modulecode>LU1009</modulecode>
+		<activity>LU1009 Employability & The Graduate Market/Lecture 1/01</activity>
+		<desc>Weeks 1, 2 & 7</desc>
+		<joint>-</joint>
+		<studentnos>325</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>04/11/13</week>
+		<modulecode>LU1009</modulecode>
+		<activity>LU1009 Employability & The Graduate Market/Lecture 1/Nov 5th</activity>
+		<desc>Week 6: Different Location</desc>
+		<joint>-</joint>
+		<studentnos>325</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

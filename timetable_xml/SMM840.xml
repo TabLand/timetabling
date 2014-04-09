@@ -1,26 +1,28 @@
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>07/04/14</week>
-	<modulecode>SMM840</modulecode>
-	<activity>SMM840 Strategic Issues/Lecture 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>2002</room>
-	<lecturer>Hailey, John Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>12/05/14</week>
-	<modulecode>SMM840</modulecode>
-	<activity>SMM840 Strategic Issues/Lecture 03/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>2005</room>
-	<lecturer>Hailey, John Prof. </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>07/04/14</week>
+		<modulecode>SMM840</modulecode>
+		<activity>SMM840 Strategic Issues/Lecture 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>2002</room>
+		<lecturer>Hailey, John Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>12/05/14</week>
+		<modulecode>SMM840</modulecode>
+		<activity>SMM840 Strategic Issues/Lecture 03/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>2005</room>
+		<lecturer>Hailey, John Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

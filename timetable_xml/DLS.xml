@@ -1,390 +1,392 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>14/07/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>R in Insurance Conference 2014</activity>
-	<desc>Andreas Tsanakas 5166</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>Tsanakas, Andreas;Haberman, Steve </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>20:00</end>
-	<week>14/07/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>R in Insurance Conference 2014/Bookable teaching only</activity>
-	<desc>Andreas Tsanakas 5166 - LG002/3 not in use ,booked due to noise in LG milling area</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>Tsanakas, Andreas </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>29/07/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>NUS Change Leadership Day 1</activity>
-	<desc>Matthew Guest 0901</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Mais Lecture/SET UP</activity>
-	<desc>Mariam Marinescu 0909 - ROOM SET UP only</desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>21:00</end>
-	<week>17/03/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Mais Lecture/ROOM SET UP</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/03/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Mais Lecture</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>29/07/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>NUS Change Leadership Day 2</activity>
-	<desc>Matthew Guest 0901</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>17:10</start>
-	<end>21:00</end>
-	<week>16/12/13, 06/01/14-20/01/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/After Term 1</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>17:10</start>
-	<end>21:00</end>
-	<week>14/04/14-05/05/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/After Term 2/</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>17:10</start>
-	<end>21:00</end>
-	<week>30/06/14-21/07/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/After Term 3/</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13, 25/11/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 1</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-07/10/13, 21/10/13-09/12/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 1/Breakout/Weeks 1-2, 4-11</activity>
-	<desc>Mariam Marinescu 0909 : Weeks 1-2, 4-11</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>07/10/13, 11/11/13-18/11/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 1</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/10/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 1</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>21/10/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 1</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 1</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>04/11/13, 09/12/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 1</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>16/12/13, 06/01/14-20/01/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/After Term 1/Breakout</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>03/02/14-24/02/14, 10/03/14, 31/03/14-07/04/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 2/Breakout/Weeks 2-5, 7,10-11</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>03/02/14-24/02/14, 10/03/14, 31/03/14-07/04/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 2/Weeks 2-5, 7, 10-11</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>24/03/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Annual Address by Lord Turner/Dean's Lecture Series/Term 2/Breakout/Week 9</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>24/03/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Annual Address by Lord Turner/Dean's Lecture Series/Term 2/Week 9</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/04/14-05/05/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/After Term 2/Breakout</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-19/05/14, 09/06/14-16/06/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/Term 3/Weeks 1-2, 5-6</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/06/14-21/07/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>Dean's Lecture Series/After Term 3/Breakout</activity>
-	<desc>Mariam Marinescu 0909</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:00</end>
-	<week>05/05/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>EMG Workshop/KPhylaktis</activity>
-	<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>2002;2003;2004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>13:30</end>
-	<week>21/10/13</week>
-	<modulecode>DLS</modulecode>
-	<activity>Morgan Stanley Presentation</activity>
-	<desc>Charles Statham 5214</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>05/05/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>EMG Workshop/KPhylaktis</activity>
-	<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>180</studentnos>
-	<room>LG001</room>
-	<lecturer>Phylaktis, Kate </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:00</end>
-	<week>05/05/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>EMG Workshop/KPhylaktis</activity>
-	<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>2002;2003;2004</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>05/05/14</week>
-	<modulecode>DLS</modulecode>
-	<activity>EMG Workshop/KPhylaktis</activity>
-	<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>180</studentnos>
-	<room>LG001</room>
-	<lecturer>Phylaktis, Kate </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>14/07/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>R in Insurance Conference 2014</activity>
+		<desc>Andreas Tsanakas 5166</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>Tsanakas, Andreas;Haberman, Steve </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>20:00</end>
+		<week>14/07/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>R in Insurance Conference 2014/Bookable teaching only</activity>
+		<desc>Andreas Tsanakas 5166 - LG002/3 not in use ,booked due to noise in LG milling area</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>Tsanakas, Andreas </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>29/07/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>NUS Change Leadership Day 1</activity>
+		<desc>Matthew Guest 0901</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Mais Lecture/SET UP</activity>
+		<desc>Mariam Marinescu 0909 - ROOM SET UP only</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>21:00</end>
+		<week>17/03/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Mais Lecture/ROOM SET UP</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/03/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Mais Lecture</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>29/07/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>NUS Change Leadership Day 2</activity>
+		<desc>Matthew Guest 0901</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>17:10</start>
+		<end>21:00</end>
+		<week>16/12/13, 06/01/14-20/01/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/After Term 1</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>17:10</start>
+		<end>21:00</end>
+		<week>14/04/14-05/05/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/After Term 2/</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>17:10</start>
+		<end>21:00</end>
+		<week>30/06/14-21/07/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/After Term 3/</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13, 25/11/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 1</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-07/10/13, 21/10/13-09/12/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 1/Breakout/Weeks 1-2, 4-11</activity>
+		<desc>Mariam Marinescu 0909 : Weeks 1-2, 4-11</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>07/10/13, 11/11/13-18/11/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 1</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/10/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 1</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>21/10/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 1</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 1</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>04/11/13, 09/12/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 1</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>16/12/13, 06/01/14-20/01/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/After Term 1/Breakout</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>03/02/14-24/02/14, 10/03/14, 31/03/14-07/04/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 2/Breakout/Weeks 2-5, 7,10-11</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>03/02/14-24/02/14, 10/03/14, 31/03/14-07/04/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 2/Weeks 2-5, 7, 10-11</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>24/03/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Annual Address by Lord Turner/Dean's Lecture Series/Term 2/Breakout/Week 9</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>24/03/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Annual Address by Lord Turner/Dean's Lecture Series/Term 2/Week 9</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/04/14-05/05/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/After Term 2/Breakout</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-19/05/14, 09/06/14-16/06/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/Term 3/Weeks 1-2, 5-6</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/06/14-21/07/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>Dean's Lecture Series/After Term 3/Breakout</activity>
+		<desc>Mariam Marinescu 0909</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:00</end>
+		<week>05/05/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>EMG Workshop/KPhylaktis</activity>
+		<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>2002;2003;2004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>13:30</end>
+		<week>21/10/13</week>
+		<modulecode>DLS</modulecode>
+		<activity>Morgan Stanley Presentation</activity>
+		<desc>Charles Statham 5214</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>05/05/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>EMG Workshop/KPhylaktis</activity>
+		<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>180</studentnos>
+		<room>LG001</room>
+		<lecturer>Phylaktis, Kate </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:00</end>
+		<week>05/05/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>EMG Workshop/KPhylaktis</activity>
+		<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>2002;2003;2004</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>05/05/14</week>
+		<modulecode>DLS</modulecode>
+		<activity>EMG Workshop/KPhylaktis</activity>
+		<desc>Kate Phylaktis 8735, Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>180</studentnos>
+		<room>LG001</room>
+		<lecturer>Phylaktis, Kate </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

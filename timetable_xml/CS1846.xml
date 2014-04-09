@@ -1,26 +1,28 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1846</modulecode>
-	<activity>CS1846 Spanish Accelerated - Year 1 term 2 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>DLG09</room>
-	<lecturer>Rivas, Ana </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1846</modulecode>
-	<activity>CS1846 Spanish Accelerated - Year 1 term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG24b</room>
-	<lecturer>Rivas, Ana </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1846</modulecode>
+		<activity>CS1846 Spanish Accelerated - Year 1 term 2 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>DLG09</room>
+		<lecturer>Rivas, Ana </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1846</modulecode>
+		<activity>CS1846 Spanish Accelerated - Year 1 term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG24b</room>
+		<lecturer>Rivas, Ana </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

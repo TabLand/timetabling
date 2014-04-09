@@ -1,26 +1,28 @@
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>24/02/14, 10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>CC3009</modulecode>
-	<activity>CC3009 Education and Learning in the Cultural Sector (BACI)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D113</room>
-	<lecturer>Stanley, Denise </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>31/03/14</week>
-	<modulecode>CC3009</modulecode>
-	<activity>CC3009 Education and Learning in the Cultural Sector (BACI)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A226</room>
-	<lecturer>Stanley, Denise </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>24/02/14, 10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>CC3009</modulecode>
+		<activity>CC3009 Education and Learning in the Cultural Sector (BACI)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D113</room>
+		<lecturer>Stanley, Denise </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>31/03/14</week>
+		<modulecode>CC3009</modulecode>
+		<activity>CC3009 Education and Learning in the Cultural Sector (BACI)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A226</room>
+		<lecturer>Stanley, Denise </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,65 +1,67 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>AE3250</modulecode>
-	<activity>AE3250 Avionics And Control/Lecture 1/01/JOINT</activity>
-	<desc>Control. Joint with EE2401/ME3101/AE3214: total numbers 110 *</desc>
-	<joint>AE3214;AE3250;EE2401;ME3101</joint>
-	<studentnos>12</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-25/11/13</week>
-	<modulecode>AE3250</modulecode>
-	<activity>AE3250 Avionics And Control/Lab 1/01/JOINT</activity>
-	<desc>Joint with ME3101/AE3214/EE2401 *</desc>
-	<joint>AE3214;AE3250;EE2401;ME3101</joint>
-	<studentnos>2</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>13/01/14</week>
-	<modulecode>AE3250</modulecode>
-	<activity>AE3250 Avionics And Control/Revision Tutorial 1/01/JOINT</activity>
-	<desc>Joint with EE2401/AE3214/ME3101: total numbers 110 *</desc>
-	<joint>AE3250;ME3101;AE3214;EE2401</joint>
-	<studentnos>12</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>AE3250</modulecode>
-	<activity>AE3250 Avionics And Control/Tutorial 1/01/JOINT</activity>
-	<desc>Joint with EE2401/AE3214/ME3101: total numbers 110 *</desc>
-	<joint>ME3101;EE2401;AE3250;AE3214</joint>
-	<studentnos>12</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>AE3250</modulecode>
-	<activity>AE3250 Avionics And Control/Lab Sems 1/01/JOINT</activity>
-	<desc>Joint with ME3101/AE3214/AE3250 *</desc>
-	<joint>ME3101;AE3250;AE3214;EE2401;EE2401</joint>
-	<studentnos>9</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>AE3250</modulecode>
+		<activity>AE3250 Avionics And Control/Lecture 1/01/JOINT</activity>
+		<desc>Control. Joint with EE2401/ME3101/AE3214: total numbers 110 *</desc>
+		<joint>AE3214;AE3250;EE2401;ME3101</joint>
+		<studentnos>12</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-25/11/13</week>
+		<modulecode>AE3250</modulecode>
+		<activity>AE3250 Avionics And Control/Lab 1/01/JOINT</activity>
+		<desc>Joint with ME3101/AE3214/EE2401 *</desc>
+		<joint>AE3214;AE3250;EE2401;ME3101</joint>
+		<studentnos>2</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>13/01/14</week>
+		<modulecode>AE3250</modulecode>
+		<activity>AE3250 Avionics And Control/Revision Tutorial 1/01/JOINT</activity>
+		<desc>Joint with EE2401/AE3214/ME3101: total numbers 110 *</desc>
+		<joint>AE3250;ME3101;AE3214;EE2401</joint>
+		<studentnos>12</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>AE3250</modulecode>
+		<activity>AE3250 Avionics And Control/Tutorial 1/01/JOINT</activity>
+		<desc>Joint with EE2401/AE3214/ME3101: total numbers 110 *</desc>
+		<joint>ME3101;EE2401;AE3250;AE3214</joint>
+		<studentnos>12</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>AE3250</modulecode>
+		<activity>AE3250 Avionics And Control/Lab Sems 1/01/JOINT</activity>
+		<desc>Joint with ME3101/AE3214/AE3250 *</desc>
+		<joint>ME3101;AE3250;AE3214;EE2401;EE2401</joint>
+		<studentnos>9</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

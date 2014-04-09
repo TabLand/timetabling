@@ -1,52 +1,54 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>JOM248</modulecode>
-	<activity>JOM248 Investigative Reporting 1 term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A227</room>
-	<lecturer>Leigh, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>17/03/14</week>
-	<modulecode>JOM248</modulecode>
-	<activity>JOM248 Investigative Reporting 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C337</room>
-	<lecturer>Leigh, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>14/10/13-25/11/13</week>
-	<modulecode>JOM248</modulecode>
-	<activity>JOM248 Investigative Reporting 1 term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>D221</room>
-	<lecturer>Leigh, David </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-10/03/14</week>
-	<modulecode>JOM248</modulecode>
-	<activity>JOM248 Investigative Reporting 1 term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>C303</room>
-	<lecturer>Leigh, David </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>JOM248</modulecode>
+		<activity>JOM248 Investigative Reporting 1 term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A227</room>
+		<lecturer>Leigh, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>17/03/14</week>
+		<modulecode>JOM248</modulecode>
+		<activity>JOM248 Investigative Reporting 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C337</room>
+		<lecturer>Leigh, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>14/10/13-25/11/13</week>
+		<modulecode>JOM248</modulecode>
+		<activity>JOM248 Investigative Reporting 1 term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>D221</room>
+		<lecturer>Leigh, David </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-10/03/14</week>
+		<modulecode>JOM248</modulecode>
+		<activity>JOM248 Investigative Reporting 1 term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>C303</room>
+		<lecturer>Leigh, David </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

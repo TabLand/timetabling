@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>LA0023</modulecode>
-	<activity>LA0023 Extracurricular Business Manadarin Beginner Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C150</room>
-	<lecturer>Huang, Yinghong </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>LA0023</modulecode>
-	<activity>LA0023 Extracurricular Business Manadarin Beginner Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM03</room>
-	<lecturer>Huang, Yinghong </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>14/10/13-09/12/13</week>
-	<modulecode>LA0023</modulecode>
-	<activity>LA0023 Extracurricular Business Manadarin Beginner Autumn/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C339</room>
-	<lecturer>Huang, Yinghong </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>LA0023</modulecode>
+		<activity>LA0023 Extracurricular Business Manadarin Beginner Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C150</room>
+		<lecturer>Huang, Yinghong </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>LA0023</modulecode>
+		<activity>LA0023 Extracurricular Business Manadarin Beginner Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM03</room>
+		<lecturer>Huang, Yinghong </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>14/10/13-09/12/13</week>
+		<modulecode>LA0023</modulecode>
+		<activity>LA0023 Extracurricular Business Manadarin Beginner Autumn/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C339</room>
+		<lecturer>Huang, Yinghong </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

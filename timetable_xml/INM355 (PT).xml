@@ -1,13 +1,15 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM355 (PT)</modulecode>
-	<activity>INM355 Interaction Design/Lecture (PT)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C300</room>
-	<lecturer>Wilson, Stephanie;Buchanan, George </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM355 (PT)</modulecode>
+		<activity>INM355 Interaction Design/Lecture (PT)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C300</room>
+		<lecturer>Wilson, Stephanie;Buchanan, George </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

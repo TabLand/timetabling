@@ -1,65 +1,67 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/06/14</week>
-	<modulecode>MBM137 EMBA</modulecode>
-	<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
-	<desc>runs overseas - no room required in Cass.</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/06/14</week>
-	<modulecode>MBM137 EMBA</modulecode>
-	<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
-	<desc>runs overseas - no room required in Cass.</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/06/14</week>
-	<modulecode>MBM137 EMBA</modulecode>
-	<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
-	<desc>runs overseas - no room required in Cass.</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/06/14</week>
-	<modulecode>MBM137 EMBA</modulecode>
-	<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
-	<desc>runs overseas - no room required in Cass.</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>16/06/14</week>
-	<modulecode>MBM137 EMBA</modulecode>
-	<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
-	<desc>runs overseas - no room required in Cass.</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/06/14</week>
+		<modulecode>MBM137 EMBA</modulecode>
+		<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
+		<desc>runs overseas - no room required in Cass.</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/06/14</week>
+		<modulecode>MBM137 EMBA</modulecode>
+		<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
+		<desc>runs overseas - no room required in Cass.</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/06/14</week>
+		<modulecode>MBM137 EMBA</modulecode>
+		<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
+		<desc>runs overseas - no room required in Cass.</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/06/14</week>
+		<modulecode>MBM137 EMBA</modulecode>
+		<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
+		<desc>runs overseas - no room required in Cass.</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>16/06/14</week>
+		<modulecode>MBM137 EMBA</modulecode>
+		<activity>MBM137 China International EMBA overseas/no room req'd/02</activity>
+		<desc>runs overseas - no room required in Cass.</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

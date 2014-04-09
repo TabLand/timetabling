@@ -1,91 +1,93 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1018</modulecode>
-	<activity>IP1018 Politics and Power in the Twentieth Century/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>110</studentnos>
-	<room>BG02</room>
-	<lecturer>Davies, Tom </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1018</modulecode>
-	<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG04</room>
-	<lecturer>Biswas, Niloy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1018</modulecode>
-	<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C348</room>
-	<lecturer>Biswas, Niloy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1018</modulecode>
-	<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C322</room>
-	<lecturer>Biswas, Niloy </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1018</modulecode>
-	<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/06</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Ryan, Holly </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1018</modulecode>
-	<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D220</room>
-	<lecturer>Biswas, Niloy </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1018</modulecode>
-	<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG11</room>
-	<lecturer>Biswas, Niloy </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1018</modulecode>
+		<activity>IP1018 Politics and Power in the Twentieth Century/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>110</studentnos>
+		<room>BG02</room>
+		<lecturer>Davies, Tom </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1018</modulecode>
+		<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG04</room>
+		<lecturer>Biswas, Niloy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1018</modulecode>
+		<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C348</room>
+		<lecturer>Biswas, Niloy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1018</modulecode>
+		<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C322</room>
+		<lecturer>Biswas, Niloy </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1018</modulecode>
+		<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/06</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Ryan, Holly </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1018</modulecode>
+		<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D220</room>
+		<lecturer>Biswas, Niloy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1018</modulecode>
+		<activity>IP1018 Politics and Power in the Twentieth Century/Tutorial 01/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG11</room>
+		<lecturer>Biswas, Niloy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

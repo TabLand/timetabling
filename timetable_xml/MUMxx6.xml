@@ -1,13 +1,15 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>MUMxx6</modulecode>
-	<activity>MUM112 Popular Music and Society</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG09</room>
-	<lecturer>Wiley, Chris </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>MUMxx6</modulecode>
+		<activity>MUM112 Popular Music and Society</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG09</room>
+		<lecturer>Wiley, Chris </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

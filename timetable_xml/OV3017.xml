@@ -1,325 +1,327 @@
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>30/09/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/01</activity>
-	<desc>C1-C4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>07/10/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/02</activity>
-	<desc>D1-D4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>14/10/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/03</activity>
-	<desc>A1-A4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>21/10/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/04</activity>
-	<desc>B1-B4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>04/11/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/02</activity>
-	<desc>D1-D4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>11/11/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/03</activity>
-	<desc>A1-A4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>18/11/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/04</activity>
-	<desc>B1-B4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>25/11/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/01</activity>
-	<desc>C1-C4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>02/12/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/02</activity>
-	<desc>D1-D4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>09/12/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/03</activity>
-	<desc>A1-A4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C322</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>27/01/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/04</activity>
-	<desc>B1-B4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>03/02/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/01</activity>
-	<desc>A1-A4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>10/02/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/02</activity>
-	<desc>C1-C4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>17/02/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/03</activity>
-	<desc>D1-D4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>24/02/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/04</activity>
-	<desc>B1-B4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>03/03/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/01</activity>
-	<desc>A1-A4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>10/03/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/02</activity>
-	<desc>C1-C4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>17/03/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/03</activity>
-	<desc>D1-D4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:30</end>
-	<week>24/03/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/04</activity>
-	<desc>B1-B4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>D112</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:30</end>
-	<week>04/11/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/01</activity>
-	<desc>C1-C4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C300</room>
-	<lecturer>Lawrenson, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Lecture 2/Autumn/01</activity>
-	<desc> </desc>
-	<joint>OV3017;OV3017</joint>
-	<studentnos>112</studentnos>
-	<room>A130</room>
-	<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Lecture 2/Spring/01</activity>
-	<desc> </desc>
-	<joint>OV3017;OV3017</joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Edgar, David;Crabb, David </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-21/10/13, 11/11/13-02/12/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Lecture 1/Autumn/01</activity>
-	<desc> </desc>
-	<joint>OV3017;OV3017</joint>
-	<studentnos>112</studentnos>
-	<room>BG03</room>
-	<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>28/10/13</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Lecture 1/Autumn/Oct 30th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>0</studentnos>
-	<room>Online1</room>
-	<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>OV3017</modulecode>
-	<activity>OV3017 Eye Disease and Therapeutics/Lecture 1/Spring/01</activity>
-	<desc> </desc>
-	<joint>OV3017;OV3017</joint>
-	<studentnos>112</studentnos>
-	<room>BG03</room>
-	<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>30/09/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/01</activity>
+		<desc>C1-C4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>07/10/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/02</activity>
+		<desc>D1-D4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>14/10/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/03</activity>
+		<desc>A1-A4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>21/10/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 1/04</activity>
+		<desc>B1-B4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>04/11/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/02</activity>
+		<desc>D1-D4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>11/11/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/03</activity>
+		<desc>A1-A4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>18/11/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/04</activity>
+		<desc>B1-B4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>25/11/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/01</activity>
+		<desc>C1-C4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>02/12/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/02</activity>
+		<desc>D1-D4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>09/12/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/03</activity>
+		<desc>A1-A4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C322</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>27/01/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 3/04</activity>
+		<desc>B1-B4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>03/02/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/01</activity>
+		<desc>A1-A4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>10/02/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/02</activity>
+		<desc>C1-C4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>17/02/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/03</activity>
+		<desc>D1-D4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>24/02/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 4/04</activity>
+		<desc>B1-B4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>03/03/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/01</activity>
+		<desc>A1-A4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>10/03/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/02</activity>
+		<desc>C1-C4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>17/03/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/03</activity>
+		<desc>D1-D4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:30</end>
+		<week>24/03/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 5/04</activity>
+		<desc>B1-B4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>D112</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:30</end>
+		<week>04/11/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Tutorial 2/01</activity>
+		<desc>C1-C4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C300</room>
+		<lecturer>Lawrenson, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Lecture 2/Autumn/01</activity>
+		<desc>-</desc>
+		<joint>OV3017;OV3017</joint>
+		<studentnos>112</studentnos>
+		<room>A130</room>
+		<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Lecture 2/Spring/01</activity>
+		<desc>-</desc>
+		<joint>OV3017;OV3017</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Edgar, David;Crabb, David </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-21/10/13, 11/11/13-02/12/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Lecture 1/Autumn/01</activity>
+		<desc>-</desc>
+		<joint>OV3017;OV3017</joint>
+		<studentnos>112</studentnos>
+		<room>BG03</room>
+		<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>28/10/13</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Lecture 1/Autumn/Oct 30th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>0</studentnos>
+		<room>Online1</room>
+		<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>OV3017</modulecode>
+		<activity>OV3017 Eye Disease and Therapeutics/Lecture 1/Spring/01</activity>
+		<desc>-</desc>
+		<joint>OV3017;OV3017</joint>
+		<studentnos>112</studentnos>
+		<room>BG03</room>
+		<lecturer>Edgar, David;Weddell, Lynne;Lawrenson, John </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

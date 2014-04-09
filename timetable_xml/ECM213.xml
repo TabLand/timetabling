@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>ECM213</modulecode>
-	<activity>ECM213 Welfare Economics/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>DLG02</room>
-	<lecturer>Ungureanu, Sergiu </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>ECM213</modulecode>
+		<activity>ECM213 Welfare Economics/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>DLG02</room>
+		<lecturer>Ungureanu, Sergiu </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-21/10/13, 04/11/13, 18/11/13-09/12/13</week>
-	<modulecode>LMM126</modulecode>
-	<activity>LMM126 Public International Law/Seminar 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>IG03</room>
-	<lecturer>Reece Thomas, Katherine </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>11/11/13</week>
-	<modulecode>LMM126</modulecode>
-	<activity>LMM126 Public International Law/Seminar 01/Nov 15th</activity>
-	<desc>Different Location: GIP</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>GIP 1</room>
-	<lecturer>Reece Thomas, Katherine </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-21/10/13, 04/11/13, 18/11/13-09/12/13</week>
+		<modulecode>LMM126</modulecode>
+		<activity>LMM126 Public International Law/Seminar 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>IG03</room>
+		<lecturer>Reece Thomas, Katherine </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>11/11/13</week>
+		<modulecode>LMM126</modulecode>
+		<activity>LMM126 Public International Law/Seminar 01/Nov 15th</activity>
+		<desc>Different Location: GIP</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>GIP 1</room>
+		<lecturer>Reece Thomas, Katherine </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

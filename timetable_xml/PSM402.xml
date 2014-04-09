@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>PSM402</modulecode>
-	<activity>PSM402 Professional And Contextual Issues In Health Psychology/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>D111</room>
-	<lecturer>Sykes, Catherine </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>PSM402</modulecode>
+		<activity>PSM402 Professional And Contextual Issues In Health Psychology/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>D111</room>
+		<lecturer>Sykes, Catherine </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,182 +1,184 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C338</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C339</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D111</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C150</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A227</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C323</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/10/13-14/10/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C115</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>21/10/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>BM03</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>28/10/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG11</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>11/11/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>B307B/C</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>18/11/13-25/11/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A227</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>02/12/13-09/12/13</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C150</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>JO2108</modulecode>
-	<activity>JO2108 Shorthand/Lecture 2/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG20</room>
-	<lecturer>Pitman College (UG) </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C338</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C339</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D111</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C150</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A227</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C323</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/10/13-14/10/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C115</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>21/10/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>BM03</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>28/10/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG11</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>11/11/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>B307B/C</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>18/11/13-25/11/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A227</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>02/12/13-09/12/13</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C150</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>JO2108</modulecode>
+		<activity>JO2108 Shorthand/Lecture 2/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG20</room>
+		<lecturer>Pitman College (UG) </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

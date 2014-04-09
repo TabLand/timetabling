@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>19/05/14, 02/06/14, 16/06/14</week>
-	<modulecode>SMM887</modulecode>
-	<activity>SMM887 High Growth Entrepreneurship/Lecture 01/WKS 2,4,6</activity>
-	<desc>Core : ENT stream /mgt : Weeks 2, 4, 6</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>3002</room>
-	<lecturer>Souitaris, Vangelis Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>19/05/14, 02/06/14, 16/06/14</week>
-	<modulecode>SMM887</modulecode>
-	<activity>SMM887 High Growth Entrepreneurship/Lecture 02/WKS 2,4,6</activity>
-	<desc>Core : ENT stream /mgt : Weeks 2,4,6</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>3002</room>
-	<lecturer>Souitaris, Vangelis Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>19/05/14, 02/06/14, 16/06/14</week>
+		<modulecode>SMM887</modulecode>
+		<activity>SMM887 High Growth Entrepreneurship/Lecture 01/WKS 2,4,6</activity>
+		<desc>Core : ENT stream /mgt : Weeks 2, 4, 6</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>3002</room>
+		<lecturer>Souitaris, Vangelis Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>19/05/14, 02/06/14, 16/06/14</week>
+		<modulecode>SMM887</modulecode>
+		<activity>SMM887 High Growth Entrepreneurship/Lecture 02/WKS 2,4,6</activity>
+		<desc>Core : ENT stream /mgt : Weeks 2,4,6</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>3002</room>
+		<lecturer>Souitaris, Vangelis Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

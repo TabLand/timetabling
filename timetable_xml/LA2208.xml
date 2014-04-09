@@ -1,52 +1,54 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-07/10/13, 21/10/13-09/12/13</week>
-	<modulecode>LA2208</modulecode>
-	<activity>LA2208 German For Media (intermediate)/Autumn</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C328</room>
-	<lecturer>Erich, Svenja </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>14/10/13</week>
-	<modulecode>LA2208</modulecode>
-	<activity>LA2208 German For Media (intermediate)/Autumn</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>CLG36</room>
-	<lecturer>Erich, Svenja </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>LA2208</modulecode>
-	<activity>LA2208 German For Media (intermediate)/Spring</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C330</room>
-	<lecturer>Erich, Svenja </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>31/03/14</week>
-	<modulecode>LA2208</modulecode>
-	<activity>LA2208 German For Media (intermediate) backup</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A226</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-07/10/13, 21/10/13-09/12/13</week>
+		<modulecode>LA2208</modulecode>
+		<activity>LA2208 German For Media (intermediate)/Autumn</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C328</room>
+		<lecturer>Erich, Svenja </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>14/10/13</week>
+		<modulecode>LA2208</modulecode>
+		<activity>LA2208 German For Media (intermediate)/Autumn</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>CLG36</room>
+		<lecturer>Erich, Svenja </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>LA2208</modulecode>
+		<activity>LA2208 German For Media (intermediate)/Spring</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C330</room>
+		<lecturer>Erich, Svenja </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>31/03/14</week>
+		<modulecode>LA2208</modulecode>
+		<activity>LA2208 German For Media (intermediate) backup</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A226</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

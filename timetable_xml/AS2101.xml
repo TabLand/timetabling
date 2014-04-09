@@ -1,156 +1,158 @@
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>03/02/14-17/02/14, 03/03/14-24/03/14</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T2/Tutorial 02/02/LEAD</activity>
-	<desc>Joint with MA2620. Exercise class Weeks 2-4, 6-9</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Villegas, Andres </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-25/11/13</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T1/Lecture 01/LEAD</activity>
-	<desc>Joint with MA2620 Weeks 1-4, 6-9</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>90</studentnos>
-	<room>C304</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/Exams/T1/Lecture 01/wks 5&10/LEAD</activity>
-	<desc>Joint with MA2620 : Autumn Class Tests: Weeks 5 & 10 : Double spaced for exam 90 students</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>158</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T1/Lab 01/04/LEAD</activity>
-	<desc>Joint with MA2620. Autumn :2H Surgery : Group A : Weeks 5 & 10 only</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>30</studentnos>
-	<room>EG12</room>
-	<lecturer>Villegas, Andres </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/10/13-21/10/13, 04/11/13-25/11/13</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T1/Tutorial 01/02/LEAD</activity>
-	<desc>Joint with MA2620. Exercise class Weeks 2-4, 6-9</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>90</studentnos>
-	<room>C304</room>
-	<lecturer>Villegas, Andres </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-24/03/14</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T2/Lecture 03/LEAD</activity>
-	<desc>Joint with MA2620 Weeks 1-4, 6-9</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>90</studentnos>
-	<room>AG21</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/02/14, 31/03/14</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/Exams/T2/Lecture 04/wks 5&10/LEAD</activity>
-	<desc>Joint with MA2620 : Spring : Class Tests: Weeks 5 & 10 : 90 students double spaced</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>90</studentnos>
-	<room>Geary</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>28/10/13, 02/12/13</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T1/Lab 02/04/LEAD</activity>
-	<desc>Joint with MA2620 : Autumn : 1H Surgery : Group B : Weeks 5 & 10 only</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>30</studentnos>
-	<room>A218</room>
-	<lecturer>Villegas, Andres </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-25/11/13</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T1/Lecture 02/LEAD</activity>
-	<desc>Joint with MA2620 - Weeks 1-4, 6-9</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T2/Lab 04/04/LEAD</activity>
-	<desc>Joint with MA2620 Spring : 1H Surgery Group B : Week 5 only</desc>
-	<joint>MA2620;AS2101</joint>
-	<studentnos>30</studentnos>
-	<room>C301</room>
-	<lecturer>Villegas, Andres </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-24/03/14</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T2/Lecture 04/LEAD</activity>
-	<desc>Joint with MA2620 Weeks 1-4, 6-9</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>90</studentnos>
-	<room>C304</room>
-	<lecturer>Nielsen, Jens Perch Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>24/02/14</week>
-	<modulecode>AS2101</modulecode>
-	<activity>AS2101 Probability & Statistics 2/T2/Lab 03/04/LEAD</activity>
-	<desc>Joint with MA2620. Spring : 2H Surgery Group A : Week 5 only</desc>
-	<joint>AS2101;MA2620</joint>
-	<studentnos>30</studentnos>
-	<room>A218</room>
-	<lecturer>Villegas, Andres </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>03/02/14-17/02/14, 03/03/14-24/03/14</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T2/Tutorial 02/02/LEAD</activity>
+		<desc>Joint with MA2620. Exercise class Weeks 2-4, 6-9</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Villegas, Andres </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-25/11/13</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T1/Lecture 01/LEAD</activity>
+		<desc>Joint with MA2620 Weeks 1-4, 6-9</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>90</studentnos>
+		<room>C304</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/Exams/T1/Lecture 01/wks 5&10/LEAD</activity>
+		<desc>Joint with MA2620 : Autumn Class Tests: Weeks 5 & 10 : Double spaced for exam 90 students</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>158</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T1/Lab 01/04/LEAD</activity>
+		<desc>Joint with MA2620. Autumn :2H Surgery : Group A : Weeks 5 & 10 only</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>30</studentnos>
+		<room>EG12</room>
+		<lecturer>Villegas, Andres </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/10/13-21/10/13, 04/11/13-25/11/13</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T1/Tutorial 01/02/LEAD</activity>
+		<desc>Joint with MA2620. Exercise class Weeks 2-4, 6-9</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>90</studentnos>
+		<room>C304</room>
+		<lecturer>Villegas, Andres </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-24/03/14</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T2/Lecture 03/LEAD</activity>
+		<desc>Joint with MA2620 Weeks 1-4, 6-9</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>90</studentnos>
+		<room>AG21</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/02/14, 31/03/14</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/Exams/T2/Lecture 04/wks 5&10/LEAD</activity>
+		<desc>Joint with MA2620 : Spring : Class Tests: Weeks 5 & 10 : 90 students double spaced</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>90</studentnos>
+		<room>Geary</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>28/10/13, 02/12/13</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T1/Lab 02/04/LEAD</activity>
+		<desc>Joint with MA2620 : Autumn : 1H Surgery : Group B : Weeks 5 & 10 only</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>30</studentnos>
+		<room>A218</room>
+		<lecturer>Villegas, Andres </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-25/11/13</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T1/Lecture 02/LEAD</activity>
+		<desc>Joint with MA2620 - Weeks 1-4, 6-9</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T2/Lab 04/04/LEAD</activity>
+		<desc>Joint with MA2620 Spring : 1H Surgery Group B : Week 5 only</desc>
+		<joint>MA2620;AS2101</joint>
+		<studentnos>30</studentnos>
+		<room>C301</room>
+		<lecturer>Villegas, Andres </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-24/03/14</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T2/Lecture 04/LEAD</activity>
+		<desc>Joint with MA2620 Weeks 1-4, 6-9</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>90</studentnos>
+		<room>C304</room>
+		<lecturer>Nielsen, Jens Perch Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>24/02/14</week>
+		<modulecode>AS2101</modulecode>
+		<activity>AS2101 Probability & Statistics 2/T2/Lab 03/04/LEAD</activity>
+		<desc>Joint with MA2620. Spring : 2H Surgery Group A : Week 5 only</desc>
+		<joint>AS2101;MA2620</joint>
+		<studentnos>30</studentnos>
+		<room>A218</room>
+		<lecturer>Villegas, Andres </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

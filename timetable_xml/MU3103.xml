@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-07/10/13, 28/10/13, 11/11/13</week>
-	<modulecode>MU3103</modulecode>
-	<activity>MU3103 Instrumental and Vocal Composition 3/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG09</room>
-	<lecturer>Bailie, Joanna </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-07/10/13, 28/10/13, 11/11/13</week>
+		<modulecode>MU3103</modulecode>
+		<activity>MU3103 Instrumental and Vocal Composition 3/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG09</room>
+		<lecturer>Bailie, Joanna </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

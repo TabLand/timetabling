@@ -1,26 +1,28 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1985</modulecode>
-	<activity>CS1985 International Law: Systems and Organisations term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C161</room>
-	<lecturer>Choudhury, Nazreen </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14, 10/02/14-07/04/14</week>
-	<modulecode>CS1985</modulecode>
-	<activity>CS1985 International Law: Systems and Organisations term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C161</room>
-	<lecturer>Choudhury, Nazreen </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1985</modulecode>
+		<activity>CS1985 International Law: Systems and Organisations term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C161</room>
+		<lecturer>Choudhury, Nazreen </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14, 10/02/14-07/04/14</week>
+		<modulecode>CS1985</modulecode>
+		<activity>CS1985 International Law: Systems and Organisations term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C161</room>
+		<lecturer>Choudhury, Nazreen </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

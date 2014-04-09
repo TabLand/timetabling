@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-19/05/14</week>
-	<modulecode>SMM921</modulecode>
-	<activity>SMM921 Trading & Market Microstructure/Block Lecture 01 & 02/wks 1 & 2 (Evening)</activity>
-	<desc>Block : Weeks 1 & 2 (Evening)</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>Payne, Richard Prof </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-19/05/14</week>
+		<modulecode>SMM921</modulecode>
+		<activity>SMM921 Trading & Market Microstructure/Block Lecture 01 & 02/wks 1 & 2 (Evening)</activity>
+		<desc>Block : Weeks 1 & 2 (Evening)</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>Payne, Richard Prof </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

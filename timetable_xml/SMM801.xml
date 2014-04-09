@@ -1,13 +1,15 @@
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>SMM801</modulecode>
-	<activity>SMM801 Marketing And Fundraising/Lecture 01/02</activity>
-	<desc>(core module shared across all Charity Programmes)</desc>
-	<joint> </joint>
-	<studentnos>85</studentnos>
-	<room>2004</room>
-	<lecturer>Lee, Stephen Prof;Bruce, Prof Ian </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>SMM801</modulecode>
+		<activity>SMM801 Marketing And Fundraising/Lecture 01/02</activity>
+		<desc>(core module shared across all Charity Programmes)</desc>
+		<joint>-</joint>
+		<studentnos>85</studentnos>
+		<room>2004</room>
+		<lecturer>Lee, Stephen Prof;Bruce, Prof Ian </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

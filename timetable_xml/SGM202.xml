@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SGM202</modulecode>
-	<activity>SGM202 Analysing Media Discourses/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D220</room>
-	<lecturer>Prentoulis, Marina </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>17/03/14</week>
-	<modulecode>SGM202</modulecode>
-	<activity>SGM202 Analysing Media Discourses/Film/Mar 21st</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>D104</room>
-	<lecturer>Prentoulis, Marina </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SGM202</modulecode>
+		<activity>SGM202 Analysing Media Discourses/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D220</room>
+		<lecturer>Prentoulis, Marina </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>17/03/14</week>
+		<modulecode>SGM202</modulecode>
+		<activity>SGM202 Analysing Media Discourses/Film/Mar 21st</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>D104</room>
+		<lecturer>Prentoulis, Marina </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

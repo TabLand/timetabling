@@ -1,247 +1,249 @@
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>02/09/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/01</activity>
-	<desc>Introduction to Module</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>AG22</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Workshop 1/1</activity>
-	<desc>QA Practical workshop</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG14 (Radiography);ELG07 (Radiography)</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Exam 1/1</activity>
-	<desc>Viva</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>D107</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Exam 1/2</activity>
-	<desc>Viva</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>D108</room>
-	<lecturer>Walls, Darren </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Exam 1/3</activity>
-	<desc>Viva</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>D109</room>
-	<lecturer>Humphries, Sue </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Exam 1/4</activity>
-	<desc>Viva</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>BM02</room>
-	<lecturer>Bland, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>02/09/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/02</activity>
-	<desc>Quality Assurance: The Radiographers' Perspective</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>AG22</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>02/09/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/03</activity>
-	<desc>Factors Affecting Image Quality 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>AG22</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>09/12/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/10</activity>
-	<desc>Dosimetry</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>BLG07</room>
-	<lecturer>VL 01 - HARADI </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>02/09/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/05</activity>
-	<desc>Quality Assurance: Alternative Tests</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>AG21</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Workshop 1/3</activity>
-	<desc>QA Practical workshop</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG14 (Radiography)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/08</activity>
-	<desc>Dosimetry</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>VL 02 - HARADI </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>02/09/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Self study 1/02</activity>
-	<desc>Factors Affecting Image Quality 2</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>No room needed</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Workshop 1/2</activity>
-	<desc>QA Practical workshop</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG14 (Radiography);ELG07 (Radiography)</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>09/12/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/11</activity>
-	<desc>Revision - exam and viva</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>DLG08</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Workshop 1/2</activity>
-	<desc>QA Practical workshop</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG14 (Radiography);ELG07 (Radiography)</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>25/11/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Lecture 1/09</activity>
-	<desc>Medical Physics and Quality Assurance: Commissioning & Acceptance Testing +KMcH</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG05</room>
-	<lecturer>VL 01 - HARADI </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Workshop 1/2</activity>
-	<desc>QA Practical workshop</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>ELG14 (Radiography);ELG07 (Radiography)</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>25/11/13</week>
-	<modulecode>RD3022</modulecode>
-	<activity>RD3022 Equipment Evaluation/Self Study 1/01</activity>
-	<desc>Directed Study: Radiation Protection Legislation (Update)</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>No room needed</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>02/09/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/01</activity>
+		<desc>Introduction to Module</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>AG22</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Workshop 1/1</activity>
+		<desc>QA Practical workshop</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG14 (Radiography);ELG07 (Radiography)</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Exam 1/1</activity>
+		<desc>Viva</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>D107</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Exam 1/2</activity>
+		<desc>Viva</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>D108</room>
+		<lecturer>Walls, Darren </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Exam 1/3</activity>
+		<desc>Viva</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>D109</room>
+		<lecturer>Humphries, Sue </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Exam 1/4</activity>
+		<desc>Viva</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>BM02</room>
+		<lecturer>Bland, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>02/09/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/02</activity>
+		<desc>Quality Assurance: The Radiographers' Perspective</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>AG22</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>02/09/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/03</activity>
+		<desc>Factors Affecting Image Quality 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>AG22</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>09/12/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/10</activity>
+		<desc>Dosimetry</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>BLG07</room>
+		<lecturer>VL 01 - HARADI </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>02/09/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/05</activity>
+		<desc>Quality Assurance: Alternative Tests</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>AG21</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Workshop 1/3</activity>
+		<desc>QA Practical workshop</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG14 (Radiography)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/08</activity>
+		<desc>Dosimetry</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>VL 02 - HARADI </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>02/09/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Self study 1/02</activity>
+		<desc>Factors Affecting Image Quality 2</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>No room needed</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Workshop 1/2</activity>
+		<desc>QA Practical workshop</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG14 (Radiography);ELG07 (Radiography)</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>09/12/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/11</activity>
+		<desc>Revision - exam and viva</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>DLG08</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Workshop 1/2</activity>
+		<desc>QA Practical workshop</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG14 (Radiography);ELG07 (Radiography)</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>25/11/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Lecture 1/09</activity>
+		<desc>Medical Physics and Quality Assurance: Commissioning & Acceptance Testing +KMcH</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG05</room>
+		<lecturer>VL 01 - HARADI </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Workshop 1/2</activity>
+		<desc>QA Practical workshop</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>ELG14 (Radiography);ELG07 (Radiography)</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>25/11/13</week>
+		<modulecode>RD3022</modulecode>
+		<activity>RD3022 Equipment Evaluation/Self Study 1/01</activity>
+		<desc>Directed Study: Radiation Protection Legislation (Update)</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>No room needed</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

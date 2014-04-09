@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM231</modulecode>
-	<activity>SMM231 Visual Basic in Finance/LAB/Grp 03/03</activity>
-	<desc>Group 3 of 3</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2001</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM231</modulecode>
-	<activity>SMM231 Visual Basic in Finance/LAB/Grp 02/03</activity>
-	<desc>Group 2 of 3</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2001</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM231</modulecode>
-	<activity>SMM231 Visual Basic in Finance/LAB/Grp 01/03</activity>
-	<desc>Group 1 of 3</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2001</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM231</modulecode>
+		<activity>SMM231 Visual Basic in Finance/LAB/Grp 03/03</activity>
+		<desc>Group 3 of 3</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2001</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM231</modulecode>
+		<activity>SMM231 Visual Basic in Finance/LAB/Grp 02/03</activity>
+		<desc>Group 2 of 3</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2001</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM231</modulecode>
+		<activity>SMM231 Visual Basic in Finance/LAB/Grp 01/03</activity>
+		<desc>Group 1 of 3</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2001</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

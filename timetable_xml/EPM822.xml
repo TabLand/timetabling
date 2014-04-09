@@ -1,39 +1,41 @@
-<booking>
-	<start>8:00</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>EPM822</modulecode>
-	<activity>EPM822 List B - Human Resource Mangement/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C115</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>EPM822</modulecode>
-	<activity>EPM822 List B - Human Resource Mangement/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C115</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>EPM822</modulecode>
-	<activity>EPM822 List B - Human Resource Mangement/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C115</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>8:00</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>EPM822</modulecode>
+		<activity>EPM822 List B - Human Resource Mangement/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C115</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>EPM822</modulecode>
+		<activity>EPM822 List B - Human Resource Mangement/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C115</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>EPM822</modulecode>
+		<activity>EPM822 List B - Human Resource Mangement/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C115</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

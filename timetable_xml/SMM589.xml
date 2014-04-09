@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM589</modulecode>
-	<activity>SMM589 Dry Cargo Chartering/Lecture 01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2002</room>
-	<lecturer>Wood, Philip </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM589</modulecode>
+		<activity>SMM589 Dry Cargo Chartering/Lecture 01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2002</room>
+		<lecturer>Wood, Philip </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

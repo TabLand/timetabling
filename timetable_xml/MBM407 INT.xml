@@ -1,143 +1,145 @@
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
-	<desc>FTMBA block 2 Integration week - Breakout</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
-	<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/A&B/Briefing/01</activity>
-	<desc>FTMBA 2013 - Block 2 Integration Week Briefing</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>Batchelor, Roy;Marsh, Ian Prof.;Cuthbertson, Keith </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
-	<desc>FTMBA block 2 Integration week - Breakout</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
-	<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
-	<desc>FTMBA block 2 Integration week - Breakout</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
-	<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
-	<desc>FTMBA block 2 Integration week - Breakout</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
-	<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>21:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
-	<desc>FTMBA block 2 Integration week - Breakout</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/12/13</week>
-	<modulecode>MBM407 INT</modulecode>
-	<activity>MBM407 Mba Block 2: Integration Week/A&B/Presentations & Assessement/01</activity>
-	<desc>FTMBA 2013 Block 2 Presentations & Assessement FrI 6 DEC LG001 REQUIRED</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>Batchelor, Roy;Holland, Wayne;Marsh, Ian Prof.;Cuthbertson, Keith </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
+		<desc>FTMBA block 2 Integration week - Breakout</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
+		<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/A&B/Briefing/01</activity>
+		<desc>FTMBA 2013 - Block 2 Integration Week Briefing</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>Batchelor, Roy;Marsh, Ian Prof.;Cuthbertson, Keith </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
+		<desc>FTMBA block 2 Integration week - Breakout</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
+		<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
+		<desc>FTMBA block 2 Integration week - Breakout</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
+		<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
+		<desc>FTMBA block 2 Integration week - Breakout</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/01/syn rooms</activity>
+		<desc>FTMBA block 2 Integration week - Breakout/syn rooms rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>21:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/Student Presentations/02</activity>
+		<desc>FTMBA block 2 Integration week - Breakout</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/12/13</week>
+		<modulecode>MBM407 INT</modulecode>
+		<activity>MBM407 Mba Block 2: Integration Week/A&B/Presentations & Assessement/01</activity>
+		<desc>FTMBA 2013 Block 2 Presentations & Assessement FrI 6 DEC LG001 REQUIRED</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>Batchelor, Roy;Holland, Wayne;Marsh, Ian Prof.;Cuthbertson, Keith </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

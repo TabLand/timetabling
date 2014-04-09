@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2214</modulecode>
-	<activity>BS2214 Qualitative Market Research/Lecture 1/01</activity>
-	<desc>Lecture</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>B103</room>
-	<lecturer>Bardhi, Fleura Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2214</modulecode>
+		<activity>BS2214 Qualitative Market Research/Lecture 1/01</activity>
+		<desc>Lecture</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>B103</room>
+		<lecturer>Bardhi, Fleura Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

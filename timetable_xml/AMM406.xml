@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>AMM406</modulecode>
-	<activity>AMM406 Managing Organisations/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>C336</room>
-	<lecturer>Gaio, Ana </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>AMM406</modulecode>
+		<activity>AMM406 Managing Organisations/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>C336</room>
+		<lecturer>Gaio, Ana </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

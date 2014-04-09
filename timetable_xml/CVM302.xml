@@ -1,117 +1,119 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>17/02/14</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lab SEMS 3/02</activity>
-	<desc>Group 3</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A217</room>
-	<lecturer>Yan, S </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>17/02/14</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>ALG16</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/02/14</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lab SEMS 2/02</activity>
-	<desc>Group 2</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>A217</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C343</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-07/10/13, 28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C343</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>14/10/13-21/10/13</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lecture 1/Oct 18&25</activity>
-	<desc>Weeks 3 & 4: Different Location</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>DLG08</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>09/12/13</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lecture 1/Dec 13th</activity>
-	<desc>Later start/shorter session</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C343</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>11/11/13</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Computational Hydraulics/Lab SEMS 1/01</activity>
-	<desc>Group 1 *</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>CG50</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>CVM302</modulecode>
-	<activity>CVM302 Revision lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG05</room>
-	<lecturer>Ma, Q </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>17/02/14</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lab SEMS 3/02</activity>
+		<desc>Group 3</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A217</room>
+		<lecturer>Yan, S </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>17/02/14</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>ALG16</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/02/14</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lab SEMS 2/02</activity>
+		<desc>Group 2</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>A217</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C343</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-07/10/13, 28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C343</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>14/10/13-21/10/13</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lecture 1/Oct 18&25</activity>
+		<desc>Weeks 3 & 4: Different Location</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>DLG08</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>09/12/13</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lecture 1/Dec 13th</activity>
+		<desc>Later start/shorter session</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C343</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>11/11/13</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Computational Hydraulics/Lab SEMS 1/01</activity>
+		<desc>Group 1 *</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>CG50</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>CVM302</modulecode>
+		<activity>CVM302 Revision lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG05</room>
+		<lecturer>Ma, Q </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

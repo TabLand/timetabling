@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>SMM249 FIN</modulecode>
-	<activity>SMM249 Financial Reporting (MSc Fin)/TEST/WK 5</activity>
-	<desc>(LEAD) MSc Finance, MSc CF, MSc IAF (Joint) Invigilated test : 242 students (484 seats req'd) Week 5 ONLY</desc>
-	<joint>SMM249 IAF;SMM249 CF;SMM249 FIN</joint>
-	<studentnos>60</studentnos>
-	<room>2004;2005;2006;3002;3003;LG002/3</room>
-	<lecturer>Raonic, Ivana </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
-	<modulecode>SMM249 FIN</modulecode>
-	<activity>SMM249 Financial Reporting (MSc Fin)/Lecture 01/wks 1-4, 6-10</activity>
-	<desc>MSc Fin : Lecture : weeks 1-4, 6-10</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>LG001</room>
-	<lecturer>Raonic, Ivana </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/10/13-14/10/13, 18/11/13</week>
-	<modulecode>SMM249 FIN</modulecode>
-	<activity>SMM249 Financial Reporting (MSc Fin)/Tutorial 01/WKS 2,3,8</activity>
-	<desc>MSc Fin : TUTORIAL: Weeks 2, 3, 8</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>LG001</room>
-	<lecturer>Raonic, Ivana </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>SMM249 FIN</modulecode>
+		<activity>SMM249 Financial Reporting (MSc Fin)/TEST/WK 5</activity>
+		<desc>(LEAD) MSc Finance, MSc CF, MSc IAF (Joint) Invigilated test : 242 students (484 seats req'd) Week 5 ONLY</desc>
+		<joint>SMM249 IAF;SMM249 CF;SMM249 FIN</joint>
+		<studentnos>60</studentnos>
+		<room>2004;2005;2006;3002;3003;LG002/3</room>
+		<lecturer>Raonic, Ivana </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
+		<modulecode>SMM249 FIN</modulecode>
+		<activity>SMM249 Financial Reporting (MSc Fin)/Lecture 01/wks 1-4, 6-10</activity>
+		<desc>MSc Fin : Lecture : weeks 1-4, 6-10</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>LG001</room>
+		<lecturer>Raonic, Ivana </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/10/13-14/10/13, 18/11/13</week>
+		<modulecode>SMM249 FIN</modulecode>
+		<activity>SMM249 Financial Reporting (MSc Fin)/Tutorial 01/WKS 2,3,8</activity>
+		<desc>MSc Fin : TUTORIAL: Weeks 2, 3, 8</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>LG001</room>
+		<lecturer>Raonic, Ivana </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

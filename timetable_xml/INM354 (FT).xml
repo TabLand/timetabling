@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM354 (FT)</modulecode>
-	<activity>INM354 Information Systems Planning And Strategy/Lecture (FT)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>A110</room>
-	<lecturer>Rich, Martin </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM354 (FT)</modulecode>
+		<activity>INM354 Information Systems Planning And Strategy/Lecture (FT)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>A110</room>
+		<lecturer>Rich, Martin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

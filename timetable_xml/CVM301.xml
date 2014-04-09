@@ -1,78 +1,80 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>CVM301</modulecode>
-	<activity>CVM301 Geotechnical Analysis/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C340</room>
-	<lecturer>Divall, S;Stallebrass, S </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-03/02/14</week>
-	<modulecode>CVM301</modulecode>
-	<activity>CVM301 Geotechnical Analysis/Tutorial 2/02</activity>
-	<desc>50 students</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>CG50;CG51</room>
-	<lecturer>Divall, S;Stallebrass, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>13/01/14-20/01/14</week>
-	<modulecode>CVM301</modulecode>
-	<activity>CVM301 Geotechnical Analysis/Tutorial 1/02</activity>
-	<desc>50 students</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>CG50;CG51</room>
-	<lecturer>Divall, S;Stallebrass, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-07/10/13, 28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>CVM301</modulecode>
-	<activity>CVM301 Geotechnical Analysis/Lecture 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C343</room>
-	<lecturer>Divall, S;Stallebrass, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:30</end>
-	<week>14/10/13</week>
-	<modulecode>CVM301</modulecode>
-	<activity>CVM301 Geotechnical Analysis/Lecture 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A109</room>
-	<lecturer>Divall, S;Stallebrass, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>21/10/13</week>
-	<modulecode>CVM301</modulecode>
-	<activity>CVM301 Geotechnical Analysis/Lecture 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A109</room>
-	<lecturer>Divall, S;Stallebrass, S </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>CVM301</modulecode>
+		<activity>CVM301 Geotechnical Analysis/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C340</room>
+		<lecturer>Divall, S;Stallebrass, S </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-03/02/14</week>
+		<modulecode>CVM301</modulecode>
+		<activity>CVM301 Geotechnical Analysis/Tutorial 2/02</activity>
+		<desc>50 students</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>CG50;CG51</room>
+		<lecturer>Divall, S;Stallebrass, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>13/01/14-20/01/14</week>
+		<modulecode>CVM301</modulecode>
+		<activity>CVM301 Geotechnical Analysis/Tutorial 1/02</activity>
+		<desc>50 students</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>CG50;CG51</room>
+		<lecturer>Divall, S;Stallebrass, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-07/10/13, 28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>CVM301</modulecode>
+		<activity>CVM301 Geotechnical Analysis/Lecture 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C343</room>
+		<lecturer>Divall, S;Stallebrass, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:30</end>
+		<week>14/10/13</week>
+		<modulecode>CVM301</modulecode>
+		<activity>CVM301 Geotechnical Analysis/Lecture 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A109</room>
+		<lecturer>Divall, S;Stallebrass, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>21/10/13</week>
+		<modulecode>CVM301</modulecode>
+		<activity>CVM301 Geotechnical Analysis/Lecture 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A109</room>
+		<lecturer>Divall, S;Stallebrass, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

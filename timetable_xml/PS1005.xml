@@ -1,78 +1,80 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>PS1005</modulecode>
-	<activity>PS1005 Biological Approaches To Mind And Behaviour/Drop-In Clinic 01A/01</activity>
-	<desc>Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D409</room>
-	<lecturer>Tan, Lydia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>PS1005</modulecode>
-	<activity>PS1005 Biological Approaches To Mind And Behaviour/Drop-In Clinic 01B/01</activity>
-	<desc>Weeks 7-11</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D411</room>
-	<lecturer>Forster, Bettina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-17/02/14</week>
-	<modulecode>PS1005</modulecode>
-	<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01A/01</activity>
-	<desc>Weeks 1-4</desc>
-	<joint> </joint>
-	<studentnos>138</studentnos>
-	<room>Birley</room>
-	<lecturer>Tan, Lydia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>24/02/14</week>
-	<modulecode>PS1005</modulecode>
-	<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01A/Feb 25th</activity>
-	<desc>Week 5: 2 locations for Class Test</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>Birley;AG03</room>
-	<lecturer>Tan, Lydia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>10/03/14-31/03/14</week>
-	<modulecode>PS1005</modulecode>
-	<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01B/01</activity>
-	<desc>Weeks 7-11</desc>
-	<joint> </joint>
-	<studentnos>138</studentnos>
-	<room>Birley</room>
-	<lecturer>Forster, Bettina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>07/04/14</week>
-	<modulecode>PS1005</modulecode>
-	<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01B/Apr 8th</activity>
-	<desc>Week 11: Different location for Class Test</desc>
-	<joint> </joint>
-	<studentnos>138</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Forster, Bettina </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>PS1005</modulecode>
+		<activity>PS1005 Biological Approaches To Mind And Behaviour/Drop-In Clinic 01A/01</activity>
+		<desc>Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D409</room>
+		<lecturer>Tan, Lydia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>PS1005</modulecode>
+		<activity>PS1005 Biological Approaches To Mind And Behaviour/Drop-In Clinic 01B/01</activity>
+		<desc>Weeks 7-11</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D411</room>
+		<lecturer>Forster, Bettina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-17/02/14</week>
+		<modulecode>PS1005</modulecode>
+		<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01A/01</activity>
+		<desc>Weeks 1-4</desc>
+		<joint>-</joint>
+		<studentnos>138</studentnos>
+		<room>Birley</room>
+		<lecturer>Tan, Lydia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>24/02/14</week>
+		<modulecode>PS1005</modulecode>
+		<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01A/Feb 25th</activity>
+		<desc>Week 5: 2 locations for Class Test</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>Birley;AG03</room>
+		<lecturer>Tan, Lydia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>10/03/14-31/03/14</week>
+		<modulecode>PS1005</modulecode>
+		<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01B/01</activity>
+		<desc>Weeks 7-11</desc>
+		<joint>-</joint>
+		<studentnos>138</studentnos>
+		<room>Birley</room>
+		<lecturer>Forster, Bettina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>07/04/14</week>
+		<modulecode>PS1005</modulecode>
+		<activity>PS1005 Biological Approaches To Mind And Behaviour/Lecture 01B/Apr 8th</activity>
+		<desc>Week 11: Different location for Class Test</desc>
+		<joint>-</joint>
+		<studentnos>138</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Forster, Bettina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

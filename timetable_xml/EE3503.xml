@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE3503</modulecode>
-	<activity>EE3503 Electrical & Electronic Power Systems/Lab Sems 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG17</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE3503</modulecode>
-	<activity>EE3503 Electrical & Electronic Power Systems/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C170</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14, 10/02/14-24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>EE3503</modulecode>
-	<activity>EE3503 Electrical & Electronic Power Systems/Tutorial 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C340</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>03/02/14</week>
-	<modulecode>EE3503</modulecode>
-	<activity>EE3503 Electrical & Electronic Power Systems/Tutorial 1/02</activity>
-	<desc>Held in Tait Lower Ground Floor</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>No room needed</room>
-	<lecturer>Nankoo, D </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE3503</modulecode>
+		<activity>EE3503 Electrical & Electronic Power Systems/Lab Sems 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG17</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE3503</modulecode>
+		<activity>EE3503 Electrical & Electronic Power Systems/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C170</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14, 10/02/14-24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>EE3503</modulecode>
+		<activity>EE3503 Electrical & Electronic Power Systems/Tutorial 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C340</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>03/02/14</week>
+		<modulecode>EE3503</modulecode>
+		<activity>EE3503 Electrical & Electronic Power Systems/Tutorial 1/02</activity>
+		<desc>Held in Tait Lower Ground Floor</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>No room needed</room>
+		<lecturer>Nankoo, D </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>JOM990</modulecode>
-	<activity>JOM990 Dissertation workshop</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>BM03</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>JOM990</modulecode>
-	<activity>JOM990 Dissertation workshop</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C357</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>JOM990</modulecode>
-	<activity>JOM990 Dissertation workshop</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>BM03</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>JOM990</modulecode>
+		<activity>JOM990 Dissertation workshop</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>BM03</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>JOM990</modulecode>
+		<activity>JOM990 Dissertation workshop</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C357</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>JOM990</modulecode>
+		<activity>JOM990 Dissertation workshop</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>BM03</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

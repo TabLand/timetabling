@@ -1,182 +1,184 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/02/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>C304</room>
-	<lecturer>Halikias, G </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Tutorial 3/01</activity>
-	<desc> </desc>
-	<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
-	<studentnos>35</studentnos>
-	<room>C348</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Tutorial 2/01</activity>
-	<desc> </desc>
-	<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
-	<studentnos>35</studentnos>
-	<room>DLG02</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Tutorial 1/01</activity>
-	<desc> </desc>
-	<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
-	<studentnos>35</studentnos>
-	<room>C345</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:30</end>
-	<week>24/02/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Tutorial/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C164</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:30</end>
-	<week>31/03/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Extra tutorial/01</activity>
-	<desc>Afrouz Farshad</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>CG56</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>13/01/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Test/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>200</studentnos>
-	<room>Oakden</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Test/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>200</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>20/01/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>110</studentnos>
-	<room>AG21</room>
-	<lecturer>Halikias, G </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14, 10/02/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>110</studentnos>
-	<room>AG07</room>
-	<lecturer>Halikias, G </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>110</studentnos>
-	<room>AG07</room>
-	<lecturer>Broom, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Tutorial 2/02</activity>
-	<desc> </desc>
-	<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
-	<studentnos>35</studentnos>
-	<room>C345</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Tutorial 3/02</activity>
-	<desc> </desc>
-	<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
-	<studentnos>35</studentnos>
-	<room>DLG02</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>EX1401CIVIL</modulecode>
-	<activity>EX1401 Engineering Mathematics 1/Tutorial 1/02</activity>
-	<desc> </desc>
-	<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
-	<studentnos>35</studentnos>
-	<room>C337</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/02/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>C304</room>
+		<lecturer>Halikias, G </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Tutorial 3/01</activity>
+		<desc>-</desc>
+		<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
+		<studentnos>35</studentnos>
+		<room>C348</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Tutorial 2/01</activity>
+		<desc>-</desc>
+		<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
+		<studentnos>35</studentnos>
+		<room>DLG02</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Tutorial 1/01</activity>
+		<desc>-</desc>
+		<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
+		<studentnos>35</studentnos>
+		<room>C345</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:30</end>
+		<week>24/02/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Tutorial/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C164</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:30</end>
+		<week>31/03/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Extra tutorial/01</activity>
+		<desc>Afrouz Farshad</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>CG56</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>13/01/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Test/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>200</studentnos>
+		<room>Oakden</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Test/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>200</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>20/01/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>110</studentnos>
+		<room>AG21</room>
+		<lecturer>Halikias, G </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14, 10/02/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>110</studentnos>
+		<room>AG07</room>
+		<lecturer>Halikias, G </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>110</studentnos>
+		<room>AG07</room>
+		<lecturer>Broom, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Tutorial 2/02</activity>
+		<desc>-</desc>
+		<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
+		<studentnos>35</studentnos>
+		<room>C345</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Tutorial 3/02</activity>
+		<desc>-</desc>
+		<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
+		<studentnos>35</studentnos>
+		<room>DLG02</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>EX1401CIVIL</modulecode>
+		<activity>EX1401 Engineering Mathematics 1/Tutorial 1/02</activity>
+		<desc>-</desc>
+		<joint>EX1401CIVIL;EX1401CIVIL;EX1401CIVIL</joint>
+		<studentnos>35</studentnos>
+		<room>C337</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

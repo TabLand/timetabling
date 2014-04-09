@@ -1,2028 +1,2030 @@
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/03</activity>
-	<desc>AN/02 A&B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/02</activity>
-	<desc>AN/02A&B</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Treacy, C;Manning, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C215</room>
-	<lecturer>Eales, S;Lindsay, T </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C216</room>
-	<lecturer>Hardy, S;Howard, C </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>3G (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>D112</room>
-	<lecturer>Jones, Mark </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Hunter, J;Manning, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C216</room>
-	<lecturer>Saunder, L;Reynolds, L </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C215</room>
-	<lecturer>Lindsay, T;Francis, K </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG24b</room>
-	<lecturer>Grant, R </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in practice 1: Tower Hamlets Induction</activity>
-	<desc>Tower Hamlets students only</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>LT (WS)</room>
-	<lecturer>Waddington, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Francis, K </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C208/210</room>
-	<lecturer>Klufio, A;Lanlehin, R </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/04</activity>
-	<desc>AN/02 A&B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/02</activity>
-	<desc>AN/02A&B</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Treacy, C;Manning, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C215</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bowden, T;McLeod, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C216</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/02</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>3G (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>D112</room>
-	<lecturer>Treacy, C </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Hunter, J;Manning, A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C216</room>
-	<lecturer>Saunder, L;Eales, S </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C215</room>
-	<lecturer>Lindsay, T;Francis, K </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG24b</room>
-	<lecturer>Grant, R </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Francis, K </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C208/210</room>
-	<lecturer>Klufio, A;Lanlehin, R </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/03</activity>
-	<desc>AN/02 A&B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/02</activity>
-	<desc>AN/02A&B</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Hunter, J;Olson, K </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C208/210</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Treacy, C </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A227</room>
-	<lecturer>Phillips, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG24a</room>
-	<lecturer>Hunter, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C208/210</room>
-	<lecturer>Eales, S;Lindsay, T </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C216</room>
-	<lecturer>Gelbart, M;Treacy, C </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Francis, K </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C215</room>
-	<lecturer>Saunder, L;Howard, C </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C215</room>
-	<lecturer>Gelbart, M;Hughes, V </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/04</activity>
-	<desc>AN/02 A&B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>11B (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/02</activity>
-	<desc>AN/02A&B</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Hunter, J;Olson, K </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C208/210</room>
-	<lecturer>Lindsay, T </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24a</room>
-	<lecturer>Saunder, L;Grant, R </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Phillips, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C215</room>
-	<lecturer>Hunter, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C208/210</room>
-	<lecturer>Phillips, L;Lindsay, T </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C216</room>
-	<lecturer>Gelbart, M;Manning, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, K </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24a</room>
-	<lecturer>Saunder, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C216</room>
-	<lecturer>Hughes, V;Mahoney, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/03/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in practice 1/Review</activity>
-	<desc>AN only</desc>
-	<joint> </joint>
-	<studentnos>62</studentnos>
-	<room>BLG07</room>
-	<lecturer>Chamney, M;Boswell, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24b</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C215</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Howard, C;Lindsay, T </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Jones, Mark;Hunter, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>A107</room>
-	<lecturer>Saunder, L;Campbell, S </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C215</room>
-	<lecturer>Eales, S;Lindsay, T </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Gelbart, M;Hunter, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>07/10/13-21/10/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>IG03</room>
-	<lecturer>Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>28/10/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>IG03</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>25/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room> </room>
-	<lecturer>Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>02/12/13-09/12/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>IG03</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>13/01/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>20/01/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>27/01/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>03/02/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>10/02/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>17/02/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>17/03/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>31/03/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>26/05/14-21/07/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/02</activity>
-	<desc>MHN/02A & 02B</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A112</room>
-	<lecturer>Roberts, S;Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C216</room>
-	<lecturer>Klufio, A;Lanlehin, R </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Klufio, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>13/01/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in practice 1/Tutorial/02</activity>
-	<desc>Mid-placement review:AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C322</room>
-	<lecturer>Chamney, M;Boswell, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>13/01/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in practice 1/Tutorial/01</activity>
-	<desc>Mid-placement review:</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24b</room>
-	<lecturer>Smith, U </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>13/01/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in practice 1/Tutorial/03</activity>
-	<desc>Mid-placement review:AN/02A & B</desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>C339</room>
-	<lecturer>Chamney, M;Boswell, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>AG24b</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C215</room>
-	<lecturer>Gelbart, M;Hunter, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Howard, C;Lindsay, T </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bliss, M;Boswell, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Howard, C </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>A107</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C215</room>
-	<lecturer>Phillips, L;Lindsay, T </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Gelbart, M;Hunter, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C216</room>
-	<lecturer>McGraw, C;Trust representative </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Klufio, A;Lanlehin, R </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>07/10/13-28/10/13, 02/12/13-09/12/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/03</activity>
-	<desc>MHN/03</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C330</room>
-	<lecturer>Reynolds, L;O'Carroll, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>06/01/14-17/02/14, 17/03/14, 07/04/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03</activity>
-	<desc>MHN/03</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A111</room>
-	<lecturer>Reynolds, L;O'Carroll, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>26/05/14-21/07/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/03</activity>
-	<desc>MHN/03</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D106</room>
-	<lecturer>Reynolds, L;O'Carroll, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C216</room>
-	<lecturer>Haddad, M;Howard, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Hunter, J;McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Rawlings-Anderson, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Mahoney, P;Francis, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C216</room>
-	<lecturer>Gelbart, M;Chamney, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Jones, Mark </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Treacy, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:30</end>
-	<week>25/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in practice 1/Infection control OSCE</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</room>
-	<lecturer>Anderson, D;Eales, S;Hill, Marie;Hunter, J;Manning, A;Lindsay, T;Olson, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>24/03/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03</activity>
-	<desc>MHN/03</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A111</room>
-	<lecturer>Reynolds, L </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>31/03/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03</activity>
-	<desc>MHN/03</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A111</room>
-	<lecturer>Reynolds, L;O'Carroll, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/12/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Moving and handling catch-up session</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Anderson, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24b</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24b</room>
-	<lecturer>Hughes, V </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 OSCE</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Hughes, V </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24a</room>
-	<lecturer>Howard, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Hunter, J;Olson, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Jones, Mark;Rawlings-Anderson, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Mahoney, P;Francis, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C216</room>
-	<lecturer>Gelbart, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>11C (WS)</room>
-	<lecturer>Francis, A;Francis, K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Lindsay, T;Flood, C </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C208/210</room>
-	<lecturer>Treacy, C;Boswell, G </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Bliss, M;Bowden, T </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24b</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24b</room>
-	<lecturer>Hughes, V </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>19/05/14-21/07/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/01</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG10</room>
-	<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>3G (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG24b</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Rawlings-Anderson, K </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C208/210</room>
-	<lecturer>Lindsay, T;Francis, K </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C345</room>
-	<lecturer>Howard, C </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C216</room>
-	<lecturer>Jones, Mark </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C215</room>
-	<lecturer>Gelbart, M;Hunter, J </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Eales, S;Lindsay, T </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Jones, Mark </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG10</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Phillips, L </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>07/10/13-04/11/13, 02/12/13-16/12/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/01</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C313</room>
-	<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>06/01/14-17/02/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/01</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C357</room>
-	<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>17/03/14-07/04/14</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/01</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>IG03</room>
-	<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C215</room>
-	<lecturer>Klufio, A;Hughes, V </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: PEWS & SBAR/Practical/AM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C216</room>
-	<lecturer>Klufio, A;Hughes, V </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/02</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>3G (WS)</room>
-	<lecturer>Self-directed </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG24b</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Rawlings-Anderson, K </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C216</room>
-	<lecturer>Lindsay, T;Francis, K </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C323</room>
-	<lecturer>Howard, C </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>AG24a</room>
-	<lecturer>Jones, Mark </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/06</activity>
-	<desc>AN/02B</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C216</room>
-	<lecturer>Gelbart, M;Mahoney, P </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/05</activity>
-	<desc>MHN/02B & 03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>3D (WS)</room>
-	<lecturer>Lindsay, T </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Hunter, J </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/02</activity>
-	<desc>AN/02A</desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>BM03</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/04</activity>
-	<desc>MHN/01 & 02A</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>AG24b</room>
-	<lecturer>Phillips, L </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>11/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C215</room>
-	<lecturer>Klufio, A;Hughes, V </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>17:30</end>
-	<week>18/11/13</week>
-	<modulecode>HSM101</modulecode>
-	<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/03</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG24a</room>
-	<lecturer>Klufio, A;Hughes, V </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/03</activity>
+		<desc>AN/02 A&B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/02</activity>
+		<desc>AN/02A&B</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Treacy, C;Manning, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C215</room>
+		<lecturer>Eales, S;Lindsay, T </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C216</room>
+		<lecturer>Hardy, S;Howard, C </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>3G (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>D112</room>
+		<lecturer>Jones, Mark </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Hunter, J;Manning, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C216</room>
+		<lecturer>Saunder, L;Reynolds, L </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C215</room>
+		<lecturer>Lindsay, T;Francis, K </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG24b</room>
+		<lecturer>Grant, R </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in practice 1: Tower Hamlets Induction</activity>
+		<desc>Tower Hamlets students only</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>LT (WS)</room>
+		<lecturer>Waddington, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Francis, K </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C208/210</room>
+		<lecturer>Klufio, A;Lanlehin, R </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/04</activity>
+		<desc>AN/02 A&B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/02</activity>
+		<desc>AN/02A&B</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Treacy, C;Manning, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C215</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bowden, T;McLeod, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C216</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/02</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>3G (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>D112</room>
+		<lecturer>Treacy, C </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Hunter, J;Manning, A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C216</room>
+		<lecturer>Saunder, L;Eales, S </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C215</room>
+		<lecturer>Lindsay, T;Francis, K </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG24b</room>
+		<lecturer>Grant, R </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Francis, K </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C208/210</room>
+		<lecturer>Klufio, A;Lanlehin, R </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/03</activity>
+		<desc>AN/02 A&B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/02</activity>
+		<desc>AN/02A&B</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Hunter, J;Olson, K </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C208/210</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Treacy, C </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A227</room>
+		<lecturer>Phillips, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG24a</room>
+		<lecturer>Hunter, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C208/210</room>
+		<lecturer>Eales, S;Lindsay, T </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C216</room>
+		<lecturer>Gelbart, M;Treacy, C </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Francis, K </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C215</room>
+		<lecturer>Saunder, L;Howard, C </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C215</room>
+		<lecturer>Gelbart, M;Hughes, V </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/04</activity>
+		<desc>AN/02 A&B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>11B (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/02</activity>
+		<desc>AN/02A&B</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Hunter, J;Olson, K </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C208/210</room>
+		<lecturer>Lindsay, T </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24a</room>
+		<lecturer>Saunder, L;Grant, R </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Phillips, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C215</room>
+		<lecturer>Hunter, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C208/210</room>
+		<lecturer>Phillips, L;Lindsay, T </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C216</room>
+		<lecturer>Gelbart, M;Manning, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, K </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24a</room>
+		<lecturer>Saunder, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C216</room>
+		<lecturer>Hughes, V;Mahoney, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/03/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in practice 1/Review</activity>
+		<desc>AN only</desc>
+		<joint>-</joint>
+		<studentnos>62</studentnos>
+		<room>BLG07</room>
+		<lecturer>Chamney, M;Boswell, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24b</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C215</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Howard, C;Lindsay, T </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Jones, Mark;Hunter, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>A107</room>
+		<lecturer>Saunder, L;Campbell, S </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C215</room>
+		<lecturer>Eales, S;Lindsay, T </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Gelbart, M;Hunter, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>07/10/13-21/10/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>IG03</room>
+		<lecturer>Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>28/10/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>IG03</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>25/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>-</room>
+		<lecturer>Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>02/12/13-09/12/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>IG03</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>13/01/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>20/01/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>27/01/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>03/02/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>10/02/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>17/02/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>17/03/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>31/03/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>26/05/14-21/07/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/02</activity>
+		<desc>MHN/02A & 02B</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A112</room>
+		<lecturer>Roberts, S;Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C216</room>
+		<lecturer>Klufio, A;Lanlehin, R </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Klufio, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>13/01/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in practice 1/Tutorial/02</activity>
+		<desc>Mid-placement review:AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C322</room>
+		<lecturer>Chamney, M;Boswell, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>13/01/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in practice 1/Tutorial/01</activity>
+		<desc>Mid-placement review:</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24b</room>
+		<lecturer>Smith, U </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>13/01/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in practice 1/Tutorial/03</activity>
+		<desc>Mid-placement review:AN/02A & B</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>C339</room>
+		<lecturer>Chamney, M;Boswell, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>AG24b</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C215</room>
+		<lecturer>Gelbart, M;Hunter, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Howard, C;Lindsay, T </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bliss, M;Boswell, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Howard, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>A107</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C215</room>
+		<lecturer>Phillips, L;Lindsay, T </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Gelbart, M;Hunter, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C216</room>
+		<lecturer>McGraw, C;Trust representative </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Klufio, A;Lanlehin, R </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>07/10/13-28/10/13, 02/12/13-09/12/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/03</activity>
+		<desc>MHN/03</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C330</room>
+		<lecturer>Reynolds, L;O'Carroll, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>06/01/14-17/02/14, 17/03/14, 07/04/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03</activity>
+		<desc>MHN/03</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A111</room>
+		<lecturer>Reynolds, L;O'Carroll, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>26/05/14-21/07/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/03</activity>
+		<desc>MHN/03</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D106</room>
+		<lecturer>Reynolds, L;O'Carroll, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C216</room>
+		<lecturer>Haddad, M;Howard, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Hunter, J;McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Rawlings-Anderson, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Mahoney, P;Francis, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C216</room>
+		<lecturer>Gelbart, M;Chamney, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Jones, Mark </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Treacy, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:30</end>
+		<week>25/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in practice 1/Infection control OSCE</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</room>
+		<lecturer>Anderson, D;Eales, S;Hill, Marie;Hunter, J;Manning, A;Lindsay, T;Olson, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>24/03/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03</activity>
+		<desc>MHN/03</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A111</room>
+		<lecturer>Reynolds, L </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>31/03/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03</activity>
+		<desc>MHN/03</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A111</room>
+		<lecturer>Reynolds, L;O'Carroll, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/12/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Moving and handling catch-up session</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Anderson, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24b</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24b</room>
+		<lecturer>Hughes, V </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 OSCE</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Hughes, V </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24a</room>
+		<lecturer>Howard, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Hunter, J;Olson, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Jones, Mark;Rawlings-Anderson, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Mahoney, P;Francis, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C216</room>
+		<lecturer>Gelbart, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>11C (WS)</room>
+		<lecturer>Francis, A;Francis, K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Lindsay, T;Flood, C </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C208/210</room>
+		<lecturer>Treacy, C;Boswell, G </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Bliss, M;Bowden, T </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24b</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24b</room>
+		<lecturer>Hughes, V </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>19/05/14-21/07/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/01</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG10</room>
+		<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>3G (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG24b</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Rawlings-Anderson, K </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C208/210</room>
+		<lecturer>Lindsay, T;Francis, K </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C345</room>
+		<lecturer>Howard, C </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C216</room>
+		<lecturer>Jones, Mark </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C215</room>
+		<lecturer>Gelbart, M;Hunter, J </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Eales, S;Lindsay, T </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Jones, Mark </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG10</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Phillips, L </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>07/10/13-04/11/13, 02/12/13-16/12/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/01</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C313</room>
+		<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>06/01/14-17/02/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/01</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C357</room>
+		<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>17/03/14-07/04/14</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/01</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>IG03</room>
+		<lecturer>Campbell, S;Davies, Jacqueline </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C215</room>
+		<lecturer>Klufio, A;Hughes, V </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: PEWS & SBAR/Practical/AM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C216</room>
+		<lecturer>Klufio, A;Hughes, V </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/02</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>3G (WS)</room>
+		<lecturer>Self-directed </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG24b</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Rawlings-Anderson, K </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C216</room>
+		<lecturer>Lindsay, T;Francis, K </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C323</room>
+		<lecturer>Howard, C </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>AG24a</room>
+		<lecturer>Jones, Mark </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/06</activity>
+		<desc>AN/02B</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C216</room>
+		<lecturer>Gelbart, M;Mahoney, P </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/05</activity>
+		<desc>MHN/02B & 03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>3D (WS)</room>
+		<lecturer>Lindsay, T </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Hunter, J </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/02</activity>
+		<desc>AN/02A</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>BM03</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/04</activity>
+		<desc>MHN/01 & 02A</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>AG24b</room>
+		<lecturer>Phillips, L </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>11/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C215</room>
+		<lecturer>Klufio, A;Hughes, V </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>17:30</end>
+		<week>18/11/13</week>
+		<modulecode>HSM101</modulecode>
+		<activity>HSM101 Engaging in Practice 1: Shareville/Lab/PM/03</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG24a</room>
+		<lecturer>Klufio, A;Hughes, V </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

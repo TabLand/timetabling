@@ -1,13 +1,15 @@
-<booking>
-	<start>12:30</start>
-	<end>17:30</end>
-	<week>23/09/13</week>
-	<modulecode>PhD Induction Fin & mgt</modulecode>
-	<activity>CASS PhD Induction/MRes/PhD Induction</activity>
-	<desc>Fin & Mgt streams</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>3003</room>
-	<lecturer>Marsh, Ian Prof.;Souitaris, Vangelis Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:30</start>
+		<end>17:30</end>
+		<week>23/09/13</week>
+		<modulecode>PhD Induction Fin & mgt</modulecode>
+		<activity>CASS PhD Induction/MRes/PhD Induction</activity>
+		<desc>Fin & Mgt streams</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>3003</room>
+		<lecturer>Marsh, Ian Prof.;Souitaris, Vangelis Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

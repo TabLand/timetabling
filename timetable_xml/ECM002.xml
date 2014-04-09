@@ -1,39 +1,41 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM002</modulecode>
-	<activity>ECM002 Business Economics/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>C302</room>
-	<lecturer>Zauner, Klaus </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM002</modulecode>
-	<activity>ECM002 Business Economics/Tutorial 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>DLG02</room>
-	<lecturer>Zauner, Klaus </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM002</modulecode>
-	<activity>ECM002 Business Economics/Tutorial 01/2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>DLG02</room>
-	<lecturer>Zauner, Klaus </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM002</modulecode>
+		<activity>ECM002 Business Economics/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>C302</room>
+		<lecturer>Zauner, Klaus </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM002</modulecode>
+		<activity>ECM002 Business Economics/Tutorial 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>DLG02</room>
+		<lecturer>Zauner, Klaus </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM002</modulecode>
+		<activity>ECM002 Business Economics/Tutorial 01/2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>DLG02</room>
+		<lecturer>Zauner, Klaus </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

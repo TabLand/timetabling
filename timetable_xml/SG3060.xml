@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3060</modulecode>
-	<activity>SG3060 Class and Culture/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>54</studentnos>
-	<room>D104</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3060</modulecode>
-	<activity>SG3060 Class and Culture/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D221</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>SG3060</modulecode>
-	<activity>SG3060 Class and Culture/Lecture 01/Feb 10th</activity>
-	<desc>Later lecture</desc>
-	<joint> </joint>
-	<studentnos>54</studentnos>
-	<room>D104</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG3060</modulecode>
-	<activity>SG3060 Class and Culture/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D221</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3060</modulecode>
+		<activity>SG3060 Class and Culture/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>54</studentnos>
+		<room>D104</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3060</modulecode>
+		<activity>SG3060 Class and Culture/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D221</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>SG3060</modulecode>
+		<activity>SG3060 Class and Culture/Lecture 01/Feb 10th</activity>
+		<desc>Later lecture</desc>
+		<joint>-</joint>
+		<studentnos>54</studentnos>
+		<room>D104</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG3060</modulecode>
+		<activity>SG3060 Class and Culture/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D221</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

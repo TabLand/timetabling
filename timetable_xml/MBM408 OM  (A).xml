@@ -1,39 +1,41 @@
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>20/01/14-10/02/14</week>
-	<modulecode>MBM408 OM (A)</modulecode>
-	<activity>MBM408 Mba Block 3: Operations Management/A1/Lecture 01</activity>
-	<desc>FT MBA 2013 Block 3: OM A session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2002</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>20/01/14</week>
-	<modulecode>MBM408 OM (A)</modulecode>
-	<activity>MBM408 Mba Block 3: Operations Management/A2/LAB/wk 12</activity>
-	<desc>OM A session 2: Simulation: Global Supply Chain Mgmt : Comp LAB: Week 12 only</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2001</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>MBM408 OM (A)</modulecode>
-	<activity>MBM408 Mba Block 3: Operations Management/A2/Lecture 02/wks 13-15</activity>
-	<desc>FT MBA 2013 Block 3: OM A session 2 : Weeks 13-15</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>G001</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>20/01/14-10/02/14</week>
+		<modulecode>MBM408 OM (A)</modulecode>
+		<activity>MBM408 Mba Block 3: Operations Management/A1/Lecture 01</activity>
+		<desc>FT MBA 2013 Block 3: OM A session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2002</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>20/01/14</week>
+		<modulecode>MBM408 OM (A)</modulecode>
+		<activity>MBM408 Mba Block 3: Operations Management/A2/LAB/wk 12</activity>
+		<desc>OM A session 2: Simulation: Global Supply Chain Mgmt : Comp LAB: Week 12 only</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2001</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>MBM408 OM (A)</modulecode>
+		<activity>MBM408 Mba Block 3: Operations Management/A2/Lecture 02/wks 13-15</activity>
+		<desc>FT MBA 2013 Block 3: OM A session 2 : Weeks 13-15</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>G001</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,260 +1,262 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Lecture 01/02</activity>
-	<desc>Induction (April 2014): Grantmaking & Charity Accounting</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2005</room>
-	<lecturer>Palmer, Paul Prof.;Copeman, Caroline;Patel, Atul </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>13:30</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Induction/Syndicate Rooms</activity>
-	<desc>Induction (April 2014) : Grantmaking & Charity Accounting</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2008;2009</room>
-	<lecturer>Palmer, Paul Prof.;Copeman, Caroline;Patel, Atul </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:10</start>
-	<end>16:00</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Induction/Computer Room 02/02</activity>
-	<desc>Induction (April 2014): Grantmaking & Charity Accounting</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>1001</room>
-	<lecturer>Gaul, Jacqui;Dickson, Christina;Griffiths, Suzanne;Marriott, Helen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>16:30</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Tutorial Room</activity>
-	<desc>Induction (April 2014)</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>2007</room>
-	<lecturer>Grant, Peter </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>16:30</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Syndicate Room</activity>
-	<desc>Induction (April 2014)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2008</room>
-	<lecturer>Palmer, Paul Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:10</start>
-	<end>20:00</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Lecture 02/02</activity>
-	<desc>Induction (April 2014): Grantmaking & Charity Accounting</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2005</room>
-	<lecturer>Palmer, Paul Prof.;Patel, Atul </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>13:30</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Lecture 01/01</activity>
-	<desc>Induction (Oct 2013) Learning (shared across all Charity Programmes.</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3003</room>
-	<lecturer>Palmer, Paul Prof.;Patel, Atul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Lecture 03/02</activity>
-	<desc>Induction (April 2014): Charity Accounting</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>2005</room>
-	<lecturer>Palmer, Paul Prof.;Sayer, Kate </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/09/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/01/01</activity>
-	<desc>Induction: Syndicate Rooms (85 students)</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
-	<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/12/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/02/05</activity>
-	<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2010;3011;2008;2009;2011;2012;2013</room>
-	<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/02/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/03/05</activity>
-	<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2010;3011;2008;2009;2011;2012;2013</room>
-	<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/04/05</activity>
-	<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2010;3011;2008;2009;2011;2012;2013</room>
-	<lecturer>Lee, Stephen Prof;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>16/06/14</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/05/05</activity>
-	<desc>Induction: Syndicate Rooms x 9 (85 students)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2010;3011;2008;2009;2011;2012;2013;G004;3010</room>
-	<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>13:30</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/01/05</activity>
-	<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2010;3011;2008;2009;2011;2012;2013</room>
-	<lecturer>Lee, Stephen Prof;Hailey, John Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:10</start>
-	<end>15:00</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Induction/Computer Room 01/02</activity>
-	<desc>Induction</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>2001</room>
-	<lecturer>Gaul, Jacqui;Dickson, Christina;Marriott, Helen </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>16:30</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Induction/Computer Room 01/02</activity>
-	<desc>Induction</desc>
-	<joint> </joint>
-	<studentnos>65</studentnos>
-	<room>2001</room>
-	<lecturer>Griffiths, Suzanne </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:30</start>
-	<end>18:00</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Lecture 02/01</activity>
-	<desc>Induction (Oct 2013): Learning (shared across all Charity Programmes)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3003</room>
-	<lecturer>Grant, Peter </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>18:30</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Breakout/Lecture Room 02/02</activity>
-	<desc>Induction</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>2005</room>
-	<lecturer>Lee, Stephen Prof </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>18:30</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Breakout/Lecture Room 01/02</activity>
-	<desc>Induction</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>3003</room>
-	<lecturer>Palmer, Paul Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>18:30</end>
-	<week>07/10/13</week>
-	<modulecode>SMM751</modulecode>
-	<activity>SMM751 Learning/Syndicate Rooms</activity>
-	<desc>Induction (Oct 2013)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2010;2008;2009</room>
-	<lecturer>Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Lecture 01/02</activity>
+		<desc>Induction (April 2014): Grantmaking & Charity Accounting</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2005</room>
+		<lecturer>Palmer, Paul Prof.;Copeman, Caroline;Patel, Atul </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>13:30</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Induction/Syndicate Rooms</activity>
+		<desc>Induction (April 2014) : Grantmaking & Charity Accounting</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2008;2009</room>
+		<lecturer>Palmer, Paul Prof.;Copeman, Caroline;Patel, Atul </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:10</start>
+		<end>16:00</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Induction/Computer Room 02/02</activity>
+		<desc>Induction (April 2014): Grantmaking & Charity Accounting</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>1001</room>
+		<lecturer>Gaul, Jacqui;Dickson, Christina;Griffiths, Suzanne;Marriott, Helen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>16:30</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Tutorial Room</activity>
+		<desc>Induction (April 2014)</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>2007</room>
+		<lecturer>Grant, Peter </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>16:30</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Syndicate Room</activity>
+		<desc>Induction (April 2014)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2008</room>
+		<lecturer>Palmer, Paul Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:10</start>
+		<end>20:00</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Lecture 02/02</activity>
+		<desc>Induction (April 2014): Grantmaking & Charity Accounting</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2005</room>
+		<lecturer>Palmer, Paul Prof.;Patel, Atul </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>13:30</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Lecture 01/01</activity>
+		<desc>Induction (Oct 2013) Learning (shared across all Charity Programmes.</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3003</room>
+		<lecturer>Palmer, Paul Prof.;Patel, Atul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Lecture 03/02</activity>
+		<desc>Induction (April 2014): Charity Accounting</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>2005</room>
+		<lecturer>Palmer, Paul Prof.;Sayer, Kate </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/09/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/01/01</activity>
+		<desc>Induction: Syndicate Rooms (85 students)</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;3011;2011;2012;2013;LG010;G002;G004;3010</room>
+		<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/12/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/02/05</activity>
+		<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2010;3011;2008;2009;2011;2012;2013</room>
+		<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/02/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/03/05</activity>
+		<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2010;3011;2008;2009;2011;2012;2013</room>
+		<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/04/05</activity>
+		<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2010;3011;2008;2009;2011;2012;2013</room>
+		<lecturer>Lee, Stephen Prof;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>16/06/14</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/05/05</activity>
+		<desc>Induction: Syndicate Rooms x 9 (85 students)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2010;3011;2008;2009;2011;2012;2013;G004;3010</room>
+		<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>13:30</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Action Learning Sets/Syndicate Rooms/01/05</activity>
+		<desc>Induction: Syndicate Rooms x 7 (70 students)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2010;3011;2008;2009;2011;2012;2013</room>
+		<lecturer>Lee, Stephen Prof;Hailey, John Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:10</start>
+		<end>15:00</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Induction/Computer Room 01/02</activity>
+		<desc>Induction</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>2001</room>
+		<lecturer>Gaul, Jacqui;Dickson, Christina;Marriott, Helen </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>16:30</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Induction/Computer Room 01/02</activity>
+		<desc>Induction</desc>
+		<joint>-</joint>
+		<studentnos>65</studentnos>
+		<room>2001</room>
+		<lecturer>Griffiths, Suzanne </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:30</start>
+		<end>18:00</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Lecture 02/01</activity>
+		<desc>Induction (Oct 2013): Learning (shared across all Charity Programmes)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3003</room>
+		<lecturer>Grant, Peter </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>18:30</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Breakout/Lecture Room 02/02</activity>
+		<desc>Induction</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>2005</room>
+		<lecturer>Lee, Stephen Prof </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>18:30</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Breakout/Lecture Room 01/02</activity>
+		<desc>Induction</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>3003</room>
+		<lecturer>Palmer, Paul Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>18:30</end>
+		<week>07/10/13</week>
+		<modulecode>SMM751</modulecode>
+		<activity>SMM751 Learning/Syndicate Rooms</activity>
+		<desc>Induction (Oct 2013)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2010;2008;2009</room>
+		<lecturer>Grant, Peter;Hailey, John Prof.;Patel, Atul </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

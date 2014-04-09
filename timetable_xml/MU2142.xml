@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>MU2142</modulecode>
-	<activity>MU2142 Back to the Future? Neoclassicism as Musical Progress/01</activity>
-	<desc> </desc>
-	<joint>MU2142;MU3142</joint>
-	<studentnos>30</studentnos>
-	<room>AG09</room>
-	<lecturer>Griffiths, Graham </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>MU2142</modulecode>
+		<activity>MU2142 Back to the Future? Neoclassicism as Musical Progress/01</activity>
+		<desc>-</desc>
+		<joint>MU2142;MU3142</joint>
+		<studentnos>30</studentnos>
+		<room>AG09</room>
+		<lecturer>Griffiths, Graham </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

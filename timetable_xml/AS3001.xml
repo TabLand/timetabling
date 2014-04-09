@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13</week>
-	<modulecode>AS3001</modulecode>
-	<activity>AS3001 Final Year Project/Lecture 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>78</studentnos>
-	<room>B104</room>
-	<lecturer>Spreeuw, Jaap </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>21/10/13</week>
-	<modulecode>AS3001</modulecode>
-	<activity>AS3001 Library Resources for Part 3 Dissertation/wk 4</activity>
-	<desc>Autumn Term : Week 4 only</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>AG22</room>
-	<lecturer>Halford, Samantha </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13</week>
+		<modulecode>AS3001</modulecode>
+		<activity>AS3001 Final Year Project/Lecture 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>78</studentnos>
+		<room>B104</room>
+		<lecturer>Spreeuw, Jaap </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>21/10/13</week>
+		<modulecode>AS3001</modulecode>
+		<activity>AS3001 Library Resources for Part 3 Dissertation/wk 4</activity>
+		<desc>Autumn Term : Week 4 only</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>AG22</room>
+		<lecturer>Halford, Samantha </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

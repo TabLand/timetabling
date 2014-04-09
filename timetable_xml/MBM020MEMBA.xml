@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>14/10/13</week>
-	<modulecode>MBM020MEMBA</modulecode>
-	<activity>MBM020 Human Resource Management/MEMBA/Syn Rooms 01</activity>
-	<desc>MEMBA 13 Intake : Syndicate Rooms x 3 Friday - N Bacon</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>N211;N210;N209</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>14/10/13</week>
-	<modulecode>MBM020MEMBA</modulecode>
-	<activity>MBM020 Human Resource Management MEMBA/Lecture 01</activity>
-	<desc>MEMBA 2013 Stage 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Bacon, Nick </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>14/10/13</week>
+		<modulecode>MBM020MEMBA</modulecode>
+		<activity>MBM020 Human Resource Management/MEMBA/Syn Rooms 01</activity>
+		<desc>MEMBA 13 Intake : Syndicate Rooms x 3 Friday - N Bacon</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>N211;N210;N209</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>14/10/13</week>
+		<modulecode>MBM020MEMBA</modulecode>
+		<activity>MBM020 Human Resource Management MEMBA/Lecture 01</activity>
+		<desc>MEMBA 2013 Stage 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Bacon, Nick </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

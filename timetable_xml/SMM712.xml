@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-17/02/14, 03/03/14</week>
-	<modulecode>SMM712</modulecode>
-	<activity>SMM712 Power, Agriculture & Metal Markets/Lecture 01/WKS 1-4,6</activity>
-	<desc>PM - ETF ONLY- Weeks 1-4, 6</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3003</room>
-	<lecturer>De Menezes, Lillian </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>SMM712</modulecode>
-	<activity>SMM712 Power, Agriculture & Metal Markets/Lecture & LAB/WK 5</activity>
-	<desc>PM - ETF ONLY- Week 5 only : Computer Lab & Lecture Room</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2001;3003</room>
-	<lecturer>De Menezes, Lillian </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/03/14-31/03/14</week>
-	<modulecode>SMM712</modulecode>
-	<activity>SMM712 Power, Agriculture & Metal Markets/Lecture 01/WKS 7-10</activity>
-	<desc>PM - ETF ONLY- Weeks 7-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2003</room>
-	<lecturer>Tamvakis, Michael Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-17/02/14, 03/03/14</week>
+		<modulecode>SMM712</modulecode>
+		<activity>SMM712 Power, Agriculture & Metal Markets/Lecture 01/WKS 1-4,6</activity>
+		<desc>PM - ETF ONLY- Weeks 1-4, 6</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3003</room>
+		<lecturer>De Menezes, Lillian </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>SMM712</modulecode>
+		<activity>SMM712 Power, Agriculture & Metal Markets/Lecture & LAB/WK 5</activity>
+		<desc>PM - ETF ONLY- Week 5 only : Computer Lab & Lecture Room</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2001;3003</room>
+		<lecturer>De Menezes, Lillian </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/03/14-31/03/14</week>
+		<modulecode>SMM712</modulecode>
+		<activity>SMM712 Power, Agriculture & Metal Markets/Lecture 01/WKS 7-10</activity>
+		<desc>PM - ETF ONLY- Weeks 7-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2003</room>
+		<lecturer>Tamvakis, Michael Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

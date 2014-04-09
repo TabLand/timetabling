@@ -1,143 +1,145 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics/MGT/Lecture 02/2</activity>
-	<desc>Stream 2 - MGT & Exchange students</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>Oakden</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:30</end>
-	<week>03/03/14, 31/03/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics/BUS & MGT/TEST/Wks 6 & 10</activity>
-	<desc>Test - BUS & MGT : Weeks 6 & 10 only : 434 seats req'd for 214 students</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C338;C336;BG02;C170;AG07</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics/BUS/Lecture 01/2</activity>
-	<desc>Stream 1 - BUS only</desc>
-	<joint> </joint>
-	<studentnos>130</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Mgt/Tutorial 6/7</activity>
-	<desc>Group 6 MGT : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>C340</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Mgt/Tutorial 5/7</activity>
-	<desc>Group 5 MGT : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>C170</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>03/02/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Mgt/Tutorial 7/7</activity>
-	<desc>Group 7 MGT: Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>C340</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Bus/Tutorial 1/7/wks 1-10</activity>
-	<desc>Group 1 BUS : Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>DLG20</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Bus/Tutorial 1/7/wk 11</activity>
-	<desc>Group 1 BUS : Week 11 only (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>AG22</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Mgt/Tutorial 4/7</activity>
-	<desc>Group 4 MGT : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>44</studentnos>
-	<room>C170</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Bus/Tutorial 2/7</activity>
-	<desc>Group 2 BUS : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>C170</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS2102</modulecode>
-	<activity>BS2102 Business Statistics 2/Bus/Tutorial 3/7</activity>
-	<desc>Group 3 BUS : Weeks 1-11</desc>
-	<joint> </joint>
-	<studentnos>43</studentnos>
-	<room>C170</room>
-	<lecturer>Potton, Michael </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics/MGT/Lecture 02/2</activity>
+		<desc>Stream 2 - MGT & Exchange students</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>Oakden</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:30</end>
+		<week>03/03/14, 31/03/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics/BUS & MGT/TEST/Wks 6 & 10</activity>
+		<desc>Test - BUS & MGT : Weeks 6 & 10 only : 434 seats req'd for 214 students</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C338;C336;BG02;C170;AG07</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics/BUS/Lecture 01/2</activity>
+		<desc>Stream 1 - BUS only</desc>
+		<joint>-</joint>
+		<studentnos>130</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Mgt/Tutorial 6/7</activity>
+		<desc>Group 6 MGT : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>C340</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Mgt/Tutorial 5/7</activity>
+		<desc>Group 5 MGT : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>C170</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>03/02/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Mgt/Tutorial 7/7</activity>
+		<desc>Group 7 MGT: Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>C340</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Bus/Tutorial 1/7/wks 1-10</activity>
+		<desc>Group 1 BUS : Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>DLG20</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Bus/Tutorial 1/7/wk 11</activity>
+		<desc>Group 1 BUS : Week 11 only (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>AG22</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Mgt/Tutorial 4/7</activity>
+		<desc>Group 4 MGT : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>44</studentnos>
+		<room>C170</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Bus/Tutorial 2/7</activity>
+		<desc>Group 2 BUS : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>C170</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS2102</modulecode>
+		<activity>BS2102 Business Statistics 2/Bus/Tutorial 3/7</activity>
+		<desc>Group 3 BUS : Weeks 1-11</desc>
+		<joint>-</joint>
+		<studentnos>43</studentnos>
+		<room>C170</room>
+		<lecturer>Potton, Michael </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

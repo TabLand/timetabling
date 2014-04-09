@@ -1,65 +1,67 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>MS1201</modulecode>
-	<activity>MS1201 The Practise of Management/Lecture 1/1</activity>
-	<desc>Autumn Lecture</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>A130</room>
-	<lecturer>Rich, Martin;Holtham, Clive;Brown, Ann </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13, 28/10/13</week>
-	<modulecode>MS1201</modulecode>
-	<activity>MS1201 The Practise of Management/Tutorial/Breakout/WKS 2,5</activity>
-	<desc>Autumn : Breakout room: Presentations - Weeks 2,5 ONLY</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>C303</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>11/11/13</week>
-	<modulecode>MS1201</modulecode>
-	<activity>MS1201 The Practise of Management/Tutorial/Breakout/WK 7</activity>
-	<desc>Autumn : Breakout room: Presentations - Week 7 ONLY</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C161;CG02;CG05</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>MS1201</modulecode>
-	<activity>MS1201 The Practise of Management/Tutorial/Breakout/WK 10</activity>
-	<desc>Autumn : Breakout room: Presentations - Week 10 ONLY</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A227;A225;CG05</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>09/12/13</week>
-	<modulecode>MS1201</modulecode>
-	<activity>MS1201 The Practise of Management/Revision/WK 11</activity>
-	<desc>Week 11 only</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>A130</room>
-	<lecturer>Rich, Martin </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>MS1201</modulecode>
+		<activity>MS1201 The Practise of Management/Lecture 1/1</activity>
+		<desc>Autumn Lecture</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>A130</room>
+		<lecturer>Rich, Martin;Holtham, Clive;Brown, Ann </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13, 28/10/13</week>
+		<modulecode>MS1201</modulecode>
+		<activity>MS1201 The Practise of Management/Tutorial/Breakout/WKS 2,5</activity>
+		<desc>Autumn : Breakout room: Presentations - Weeks 2,5 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>C303</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>11/11/13</week>
+		<modulecode>MS1201</modulecode>
+		<activity>MS1201 The Practise of Management/Tutorial/Breakout/WK 7</activity>
+		<desc>Autumn : Breakout room: Presentations - Week 7 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C161;CG02;CG05</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>MS1201</modulecode>
+		<activity>MS1201 The Practise of Management/Tutorial/Breakout/WK 10</activity>
+		<desc>Autumn : Breakout room: Presentations - Week 10 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A227;A225;CG05</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>09/12/13</week>
+		<modulecode>MS1201</modulecode>
+		<activity>MS1201 The Practise of Management/Revision/WK 11</activity>
+		<desc>Week 11 only</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>A130</room>
+		<lecturer>Rich, Martin </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

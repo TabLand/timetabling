@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13</week>
-	<modulecode>OV1111</modulecode>
-	<activity>OV1111 Mathematics for the Foundation Degree in Ophthalmic Dispensing/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>CG02</room>
-	<lecturer>Crabb, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>03/02/14-10/02/14, 24/02/14-03/03/14</week>
-	<modulecode>OV1111</modulecode>
-	<activity>OV1111 Mathematics for the Foundation Degree in Ophthalmic Dispensing/Lecture/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>ALG16</room>
-	<lecturer>Crabb, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>OV1111</modulecode>
-	<activity>OV1111 Mathematics for the Foundation Degree in Ophthalmic Dispensing/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A227</room>
-	<lecturer>Crabb, David </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13</week>
+		<modulecode>OV1111</modulecode>
+		<activity>OV1111 Mathematics for the Foundation Degree in Ophthalmic Dispensing/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>CG02</room>
+		<lecturer>Crabb, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>03/02/14-10/02/14, 24/02/14-03/03/14</week>
+		<modulecode>OV1111</modulecode>
+		<activity>OV1111 Mathematics for the Foundation Degree in Ophthalmic Dispensing/Lecture/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>ALG16</room>
+		<lecturer>Crabb, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>OV1111</modulecode>
+		<activity>OV1111 Mathematics for the Foundation Degree in Ophthalmic Dispensing/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A227</room>
+		<lecturer>Crabb, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

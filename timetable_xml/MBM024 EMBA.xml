@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>28/10/13-25/11/13</week>
-	<modulecode>MBM024 EMBA</modulecode>
-	<activity>MBM024 Finance 1/EMBA/Lecture 01</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Thomas, Steve </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>28/10/13-25/11/13</week>
+		<modulecode>MBM024 EMBA</modulecode>
+		<activity>MBM024 Finance 1/EMBA/Lecture 01</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Thomas, Steve </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

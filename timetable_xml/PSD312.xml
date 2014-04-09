@@ -1,52 +1,54 @@
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>13/01/14-20/01/14</week>
-	<modulecode>PSD312</modulecode>
-	<activity>PSD312 Introduction to Clinical Supervision Practice/Lecture 01/WKS 1&2</activity>
-	<desc>Weeks 1&2 (Different location)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG03</room>
-	<lecturer>Rawson, Don </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>20/01/14</week>
-	<modulecode>PSD312</modulecode>
-	<activity>PSD312 Introduction to Clinical Supervision Practice/Break Out 01/WK 2</activity>
-	<desc>Week 2 (Different Locations)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107;D108</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>27/01/14-17/03/14</week>
-	<modulecode>PSD312</modulecode>
-	<activity>PSD312 Introduction to Clinical Supervision Practice/Lecture 01/WKS 3-10</activity>
-	<desc>Weeks 3-10</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG02</room>
-	<lecturer>Rawson, Don </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
-	<modulecode>PSD312</modulecode>
-	<activity>PSD312 Introduction to Clinical Supervision Practice/Break Out 01/WKS 4,6,8&10</activity>
-	<desc>Weeks 4, 6, 8 & 10</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D113;D106</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>13/01/14-20/01/14</week>
+		<modulecode>PSD312</modulecode>
+		<activity>PSD312 Introduction to Clinical Supervision Practice/Lecture 01/WKS 1&2</activity>
+		<desc>Weeks 1&2 (Different location)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG03</room>
+		<lecturer>Rawson, Don </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>20/01/14</week>
+		<modulecode>PSD312</modulecode>
+		<activity>PSD312 Introduction to Clinical Supervision Practice/Break Out 01/WK 2</activity>
+		<desc>Week 2 (Different Locations)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107;D108</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>27/01/14-17/03/14</week>
+		<modulecode>PSD312</modulecode>
+		<activity>PSD312 Introduction to Clinical Supervision Practice/Lecture 01/WKS 3-10</activity>
+		<desc>Weeks 3-10</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG02</room>
+		<lecturer>Rawson, Don </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
+		<modulecode>PSD312</modulecode>
+		<activity>PSD312 Introduction to Clinical Supervision Practice/Break Out 01/WKS 4,6,8&10</activity>
+		<desc>Weeks 4, 6, 8 & 10</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D113;D106</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,1313 +1,1315 @@
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>10/03/14</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Exam resit</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C336</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Exam resit - SA</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C357</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Klufio, A;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>D222</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Klufio, A;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Klufio, A;Ellis, M </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/07</activity>
-	<desc>CN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Anderson, D;Hughes, V;Francis, K </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/08</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Saunder, L;Flood, C </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/08</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Francis, A;Saunder, L;Scott, B </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/08</activity>
-	<desc>MHN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Saunder, L;Mahoney, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Anderson, D;Manning, A;Francis, K </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Cooper, J;Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>28/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>BLG08</room>
-	<lecturer>Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>BLG08</room>
-	<lecturer>Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Francis, A;Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Bliss, M;Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bliss, M;Boswell, G </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>28/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>BLG07</room>
-	<lecturer>Cooper, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>BLG07</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bliss, M;Mahoney, P </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bliss, M;Cooper, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Cooper, J;Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A;Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Chamney, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Saunder, L;Lindsay, T;Francis, K </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:30</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Ellis, M;Hughes, V </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:30</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Manning, A;Lindsay, T;Boswell, G </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:30</start>
-	<end>17:50</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Ellis, M;Hughes, V </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A;Cooper, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>BM03</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Cooper, J;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Bliss, M;McLeod, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:30</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Anderson, D;Boswell, G;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Ellis, M;Hughes, V </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Ellis, M;Hughes, V </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Ellis, M;Lanlehin, R </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:30</start>
-	<end>12:50</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>13:50</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Klufio, A;Anderson, D;Francis, K </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>O'Carroll, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>O'Carroll, M;Lindsay, T </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>BM02</room>
-	<lecturer>O'Carroll, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Francis, A;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:50</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
-	<desc>MHN/01 & 02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Francis, A;Mahoney, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Module Evaluation/01</activity>
-	<desc>MHN</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>O'Carroll, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>30/09/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>Ellis, M;McLeod, A;O'Carroll, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>Manning, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>Boswell, G </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>28/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>Oakden</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Boswell, G </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>176</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Bliss, M;McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A;Cooper, J </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Ellis, M;Hughes, V </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>07/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>14/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A;Cooper, J </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>C140</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>McLeod, A;Cooper, J </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Francis, A;Mahoney, P </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Cooper, J;Chamney, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/04</activity>
-	<desc>AN/04</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C208/210</room>
-	<lecturer>Chamney, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
-	<desc>AN/01</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>McLeod, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/05</activity>
-	<desc>CN/01</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>C340</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Treacy, C;Bliss, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:30</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C215</room>
-	<lecturer>Bliss, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:30</start>
-	<end>17:50</end>
-	<week>28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>D104</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/03</activity>
-	<desc>AN/03</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Francis, A;Boswell, G </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>06/01/14</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling Catch-Up/01</activity>
-	<desc>All groups</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Anderson, D;Manning, A </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>21/10/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/02</activity>
-	<desc>AN/02</desc>
-	<joint> </joint>
-	<studentnos>21</studentnos>
-	<room>2G (WS)</room>
-	<lecturer>Francis, A;Manning, A;Boswell, G </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:30</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/03/10</activity>
-	<desc>Prep for Assessments</desc>
-	<joint> </joint>
-	<studentnos>75</studentnos>
-	<room>AG07</room>
-	<lecturer>Ellis, M </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>25/11/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Anderson, D;Ellis, M </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Ellis, M;Lanlehin, R </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:50</end>
-	<week>09/12/13</week>
-	<modulecode>HS1011</modulecode>
-	<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/06</activity>
-	<desc>CN/02</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>C216</room>
-	<lecturer>Ellis, M;Lanlehin, R </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>10/03/14</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Exam resit</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C336</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Exam resit - SA</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C357</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Klufio, A;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>D222</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Klufio, A;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Klufio, A;Ellis, M </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/07</activity>
+		<desc>CN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Anderson, D;Hughes, V;Francis, K </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/08</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Saunder, L;Flood, C </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/08</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Francis, A;Saunder, L;Scott, B </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/08</activity>
+		<desc>MHN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Saunder, L;Mahoney, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Anderson, D;Manning, A;Francis, K </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Cooper, J;Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>28/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>BLG08</room>
+		<lecturer>Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>BLG08</room>
+		<lecturer>Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Francis, A;Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Bliss, M;Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bliss, M;Boswell, G </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>28/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>BLG07</room>
+		<lecturer>Cooper, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>BLG07</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bliss, M;Mahoney, P </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bliss, M;Cooper, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Cooper, J;Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A;Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Chamney, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Saunder, L;Lindsay, T;Francis, K </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:30</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Ellis, M;Hughes, V </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:30</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Manning, A;Lindsay, T;Boswell, G </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:30</start>
+		<end>17:50</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Ellis, M;Hughes, V </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A;Cooper, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>BM03</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Cooper, J;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Bliss, M;McLeod, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:30</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Anderson, D;Boswell, G;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Ellis, M;Hughes, V </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Ellis, M;Hughes, V </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Ellis, M;Lanlehin, R </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:30</start>
+		<end>12:50</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>13:50</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Klufio, A;Anderson, D;Francis, K </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>O'Carroll, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>O'Carroll, M;Lindsay, T </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>BM02</room>
+		<lecturer>O'Carroll, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Francis, A;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:50</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/08</activity>
+		<desc>MHN/01 & 02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Francis, A;Mahoney, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Module Evaluation/01</activity>
+		<desc>MHN</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>O'Carroll, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>30/09/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>Ellis, M;McLeod, A;O'Carroll, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>Manning, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>Boswell, G </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>28/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/02/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>Oakden</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Boswell, G </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/01/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>176</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Bliss, M;McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A;Cooper, J </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Ellis, M;Hughes, V </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>07/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>14/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A;Cooper, J </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>C140</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>McLeod, A;Cooper, J </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Francis, A;Mahoney, P </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Cooper, J;Chamney, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/04</activity>
+		<desc>AN/04</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C208/210</room>
+		<lecturer>Chamney, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/01/01</activity>
+		<desc>AN/01</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>McLeod, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/05</activity>
+		<desc>CN/01</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>C340</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Treacy, C;Bliss, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:30</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C215</room>
+		<lecturer>Bliss, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:30</start>
+		<end>17:50</end>
+		<week>28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Tutorial/01/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>D104</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/03</activity>
+		<desc>AN/03</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Francis, A;Boswell, G </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>06/01/14</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling Catch-Up/01</activity>
+		<desc>All groups</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Anderson, D;Manning, A </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>21/10/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Manual Handling/02</activity>
+		<desc>AN/02</desc>
+		<joint>-</joint>
+		<studentnos>21</studentnos>
+		<room>2G (WS)</room>
+		<lecturer>Francis, A;Manning, A;Boswell, G </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:30</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Lecture/03/10</activity>
+		<desc>Prep for Assessments</desc>
+		<joint>-</joint>
+		<studentnos>75</studentnos>
+		<room>AG07</room>
+		<lecturer>Ellis, M </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>25/11/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Anderson, D;Ellis, M </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Ellis, M;Lanlehin, R </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:50</end>
+		<week>09/12/13</week>
+		<modulecode>HS1011</modulecode>
+		<activity>HS1011 Foundations of Relationship-Centred Practice/Practical/02/06</activity>
+		<desc>CN/02</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>C216</room>
+		<lecturer>Ellis, M;Lanlehin, R </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>04/11/13-25/11/13</week>
-	<modulecode>MBM407 POF (A)</modulecode>
-	<activity>MBM407 Mba Block 2: Principles of Finance/A1/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 2 - Principles of Finance A session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2003</room>
-	<lecturer>Cuthbertson, Keith </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>MBM407 POF (A)</modulecode>
-	<activity>MBM407 Mba Block 2: Principles of Finance/A&B/Revision/Lecture (Lead)</activity>
-	<desc>(Lead) (A & B groups) : Revision</desc>
-	<joint>MBM407 POF (B);MBM407 POF (A)</joint>
-	<studentnos>100</studentnos>
-	<room>LG001</room>
-	<lecturer>Cuthbertson, Keith </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>04/11/13-25/11/13</week>
-	<modulecode>MBM407 POF (A)</modulecode>
-	<activity>MBM407 Mba Block 2: Principles of Finance/A2/Lecture 02</activity>
-	<desc>FTMBA 2013 Block 2 - Principles of Finance A session 2</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2003</room>
-	<lecturer>Cuthbertson, Keith </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>04/11/13-25/11/13</week>
+		<modulecode>MBM407 POF (A)</modulecode>
+		<activity>MBM407 Mba Block 2: Principles of Finance/A1/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 2 - Principles of Finance A session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2003</room>
+		<lecturer>Cuthbertson, Keith </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>MBM407 POF (A)</modulecode>
+		<activity>MBM407 Mba Block 2: Principles of Finance/A&B/Revision/Lecture (Lead)</activity>
+		<desc>(Lead) (A & B groups) : Revision</desc>
+		<joint>MBM407 POF (B);MBM407 POF (A)</joint>
+		<studentnos>100</studentnos>
+		<room>LG001</room>
+		<lecturer>Cuthbertson, Keith </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>04/11/13-25/11/13</week>
+		<modulecode>MBM407 POF (A)</modulecode>
+		<activity>MBM407 Mba Block 2: Principles of Finance/A2/Lecture 02</activity>
+		<desc>FTMBA 2013 Block 2 - Principles of Finance A session 2</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2003</room>
+		<lecturer>Cuthbertson, Keith </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

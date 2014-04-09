@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM132</modulecode>
-	<activity>SMM132 Project Management for Professional Practice/Lecture 01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>G001</room>
-	<lecturer>Whitaker, Russell </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM132</modulecode>
+		<activity>SMM132 Project Management for Professional Practice/Lecture 01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>G001</room>
+		<lecturer>Whitaker, Russell </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

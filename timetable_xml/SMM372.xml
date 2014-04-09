@@ -1,39 +1,41 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14, 17/02/14-24/03/14</week>
-	<modulecode>SMM372</modulecode>
-	<activity>SMM372 General Insurance/Lecture 01/wks 1,4-9</activity>
-	<desc>FT & PT1 : Weeks 1, 4-9</desc>
-	<joint> </joint>
-	<studentnos>73</studentnos>
-	<room>2002</room>
-	<lecturer>Parsons, Chris </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/02/14-10/02/14</week>
-	<modulecode>SMM372</modulecode>
-	<activity>SMM372 General Insurance/Lecture 01/wks 2-3</activity>
-	<desc>FT & PT1 : Weeks 2-3</desc>
-	<joint> </joint>
-	<studentnos>73</studentnos>
-	<room>2002</room>
-	<lecturer>Chen, Cherie;Parsons, Chris </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>24/03/14</week>
-	<modulecode>SMM372</modulecode>
-	<activity>SMM372 General Insurance/Lecture 01/wk 9</activity>
-	<desc>FT & PT1 : Week 9 ONLY (replacement for wk 10 missed)</desc>
-	<joint> </joint>
-	<studentnos>73</studentnos>
-	<room>2002</room>
-	<lecturer>Parsons, Chris </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14, 17/02/14-24/03/14</week>
+		<modulecode>SMM372</modulecode>
+		<activity>SMM372 General Insurance/Lecture 01/wks 1,4-9</activity>
+		<desc>FT & PT1 : Weeks 1, 4-9</desc>
+		<joint>-</joint>
+		<studentnos>73</studentnos>
+		<room>2002</room>
+		<lecturer>Parsons, Chris </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/02/14-10/02/14</week>
+		<modulecode>SMM372</modulecode>
+		<activity>SMM372 General Insurance/Lecture 01/wks 2-3</activity>
+		<desc>FT & PT1 : Weeks 2-3</desc>
+		<joint>-</joint>
+		<studentnos>73</studentnos>
+		<room>2002</room>
+		<lecturer>Chen, Cherie;Parsons, Chris </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>24/03/14</week>
+		<modulecode>SMM372</modulecode>
+		<activity>SMM372 General Insurance/Lecture 01/wk 9</activity>
+		<desc>FT & PT1 : Week 9 ONLY (replacement for wk 10 missed)</desc>
+		<joint>-</joint>
+		<studentnos>73</studentnos>
+		<room>2002</room>
+		<lecturer>Parsons, Chris </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

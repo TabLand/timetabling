@@ -1,26 +1,28 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM377</modulecode>
-	<activity>INM377 Game Physics and Al/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C140</room>
-	<lecturer>Paterson, Ross </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM377</modulecode>
-	<activity>INM377 Game Physics and Al/Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A218</room>
-	<lecturer>Child, Chris </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM377</modulecode>
+		<activity>INM377 Game Physics and Al/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C140</room>
+		<lecturer>Paterson, Ross </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM377</modulecode>
+		<activity>INM377 Game Physics and Al/Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A218</room>
+		<lecturer>Child, Chris </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

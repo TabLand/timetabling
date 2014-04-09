@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>SMM476</modulecode>
-	<activity>SMM476 Supply Chain Analysis/MKT,ENT/Lecture/WK 1</activity>
-	<desc>Core : MKT & ENT streams only : Week 1 (replacement)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>2005</room>
-	<lecturer>Son, Byung Gak </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14</week>
-	<modulecode>SMM476</modulecode>
-	<activity>SMM476 Supply Chain Analysis/SM/Lecture/WK 1</activity>
-	<desc>Core : SM Stream only : Week 1 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>2005</room>
-	<lecturer>Son, Byung Gak </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>03/02/14-10/03/14</week>
-	<modulecode>SMM476</modulecode>
-	<activity>SMM476 Supply Chain Analysis/MKT,ENT/Lecture/WKS 2-7</activity>
-	<desc>Core : MKT & ENT streams only : Weeks 2-7</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>2005</room>
-	<lecturer>Son, Byung Gak </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/02/14-10/03/14</week>
-	<modulecode>SMM476</modulecode>
-	<activity>SMM476 Supply Chain Analysis/SM/Lecture/WKS 2-7</activity>
-	<desc>Core : SM Stream only : Weeks 2-7</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>3003</room>
-	<lecturer>Son, Byung Gak </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>SMM476</modulecode>
+		<activity>SMM476 Supply Chain Analysis/MKT,ENT/Lecture/WK 1</activity>
+		<desc>Core : MKT & ENT streams only : Week 1 (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>2005</room>
+		<lecturer>Son, Byung Gak </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14</week>
+		<modulecode>SMM476</modulecode>
+		<activity>SMM476 Supply Chain Analysis/SM/Lecture/WK 1</activity>
+		<desc>Core : SM Stream only : Week 1 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>2005</room>
+		<lecturer>Son, Byung Gak </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>03/02/14-10/03/14</week>
+		<modulecode>SMM476</modulecode>
+		<activity>SMM476 Supply Chain Analysis/MKT,ENT/Lecture/WKS 2-7</activity>
+		<desc>Core : MKT & ENT streams only : Weeks 2-7</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>2005</room>
+		<lecturer>Son, Byung Gak </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/02/14-10/03/14</week>
+		<modulecode>SMM476</modulecode>
+		<activity>SMM476 Supply Chain Analysis/SM/Lecture/WKS 2-7</activity>
+		<desc>Core : SM Stream only : Weeks 2-7</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>3003</room>
+		<lecturer>Son, Byung Gak </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

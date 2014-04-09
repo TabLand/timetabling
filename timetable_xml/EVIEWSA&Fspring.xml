@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>EVIEWSA&Fspring</modulecode>
-	<activity>EVIEWS YR 3 (A&F)/Spring/Computer Room 01</activity>
-	<desc>YR 3 (A&F) /Spring</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>EVIEWSA&Fspring</modulecode>
+		<activity>EVIEWS YR 3 (A&F)/Spring/Computer Room 01</activity>
+		<desc>YR 3 (A&F) /Spring</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

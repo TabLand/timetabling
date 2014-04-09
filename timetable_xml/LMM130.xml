@@ -1,91 +1,93 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-24/03/14, 07/04/14</week>
-	<modulecode>LMM130</modulecode>
-	<activity>LMM130 International Dispute Settlement/Seminar 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C164</room>
-	<lecturer>Draghici, Carmen </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/03/14</week>
-	<modulecode>LMM130</modulecode>
-	<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Mar 4th</activity>
-	<desc>Week 10 rescheduled in week 6</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D107</room>
-	<lecturer>Baars, Grietje </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>LMM130</modulecode>
-	<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Feb 13th</activity>
-	<desc>Week 3 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>D108</room>
-	<lecturer>Masri, Mazen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>LMM130</modulecode>
-	<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Apr 10th</activity>
-	<desc>Week 11 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>A108</room>
-	<lecturer>Baars, Grietje </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>07/04/14</week>
-	<modulecode>LMM130</modulecode>
-	<activity>LMM130 International Dispute Settlement/Seminar 01/Apr 10th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D106</room>
-	<lecturer>Draghici, Carmen </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>12:30</end>
-	<week>03/02/14</week>
-	<modulecode>LMM130</modulecode>
-	<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Feb 7th</activity>
-	<desc>Week 2: longer session</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>I203/I206</room>
-	<lecturer>Baars, Grietje </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>17/02/14, 03/03/14-24/03/14</week>
-	<modulecode>LMM130</modulecode>
-	<activity>LMM128 International Human Rights Law & Practice/Seminar 01/01</activity>
-	<desc>Weeks 4, 6-9 & 11</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>I203/I206</room>
-	<lecturer>Baars, Grietje </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-24/03/14, 07/04/14</week>
+		<modulecode>LMM130</modulecode>
+		<activity>LMM130 International Dispute Settlement/Seminar 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C164</room>
+		<lecturer>Draghici, Carmen </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/03/14</week>
+		<modulecode>LMM130</modulecode>
+		<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Mar 4th</activity>
+		<desc>Week 10 rescheduled in week 6</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D107</room>
+		<lecturer>Baars, Grietje </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>LMM130</modulecode>
+		<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Feb 13th</activity>
+		<desc>Week 3 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>D108</room>
+		<lecturer>Masri, Mazen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>LMM130</modulecode>
+		<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Apr 10th</activity>
+		<desc>Week 11 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>A108</room>
+		<lecturer>Baars, Grietje </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>07/04/14</week>
+		<modulecode>LMM130</modulecode>
+		<activity>LMM130 International Dispute Settlement/Seminar 01/Apr 10th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D106</room>
+		<lecturer>Draghici, Carmen </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>12:30</end>
+		<week>03/02/14</week>
+		<modulecode>LMM130</modulecode>
+		<activity>LMM128 International Human Rights Law & Practice/Seminar 01/Feb 7th</activity>
+		<desc>Week 2: longer session</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>I203/I206</room>
+		<lecturer>Baars, Grietje </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>17/02/14, 03/03/14-24/03/14</week>
+		<modulecode>LMM130</modulecode>
+		<activity>LMM128 International Human Rights Law & Practice/Seminar 01/01</activity>
+		<desc>Weeks 4, 6-9 & 11</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>I203/I206</room>
+		<lecturer>Baars, Grietje </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

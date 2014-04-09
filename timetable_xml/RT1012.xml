@@ -1,91 +1,93 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>06/01/14</week>
-	<modulecode>RT1012</modulecode>
-	<activity>RT1012 Professional Practice/Lecture 01/01</activity>
-	<desc>Week One Topics</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>C313</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT1012</modulecode>
-	<activity>RT1012 Professional Practice/Lecture 01/03</activity>
-	<desc>Week Two Topics</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>C313</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1012</modulecode>
-	<activity>RT1012 Professional Practice/Lecture 01/05</activity>
-	<desc>Week Three Topics</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>C313</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>06/01/14</week>
-	<modulecode>RT1012</modulecode>
-	<activity>RT1012 Professional Practice/Lecture 01/02</activity>
-	<desc>Week One Topics</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>C313</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT1012</modulecode>
-	<activity>RT1012 Professional Practice/Lecture 01/04</activity>
-	<desc>Week Two Topics (needs two rooms nearby - holding room)</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>D106;D108</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>RT1012</modulecode>
-	<activity>RT1012 Professional Practice/Lecture 01/06</activity>
-	<desc>Week Three Topics</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>C330</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:30</end>
-	<week>17/02/14</week>
-	<modulecode>RT1012</modulecode>
-	<activity>RT1012 Principles of radiotherapy</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>3</studentnos>
-	<room>D109</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>06/01/14</week>
+		<modulecode>RT1012</modulecode>
+		<activity>RT1012 Professional Practice/Lecture 01/01</activity>
+		<desc>Week One Topics</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>C313</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT1012</modulecode>
+		<activity>RT1012 Professional Practice/Lecture 01/03</activity>
+		<desc>Week Two Topics</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>C313</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1012</modulecode>
+		<activity>RT1012 Professional Practice/Lecture 01/05</activity>
+		<desc>Week Three Topics</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>C313</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>06/01/14</week>
+		<modulecode>RT1012</modulecode>
+		<activity>RT1012 Professional Practice/Lecture 01/02</activity>
+		<desc>Week One Topics</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>C313</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT1012</modulecode>
+		<activity>RT1012 Professional Practice/Lecture 01/04</activity>
+		<desc>Week Two Topics (needs two rooms nearby - holding room)</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>D106;D108</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>RT1012</modulecode>
+		<activity>RT1012 Professional Practice/Lecture 01/06</activity>
+		<desc>Week Three Topics</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>C330</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:30</end>
+		<week>17/02/14</week>
+		<modulecode>RT1012</modulecode>
+		<activity>RT1012 Principles of radiotherapy</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>3</studentnos>
+		<room>D109</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

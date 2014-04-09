@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>14/10/13</week>
-	<modulecode>A&F year 1 & 2</modulecode>
-	<activity>A&F BSc. meeting re placements and study abroad/Part 1 & 2</activity>
-	<desc>Rui Barros Silva 3019: Part 1 & 2 students</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>Oakden</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>14/10/13</week>
+		<modulecode>A&F year 1 & 2</modulecode>
+		<activity>A&F BSc. meeting re placements and study abroad/Part 1 & 2</activity>
+		<desc>Rui Barros Silva 3019: Part 1 & 2 students</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>Oakden</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

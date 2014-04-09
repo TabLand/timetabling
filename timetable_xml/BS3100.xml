@@ -1,65 +1,67 @@
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>30/09/13-21/10/13</week>
-	<modulecode>BS3100</modulecode>
-	<activity>BS3100 Strategy for Business/BUS/Lecture 01/02/wks 1-4</activity>
-	<desc>Stream 1 - BUS only: Weeks 1-4</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>Geary</room>
-	<lecturer>Kamuriwo, Sam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>04/11/13-02/12/13</week>
-	<modulecode>BS3100</modulecode>
-	<activity>BS3100 Strategy for Business/BUS/Lecture 01/02/wks 6-10</activity>
-	<desc>Stream 1 - BUS only: Weeks 6-10</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>Geary</room>
-	<lecturer>Hill, Susan </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>BS3100</modulecode>
-	<activity>BS3100 Strategy for Business/BUS/Lecture 01/02/wk 5</activity>
-	<desc>Stream 1 - BUS only: Week 5 ONLY : Replacement</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>AG07</room>
-	<lecturer>Hill, Susan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>BS3100</modulecode>
-	<activity>BS3100 Strategy for Business/MGT/A&F/Lecture 02/02/wks 1-5</activity>
-	<desc>Stream 2 - MGT/A&F/Exchange: Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>Geary</room>
-	<lecturer>Kamuriwo, Sam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>04/11/13-02/12/13</week>
-	<modulecode>BS3100</modulecode>
-	<activity>BS3100 Strategy for Business/MGT/A&F/Lecture 02/02/wks 6-10</activity>
-	<desc>Stream 2 - MGT/A&F/Exchange: Weeks 6-10</desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>Geary</room>
-	<lecturer>Hill, Susan </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>30/09/13-21/10/13</week>
+		<modulecode>BS3100</modulecode>
+		<activity>BS3100 Strategy for Business/BUS/Lecture 01/02/wks 1-4</activity>
+		<desc>Stream 1 - BUS only: Weeks 1-4</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>Geary</room>
+		<lecturer>Kamuriwo, Sam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>04/11/13-02/12/13</week>
+		<modulecode>BS3100</modulecode>
+		<activity>BS3100 Strategy for Business/BUS/Lecture 01/02/wks 6-10</activity>
+		<desc>Stream 1 - BUS only: Weeks 6-10</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>Geary</room>
+		<lecturer>Hill, Susan </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>BS3100</modulecode>
+		<activity>BS3100 Strategy for Business/BUS/Lecture 01/02/wk 5</activity>
+		<desc>Stream 1 - BUS only: Week 5 ONLY : Replacement</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>AG07</room>
+		<lecturer>Hill, Susan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>BS3100</modulecode>
+		<activity>BS3100 Strategy for Business/MGT/A&F/Lecture 02/02/wks 1-5</activity>
+		<desc>Stream 2 - MGT/A&F/Exchange: Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>Geary</room>
+		<lecturer>Kamuriwo, Sam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>04/11/13-02/12/13</week>
+		<modulecode>BS3100</modulecode>
+		<activity>BS3100 Strategy for Business/MGT/A&F/Lecture 02/02/wks 6-10</activity>
+		<desc>Stream 2 - MGT/A&F/Exchange: Weeks 6-10</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>Geary</room>
+		<lecturer>Hill, Susan </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

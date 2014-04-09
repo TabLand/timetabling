@@ -1,221 +1,223 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 1 (Mon)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>EG04</room>
-	<lecturer>Burlage, Fred </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 1 (Mon)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>EG07</room>
-	<lecturer>Burlage, Fred </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 1 (Mon)/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG36</room>
-	<lecturer>Burlage, Fred </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>03/02/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lecture/Feb 4th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>DLG09</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>28/10/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A220</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>28/10/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills Lab</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A218</room>
-	<lecturer>Bunce, Melanie </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 1 (Thur)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C301</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 1 (Thur)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG07</room>
-	<lecturer>Bunce, Melanie </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>09/12/13</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 1 (Thur)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A218</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-03/02/14, 17/02/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG24a</room>
-	<lecturer>Sherwin, Skye </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14, 24/03/14, 07/04/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>B307A</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14, 07/04/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C301</room>
-	<lecturer>Sherwin, Skye </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>17/03/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>B307A</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>31/03/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism skills term 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>BM03</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>31/03/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism skills term 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A226</room>
-	<lecturer>Sherwin, Skye </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>31/03/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>B307A</room>
-	<lecturer>Lee, Dan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>31/03/14</week>
-	<modulecode>JO2200</modulecode>
-	<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A220</room>
-	<lecturer>Sherwin, Skye </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 1 (Mon)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>EG04</room>
+		<lecturer>Burlage, Fred </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 1 (Mon)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>EG07</room>
+		<lecturer>Burlage, Fred </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 1 (Mon)/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG36</room>
+		<lecturer>Burlage, Fred </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>03/02/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lecture/Feb 4th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>DLG09</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>28/10/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A220</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>28/10/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills Lab</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A218</room>
+		<lecturer>Bunce, Melanie </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 1 (Thur)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C301</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 1 (Thur)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG07</room>
+		<lecturer>Bunce, Melanie </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>09/12/13</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 1 (Thur)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A218</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-03/02/14, 17/02/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG24a</room>
+		<lecturer>Sherwin, Skye </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>B307A</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>10/02/14, 24/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C301</room>
+		<lecturer>Sherwin, Skye </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>17/03/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>B307A</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>31/03/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism skills term 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>BM03</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>31/03/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism skills term 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A226</room>
+		<lecturer>Sherwin, Skye </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>31/03/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>B307A</room>
+		<lecturer>Lee, Dan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>31/03/14</week>
+		<modulecode>JO2200</modulecode>
+		<activity>JO2200 Journalism Skills/Lab term 2 (Thur)/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A220</room>
+		<lecturer>Sherwin, Skye </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

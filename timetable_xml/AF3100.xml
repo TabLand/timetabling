@@ -1,39 +1,41 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>AF3100</modulecode>
-	<activity>AF3100 Audit & Assurance/Lecture 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>DLG03</room>
-	<lecturer>Spriggs, Ken </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>AF3100</modulecode>
-	<activity>AF3100 Audit & Assurance/Tutorial 02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C343</room>
-	<lecturer>Spriggs, Ken </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>AF3100</modulecode>
-	<activity>AF3100 Audit & Assurance/Tutorial 01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Spriggs, Ken </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>AF3100</modulecode>
+		<activity>AF3100 Audit & Assurance/Lecture 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>DLG03</room>
+		<lecturer>Spriggs, Ken </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>AF3100</modulecode>
+		<activity>AF3100 Audit & Assurance/Tutorial 02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C343</room>
+		<lecturer>Spriggs, Ken </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>AF3100</modulecode>
+		<activity>AF3100 Audit & Assurance/Tutorial 01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Spriggs, Ken </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

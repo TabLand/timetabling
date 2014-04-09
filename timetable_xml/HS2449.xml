@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>07/04/14</week>
-	<modulecode>HS2449</modulecode>
-	<activity>HS2449 Introduction to critical care (Child)/Tutorial/01</activity>
-	<desc>Optional module (CN only)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Hughes, V </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:50</end>
-	<week>20/01/14-03/02/14, 17/02/14</week>
-	<modulecode>HS2449</modulecode>
-	<activity>HS2449 Introduction to critical care (Child)/Tutorial/01</activity>
-	<desc>Optional module (CN only)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Hughes, V </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>16:50</end>
-	<week>10/02/14</week>
-	<modulecode>HS2449</modulecode>
-	<activity>HS2449 Introduction to critical care (Child)/Tutorial/01</activity>
-	<desc>Optional module (CN only)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Klufio, A </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>07/04/14</week>
+		<modulecode>HS2449</modulecode>
+		<activity>HS2449 Introduction to critical care (Child)/Tutorial/01</activity>
+		<desc>Optional module (CN only)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Hughes, V </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:50</end>
+		<week>20/01/14-03/02/14, 17/02/14</week>
+		<modulecode>HS2449</modulecode>
+		<activity>HS2449 Introduction to critical care (Child)/Tutorial/01</activity>
+		<desc>Optional module (CN only)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Hughes, V </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>16:50</end>
+		<week>10/02/14</week>
+		<modulecode>HS2449</modulecode>
+		<activity>HS2449 Introduction to critical care (Child)/Tutorial/01</activity>
+		<desc>Optional module (CN only)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Klufio, A </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

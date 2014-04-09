@@ -1,52 +1,54 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>31/03/14</week>
-	<modulecode>SMM199</modulecode>
-	<activity>SMM199 Applied Valuation & Taxation/Revision/WK 10</activity>
-	<desc>Lecture Spring RE -revision Week 10 only</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>2005</room>
-	<lecturer>Bond, Patrick </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>24/02/14</week>
-	<modulecode>SMM199</modulecode>
-	<activity>SMM199 Applied Valuation & Taxation/Lecture/wk 5</activity>
-	<desc>Lecture Spring RE - Week 5 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>3003</room>
-	<lecturer>Scheers, Geoff </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-17/02/14, 03/03/14, 17/03/14-31/03/14</week>
-	<modulecode>SMM199</modulecode>
-	<activity>SMM199 Applied Valuation & Taxation/Lecture/wks 1-4, 6, 8-10</activity>
-	<desc>Lecture Spring RE - Weeks 1-4,6, 8-10</desc>
-	<joint>SMM199;SMM199</joint>
-	<studentnos>18</studentnos>
-	<room>2003</room>
-	<lecturer>Bond, Patrick;Scheers, Geoff </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>10/03/14</week>
-	<modulecode>SMM199</modulecode>
-	<activity>SMM199 Applied Valuation & Taxation/Lecture/wk 7</activity>
-	<desc>Lecture Spring RE - Week 7 only</desc>
-	<joint>SMM199;SMM199</joint>
-	<studentnos>18</studentnos>
-	<room>LG001</room>
-	<lecturer>Bond, Patrick;Scheers, Geoff </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>31/03/14</week>
+		<modulecode>SMM199</modulecode>
+		<activity>SMM199 Applied Valuation & Taxation/Revision/WK 10</activity>
+		<desc>Lecture Spring RE -revision Week 10 only</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>2005</room>
+		<lecturer>Bond, Patrick </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>24/02/14</week>
+		<modulecode>SMM199</modulecode>
+		<activity>SMM199 Applied Valuation & Taxation/Lecture/wk 5</activity>
+		<desc>Lecture Spring RE - Week 5 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>3003</room>
+		<lecturer>Scheers, Geoff </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-17/02/14, 03/03/14, 17/03/14-31/03/14</week>
+		<modulecode>SMM199</modulecode>
+		<activity>SMM199 Applied Valuation & Taxation/Lecture/wks 1-4, 6, 8-10</activity>
+		<desc>Lecture Spring RE - Weeks 1-4,6, 8-10</desc>
+		<joint>SMM199;SMM199</joint>
+		<studentnos>18</studentnos>
+		<room>2003</room>
+		<lecturer>Bond, Patrick;Scheers, Geoff </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>10/03/14</week>
+		<modulecode>SMM199</modulecode>
+		<activity>SMM199 Applied Valuation & Taxation/Lecture/wk 7</activity>
+		<desc>Lecture Spring RE - Week 7 only</desc>
+		<joint>SMM199;SMM199</joint>
+		<studentnos>18</studentnos>
+		<room>LG001</room>
+		<lecturer>Bond, Patrick;Scheers, Geoff </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

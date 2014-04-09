@@ -1,39 +1,41 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>09/09/13, 23/09/13-04/11/13</week>
-	<modulecode>MBM163 EMBA</modulecode>
-	<activity>MBM163 Investment Strategy & Practice/EMBA/Lecture/wks 1,3-10</activity>
-	<desc>EMBA stage 2 ( wks 1, 3-10)</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N201</room>
-	<lecturer>Odumodu, Richard </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>16/09/13</week>
-	<modulecode>MBM163 EMBA</modulecode>
-	<activity>MBM163 Investment Strategy & Practice/EMBA/Lecture/wk 2</activity>
-	<desc>EMBA stage 2 ( wk 2- replacement room)</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N215</room>
-	<lecturer>Odumodu, Richard </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>09/09/13</week>
-	<modulecode>MBM163 EMBA</modulecode>
-	<activity>MBM163 Investment Strategy & Practice/EMBA/Lecture 01/wk 1</activity>
-	<desc>EMBA stage 2 (replacement)</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216a</room>
-	<lecturer>Odumodu, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>09/09/13, 23/09/13-04/11/13</week>
+		<modulecode>MBM163 EMBA</modulecode>
+		<activity>MBM163 Investment Strategy & Practice/EMBA/Lecture/wks 1,3-10</activity>
+		<desc>EMBA stage 2 ( wks 1, 3-10)</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N201</room>
+		<lecturer>Odumodu, Richard </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>16/09/13</week>
+		<modulecode>MBM163 EMBA</modulecode>
+		<activity>MBM163 Investment Strategy & Practice/EMBA/Lecture/wk 2</activity>
+		<desc>EMBA stage 2 ( wk 2- replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N215</room>
+		<lecturer>Odumodu, Richard </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>09/09/13</week>
+		<modulecode>MBM163 EMBA</modulecode>
+		<activity>MBM163 Investment Strategy & Practice/EMBA/Lecture 01/wk 1</activity>
+		<desc>EMBA stage 2 (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216a</room>
+		<lecturer>Odumodu, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

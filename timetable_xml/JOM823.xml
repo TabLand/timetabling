@@ -1,65 +1,67 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>24/02/14-03/03/14</week>
-	<modulecode>JOM823</modulecode>
-	<activity>JOM823 Editorial Production (Investigative) Lab term 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>AG29b;AG29a</room>
-	<lecturer>Stallard, Tina </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>17:50</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>JOM823</modulecode>
-	<activity>JOM823 Editorial Production (Investigative) Lab term 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>AG34b</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>14:30</end>
-	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>JOM823</modulecode>
-	<activity>JOM823 Editorial Production - Investigative/Lab (Fri)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>C301</room>
-	<lecturer>Burlage, Fred </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:30</start>
-	<end>17:50</end>
-	<week>17/02/14-10/03/14</week>
-	<modulecode>JOM823</modulecode>
-	<activity>JOM823 Editorial Production (Investigative) Lab term 2/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>AG29a</room>
-	<lecturer>Stallard, Tina </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14</week>
-	<modulecode>JOM823</modulecode>
-	<activity>JOM823 Editorial Production (Investigative) Lab term 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>22</studentnos>
-	<room>A218</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>24/02/14-03/03/14</week>
+		<modulecode>JOM823</modulecode>
+		<activity>JOM823 Editorial Production (Investigative) Lab term 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>AG29b;AG29a</room>
+		<lecturer>Stallard, Tina </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>17:50</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>JOM823</modulecode>
+		<activity>JOM823 Editorial Production (Investigative) Lab term 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>AG34b</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>14:30</end>
+		<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>JOM823</modulecode>
+		<activity>JOM823 Editorial Production - Investigative/Lab (Fri)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>C301</room>
+		<lecturer>Burlage, Fred </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:30</start>
+		<end>17:50</end>
+		<week>17/02/14-10/03/14</week>
+		<modulecode>JOM823</modulecode>
+		<activity>JOM823 Editorial Production (Investigative) Lab term 2/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>AG29a</room>
+		<lecturer>Stallard, Tina </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14</week>
+		<modulecode>JOM823</modulecode>
+		<activity>JOM823 Editorial Production (Investigative) Lab term 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>22</studentnos>
+		<room>A218</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

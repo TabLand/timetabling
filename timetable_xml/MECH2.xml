@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>07/10/13-25/11/13</week>
-	<modulecode>MECH2</modulecode>
-	<activity>Employability for Engineers (Optional)/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>Birley</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>07/10/13-25/11/13</week>
+		<modulecode>MECH2</modulecode>
+		<activity>Employability for Engineers (Optional)/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>Birley</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

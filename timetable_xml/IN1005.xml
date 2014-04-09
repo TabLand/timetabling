@@ -1,104 +1,106 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>200</studentnos>
-	<room>Oakden</room>
-	<lecturer>Popov, Peter;Gacek, Cristina </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Tutorial F</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>VL 03 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Tutorial G</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>VL 06 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Tutorial C</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C300</room>
-	<lecturer>VL 03 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Tutorial D</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>VL 01 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Tutorial B</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C300</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Tutorial A</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C345</room>
-	<lecturer>VL 01 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN1005</modulecode>
-	<activity>IN1005 Software Engineering/Tutorial E</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>VL 05 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>200</studentnos>
+		<room>Oakden</room>
+		<lecturer>Popov, Peter;Gacek, Cristina </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Tutorial F</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>VL 03 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Tutorial G</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>VL 06 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Tutorial C</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C300</room>
+		<lecturer>VL 03 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Tutorial D</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>VL 01 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Tutorial B</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C300</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Tutorial A</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C345</room>
+		<lecturer>VL 01 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN1005</modulecode>
+		<activity>IN1005 Software Engineering/Tutorial E</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>VL 05 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

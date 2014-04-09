@@ -1,26 +1,28 @@
-<booking>
-	<start>13:30</start>
-	<end>16:30</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>#SPLUS2F1FC2</modulecode>
-	<activity>MUxxx1 Musicianship/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>ALG10 (Performance Space);ALG13 (Ensemble Room)</room>
-	<lecturer>Blundell, Laurie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:30</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>#SPLUS2F1FC2</modulecode>
-	<activity>MUxxx1 Musicianship/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>ALG10 (Performance Space);ALG13 (Ensemble Room)</room>
-	<lecturer>Blundell, Laurie </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:30</start>
+		<end>16:30</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>#SPLUS2F1FC2</modulecode>
+		<activity>MUxxx1 Musicianship/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>ALG10 (Performance Space);ALG13 (Ensemble Room)</room>
+		<lecturer>Blundell, Laurie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:30</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>#SPLUS2F1FC2</modulecode>
+		<activity>MUxxx1 Musicianship/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>ALG10 (Performance Space);ALG13 (Ensemble Room)</room>
+		<lecturer>Blundell, Laurie </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

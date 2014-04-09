@@ -1,13 +1,15 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>SMM269</modulecode>
-	<activity>SMM269 Fixed Income Securities/Lecture 01</activity>
-	<desc>Joint QFFM/SMU</desc>
-	<joint> </joint>
-	<studentnos>67</studentnos>
-	<room>2002</room>
-	<lecturer>Bruche, Max </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>SMM269</modulecode>
+		<activity>SMM269 Fixed Income Securities/Lecture 01</activity>
+		<desc>Joint QFFM/SMU</desc>
+		<joint>-</joint>
+		<studentnos>67</studentnos>
+		<room>2002</room>
+		<lecturer>Bruche, Max </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

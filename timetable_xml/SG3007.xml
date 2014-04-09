@@ -1,247 +1,249 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>DLG20</room>
-	<lecturer>Lang, Tim;Caraher, Martin;Barling, David </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112</room>
-	<lecturer>Greer, Chris </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D108</room>
-	<lecturer>Rojek, Chris </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C323</room>
-	<lecturer>Hohl, Katrin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>Vogler, Carolyn </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/06</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D109</room>
-	<lecturer>Gash, Vanessa </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/07</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A226</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/08</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C357</room>
-	<lecturer>James, Malcolm </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/09</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>IG03</room>
-	<lecturer>Karamanidou, Lena </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/10</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C313</room>
-	<lecturer>Matos, Carolina </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/11</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C328</room>
-	<lecturer>Marcea, Dan </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/12</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C164</room>
-	<lecturer>Myers, Carrie-Anne </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/13</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>B307B/C</room>
-	<lecturer>Susen, Simon </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/14</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG08</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/15</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>I106</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 11th/16</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A227</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>21/10/13, 11/11/13, 02/12/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Lecture 01/01</activity>
-	<desc>Weeks 4, 7 & 10</desc>
-	<joint> </joint>
-	<studentnos>115</studentnos>
-	<room>BG03</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>11/11/13</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Research Day/Nov 14th/17</activity>
-	<desc>Thursday</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D112</room>
-	<lecturer>Iosifidis, Petros </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>10/03/14</week>
-	<modulecode>SG3007</modulecode>
-	<activity>SG3007 Sociology Project/Lecture 02/Mar 14th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>AG21</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>DLG20</room>
+		<lecturer>Lang, Tim;Caraher, Martin;Barling, David </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112</room>
+		<lecturer>Greer, Chris </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D108</room>
+		<lecturer>Rojek, Chris </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C323</room>
+		<lecturer>Hohl, Katrin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>Vogler, Carolyn </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/06</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D109</room>
+		<lecturer>Gash, Vanessa </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/07</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A226</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/08</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C357</room>
+		<lecturer>James, Malcolm </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/09</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>IG03</room>
+		<lecturer>Karamanidou, Lena </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/10</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C313</room>
+		<lecturer>Matos, Carolina </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/11</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C328</room>
+		<lecturer>Marcea, Dan </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/12</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C164</room>
+		<lecturer>Myers, Carrie-Anne </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/13</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>B307B/C</room>
+		<lecturer>Susen, Simon </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/14</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG08</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/15</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>I106</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 11th/16</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A227</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>21/10/13, 11/11/13, 02/12/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Lecture 01/01</activity>
+		<desc>Weeks 4, 7 & 10</desc>
+		<joint>-</joint>
+		<studentnos>115</studentnos>
+		<room>BG03</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>11/11/13</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Research Day/Nov 14th/17</activity>
+		<desc>Thursday</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D112</room>
+		<lecturer>Iosifidis, Petros </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>10/03/14</week>
+		<modulecode>SG3007</modulecode>
+		<activity>SG3007 Sociology Project/Lecture 02/Mar 14th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>AG21</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

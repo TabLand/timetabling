@@ -1,13 +1,15 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>28/10/13-25/11/13</week>
-	<modulecode>EVIEWSMGTautumn</modulecode>
-	<activity>EVIEWS YR 3 (MGT)/Autumn/Lab/01/01</activity>
-	<desc>Optional Lab - Group 1 MGT weeks 5-9</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG12</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>28/10/13-25/11/13</week>
+		<modulecode>EVIEWSMGTautumn</modulecode>
+		<activity>EVIEWS YR 3 (MGT)/Autumn/Lab/01/01</activity>
+		<desc>Optional Lab - Group 1 MGT weeks 5-9</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG12</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

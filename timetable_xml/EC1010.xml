@@ -1,91 +1,93 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EC1010</modulecode>
-	<activity>EC1010 Data Analysis I/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>180</studentnos>
-	<room>A130</room>
-	<lecturer>Cubi Molla, Patricia </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EC1010</modulecode>
-	<activity>EC1010 Data Analysis I/Laboratory 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG12</room>
-	<lecturer>Bowman, Alastair </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EC1010</modulecode>
-	<activity>EC1010 Data Analysis I/Laboratory 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG12</room>
-	<lecturer>Bowman, Alastair </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EC1010</modulecode>
-	<activity>EC1010 Data Analysis I/Laboratory 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>D518</room>
-	<lecturer>Bowman, Alastair </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EC1010</modulecode>
-	<activity>EC1010 Data Analysis I/Laboratory 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>D518</room>
-	<lecturer>Bowman, Alastair </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EC1010</modulecode>
-	<activity>EC1010 Data Analysis I/Laboratory 01/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>D518</room>
-	<lecturer>Bowman, Alastair </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>02/12/13</week>
-	<modulecode>EC1010</modulecode>
-	<activity>EC1010 Data Analysis I/Lecture 01/Dec 6th</activity>
-	<desc>Replacement lecture</desc>
-	<joint> </joint>
-	<studentnos>180</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Cubi Molla, Patricia </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EC1010</modulecode>
+		<activity>EC1010 Data Analysis I/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>180</studentnos>
+		<room>A130</room>
+		<lecturer>Cubi Molla, Patricia </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EC1010</modulecode>
+		<activity>EC1010 Data Analysis I/Laboratory 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG12</room>
+		<lecturer>Bowman, Alastair </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EC1010</modulecode>
+		<activity>EC1010 Data Analysis I/Laboratory 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG12</room>
+		<lecturer>Bowman, Alastair </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EC1010</modulecode>
+		<activity>EC1010 Data Analysis I/Laboratory 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>D518</room>
+		<lecturer>Bowman, Alastair </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EC1010</modulecode>
+		<activity>EC1010 Data Analysis I/Laboratory 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>D518</room>
+		<lecturer>Bowman, Alastair </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EC1010</modulecode>
+		<activity>EC1010 Data Analysis I/Laboratory 01/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>D518</room>
+		<lecturer>Bowman, Alastair </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>02/12/13</week>
+		<modulecode>EC1010</modulecode>
+		<activity>EC1010 Data Analysis I/Lecture 01/Dec 6th</activity>
+		<desc>Replacement lecture</desc>
+		<joint>-</joint>
+		<studentnos>180</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Cubi Molla, Patricia </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

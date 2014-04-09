@@ -1,26 +1,28 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14</week>
-	<modulecode>HCM001</modulecode>
-	<activity>HCM001 Acquired Language Impairment/Lecture 1/Jan 27th</activity>
-	<desc>Moved for AV</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A226</room>
-	<lecturer>Marshall, Jane </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/02/14-07/04/14</week>
-	<modulecode>HCM001</modulecode>
-	<activity>HCM001 Acquired Language Impairment/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107</room>
-	<lecturer>Marshall, Jane </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14</week>
+		<modulecode>HCM001</modulecode>
+		<activity>HCM001 Acquired Language Impairment/Lecture 1/Jan 27th</activity>
+		<desc>Moved for AV</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A226</room>
+		<lecturer>Marshall, Jane </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/02/14-07/04/14</week>
+		<modulecode>HCM001</modulecode>
+		<activity>HCM001 Acquired Language Impairment/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107</room>
+		<lecturer>Marshall, Jane </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

@@ -1,78 +1,80 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>RT1011</modulecode>
-	<activity>RT1011 Foundation Module/Tutorial 1/01</activity>
-	<desc>Foundation Degree Induction and RT1011 Introduction</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>C313</room>
-	<lecturer>Khine, Ricardo;Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>11/11/13</week>
-	<modulecode>RT1011</modulecode>
-	<activity>RT1011 Foundation Module/Tutorial 1/02</activity>
-	<desc>Tutorial 1 - Healthcare team plus Reflective Practice</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>D107</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>09/12/13</week>
-	<modulecode>RT1011</modulecode>
-	<activity>RT1011 Foundation Module/Tutorial 4/05</activity>
-	<desc>Tutorial 4 (Optional)</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>D107</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>RT1011</modulecode>
-	<activity>RT1011 Foundation Module/Tutorial 2/03</activity>
-	<desc>Tutorial 2 - Terminology, Anatomy & Physiology and Manual Handling</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>D107</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>09/12/13</week>
-	<modulecode>RT1011</modulecode>
-	<activity>RT1011 Foundation Module/MCT 2/06</activity>
-	<desc>Multiple Choice Test</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>EG03</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>11/11/13</week>
-	<modulecode>RT1011</modulecode>
-	<activity>RT1011 Foundation Module/Tutorial 3/04</activity>
-	<desc>Tutorial 3 - Legislation and Emergency Action</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>D107</room>
-	<lecturer>Thorne, Richard </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>RT1011</modulecode>
+		<activity>RT1011 Foundation Module/Tutorial 1/01</activity>
+		<desc>Foundation Degree Induction and RT1011 Introduction</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>C313</room>
+		<lecturer>Khine, Ricardo;Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>11/11/13</week>
+		<modulecode>RT1011</modulecode>
+		<activity>RT1011 Foundation Module/Tutorial 1/02</activity>
+		<desc>Tutorial 1 - Healthcare team plus Reflective Practice</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>D107</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>09/12/13</week>
+		<modulecode>RT1011</modulecode>
+		<activity>RT1011 Foundation Module/Tutorial 4/05</activity>
+		<desc>Tutorial 4 (Optional)</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>D107</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>RT1011</modulecode>
+		<activity>RT1011 Foundation Module/Tutorial 2/03</activity>
+		<desc>Tutorial 2 - Terminology, Anatomy & Physiology and Manual Handling</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>D107</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>09/12/13</week>
+		<modulecode>RT1011</modulecode>
+		<activity>RT1011 Foundation Module/MCT 2/06</activity>
+		<desc>Multiple Choice Test</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>EG03</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>11/11/13</week>
+		<modulecode>RT1011</modulecode>
+		<activity>RT1011 Foundation Module/Tutorial 3/04</activity>
+		<desc>Tutorial 3 - Legislation and Emergency Action</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>D107</room>
+		<lecturer>Thorne, Richard </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

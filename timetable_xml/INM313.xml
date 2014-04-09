@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>27/01/14-17/02/14, 17/03/14-24/03/14, 07/04/14</week>
-	<modulecode>INM313</modulecode>
-	<activity>INM313 Inclusive Design</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>A214</room>
-	<lecturer>Stumpf, Simone </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>24/02/14, 31/03/14</week>
-	<modulecode>INM313</modulecode>
-	<activity>INM313 Inclusive Design</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>Stumpf, Simone </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>INM313</modulecode>
-	<activity>INM313 Inclusive Design</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C350</room>
-	<lecturer>Stumpf, Simone </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>27/01/14-17/02/14, 17/03/14-24/03/14, 07/04/14</week>
+		<modulecode>INM313</modulecode>
+		<activity>INM313 Inclusive Design</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>A214</room>
+		<lecturer>Stumpf, Simone </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>24/02/14, 31/03/14</week>
+		<modulecode>INM313</modulecode>
+		<activity>INM313 Inclusive Design</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>Stumpf, Simone </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>INM313</modulecode>
+		<activity>INM313 Inclusive Design</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C350</room>
+		<lecturer>Stumpf, Simone </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

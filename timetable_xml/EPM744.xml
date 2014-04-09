@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>EPM744</modulecode>
-	<activity>EPM744 Systems Modelling/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C350</room>
-	<lecturer>Karcanias, N </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>EPM744</modulecode>
+		<activity>EPM744 Systems Modelling/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C350</room>
+		<lecturer>Karcanias, N </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

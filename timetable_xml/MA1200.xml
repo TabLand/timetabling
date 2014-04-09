@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1200</modulecode>
-	<activity>MA1200 Mathematics For Economists: Post GCSE 1/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>B104</room>
-	<lecturer>De Visscher, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1200</modulecode>
-	<activity>MA1200 Mathematics For Economists: Post GCSE 1/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C322</room>
-	<lecturer>Rossello-Roig, Melcior </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1200</modulecode>
-	<activity>MA1200 Mathematics For Economists: Post GCSE 1/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Rossello-Roig, Melcior </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1200</modulecode>
-	<activity>MA1200 Mathematics For Economists: Post GCSE 1/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Rossello-Roig, Melcior </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1200</modulecode>
+		<activity>MA1200 Mathematics For Economists: Post GCSE 1/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>B104</room>
+		<lecturer>De Visscher, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1200</modulecode>
+		<activity>MA1200 Mathematics For Economists: Post GCSE 1/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C322</room>
+		<lecturer>Rossello-Roig, Melcior </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1200</modulecode>
+		<activity>MA1200 Mathematics For Economists: Post GCSE 1/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Rossello-Roig, Melcior </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1200</modulecode>
+		<activity>MA1200 Mathematics For Economists: Post GCSE 1/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Rossello-Roig, Melcior </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

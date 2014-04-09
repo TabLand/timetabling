@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-16/06/14</week>
-	<modulecode>SMM620</modulecode>
-	<activity>SMM620 Trading & Hedging in the Forex Market/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>82</studentnos>
-	<room>2003</room>
-	<lecturer>Lawrence, Donald;Osborn, Paddy </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-16/06/14</week>
+		<modulecode>SMM620</modulecode>
+		<activity>SMM620 Trading & Hedging in the Forex Market/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>82</studentnos>
+		<room>2003</room>
+		<lecturer>Lawrence, Donald;Osborn, Paddy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,143 +1,145 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Test/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG03</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:30</end>
-	<week>20/01/14</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Test/SA</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>D108</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Drey, N </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>07/10/13, 09/12/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Burls, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>14/10/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Saunders, P </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Antai, Diddy </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>28/10/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Cartwright, Martin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>11/11/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Elford, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>18/11/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Bryar, R </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>25/11/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Simon, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>PHM002</modulecode>
-	<activity>PHM002 Epidemiology/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C350</room>
-	<lecturer>Abbott, S </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Test/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG03</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:30</end>
+		<week>20/01/14</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Test/SA</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>D108</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Drey, N </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>07/10/13, 09/12/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Burls, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>14/10/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Saunders, P </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Antai, Diddy </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>28/10/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Cartwright, Martin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>11/11/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Elford, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>18/11/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Bryar, R </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>25/11/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Simon, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>PHM002</modulecode>
+		<activity>PHM002 Epidemiology/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C350</room>
+		<lecturer>Abbott, S </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

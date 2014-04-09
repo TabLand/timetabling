@@ -1,104 +1,106 @@
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Tutorial 1/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Keane, Adrian </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Tutorial 1/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>30</studentnos>
-	<room>AG11</room>
-	<lecturer>Keane, Adrian </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Tutorial 2/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>20</studentnos>
-	<room>AG08</room>
-	<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Tutorial 2/2/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>20</studentnos>
-	<room>AG08</room>
-	<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Tutorial 1/3/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>30</studentnos>
-	<room>C161</room>
-	<lecturer>Keane, Adrian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Tutorial 2/3/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>20</studentnos>
-	<room>A109</room>
-	<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Lecture 1/1 LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>60</studentnos>
-	<room>C336</room>
-	<lecturer>Keane, Adrian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
-	<modulecode>LU3099</modulecode>
-	<activity>LU3099 Evidence/Lecture 2/1/LEAD</activity>
-	<desc> </desc>
-	<joint>LG3099;LU3099</joint>
-	<studentnos>60</studentnos>
-	<room>B104</room>
-	<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Tutorial 1/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Keane, Adrian </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Tutorial 1/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>30</studentnos>
+		<room>AG11</room>
+		<lecturer>Keane, Adrian </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Tutorial 2/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>20</studentnos>
+		<room>AG08</room>
+		<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Tutorial 2/2/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>20</studentnos>
+		<room>AG08</room>
+		<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Tutorial 1/3/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>30</studentnos>
+		<room>C161</room>
+		<lecturer>Keane, Adrian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Tutorial 2/3/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>20</studentnos>
+		<room>A109</room>
+		<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Lecture 1/1 LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>60</studentnos>
+		<room>C336</room>
+		<lecturer>Keane, Adrian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+		<modulecode>LU3099</modulecode>
+		<activity>LU3099 Evidence/Lecture 2/1/LEAD</activity>
+		<desc>-</desc>
+		<joint>LG3099;LU3099</joint>
+		<studentnos>60</studentnos>
+		<room>B104</room>
+		<lecturer>Choo, Andrew;Keane, Adrian </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

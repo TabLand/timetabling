@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM012</modulecode>
-	<activity>ECM012 Financial Econometrics/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG09</room>
-	<lecturer>Zu, Yang </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>ECM012</modulecode>
-	<activity>ECM012 Financial Econometrics/Lab 01/1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D518</room>
-	<lecturer>Zu, Yang </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM012</modulecode>
+		<activity>ECM012 Financial Econometrics/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG09</room>
+		<lecturer>Zu, Yang </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>ECM012</modulecode>
+		<activity>ECM012 Financial Econometrics/Lab 01/1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D518</room>
+		<lecturer>Zu, Yang </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,39 +1,41 @@
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>07/04/14</week>
-	<modulecode>SMM816</modulecode>
-	<activity>SMM816 Fundraising/Lecture 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>3003</room>
-	<lecturer>Lee, Stephen Prof </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>05/05/14</week>
-	<modulecode>SMM816</modulecode>
-	<activity>SMM816 Fundraising/Lecture 03/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>3003</room>
-	<lecturer>Lee, Stephen Prof </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>18:00</end>
-	<week>02/06/14</week>
-	<modulecode>SMM816</modulecode>
-	<activity>SMM816 Fundraising/EXAM/JOINT</activity>
-	<desc> </desc>
-	<joint>SMM813;SMM816;SMM814</joint>
-	<studentnos>18</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>07/04/14</week>
+		<modulecode>SMM816</modulecode>
+		<activity>SMM816 Fundraising/Lecture 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>3003</room>
+		<lecturer>Lee, Stephen Prof </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>05/05/14</week>
+		<modulecode>SMM816</modulecode>
+		<activity>SMM816 Fundraising/Lecture 03/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>3003</room>
+		<lecturer>Lee, Stephen Prof </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>18:00</end>
+		<week>02/06/14</week>
+		<modulecode>SMM816</modulecode>
+		<activity>SMM816 Fundraising/EXAM/JOINT</activity>
+		<desc>-</desc>
+		<joint>SMM813;SMM816;SMM814</joint>
+		<studentnos>18</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

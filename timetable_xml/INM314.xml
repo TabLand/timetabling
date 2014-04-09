@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM314</modulecode>
-	<activity>INM314 Cognition and Technologies/Lecture (LEAD)</activity>
-	<desc> </desc>
-	<joint>INM314;IN3002</joint>
-	<studentnos>120</studentnos>
-	<room>BG02</room>
-	<lecturer>Buchanan, George </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM314</modulecode>
-	<activity>INM314 Cognition and Technologies/Tutorial 1 (LEAD)</activity>
-	<desc> </desc>
-	<joint>IN3002;INM314</joint>
-	<studentnos>40</studentnos>
-	<room>CG05</room>
-	<lecturer>VL 02 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM314</modulecode>
-	<activity>INM314 Cognition and Technologies/Tutorial 3 (LEAD)</activity>
-	<desc> </desc>
-	<joint>INM314;IN3002</joint>
-	<studentnos>40</studentnos>
-	<room>DLG19</room>
-	<lecturer>VL 04 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM314</modulecode>
-	<activity>INM314 Cognition and Technologies/Tutorial 2 (LEAD)</activity>
-	<desc> </desc>
-	<joint>IN3002;INM314</joint>
-	<studentnos>40</studentnos>
-	<room>AG03</room>
-	<lecturer>VL 03 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM314</modulecode>
+		<activity>INM314 Cognition and Technologies/Lecture (LEAD)</activity>
+		<desc>-</desc>
+		<joint>INM314;IN3002</joint>
+		<studentnos>120</studentnos>
+		<room>BG02</room>
+		<lecturer>Buchanan, George </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM314</modulecode>
+		<activity>INM314 Cognition and Technologies/Tutorial 1 (LEAD)</activity>
+		<desc>-</desc>
+		<joint>IN3002;INM314</joint>
+		<studentnos>40</studentnos>
+		<room>CG05</room>
+		<lecturer>VL 02 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM314</modulecode>
+		<activity>INM314 Cognition and Technologies/Tutorial 3 (LEAD)</activity>
+		<desc>-</desc>
+		<joint>INM314;IN3002</joint>
+		<studentnos>40</studentnos>
+		<room>DLG19</room>
+		<lecturer>VL 04 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM314</modulecode>
+		<activity>INM314 Cognition and Technologies/Tutorial 2 (LEAD)</activity>
+		<desc>-</desc>
+		<joint>IN3002;INM314</joint>
+		<studentnos>40</studentnos>
+		<room>AG03</room>
+		<lecturer>VL 03 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

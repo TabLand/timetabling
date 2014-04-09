@@ -1,78 +1,80 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1014</modulecode>
-	<activity>IP1014 Myths and Mysteries in World Politics/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>AG21</room>
-	<lecturer>Hirst, Aggie;Samman, Amin;Hoover, Joe </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1014</modulecode>
-	<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG11</room>
-	<lecturer>Kempel, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1014</modulecode>
-	<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG02</room>
-	<lecturer>Fleischman, Leonnie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1014</modulecode>
-	<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/05</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>AG11</room>
-	<lecturer>Kempel, David </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1014</modulecode>
-	<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D111</room>
-	<lecturer>Fleischman, Leonnie </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP1014</modulecode>
-	<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG20</room>
-	<lecturer>Fleischman, Leonnie </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1014</modulecode>
+		<activity>IP1014 Myths and Mysteries in World Politics/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>AG21</room>
+		<lecturer>Hirst, Aggie;Samman, Amin;Hoover, Joe </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1014</modulecode>
+		<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG11</room>
+		<lecturer>Kempel, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1014</modulecode>
+		<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG02</room>
+		<lecturer>Fleischman, Leonnie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1014</modulecode>
+		<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/05</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>AG11</room>
+		<lecturer>Kempel, David </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1014</modulecode>
+		<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D111</room>
+		<lecturer>Fleischman, Leonnie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP1014</modulecode>
+		<activity>IP1014 Myths and Mysteries in World Politics/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG20</room>
+		<lecturer>Fleischman, Leonnie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

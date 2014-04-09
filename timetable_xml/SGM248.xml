@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SGM248</modulecode>
-	<activity>SGM248 Collecting Data: Qualitative and Quantitative Methods/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>DLG02</room>
-	<lecturer>Friedman, Samuel </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SGM248</modulecode>
+		<activity>SGM248 Collecting Data: Qualitative and Quantitative Methods/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>DLG02</room>
+		<lecturer>Friedman, Samuel </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

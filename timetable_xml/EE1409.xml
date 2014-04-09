@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE1409</modulecode>
-	<activity>EE1409 Introduction to Biomedical Engineering/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>DLG20</room>
-	<lecturer>Triantis, I Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EE1409</modulecode>
-	<activity>EE1409 Introduction to Biomedical Engineering/Tutorial 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>A110</room>
-	<lecturer>Triantis, I Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE1409</modulecode>
+		<activity>EE1409 Introduction to Biomedical Engineering/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>DLG20</room>
+		<lecturer>Triantis, I Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EE1409</modulecode>
+		<activity>EE1409 Introduction to Biomedical Engineering/Tutorial 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>A110</room>
+		<lecturer>Triantis, I Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

@@ -1,832 +1,834 @@
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/wk 1</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mon wk 1</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13-30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/Syn rooms/wks 1-2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mon : Syn rooms wks 1-2</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/wk 2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mon wk 2</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2002;2003;2006</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>07/10/13-14/10/13, 04/11/13-18/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/Syn rooms/wks 7-9</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mondays : Syndicate rooms wks 3-4, 7-9</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>04/11/13-11/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/wks 7-8</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mondays wks 7-8,</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14-27/01/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Mon/Daytime 01</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Mondays</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14-27/01/14, 10/03/14-24/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Mon/Daytime 01/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Mondays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>03/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Mon/Daytime 01/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Mondays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>29/07/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBMxxx FTMBA Careers/Term 3/Mon/03</activity>
-	<desc>Mondays: FTMBA recruitment events /Summer Term 3 2012-13 / Careers Dept</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2006</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01/wk 2</activity>
-	<desc>MBA recruitment events: Autumn Term 1- Week 2</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>21/10/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01/wk 4</activity>
-	<desc>MBA recruitment events: Autumn Term 1</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>04/11/13-11/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01</activity>
-	<desc>MBA recruitment events: Autumn Term 1</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>25/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01</activity>
-	<desc>MBA recruitment events: Autumn Term 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>LG002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>20/01/14-27/01/14, 03/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 01</activity>
-	<desc>MBA recruitment events : Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>24/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 01</activity>
-	<desc>MBA recruitment events : Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>LG002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-21/07/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA Careers/Term 3/Mon/01</activity>
-	<desc>Mondays: FTMBA recruitment events /Summer Term 3 2014 /Careers Dept</desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>G001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/wk 1</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tuesdays wk 1</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>3002</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13-30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/Syn rooms/wks 1-2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tue : Syn rooms wks 1-2</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>2010;2008;2011;2012;2013;LG010;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/wk 2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tuesdays wk 2</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>LG002;LG003;3003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>07/10/13-14/10/13, 04/11/13-18/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/Syn rooms/wks 3-4, 7-9</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tue : Syndicate rooms wks 3-4, 7-9</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>04/11/13-18/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/wks 7-9</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tuesdays wks 7-9</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/WK 12</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Week 12</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;2005;3003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14-27/01/14, 10/03/14-24/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>27/01/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/WKS 13,21</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Weeks 13, 21</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>03/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/WK 20</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Week 20 only</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13, 04/11/13-25/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 02</activity>
-	<desc>MBA recruitment events : Autumn Term 1</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>20/01/14-27/01/14, 03/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 02</activity>
-	<desc>MBA recruitment events: Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>120</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>24/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 02</activity>
-	<desc>MBA recruitment events: Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>LG002</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/wk 1</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed wk 1</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2003;2004;3002</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13-30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/Syn rooms/wks 1-2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed :Syndicate rooms wks 1-2</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/wk 2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed wk 2</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>LG002;LG003;3003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>07/10/13-14/10/13, 04/11/13-18/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/Syn rooms/wks 3-4, 7-9</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed :Syn rooms wks 3-4, 7-9</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>04/11/13-11/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/wks 7-8</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed wks 7-8</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14-27/01/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/WKS 12-13, 21</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Wed : Weeks 12-13, 21</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14-27/01/14, 10/03/14, 24/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Wednesdays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>03/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Wednesdays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/WK 20</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Wed : Week 20</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Wednesdays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>29/07/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBMxxx FTMBA Careers/Term 3/Wed/02</activity>
-	<desc>Wednesdays : FTMBA recruitment events /Summer Term 3 2012-13 / Careers Dept</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>23/09/13-14/10/13, 04/11/13-25/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 03</activity>
-	<desc>MBA recruitment events : Autumn Term 1</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>G001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>20/01/14-27/01/14, 10/03/14-17/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 03</activity>
-	<desc>MBA recruitment events: Spring Term 2</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>G001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>15:00</end>
-	<week>23/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 1</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 1 (1 room)</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>23/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 1</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 1 (2 rooms)</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2003;2004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>23/09/13-30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/Syn rooms/wks 1-2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thur : Syn rooms wks 1-2</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 2</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>LG002;LG003;2003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>07/10/13-14/10/13, 04/11/13-11/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/Syn rooms/wks 3-4, 7-8</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thur : Syndicate rooms wks 3-4, 7-8</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>07/10/13-14/10/13, 04/11/13-11/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wks 3-4, 7-9</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wks 3-4 7-9</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>18/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 9</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursday wk 9 only</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>18/11/13-25/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/Syn rooms/wk 9 & 10</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thur : Syndicate rooms wks 9 & 10</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>25/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 10</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 10</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>20/01/14-27/01/14, 10/02/14, 03/03/14-17/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Thur Workshop 01</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2: Thursdays</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>20/01/14-10/02/14, 03/03/14-24/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Thur Workshop 01/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2: Thursdays : Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>24/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Thur Workshop 01</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2: Thursdays</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>23/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 1</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 1 (1 room)</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2006</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/wk 1</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fridays wk 1</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2003;2004;3003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>23/09/13-30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/Syn rooms/wks 1-2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fri : Syndicate rooms wks 1-2</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/wk 2</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fridays wk 2</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>LG002;LG003;3003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>07/10/13-14/10/13, 04/11/13-11/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/Syn rooms/wks 3-4, 7-8</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fri : Syndicate rooms wks 3-4, 7-8</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>04/11/13-11/11/13</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/wks 7-8,10</activity>
-	<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fridays wks 7-8</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Wk 12</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Fridays: Week 12</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>6001;LG002;LG003</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>20/01/14-27/01/14, 10/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Fridays :Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>03/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Syn rooms</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Fridays :Syndicate rooms</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>10/03/14</week>
-	<modulecode>MBM019 FTMBA</modulecode>
-	<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Wk 18</activity>
-	<desc>FTMBA/ Careers Dept : Spring Term 2 : Friday: Wk 18 only</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>2005;2006;3002</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/wk 1</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mon wk 1</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13-30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/Syn rooms/wks 1-2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mon : Syn rooms wks 1-2</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/wk 2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mon wk 2</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2002;2003;2006</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>07/10/13-14/10/13, 04/11/13-18/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/Syn rooms/wks 7-9</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mondays : Syndicate rooms wks 3-4, 7-9</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>04/11/13-11/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Mon/Daytime 01/wks 7-8</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Mondays wks 7-8,</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14-27/01/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Mon/Daytime 01</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Mondays</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14-27/01/14, 10/03/14-24/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Mon/Daytime 01/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Mondays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>03/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Mon/Daytime 01/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Mondays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>29/07/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBMxxx FTMBA Careers/Term 3/Mon/03</activity>
+		<desc>Mondays: FTMBA recruitment events /Summer Term 3 2012-13 / Careers Dept</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2006</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01/wk 2</activity>
+		<desc>MBA recruitment events: Autumn Term 1- Week 2</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>21/10/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01/wk 4</activity>
+		<desc>MBA recruitment events: Autumn Term 1</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>04/11/13-11/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01</activity>
+		<desc>MBA recruitment events: Autumn Term 1</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>25/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 01</activity>
+		<desc>MBA recruitment events: Autumn Term 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>LG002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>20/01/14-27/01/14, 03/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 01</activity>
+		<desc>MBA recruitment events : Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>24/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 01</activity>
+		<desc>MBA recruitment events : Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>LG002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>28/04/14, 12/05/14-19/05/14, 02/06/14-21/07/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA Careers/Term 3/Mon/01</activity>
+		<desc>Mondays: FTMBA recruitment events /Summer Term 3 2014 /Careers Dept</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>G001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/wk 1</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tuesdays wk 1</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>3002</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13-30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/Syn rooms/wks 1-2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tue : Syn rooms wks 1-2</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>2010;2008;2011;2012;2013;LG010;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/wk 2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tuesdays wk 2</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>LG002;LG003;3003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>07/10/13-14/10/13, 04/11/13-18/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/Syn rooms/wks 3-4, 7-9</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tue : Syndicate rooms wks 3-4, 7-9</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>04/11/13-18/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Tue/Daytime 02/wks 7-9</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Tuesdays wks 7-9</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/WK 12</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Week 12</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;2005;3003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14-27/01/14, 10/03/14-24/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>27/01/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/WKS 13,21</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Weeks 13, 21</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>03/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Tue/Daytime 02/WK 20</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Tuesdays : Week 20 only</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13, 04/11/13-25/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 02</activity>
+		<desc>MBA recruitment events : Autumn Term 1</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>20/01/14-27/01/14, 03/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 02</activity>
+		<desc>MBA recruitment events: Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>120</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>24/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 02</activity>
+		<desc>MBA recruitment events: Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>LG002</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/wk 1</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed wk 1</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2003;2004;3002</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13-30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/Syn rooms/wks 1-2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed :Syndicate rooms wks 1-2</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/wk 2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed wk 2</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>LG002;LG003;3003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>07/10/13-14/10/13, 04/11/13-18/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/Syn rooms/wks 3-4, 7-9</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed :Syn rooms wks 3-4, 7-9</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>04/11/13-11/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Wed/Daytime 03/wks 7-8</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Wed wks 7-8</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14-27/01/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/WKS 12-13, 21</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Wed : Weeks 12-13, 21</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14-27/01/14, 10/03/14, 24/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Wednesdays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>03/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Wednesdays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/WK 20</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Wed : Week 20</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Wed/Daytime 03/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Wednesdays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>29/07/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBMxxx FTMBA Careers/Term 3/Wed/02</activity>
+		<desc>Wednesdays : FTMBA recruitment events /Summer Term 3 2012-13 / Careers Dept</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>23/09/13-14/10/13, 04/11/13-25/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T1/Evening 03</activity>
+		<desc>MBA recruitment events : Autumn Term 1</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>G001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>20/01/14-27/01/14, 10/03/14-17/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/RE/T2/Evening 03</activity>
+		<desc>MBA recruitment events: Spring Term 2</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>G001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>15:00</end>
+		<week>23/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 1</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 1 (1 room)</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>23/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 1</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 1 (2 rooms)</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2003;2004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>23/09/13-30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/Syn rooms/wks 1-2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thur : Syn rooms wks 1-2</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 2</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>LG002;LG003;2003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>07/10/13-14/10/13, 04/11/13-11/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/Syn rooms/wks 3-4, 7-8</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thur : Syndicate rooms wks 3-4, 7-8</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>07/10/13-14/10/13, 04/11/13-11/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wks 3-4, 7-9</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wks 3-4 7-9</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>18/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 9</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursday wk 9 only</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>18/11/13-25/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/Syn rooms/wk 9 & 10</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thur : Syndicate rooms wks 9 & 10</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>25/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 10</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 10</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>20/01/14-27/01/14, 10/02/14, 03/03/14-17/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Thur Workshop 01</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2: Thursdays</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>20/01/14-10/02/14, 03/03/14-24/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Thur Workshop 01/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2: Thursdays : Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>24/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Thur Workshop 01</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2: Thursdays</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>23/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Thur Workshop 01/wk 1</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Thursdays wk 1 (1 room)</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2006</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/wk 1</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fridays wk 1</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2003;2004;3003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>23/09/13-30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/Syn rooms/wks 1-2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fri : Syndicate rooms wks 1-2</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>2010;3011;2008;2011;2012;2013;LG010;G004;3010</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/wk 2</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fridays wk 2</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>LG002;LG003;3003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>07/10/13-14/10/13, 04/11/13-11/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/Syn rooms/wks 3-4, 7-8</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fri : Syndicate rooms wks 3-4, 7-8</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>04/11/13-11/11/13</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T1/Fri/Daytime 04/wks 7-8,10</activity>
+		<desc>FTMBA/ Careers Dept : Autumn Term 1 : Fridays wks 7-8</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Wk 12</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Fridays: Week 12</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>6001;LG002;LG003</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>20/01/14-27/01/14, 10/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Fridays :Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6003;6005;6004</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>03/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Syn rooms</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Fridays :Syndicate rooms</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>6019;6010;6017;6021;6020;6009;6008;6007;6006;6005</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>10/03/14</week>
+		<modulecode>MBM019 FTMBA</modulecode>
+		<activity>MBM019 Professional Development FTMBA/T2/Fri/Daytime 04/Wk 18</activity>
+		<desc>FTMBA/ Careers Dept : Spring Term 2 : Friday: Wk 18 only</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>2005;2006;3002</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

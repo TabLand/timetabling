@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PSM520</modulecode>
-	<activity>PSM520 The Psychology of Time/Lecture 01/01 JOINT</activity>
-	<desc> </desc>
-	<joint>PS3024;PSM520</joint>
-	<studentnos>2</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>PSM520</modulecode>
-	<activity>PSM520 The Psychology of Time/Drop-In Clinic 01/01 JOINT</activity>
-	<desc> </desc>
-	<joint>PS3024;PSM520</joint>
-	<studentnos>2</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PSM520</modulecode>
+		<activity>PSM520 The Psychology of Time/Lecture 01/01 JOINT</activity>
+		<desc>-</desc>
+		<joint>PS3024;PSM520</joint>
+		<studentnos>2</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>PSM520</modulecode>
+		<activity>PSM520 The Psychology of Time/Drop-In Clinic 01/01 JOINT</activity>
+		<desc>-</desc>
+		<joint>PS3024;PSM520</joint>
+		<studentnos>2</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

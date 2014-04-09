@@ -1,117 +1,119 @@
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Health, Illness, Disorder and Disease/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Haddad, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>03/02/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Distribution of Health States/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Haddad, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Assessment approaches and practice/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Haddad, M;Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>17/02/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Recognising Mental Health Problems/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Haddad, M;Barlow, S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>03/03/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Recovery Focussed Care and the Voice of the Service User/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Simpson, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Risk and Care - Containing, Protecting and Caring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Physical and Mental Health/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Haddad, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>9:50</end>
-	<week>31/03/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Module Evaluation/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Haddad, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>31/03/14</week>
-	<modulecode>APM004</modulecode>
-	<activity>APM004 Substance Misuse and Mental Disorders/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A108</room>
-	<lecturer>Saunder, L </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Health, Illness, Disorder and Disease/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Haddad, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>03/02/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Distribution of Health States/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Haddad, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Assessment approaches and practice/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Haddad, M;Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>17/02/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Recognising Mental Health Problems/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Haddad, M;Barlow, S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>03/03/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Recovery Focussed Care and the Voice of the Service User/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Simpson, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Risk and Care - Containing, Protecting and Caring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Physical and Mental Health/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Haddad, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>9:50</end>
+		<week>31/03/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Module Evaluation/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Haddad, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>31/03/14</week>
+		<modulecode>APM004</modulecode>
+		<activity>APM004 Substance Misuse and Mental Disorders/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A108</room>
+		<lecturer>Saunder, L </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

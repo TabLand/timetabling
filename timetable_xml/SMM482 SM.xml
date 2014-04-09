@@ -1,26 +1,28 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14-10/02/14</week>
-	<modulecode>SMM482 SM</modulecode>
-	<activity>SMM482 Research Methods for Business/SM/Lecture 01/WKS 1-3</activity>
-	<desc>SM Stream only : WEEKS 1-3</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>2005</room>
-	<lecturer>Furnari, Santi </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>24/02/14, 10/03/14</week>
-	<modulecode>SMM482 SM</modulecode>
-	<activity>SMM482 Research Methods for Business/SM/Tutorial/WKS 5 & 7</activity>
-	<desc>SM Stream only : Tutorials : WEEKS 5 & 7 only</desc>
-	<joint> </joint>
-	<studentnos>33</studentnos>
-	<room>2005</room>
-	<lecturer>Furnari, Santi </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14-10/02/14</week>
+		<modulecode>SMM482 SM</modulecode>
+		<activity>SMM482 Research Methods for Business/SM/Lecture 01/WKS 1-3</activity>
+		<desc>SM Stream only : WEEKS 1-3</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>2005</room>
+		<lecturer>Furnari, Santi </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>24/02/14, 10/03/14</week>
+		<modulecode>SMM482 SM</modulecode>
+		<activity>SMM482 Research Methods for Business/SM/Tutorial/WKS 5 & 7</activity>
+		<desc>SM Stream only : Tutorials : WEEKS 5 & 7 only</desc>
+		<joint>-</joint>
+		<studentnos>33</studentnos>
+		<room>2005</room>
+		<lecturer>Furnari, Santi </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

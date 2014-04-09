@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1837</modulecode>
-	<activity>CS1837 Portuguese: Year 1 term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A225</room>
-	<lecturer>Vinocur, Joyce </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
-	<modulecode>CS1837</modulecode>
-	<activity>CS1837 Portuguese - Year 1 term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A225</room>
-	<lecturer>Vinocur, Joyce </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>24/03/14</week>
-	<modulecode>CS1837</modulecode>
-	<activity>CS1837 Portuguese - Year 1 term 2 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A214</room>
-	<lecturer>Vinocur, Joyce </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1837</modulecode>
+		<activity>CS1837 Portuguese: Year 1 term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A225</room>
+		<lecturer>Vinocur, Joyce </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
+		<modulecode>CS1837</modulecode>
+		<activity>CS1837 Portuguese - Year 1 term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A225</room>
+		<lecturer>Vinocur, Joyce </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>24/03/14</week>
+		<modulecode>CS1837</modulecode>
+		<activity>CS1837 Portuguese - Year 1 term 2 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A214</room>
+		<lecturer>Vinocur, Joyce </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

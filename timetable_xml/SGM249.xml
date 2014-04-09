@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SGM249</modulecode>
-	<activity>SGM249 Celebrity/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D221</room>
-	<lecturer>Rojek, Chris </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SGM249</modulecode>
+		<activity>SGM249 Celebrity/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D221</room>
+		<lecturer>Rojek, Chris </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

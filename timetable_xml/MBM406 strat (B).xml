@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>09/12/13</week>
-	<modulecode>MBM406 strat (B)</modulecode>
-	<activity>MBM406 Mba Block 1: Strategy/B1/Revision Lecture (Joint)</activity>
-	<desc>(Joint): Strategy revision</desc>
-	<joint>MBM406 strat (B);MBM406 strat (A)</joint>
-	<studentnos>100</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>23/09/13-14/10/13</week>
-	<modulecode>MBM406 strat (B)</modulecode>
-	<activity>MBM406 Mba Block 1: Strategy/B1/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 1: Strategy B session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2006</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>23/09/13-14/10/13</week>
-	<modulecode>MBM406 strat (B)</modulecode>
-	<activity>MBM406 Mba Block 1: Strategy/B2/Lecture 02</activity>
-	<desc>FTMBA 2013 Block 1: Strategy B session 2</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2004</room>
-	<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>09/12/13</week>
+		<modulecode>MBM406 strat (B)</modulecode>
+		<activity>MBM406 Mba Block 1: Strategy/B1/Revision Lecture (Joint)</activity>
+		<desc>(Joint): Strategy revision</desc>
+		<joint>MBM406 strat (B);MBM406 strat (A)</joint>
+		<studentnos>100</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>23/09/13-14/10/13</week>
+		<modulecode>MBM406 strat (B)</modulecode>
+		<activity>MBM406 Mba Block 1: Strategy/B1/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 1: Strategy B session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2006</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>23/09/13-14/10/13</week>
+		<modulecode>MBM406 strat (B)</modulecode>
+		<activity>MBM406 Mba Block 1: Strategy/B2/Lecture 02</activity>
+		<desc>FTMBA 2013 Block 1: Strategy B session 2</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2004</room>
+		<lecturer>Bhalla, Ajay;Lampel, Joseph </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

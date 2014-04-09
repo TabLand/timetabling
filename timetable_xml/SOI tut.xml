@@ -1,195 +1,197 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Monday/01</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C312;D106</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Monday</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112;C312;D107</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Monday</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>BM02;DLG03;C323</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Monday/02</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D107;I106</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Tuesday/01</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C313;C312</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Tuesday</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A112;DLG02;IG03</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Tuesday/02</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C323;C158</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Tuesday</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C345</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Tuesday</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG10;A214</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Thursday</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C167;C357</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Thursday/01</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C328;C330</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Thursday</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C357;IG03</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Thursday/02</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C313;C312</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Friday/01</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C140;C135</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SOI tut</modulecode>
-	<activity>SOI UG personal tutorials Friday/02</activity>
-	<desc>Shefa Jahan</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A108;A107</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Monday/01</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C312;D106</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Monday</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112;C312;D107</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Monday</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>BM02;DLG03;C323</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Monday/02</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D107;I106</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Tuesday/01</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C313;C312</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Tuesday</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A112;DLG02;IG03</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Tuesday/02</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C323;C158</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Tuesday</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C345</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Tuesday</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG10;A214</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Thursday</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C167;C357</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Thursday/01</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C328;C330</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Thursday</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C357;IG03</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Thursday/02</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C313;C312</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Friday/01</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C140;C135</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SOI tut</modulecode>
+		<activity>SOI UG personal tutorials Friday/02</activity>
+		<desc>Shefa Jahan</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A108;A107</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

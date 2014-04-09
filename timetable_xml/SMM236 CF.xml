@@ -1,52 +1,54 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>31/03/14</week>
-	<modulecode>SMM236 CF</modulecode>
-	<activity>SMM236 Topics in Mergers & Acquisitions/Lecture/WK 10</activity>
-	<desc>MSc CF: Lecture - Week 10 ONLY (replacement)</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>2002</room>
-	<lecturer>Faelten, Anna </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>27/01/14, 10/02/14, 24/02/14, 17/03/14-24/03/14</week>
-	<modulecode>SMM236 CF</modulecode>
-	<activity>SMM236 Topics in Mergers & Acquisitions/Lecture/WKS 1,3,5,8,9</activity>
-	<desc>MSc CF: Lecture - Weeks 1, 3, 5, 8, 9</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>G001</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/02/14, 17/02/14, 10/03/14</week>
-	<modulecode>SMM236 CF</modulecode>
-	<activity>SMM236 Topics in Mergers & Acquisitions/Lecture/WKS 2,4,7</activity>
-	<desc>MSc CF: Lecture - Weeks 2,4,7</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>G001</room>
-	<lecturer>Faelten, Anna </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>03/03/14</week>
-	<modulecode>SMM236 CF</modulecode>
-	<activity>SMM236 Topics in Mergers & Acquisitions/TEST/WK 6</activity>
-	<desc>MSc CF: TEST - Week 6 only - Computer labs x 2 & Lecture room : shared with 78 students</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2001;G001;1001</room>
-	<lecturer>Faelten, Anna </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>31/03/14</week>
+		<modulecode>SMM236 CF</modulecode>
+		<activity>SMM236 Topics in Mergers & Acquisitions/Lecture/WK 10</activity>
+		<desc>MSc CF: Lecture - Week 10 ONLY (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>2002</room>
+		<lecturer>Faelten, Anna </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>27/01/14, 10/02/14, 24/02/14, 17/03/14-24/03/14</week>
+		<modulecode>SMM236 CF</modulecode>
+		<activity>SMM236 Topics in Mergers & Acquisitions/Lecture/WKS 1,3,5,8,9</activity>
+		<desc>MSc CF: Lecture - Weeks 1, 3, 5, 8, 9</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>G001</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/02/14, 17/02/14, 10/03/14</week>
+		<modulecode>SMM236 CF</modulecode>
+		<activity>SMM236 Topics in Mergers & Acquisitions/Lecture/WKS 2,4,7</activity>
+		<desc>MSc CF: Lecture - Weeks 2,4,7</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>G001</room>
+		<lecturer>Faelten, Anna </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>03/03/14</week>
+		<modulecode>SMM236 CF</modulecode>
+		<activity>SMM236 Topics in Mergers & Acquisitions/TEST/WK 6</activity>
+		<desc>MSc CF: TEST - Week 6 only - Computer labs x 2 & Lecture room : shared with 78 students</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2001;G001;1001</room>
+		<lecturer>Faelten, Anna </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

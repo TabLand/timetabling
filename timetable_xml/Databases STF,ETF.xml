@@ -1,39 +1,41 @@
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>07/10/13</week>
-	<modulecode>Databases STF,ETF</modulecode>
-	<activity>SMMxxx Bloomberg/STF,ETF,SCTF/WK 2</activity>
-	<desc>STF,ETF,SCTF Autumn Week 2 only</desc>
-	<joint> </joint>
-	<studentnos>142</studentnos>
-	<room>LG001</room>
-	<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>07/10/13</week>
-	<modulecode>Databases STF,ETF</modulecode>
-	<activity>SMMxxx Thomson Reuters/STF,ETF/WK 2</activity>
-	<desc>STF,ETF Autumn Week 2 only</desc>
-	<joint> </joint>
-	<studentnos>142</studentnos>
-	<room>LG001</room>
-	<lecturer>Griffiths, Suzanne </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>17:10</start>
-	<end>18:00</end>
-	<week>23/09/13</week>
-	<modulecode>Databases STF,ETF</modulecode>
-	<activity>SMMxxx Databases/STF,ETF</activity>
-	<desc>STF,ETF</desc>
-	<joint>MSc Induction;Databases STF,ETF</joint>
-	<studentnos>142</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>07/10/13</week>
+		<modulecode>Databases STF,ETF</modulecode>
+		<activity>SMMxxx Bloomberg/STF,ETF,SCTF/WK 2</activity>
+		<desc>STF,ETF,SCTF Autumn Week 2 only</desc>
+		<joint>-</joint>
+		<studentnos>142</studentnos>
+		<room>LG001</room>
+		<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>07/10/13</week>
+		<modulecode>Databases STF,ETF</modulecode>
+		<activity>SMMxxx Thomson Reuters/STF,ETF/WK 2</activity>
+		<desc>STF,ETF Autumn Week 2 only</desc>
+		<joint>-</joint>
+		<studentnos>142</studentnos>
+		<room>LG001</room>
+		<lecturer>Griffiths, Suzanne </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>17:10</start>
+		<end>18:00</end>
+		<week>23/09/13</week>
+		<modulecode>Databases STF,ETF</modulecode>
+		<activity>SMMxxx Databases/STF,ETF</activity>
+		<desc>STF,ETF</desc>
+		<joint>MSc Induction;Databases STF,ETF</joint>
+		<studentnos>142</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

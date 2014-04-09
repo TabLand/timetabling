@@ -1,104 +1,106 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>27/01/14, 17/02/14, 03/03/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Davies, Jacqueline;Cartwright, Martin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>03/02/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Jackowska, M </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/02/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Burls, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>10/03/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Craig, G </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>17/03/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Caraher, Martin </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>24/03/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Elford, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Needle, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>PHM004</modulecode>
-	<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C304</room>
-	<lecturer>Gardner, B </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>27/01/14, 17/02/14, 03/03/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Davies, Jacqueline;Cartwright, Martin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>03/02/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Jackowska, M </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/02/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Burls, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>10/03/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Craig, G </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>17/03/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Caraher, Martin </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>24/03/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Elford, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Needle, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>PHM004</modulecode>
+		<activity>PHM004 Social Determinants of Health/Lecture/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C304</room>
+		<lecturer>Gardner, B </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

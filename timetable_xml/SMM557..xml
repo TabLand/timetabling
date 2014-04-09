@@ -1,156 +1,158 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>18/11/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/A/Lecture 01/02/wk 8</activity>
-	<desc>PoF (A) - Lecture: Week 8 only (replacement for wk 9 missed)</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2003</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>02/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/A/Lecture 01/02/wk 10</activity>
-	<desc>PoF (A) - Lecture: Week 10 only (replacement for wk 7 Biennial missed)</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2006</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>25/11/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/B/Lecture 02/02/wk 9</activity>
-	<desc>PoF (B) - Lecture: Week 9 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2006</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-07/10/13, 21/10/13-28/10/13, 18/11/13, 02/12/13-09/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/B/Lecture 02/02</activity>
-	<desc>PoF (B) - Lecture: Weeks 1-2, 4-5, 8,10-11</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2003</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/D: A2&B2/Tutorial 1/03/wk 11</activity>
-	<desc>PoF (D) - Tutorial : Week 11 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>52</studentnos>
-	<room>2005</room>
-	<lecturer>Karimalis, Manolis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-07/10/13, 21/10/13-28/10/13, 18/11/13, 02/12/13-09/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/A/Lecture 01/02</activity>
-	<desc>PoF (A) - Lecture: Weeks 1-2, 4-5, 8, 10-11</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>3002</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>02/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/B/Lecture 02/02/wk 10</activity>
-	<desc>PoF (B) - Lecture: : Week 10 only (replacement for wk 7 Biennial missed)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2002</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/C: A1/Tutorial 2/03</activity>
-	<desc>PoF (C) - Tutorial : Weeks 3-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>2002</room>
-	<lecturer>Karimalis, Manolis </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/A/Lecture 01/02/wk 3</activity>
-	<desc>PoF (A) - Lecture: Week 3 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2006</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/B/Lecture 02/02/wk 1</activity>
-	<desc>PoF (B) - Lecture: Week 1 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>2006</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/E: B1/Tutorial 3/03</activity>
-	<desc>PoF (E) - Tutorial : Weeks 3-5, 7-11</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>2005</room>
-	<lecturer>Karimalis, Manolis </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:10</start>
-	<end>18:00</end>
-	<week>14/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>SMM557.</modulecode>
-	<activity>SMM557 Principles of Finance/D: A2&B2/Tutorial 1/03</activity>
-	<desc>PoF (D) - Tutorial : Weeks 3-5, 7-10</desc>
-	<joint> </joint>
-	<studentnos>52</studentnos>
-	<room>3003</room>
-	<lecturer>Karimalis, Manolis </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>18/11/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/A/Lecture 01/02/wk 8</activity>
+		<desc>PoF (A) - Lecture: Week 8 only (replacement for wk 9 missed)</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2003</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>02/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/A/Lecture 01/02/wk 10</activity>
+		<desc>PoF (A) - Lecture: Week 10 only (replacement for wk 7 Biennial missed)</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2006</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>25/11/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/B/Lecture 02/02/wk 9</activity>
+		<desc>PoF (B) - Lecture: Week 9 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2006</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-07/10/13, 21/10/13-28/10/13, 18/11/13, 02/12/13-09/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/B/Lecture 02/02</activity>
+		<desc>PoF (B) - Lecture: Weeks 1-2, 4-5, 8,10-11</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2003</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/D: A2&B2/Tutorial 1/03/wk 11</activity>
+		<desc>PoF (D) - Tutorial : Week 11 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>52</studentnos>
+		<room>2005</room>
+		<lecturer>Karimalis, Manolis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-07/10/13, 21/10/13-28/10/13, 18/11/13, 02/12/13-09/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/A/Lecture 01/02</activity>
+		<desc>PoF (A) - Lecture: Weeks 1-2, 4-5, 8, 10-11</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>3002</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>02/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/B/Lecture 02/02/wk 10</activity>
+		<desc>PoF (B) - Lecture: : Week 10 only (replacement for wk 7 Biennial missed)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2002</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/C: A1/Tutorial 2/03</activity>
+		<desc>PoF (C) - Tutorial : Weeks 3-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>2002</room>
+		<lecturer>Karimalis, Manolis </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/A/Lecture 01/02/wk 3</activity>
+		<desc>PoF (A) - Lecture: Week 3 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2006</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/B/Lecture 02/02/wk 1</activity>
+		<desc>PoF (B) - Lecture: Week 1 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>2006</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/E: B1/Tutorial 3/03</activity>
+		<desc>PoF (E) - Tutorial : Weeks 3-5, 7-11</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>2005</room>
+		<lecturer>Karimalis, Manolis </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:10</start>
+		<end>18:00</end>
+		<week>14/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>SMM557.</modulecode>
+		<activity>SMM557 Principles of Finance/D: A2&B2/Tutorial 1/03</activity>
+		<desc>PoF (D) - Tutorial : Weeks 3-5, 7-10</desc>
+		<joint>-</joint>
+		<studentnos>52</studentnos>
+		<room>3003</room>
+		<lecturer>Karimalis, Manolis </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

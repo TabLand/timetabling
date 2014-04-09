@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>04/11/13-25/11/13</week>
-	<modulecode>MBM407 QM (A)</modulecode>
-	<activity>MBM407 Mba Block 2: Quantitative Methods/A1/Lecture 02</activity>
-	<desc>FTMBA 2013 Block 2 - QM A session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2004</room>
-	<lecturer>Holland, Wayne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>04/11/13-25/11/13</week>
-	<modulecode>MBM407 QM (A)</modulecode>
-	<activity>MBM407 Mba Block 2: Quantitative Methods/A2/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 2 - QM A session 2</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>G001</room>
-	<lecturer>Holland, Wayne </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>04/11/13-25/11/13</week>
+		<modulecode>MBM407 QM (A)</modulecode>
+		<activity>MBM407 Mba Block 2: Quantitative Methods/A1/Lecture 02</activity>
+		<desc>FTMBA 2013 Block 2 - QM A session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2004</room>
+		<lecturer>Holland, Wayne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>04/11/13-25/11/13</week>
+		<modulecode>MBM407 QM (A)</modulecode>
+		<activity>MBM407 Mba Block 2: Quantitative Methods/A2/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 2 - QM A session 2</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>G001</room>
+		<lecturer>Holland, Wayne </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

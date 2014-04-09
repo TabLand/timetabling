@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>INM380</modulecode>
-	<activity>INM380 Libraries and Publishing in the Information Society/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>B103</room>
-	<lecturer>Robinson, Lyn </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>INM380</modulecode>
+		<activity>INM380 Libraries and Publishing in the Information Society/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>B103</room>
+		<lecturer>Robinson, Lyn </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

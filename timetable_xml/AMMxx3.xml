@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMMxx3</modulecode>
-	<activity>AMM405 Understanding Financial Accounts Entrepreneurship</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C150</room>
-	<lecturer>VL 02 - AAARTP </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>20/01/14-17/02/14</week>
-	<modulecode>AMMxx3</modulecode>
-	<activity>AMM405 Understanding Financial Accounts Entrepreneurship</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>VL 02 - AAARTP </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMMxx3</modulecode>
+		<activity>AMM405 Understanding Financial Accounts Entrepreneurship</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C150</room>
+		<lecturer>VL 02 - AAARTP </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>20/01/14-17/02/14</week>
+		<modulecode>AMMxx3</modulecode>
+		<activity>AMM405 Understanding Financial Accounts Entrepreneurship</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>VL 02 - AAARTP </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

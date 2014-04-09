@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IN2002</modulecode>
-	<activity>IN2002 Data Structures And Algorithms/Lecture</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>138</studentnos>
-	<room>Oakden</room>
-	<lecturer>Gacek, Cristina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IN2002</modulecode>
-	<activity>IN2002 Data Structures And Algorithms/Lab 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>EG07</room>
-	<lecturer>VL 01 - IISOIN </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IN2002</modulecode>
-	<activity>IN2002 Data Structures And Algorithms/Lab 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>EG12</room>
-	<lecturer>VL 05 - IISOIN </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IN2002</modulecode>
-	<activity>IN2002 Data Structures And Algorithms/Lab 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>EG12</room>
-	<lecturer>VL 01 - IISOIN </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IN2002</modulecode>
+		<activity>IN2002 Data Structures And Algorithms/Lecture</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>138</studentnos>
+		<room>Oakden</room>
+		<lecturer>Gacek, Cristina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IN2002</modulecode>
+		<activity>IN2002 Data Structures And Algorithms/Lab 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>EG07</room>
+		<lecturer>VL 01 - IISOIN </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IN2002</modulecode>
+		<activity>IN2002 Data Structures And Algorithms/Lab 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>EG12</room>
+		<lecturer>VL 05 - IISOIN </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IN2002</modulecode>
+		<activity>IN2002 Data Structures And Algorithms/Lab 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>EG12</room>
+		<lecturer>VL 01 - IISOIN </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

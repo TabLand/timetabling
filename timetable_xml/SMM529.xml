@@ -1,13 +1,15 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>19/05/14-23/06/14</week>
-	<modulecode>SMM529</modulecode>
-	<activity>SMM529 Technical Analysis & Trading Systems/Lecture/WKS 2-7</activity>
-	<desc>Lecture : Weeks 2-7</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>LG001</room>
-	<lecturer>Batchelor, Roy </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>19/05/14-23/06/14</week>
+		<modulecode>SMM529</modulecode>
+		<activity>SMM529 Technical Analysis & Trading Systems/Lecture/WKS 2-7</activity>
+		<desc>Lecture : Weeks 2-7</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>LG001</room>
+		<lecturer>Batchelor, Roy </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

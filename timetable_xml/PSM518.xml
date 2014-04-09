@@ -1,52 +1,54 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>PSM518</modulecode>
-	<activity>PSM518 Topics in Cognitive Neuroscience/Lecture 01A/01 JOINT</activity>
-	<desc> </desc>
-	<joint>PS3019;PS3019;PSM518;PSM518</joint>
-	<studentnos>2</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>PSM518</modulecode>
-	<activity>PSM518 Topics in Cognitive Neuroscience/Lecture 01B/01 JOINT</activity>
-	<desc> </desc>
-	<joint>PS3019;PS3019;PSM518;PSM518</joint>
-	<studentnos>2</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>PSM518</modulecode>
-	<activity>PSM518 Topics in Cognitive Neuroscience/Drop-In Clinic 01A/01 JOINT</activity>
-	<desc> </desc>
-	<joint>PS3019;PS3019;PSM518;PSM518</joint>
-	<studentnos>2</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>PSM518</modulecode>
-	<activity>PSM518 Topics in Cognitive Neuroscience/Drop-In Clinic 01B/01 JOINT</activity>
-	<desc> </desc>
-	<joint>PS3019;PS3019;PSM518;PSM518</joint>
-	<studentnos>2</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>PSM518</modulecode>
+		<activity>PSM518 Topics in Cognitive Neuroscience/Lecture 01A/01 JOINT</activity>
+		<desc>-</desc>
+		<joint>PS3019;PS3019;PSM518;PSM518</joint>
+		<studentnos>2</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>PSM518</modulecode>
+		<activity>PSM518 Topics in Cognitive Neuroscience/Lecture 01B/01 JOINT</activity>
+		<desc>-</desc>
+		<joint>PS3019;PS3019;PSM518;PSM518</joint>
+		<studentnos>2</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>PSM518</modulecode>
+		<activity>PSM518 Topics in Cognitive Neuroscience/Drop-In Clinic 01A/01 JOINT</activity>
+		<desc>-</desc>
+		<joint>PS3019;PS3019;PSM518;PSM518</joint>
+		<studentnos>2</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>PSM518</modulecode>
+		<activity>PSM518 Topics in Cognitive Neuroscience/Drop-In Clinic 01B/01 JOINT</activity>
+		<desc>-</desc>
+		<joint>PS3019;PS3019;PSM518;PSM518</joint>
+		<studentnos>2</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

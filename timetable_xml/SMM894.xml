@@ -1,143 +1,145 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>11/11/13-18/11/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Principles of Organisational Behaviour: Presentations/A2&B2/02/WKS 7&8</activity>
-	<desc>OB - Streams A2 & B2 : Presentations : Weeks 7 &8 ONLY</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>LG003</room>
-	<lecturer>Dobson, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>14:00</end>
-	<week>14/10/13, 28/10/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Job Interview Skills/A&B/Workshop 01/02/WKS 3,5</activity>
-	<desc>A & B; Weeks 3,5 OPTIONAL</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>LG003</room>
-	<lecturer>Dobson, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>14:00</end>
-	<week>21/10/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Job Interview Skills/A&B/Workshop 01/02/WK 2</activity>
-	<desc>A & B; Week 2 only (replacement room) OPTIONAL</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2002</room>
-	<lecturer>Dobson, Paul </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>11/11/13-18/11/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Principles of Organisational Behaviour: Presentations/A1&B1/01/WKS 7&8</activity>
-	<desc>OB - Streams A1 & B1: Presentations : Weeks 7 & 8 ONLY</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>2005</room>
-	<lecturer>Dobson, Paul </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Principles of Organisational Behaviour/A/Lecture/WKS 1-5</activity>
-	<desc>OB : Weeks 1 to 5 : Stream A</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>3003</room>
-	<lecturer>Dobson, Paul </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Principles of Organisational Behaviour/B/Lecture/WKS 1-5</activity>
-	<desc>OB : Weeks 1 to 5 : Stream B</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>G001</room>
-	<lecturer>Dobson, Paul </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>17:10</start>
-	<end>21:00</end>
-	<week>14/10/13-28/10/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Job Interview Skills/Syndicate rooms/WKS 3,4,5</activity>
-	<desc>A&B : Weeks 3,4,5 : Syndicate Rooms P. Dobson</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>2010;2008;2011;2012;2013</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/10/13-28/10/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>SMM894 Job Interview Skills/A&B/Workshop 02/02/WKS 3,4,5</activity>
-	<desc>A & B / Weeks 3, 4, 5 OPTIONAL</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>3003</room>
-	<lecturer>Dobson, Paul </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>MSc Management Organisation Behaviour Invigilated Test</activity>
-	<desc>Valencia Henry 8649</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>LG002/3</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>MSc Management Organisation Behaviour Invigilated Test</activity>
-	<desc>Valencia Henry 8649</desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>1001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:10</start>
-	<end>15:00</end>
-	<week>09/12/13</week>
-	<modulecode>SMM894</modulecode>
-	<activity>MSc Management Organisation Behaviour Invigilated Test</activity>
-	<desc>Valencia Henry 8649</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>11/11/13-18/11/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Principles of Organisational Behaviour: Presentations/A2&B2/02/WKS 7&8</activity>
+		<desc>OB - Streams A2 & B2 : Presentations : Weeks 7 &8 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>LG003</room>
+		<lecturer>Dobson, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>14:00</end>
+		<week>14/10/13, 28/10/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Job Interview Skills/A&B/Workshop 01/02/WKS 3,5</activity>
+		<desc>A & B; Weeks 3,5 OPTIONAL</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>LG003</room>
+		<lecturer>Dobson, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>14:00</end>
+		<week>21/10/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Job Interview Skills/A&B/Workshop 01/02/WK 2</activity>
+		<desc>A & B; Week 2 only (replacement room) OPTIONAL</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2002</room>
+		<lecturer>Dobson, Paul </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>11/11/13-18/11/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Principles of Organisational Behaviour: Presentations/A1&B1/01/WKS 7&8</activity>
+		<desc>OB - Streams A1 & B1: Presentations : Weeks 7 & 8 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>2005</room>
+		<lecturer>Dobson, Paul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Principles of Organisational Behaviour/A/Lecture/WKS 1-5</activity>
+		<desc>OB : Weeks 1 to 5 : Stream A</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>3003</room>
+		<lecturer>Dobson, Paul </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Principles of Organisational Behaviour/B/Lecture/WKS 1-5</activity>
+		<desc>OB : Weeks 1 to 5 : Stream B</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>G001</room>
+		<lecturer>Dobson, Paul </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>17:10</start>
+		<end>21:00</end>
+		<week>14/10/13-28/10/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Job Interview Skills/Syndicate rooms/WKS 3,4,5</activity>
+		<desc>A&B : Weeks 3,4,5 : Syndicate Rooms P. Dobson</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>2010;2008;2011;2012;2013</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/10/13-28/10/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>SMM894 Job Interview Skills/A&B/Workshop 02/02/WKS 3,4,5</activity>
+		<desc>A & B / Weeks 3, 4, 5 OPTIONAL</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>3003</room>
+		<lecturer>Dobson, Paul </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>MSc Management Organisation Behaviour Invigilated Test</activity>
+		<desc>Valencia Henry 8649</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>LG002/3</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>MSc Management Organisation Behaviour Invigilated Test</activity>
+		<desc>Valencia Henry 8649</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>1001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:10</start>
+		<end>15:00</end>
+		<week>09/12/13</week>
+		<modulecode>SMM894</modulecode>
+		<activity>MSc Management Organisation Behaviour Invigilated Test</activity>
+		<desc>Valencia Henry 8649</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

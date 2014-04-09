@@ -1,65 +1,67 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>10/03/14</week>
-	<modulecode>IP2023</modulecode>
-	<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/01/Mar 10th</activity>
-	<desc>Week 5 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>IP2023</modulecode>
-	<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/02/Mar 10th</activity>
-	<desc>Week 5 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A107</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP2023</modulecode>
-	<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>DLG02</room>
-	<lecturer>Pagliari, Stefano;Kapadia, Anush;Nesvetailova, Anastasia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP2023</modulecode>
-	<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/01</activity>
-	<desc>Weeks 1-4 & 7-11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG03</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IP2023</modulecode>
-	<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/02</activity>
-	<desc>Weeks 1-4 & 7-11</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>AG08</room>
-	<lecturer>Peterson, Hannah </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>10/03/14</week>
+		<modulecode>IP2023</modulecode>
+		<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/01/Mar 10th</activity>
+		<desc>Week 5 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>IP2023</modulecode>
+		<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/02/Mar 10th</activity>
+		<desc>Week 5 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A107</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP2023</modulecode>
+		<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>DLG02</room>
+		<lecturer>Pagliari, Stefano;Kapadia, Anush;Nesvetailova, Anastasia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP2023</modulecode>
+		<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/01</activity>
+		<desc>Weeks 1-4 & 7-11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG03</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IP2023</modulecode>
+		<activity>IP2023 The Global Economy in the Twenty-First Century: Trends and Challenges/Tutorial 01/02</activity>
+		<desc>Weeks 1-4 & 7-11</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>AG08</room>
+		<lecturer>Peterson, Hannah </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

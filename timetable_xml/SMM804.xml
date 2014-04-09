@@ -1,26 +1,28 @@
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>13/01/14</week>
-	<modulecode>SMM804</modulecode>
-	<activity>SMM804 Research Methods For Managers/Lecture 01/04</activity>
-	<desc>(shared across all Charities courses - Conversion students only)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3003</room>
-	<lecturer>Jung, Tobias;Harrow, Jenny Prof.;Wilding, Karl </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:10</start>
-	<end>21:00</end>
-	<week>10/02/14</week>
-	<modulecode>SMM804</modulecode>
-	<activity>SMM804 Research Methods For Managers/Lecture 03/04</activity>
-	<desc>(shared across all Charities courses - Conversion students only)</desc>
-	<joint> </joint>
-	<studentnos>70</studentnos>
-	<room>3002</room>
-	<lecturer>Jung, Tobias;Harrow, Jenny Prof.;Wilding, Karl </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>13/01/14</week>
+		<modulecode>SMM804</modulecode>
+		<activity>SMM804 Research Methods For Managers/Lecture 01/04</activity>
+		<desc>(shared across all Charities courses - Conversion students only)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3003</room>
+		<lecturer>Jung, Tobias;Harrow, Jenny Prof.;Wilding, Karl </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:10</start>
+		<end>21:00</end>
+		<week>10/02/14</week>
+		<modulecode>SMM804</modulecode>
+		<activity>SMM804 Research Methods For Managers/Lecture 03/04</activity>
+		<desc>(shared across all Charities courses - Conversion students only)</desc>
+		<joint>-</joint>
+		<studentnos>70</studentnos>
+		<room>3002</room>
+		<lecturer>Jung, Tobias;Harrow, Jenny Prof.;Wilding, Karl </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

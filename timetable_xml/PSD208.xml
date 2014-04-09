@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>13/01/14-20/01/14</week>
-	<modulecode>PSD208</modulecode>
-	<activity>PSD208 Groups and Couples: Counselling and Mediation/Lecture 01/WKS 1&2</activity>
-	<desc>Weeks 1&2 (Different Location)</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>AG03</room>
-	<lecturer>Rawson, Don </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-17/03/14</week>
-	<modulecode>PSD208</modulecode>
-	<activity>PSD208 Groups and Couples: Counselling and Mediation/Lecture 01/WKS 3-10</activity>
-	<desc>Weeks 3-10</desc>
-	<joint> </joint>
-	<studentnos>39</studentnos>
-	<room>D104</room>
-	<lecturer>Rawson, Don </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
-	<modulecode>PSD208</modulecode>
-	<activity>PSD208 Groups and Couples: Counselling and Mediation/Break Out 01/WKS 4,6,8&10</activity>
-	<desc>Weeks 4, 6, 8 & 10</desc>
-	<joint> </joint>
-	<studentnos>8</studentnos>
-	<room>D221;D222</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>13/01/14-20/01/14</week>
+		<modulecode>PSD208</modulecode>
+		<activity>PSD208 Groups and Couples: Counselling and Mediation/Lecture 01/WKS 1&2</activity>
+		<desc>Weeks 1&2 (Different Location)</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>AG03</room>
+		<lecturer>Rawson, Don </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-17/03/14</week>
+		<modulecode>PSD208</modulecode>
+		<activity>PSD208 Groups and Couples: Counselling and Mediation/Lecture 01/WKS 3-10</activity>
+		<desc>Weeks 3-10</desc>
+		<joint>-</joint>
+		<studentnos>39</studentnos>
+		<room>D104</room>
+		<lecturer>Rawson, Don </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
+		<modulecode>PSD208</modulecode>
+		<activity>PSD208 Groups and Couples: Counselling and Mediation/Break Out 01/WKS 4,6,8&10</activity>
+		<desc>Weeks 4, 6, 8 & 10</desc>
+		<joint>-</joint>
+		<studentnos>8</studentnos>
+		<room>D221;D222</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

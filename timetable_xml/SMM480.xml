@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-10/03/14</week>
-	<modulecode>SMM480</modulecode>
-	<activity>SMM480 Leadership & Change/Lecture 01/WKS 1-7</activity>
-	<desc>Core : All Streams : Weeks 1-7</desc>
-	<joint> </joint>
-	<studentnos>72</studentnos>
-	<room>2003</room>
-	<lecturer>Silvester, Jo </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-10/03/14</week>
+		<modulecode>SMM480</modulecode>
+		<activity>SMM480 Leadership & Change/Lecture 01/WKS 1-7</activity>
+		<desc>Core : All Streams : Weeks 1-7</desc>
+		<joint>-</joint>
+		<studentnos>72</studentnos>
+		<room>2003</room>
+		<lecturer>Silvester, Jo </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

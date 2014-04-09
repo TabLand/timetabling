@@ -1,52 +1,54 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>10/03/14</week>
-	<modulecode>SMM113</modulecode>
-	<activity>SMM113 International Finance (BIF & FIN)/Lecture/WK 7 (Joint)</activity>
-	<desc>Week 7 only : Guest speaker Ravi Rajani from Citibank</desc>
-	<joint>SMM113;SMM113 FIN</joint>
-	<studentnos>134</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>27/01/14-03/02/14, 17/02/14-10/03/14</week>
-	<modulecode>SMM113</modulecode>
-	<activity>SMM113 International Finance (BIF)/Lecture/WKS 1-2, 4-7</activity>
-	<desc>Spring Lecture: Weeks 1-2, 4-7 only</desc>
-	<joint>SMM113;SMM113</joint>
-	<studentnos>74</studentnos>
-	<room>3002</room>
-	<lecturer>Marsh, Ian Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>10/02/14</week>
-	<modulecode>SMM113</modulecode>
-	<activity>SMM113 International Finance (BIF & FIN)/Lecture/WK 3 (Joint)</activity>
-	<desc>Week 3 only : Replacement</desc>
-	<joint>SMM113;SMM113 FIN</joint>
-	<studentnos>134</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/03/14-31/03/14</week>
-	<modulecode>SMM113</modulecode>
-	<activity>SMM113 International Finance (BIF)/Lecture/WKS 8-10</activity>
-	<desc>Spring Lecture: Weeks 8-10 only</desc>
-	<joint>SMM113;SMM113</joint>
-	<studentnos>74</studentnos>
-	<room>2004</room>
-	<lecturer>Marsh, Ian Prof. </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>10/03/14</week>
+		<modulecode>SMM113</modulecode>
+		<activity>SMM113 International Finance (BIF & FIN)/Lecture/WK 7 (Joint)</activity>
+		<desc>Week 7 only : Guest speaker Ravi Rajani from Citibank</desc>
+		<joint>SMM113;SMM113 FIN</joint>
+		<studentnos>134</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>27/01/14-03/02/14, 17/02/14-10/03/14</week>
+		<modulecode>SMM113</modulecode>
+		<activity>SMM113 International Finance (BIF)/Lecture/WKS 1-2, 4-7</activity>
+		<desc>Spring Lecture: Weeks 1-2, 4-7 only</desc>
+		<joint>SMM113;SMM113</joint>
+		<studentnos>74</studentnos>
+		<room>3002</room>
+		<lecturer>Marsh, Ian Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>10/02/14</week>
+		<modulecode>SMM113</modulecode>
+		<activity>SMM113 International Finance (BIF & FIN)/Lecture/WK 3 (Joint)</activity>
+		<desc>Week 3 only : Replacement</desc>
+		<joint>SMM113;SMM113 FIN</joint>
+		<studentnos>134</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/03/14-31/03/14</week>
+		<modulecode>SMM113</modulecode>
+		<activity>SMM113 International Finance (BIF)/Lecture/WKS 8-10</activity>
+		<desc>Spring Lecture: Weeks 8-10 only</desc>
+		<joint>SMM113;SMM113</joint>
+		<studentnos>74</studentnos>
+		<room>2004</room>
+		<lecturer>Marsh, Ian Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

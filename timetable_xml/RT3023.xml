@@ -1,325 +1,327 @@
-<booking>
-	<start>9:30</start>
-	<end>13:50</end>
-	<week>19/05/14</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Exam 1/01</activity>
-	<desc>Poster presenatations (rooms nearby)</desc>
-	<joint> </joint>
-	<studentnos>9</studentnos>
-	<room>A112;A111;AG10;AG11</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 1/01</activity>
-	<desc>Optional Tutorial: Head & Neck</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 2/01</activity>
-	<desc>Optional Tutorial: Thorax</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 5/01</activity>
-	<desc>Tutorial: Poster Presentation</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 6/01</activity>
-	<desc>Tutorial: MCT formative Tests</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>09/12/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 1/02</activity>
-	<desc>Skin apposition session (FD only)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 3/01</activity>
-	<desc>Optional Tutorial: CNS</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C161</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>09/09/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 6/01</activity>
-	<desc>Oncology Imaging Intepretation CNS</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 4/01</activity>
-	<desc>Optional Tutorial: Systemic Tumours</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C161</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>09/09/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 5/01</activity>
-	<desc>Oncology Imaging Intepretation Thorax</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>09/09/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 7/01</activity>
-	<desc>Principles of contrast administration</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>09/09/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 4/01</activity>
-	<desc>Oncology Imaging Intepretation Head & Neck</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>25/11/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 8/01</activity>
-	<desc>Stereotactic Conformal Radiotherapy</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>BLG07</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>02/12/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 15/01</activity>
-	<desc>Paediatrics</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>CG02</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>25/11/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 9/01</activity>
-	<desc>Tomotherapy</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>BLG07</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>02/12/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 16/01</activity>
-	<desc>Sarcomas</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C340</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>25/11/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 10/01</activity>
-	<desc>Respiratory Gating</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>BLG07</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 11/01</activity>
-	<desc>Radiosurgery - Gamma Knife</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>D221</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>02/09/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 1/01</activity>
-	<desc>Introduction to Module</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>02/09/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 2/01</activity>
-	<desc>General Head & Neck Technique</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>25/11/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 12/01</activity>
-	<desc>Proton Therapy</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG08</room>
-	<lecturer>Flinton, D </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>25/11/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 13/01</activity>
-	<desc>Cyberknife</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG07</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>02/09/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 3/01</activity>
-	<desc>General Head & Neck RT Side effects</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>25/11/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 14/01</activity>
-	<desc>IGRT</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>C339</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>02/12/13</week>
-	<modulecode>RT3023</modulecode>
-	<activity>RT3023 Management and Radiotherapy Technique B/Lecture 17/01</activity>
-	<desc>Radionuclide Treatments</desc>
-	<joint> </joint>
-	<studentnos>37</studentnos>
-	<room>No room needed</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>13:50</end>
+		<week>19/05/14</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Exam 1/01</activity>
+		<desc>Poster presenatations (rooms nearby)</desc>
+		<joint>-</joint>
+		<studentnos>9</studentnos>
+		<room>A112;A111;AG10;AG11</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 1/01</activity>
+		<desc>Optional Tutorial: Head & Neck</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 2/01</activity>
+		<desc>Optional Tutorial: Thorax</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 5/01</activity>
+		<desc>Tutorial: Poster Presentation</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 6/01</activity>
+		<desc>Tutorial: MCT formative Tests</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>09/12/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 1/02</activity>
+		<desc>Skin apposition session (FD only)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 3/01</activity>
+		<desc>Optional Tutorial: CNS</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C161</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>09/09/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 6/01</activity>
+		<desc>Oncology Imaging Intepretation CNS</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Tutorial 4/01</activity>
+		<desc>Optional Tutorial: Systemic Tumours</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C161</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>09/09/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 5/01</activity>
+		<desc>Oncology Imaging Intepretation Thorax</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>09/09/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 7/01</activity>
+		<desc>Principles of contrast administration</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>09/09/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 4/01</activity>
+		<desc>Oncology Imaging Intepretation Head & Neck</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>25/11/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 8/01</activity>
+		<desc>Stereotactic Conformal Radiotherapy</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>BLG07</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>02/12/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 15/01</activity>
+		<desc>Paediatrics</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>CG02</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>25/11/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 9/01</activity>
+		<desc>Tomotherapy</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>BLG07</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>02/12/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 16/01</activity>
+		<desc>Sarcomas</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C340</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>25/11/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 10/01</activity>
+		<desc>Respiratory Gating</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>BLG07</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 11/01</activity>
+		<desc>Radiosurgery - Gamma Knife</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>D221</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>02/09/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 1/01</activity>
+		<desc>Introduction to Module</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>02/09/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 2/01</activity>
+		<desc>General Head & Neck Technique</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>25/11/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 12/01</activity>
+		<desc>Proton Therapy</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG08</room>
+		<lecturer>Flinton, D </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>25/11/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 13/01</activity>
+		<desc>Cyberknife</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG07</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>02/09/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 3/01</activity>
+		<desc>General Head & Neck RT Side effects</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>25/11/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 14/01</activity>
+		<desc>IGRT</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>C339</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>02/12/13</week>
+		<modulecode>RT3023</modulecode>
+		<activity>RT3023 Management and Radiotherapy Technique B/Lecture 17/01</activity>
+		<desc>Radionuclide Treatments</desc>
+		<joint>-</joint>
+		<studentnos>37</studentnos>
+		<room>No room needed</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

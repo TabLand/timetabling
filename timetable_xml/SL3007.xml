@@ -1,91 +1,93 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>11/11/13</week>
-	<modulecode>SL3007</modulecode>
-	<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 01/04 (lead)</activity>
-	<desc>Writing workshop - joint SLT & HC</desc>
-	<joint>HC3001;SL3007</joint>
-	<studentnos>52</studentnos>
-	<room>DLG19</room>
-	<lecturer>Knight, R A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>09/12/13</week>
-	<modulecode>SL3007</modulecode>
-	<activity>SL3007 Research & Evidence-based Practice (2)/Practical 01/01 (lead)</activity>
-	<desc>Qualitative Research Session - joint SLT & HC (removed MC lec tbc)</desc>
-	<joint>SL3007;HC3001</joint>
-	<studentnos>52</studentnos>
-	<room>CG03</room>
-	<lecturer>VL 03 - HACOMS </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>SL3007</modulecode>
-	<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 01/01 (lead)</activity>
-	<desc>Project Session SLT & HC</desc>
-	<joint>HC3001;SL3007</joint>
-	<studentnos>52</studentnos>
-	<room>DLG19</room>
-	<lecturer>Knight, R A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>09/12/13</week>
-	<modulecode>SL3007</modulecode>
-	<activity>SL3007 Research & Evidence-based Practice (2)/Practical 01/02 (lead)</activity>
-	<desc>R&EBP project on PCs - half group - (joint SLT&HC) (removed NB)</desc>
-	<joint>SL3007;HC3001</joint>
-	<studentnos>26</studentnos>
-	<room>C301</room>
-	<lecturer>Knight, R A </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SL3007</modulecode>
-	<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 01/02</activity>
-	<desc>Research & Evidence-based Practice (2)</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>A110</room>
-	<lecturer>Marshall, Jane </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>SL3007</modulecode>
-	<activity>SL3007 Research & Evidence-based Practice (2)/Practical 01/02 - wk 3</activity>
-	<desc>Research & Evidence-based Practice (2)</desc>
-	<joint> </joint>
-	<studentnos>46</studentnos>
-	<room>A307&8</room>
-	<lecturer>Marshall, Jane </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>31/03/14</week>
-	<modulecode>SL3007</modulecode>
-	<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 02/01 (lead)</activity>
-	<desc>Results and discussion writing workshop</desc>
-	<joint>HC3001;SL3007</joint>
-	<studentnos>52</studentnos>
-	<room>DLG19</room>
-	<lecturer>Knight, R A </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>11/11/13</week>
+		<modulecode>SL3007</modulecode>
+		<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 01/04 (lead)</activity>
+		<desc>Writing workshop - joint SLT & HC</desc>
+		<joint>HC3001;SL3007</joint>
+		<studentnos>52</studentnos>
+		<room>DLG19</room>
+		<lecturer>Knight, R A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>09/12/13</week>
+		<modulecode>SL3007</modulecode>
+		<activity>SL3007 Research & Evidence-based Practice (2)/Practical 01/01 (lead)</activity>
+		<desc>Qualitative Research Session - joint SLT & HC (removed MC lec tbc)</desc>
+		<joint>SL3007;HC3001</joint>
+		<studentnos>52</studentnos>
+		<room>CG03</room>
+		<lecturer>VL 03 - HACOMS </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>SL3007</modulecode>
+		<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 01/01 (lead)</activity>
+		<desc>Project Session SLT & HC</desc>
+		<joint>HC3001;SL3007</joint>
+		<studentnos>52</studentnos>
+		<room>DLG19</room>
+		<lecturer>Knight, R A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>09/12/13</week>
+		<modulecode>SL3007</modulecode>
+		<activity>SL3007 Research & Evidence-based Practice (2)/Practical 01/02 (lead)</activity>
+		<desc>R&EBP project on PCs - half group - (joint SLT&HC) (removed NB)</desc>
+		<joint>SL3007;HC3001</joint>
+		<studentnos>26</studentnos>
+		<room>C301</room>
+		<lecturer>Knight, R A </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SL3007</modulecode>
+		<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 01/02</activity>
+		<desc>Research & Evidence-based Practice (2)</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>A110</room>
+		<lecturer>Marshall, Jane </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>SL3007</modulecode>
+		<activity>SL3007 Research & Evidence-based Practice (2)/Practical 01/02 - wk 3</activity>
+		<desc>Research & Evidence-based Practice (2)</desc>
+		<joint>-</joint>
+		<studentnos>46</studentnos>
+		<room>A307&8</room>
+		<lecturer>Marshall, Jane </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>31/03/14</week>
+		<modulecode>SL3007</modulecode>
+		<activity>SL3007 Research & Evidence-based Practice (2)/Lecture 02/01 (lead)</activity>
+		<desc>Results and discussion writing workshop</desc>
+		<joint>HC3001;SL3007</joint>
+		<studentnos>52</studentnos>
+		<room>DLG19</room>
+		<lecturer>Knight, R A </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

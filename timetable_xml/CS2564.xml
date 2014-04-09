@@ -1,91 +1,93 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2564</modulecode>
-	<activity>CS2564 Financial Modelling in Excel term 1 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A308</room>
-	<lecturer>Pamphilon, Tony </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
-	<modulecode>CS2564</modulecode>
-	<activity>CS2564 Financial Modelling in Excel term 3 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>29</studentnos>
-	<room>B307A</room>
-	<lecturer>Pamphilon, Tony </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>17/03/14</week>
-	<modulecode>CS2564</modulecode>
-	<activity>CS2564 Financial Modelling in Excel term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>A218</room>
-	<lecturer>Pamphilon, Tony </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2564</modulecode>
-	<activity>CS2564 Financial Modelling in Excel term 1 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>B307A</room>
-	<lecturer>Pamphilon, Tony </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS2564</modulecode>
-	<activity>CS2564 Financial Modelling in Excel term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>B307A</room>
-	<lecturer>Pamphilon, Tony </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
-	<modulecode>CS2564</modulecode>
-	<activity>CS2564 Financial Modelling in Excel term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>AG24a</room>
-	<lecturer>Pamphilon, Tony </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS2564</modulecode>
-	<activity>CS2564 Financial Modelling in Excel term 3 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C301</room>
-	<lecturer>Pamphilon, Tony </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2564</modulecode>
+		<activity>CS2564 Financial Modelling in Excel term 1 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A308</room>
+		<lecturer>Pamphilon, Tony </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+		<modulecode>CS2564</modulecode>
+		<activity>CS2564 Financial Modelling in Excel term 3 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>29</studentnos>
+		<room>B307A</room>
+		<lecturer>Pamphilon, Tony </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>17/03/14</week>
+		<modulecode>CS2564</modulecode>
+		<activity>CS2564 Financial Modelling in Excel term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>A218</room>
+		<lecturer>Pamphilon, Tony </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2564</modulecode>
+		<activity>CS2564 Financial Modelling in Excel term 1 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>B307A</room>
+		<lecturer>Pamphilon, Tony </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS2564</modulecode>
+		<activity>CS2564 Financial Modelling in Excel term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>B307A</room>
+		<lecturer>Pamphilon, Tony </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
+		<modulecode>CS2564</modulecode>
+		<activity>CS2564 Financial Modelling in Excel term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>AG24a</room>
+		<lecturer>Pamphilon, Tony </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS2564</modulecode>
+		<activity>CS2564 Financial Modelling in Excel term 3 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C301</room>
+		<lecturer>Pamphilon, Tony </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

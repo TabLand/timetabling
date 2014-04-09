@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>SMM519</modulecode>
-	<activity>SMM519 Alternative Investments (MSc IM)/Lecture 1/WKS 1-5</activity>
-	<desc>IM: Spring lecture : WKS 1-5</desc>
-	<joint> </joint>
-	<studentnos>128</studentnos>
-	<room>LG001</room>
-	<lecturer>Motson, Nick </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>03/03/14-31/03/14</week>
-	<modulecode>SMM519</modulecode>
-	<activity>SMM519 Alternative Investments (MSc IM)/Lecture 1/WKS 6-10</activity>
-	<desc>IM: Spring lecture : WKS 6-10</desc>
-	<joint> </joint>
-	<studentnos>128</studentnos>
-	<room>LG001</room>
-	<lecturer>Miller, Edgar </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>SMM519</modulecode>
+		<activity>SMM519 Alternative Investments (MSc IM)/Lecture 1/WKS 1-5</activity>
+		<desc>IM: Spring lecture : WKS 1-5</desc>
+		<joint>-</joint>
+		<studentnos>128</studentnos>
+		<room>LG001</room>
+		<lecturer>Motson, Nick </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>03/03/14-31/03/14</week>
+		<modulecode>SMM519</modulecode>
+		<activity>SMM519 Alternative Investments (MSc IM)/Lecture 1/WKS 6-10</activity>
+		<desc>IM: Spring lecture : WKS 6-10</desc>
+		<joint>-</joint>
+		<studentnos>128</studentnos>
+		<room>LG001</room>
+		<lecturer>Miller, Edgar </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

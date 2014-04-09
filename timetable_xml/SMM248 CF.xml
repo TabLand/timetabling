@@ -1,78 +1,80 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>02/12/13</week>
-	<modulecode>SMM248 CF</modulecode>
-	<activity>SMM248 Statistics in Finance (MSc CF)/Lecture/WK 10</activity>
-	<desc>MSc CF LECTURE - Week 10 only (replacement)</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>G001</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>02/12/13</week>
-	<modulecode>SMM248 CF</modulecode>
-	<activity>SMM248 Statistics in Finance (MSc CF)/B2/Computer Lab 02/WK 10</activity>
-	<desc>MSc CF : LAB: Group 02 of 02 : Week 10 only</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>2001</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-07/10/13, 21/10/13, 04/11/13, 18/11/13</week>
-	<modulecode>SMM248 CF</modulecode>
-	<activity>SMM248 Statistics in Finance (MSc CF)/Lecture/WKS 1,2,4, 6, 8</activity>
-	<desc>MSc CF LECTURE - Weeks 1,2,4, 6, 8</desc>
-	<joint> </joint>
-	<studentnos>77</studentnos>
-	<room>2002</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>SMM248 CF</modulecode>
-	<activity>SMM248 Statistics in Finance (MSc CF)/B2/Computer Lab 02/WKS 3, 5, 7, 9</activity>
-	<desc>MSc CF : LAB: Group 02 of 02 : Weeks 3, 5, 7, 9</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>1001</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>02/12/13</week>
-	<modulecode>SMM248 CF</modulecode>
-	<activity>SMM248 Statistics in Finance (MSc CF)/B1/Computer Lab 01/WK 10</activity>
-	<desc>MSc CF : LAB: Group 01 of 02 : Week 10 only</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2001</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
-	<modulecode>SMM248 CF</modulecode>
-	<activity>SMM248 Statistics in Finance (MSc CF)/B1/Computer Lab 01/WKS 3, 5, 7, 9</activity>
-	<desc>MSc CF : LAB: Group 01 of 02 : Weeks 3, 5, 7, 9</desc>
-	<joint> </joint>
-	<studentnos>42</studentnos>
-	<room>2001</room>
-	<lecturer>Fuertes, Ana-Maria </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>02/12/13</week>
+		<modulecode>SMM248 CF</modulecode>
+		<activity>SMM248 Statistics in Finance (MSc CF)/Lecture/WK 10</activity>
+		<desc>MSc CF LECTURE - Week 10 only (replacement)</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>G001</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>02/12/13</week>
+		<modulecode>SMM248 CF</modulecode>
+		<activity>SMM248 Statistics in Finance (MSc CF)/B2/Computer Lab 02/WK 10</activity>
+		<desc>MSc CF : LAB: Group 02 of 02 : Week 10 only</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>2001</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-07/10/13, 21/10/13, 04/11/13, 18/11/13</week>
+		<modulecode>SMM248 CF</modulecode>
+		<activity>SMM248 Statistics in Finance (MSc CF)/Lecture/WKS 1,2,4, 6, 8</activity>
+		<desc>MSc CF LECTURE - Weeks 1,2,4, 6, 8</desc>
+		<joint>-</joint>
+		<studentnos>77</studentnos>
+		<room>2002</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>SMM248 CF</modulecode>
+		<activity>SMM248 Statistics in Finance (MSc CF)/B2/Computer Lab 02/WKS 3, 5, 7, 9</activity>
+		<desc>MSc CF : LAB: Group 02 of 02 : Weeks 3, 5, 7, 9</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>1001</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>02/12/13</week>
+		<modulecode>SMM248 CF</modulecode>
+		<activity>SMM248 Statistics in Finance (MSc CF)/B1/Computer Lab 01/WK 10</activity>
+		<desc>MSc CF : LAB: Group 01 of 02 : Week 10 only</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2001</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+		<modulecode>SMM248 CF</modulecode>
+		<activity>SMM248 Statistics in Finance (MSc CF)/B1/Computer Lab 01/WKS 3, 5, 7, 9</activity>
+		<desc>MSc CF : LAB: Group 01 of 02 : Weeks 3, 5, 7, 9</desc>
+		<joint>-</joint>
+		<studentnos>42</studentnos>
+		<room>2001</room>
+		<lecturer>Fuertes, Ana-Maria </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

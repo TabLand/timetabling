@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2050</modulecode>
-	<activity>SG2050 Food, Culture and Society/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>57</studentnos>
-	<room>B104</room>
-	<lecturer>Caraher, Martin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2050</modulecode>
-	<activity>SG2050 Food, Culture and Society/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Caraher, Martin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2050</modulecode>
-	<activity>SG2050 Food, Culture and Society/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Caraher, Martin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>SG2050</modulecode>
-	<activity>SG2050 Food, Culture and Society/Tutorial 01/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Caraher, Martin </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2050</modulecode>
+		<activity>SG2050 Food, Culture and Society/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>57</studentnos>
+		<room>B104</room>
+		<lecturer>Caraher, Martin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2050</modulecode>
+		<activity>SG2050 Food, Culture and Society/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Caraher, Martin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2050</modulecode>
+		<activity>SG2050 Food, Culture and Society/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Caraher, Martin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>SG2050</modulecode>
+		<activity>SG2050 Food, Culture and Society/Tutorial 01/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Caraher, Martin </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

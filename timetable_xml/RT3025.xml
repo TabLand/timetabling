@@ -1,91 +1,93 @@
-<booking>
-	<start>10:00</start>
-	<end>10:30</end>
-	<week>10/02/14</week>
-	<modulecode>RT3025</modulecode>
-	<activity>RT3025 Competence to Practice B2/Lecture 1/01</activity>
-	<desc>Introduction to module</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>C300</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>19/05/14</week>
-	<modulecode>RT3025</modulecode>
-	<activity>RT3025 Competence to Practice B2/Lecture 4/02</activity>
-	<desc>Viva exam (see list)</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>AG24b;A112;AG10;AG11</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>19/05/14</week>
-	<modulecode>RT3025</modulecode>
-	<activity>RT3025 Competence to Practice B2/Lecture 4/01</activity>
-	<desc>Viva exam (holding room)</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>AG03</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>28/04/14</week>
-	<modulecode>RT3025</modulecode>
-	<activity>RT3025 Competence to Practice B2/Lecture 2/01</activity>
-	<desc>Practice vivas</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>A109</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>05/05/14</week>
-	<modulecode>RT3025</modulecode>
-	<activity>RT3025 Competence to Practice B2/Lecture 3/02</activity>
-	<desc>Mock Vivas</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>A112;A111;A108;A107</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>05/05/14</week>
-	<modulecode>RT3025</modulecode>
-	<activity>RT3025 Competence to Practice B2/Lecture 3/01</activity>
-	<desc>Mock Vivas</desc>
-	<joint> </joint>
-	<studentnos>34</studentnos>
-	<room>A109</room>
-	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT3025</modulecode>
-	<activity>RT3025 Competence to Practice B2/Lecture 1/02</activity>
-	<desc>CVs and application forms (guest lecturer Laura Allington & PC)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C340</room>
-	<lecturer>Cherry, Pam </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:30</end>
+		<week>10/02/14</week>
+		<modulecode>RT3025</modulecode>
+		<activity>RT3025 Competence to Practice B2/Lecture 1/01</activity>
+		<desc>Introduction to module</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>C300</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>19/05/14</week>
+		<modulecode>RT3025</modulecode>
+		<activity>RT3025 Competence to Practice B2/Lecture 4/02</activity>
+		<desc>Viva exam (see list)</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>AG24b;A112;AG10;AG11</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>19/05/14</week>
+		<modulecode>RT3025</modulecode>
+		<activity>RT3025 Competence to Practice B2/Lecture 4/01</activity>
+		<desc>Viva exam (holding room)</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>AG03</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>28/04/14</week>
+		<modulecode>RT3025</modulecode>
+		<activity>RT3025 Competence to Practice B2/Lecture 2/01</activity>
+		<desc>Practice vivas</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>A109</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>05/05/14</week>
+		<modulecode>RT3025</modulecode>
+		<activity>RT3025 Competence to Practice B2/Lecture 3/02</activity>
+		<desc>Mock Vivas</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>A112;A111;A108;A107</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>05/05/14</week>
+		<modulecode>RT3025</modulecode>
+		<activity>RT3025 Competence to Practice B2/Lecture 3/01</activity>
+		<desc>Mock Vivas</desc>
+		<joint>-</joint>
+		<studentnos>34</studentnos>
+		<room>A109</room>
+		<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT3025</modulecode>
+		<activity>RT3025 Competence to Practice B2/Lecture 1/02</activity>
+		<desc>CVs and application forms (guest lecturer Laura Allington & PC)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C340</room>
+		<lecturer>Cherry, Pam </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,65 +1,67 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>26/08/13</week>
-	<modulecode>MBM540 emba memba</modulecode>
-	<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
-	<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room> </room>
-	<lecturer>Abbey, Graham </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>26/08/13</week>
-	<modulecode>MBM540 emba memba</modulecode>
-	<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
-	<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room> </room>
-	<lecturer>Abbey, Graham </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>26/08/13</week>
-	<modulecode>MBM540 emba memba</modulecode>
-	<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
-	<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room> </room>
-	<lecturer>Abbey, Graham </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>26/08/13</week>
-	<modulecode>MBM540 emba memba</modulecode>
-	<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
-	<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room> </room>
-	<lecturer>Abbey, Graham </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>26/08/13</week>
-	<modulecode>MBM540 emba memba</modulecode>
-	<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
-	<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room> </room>
-	<lecturer>Abbey, Graham </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>26/08/13</week>
+		<modulecode>MBM540 emba memba</modulecode>
+		<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
+		<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>-</room>
+		<lecturer>Abbey, Graham </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>26/08/13</week>
+		<modulecode>MBM540 emba memba</modulecode>
+		<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
+		<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>-</room>
+		<lecturer>Abbey, Graham </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>26/08/13</week>
+		<modulecode>MBM540 emba memba</modulecode>
+		<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
+		<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>-</room>
+		<lecturer>Abbey, Graham </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>26/08/13</week>
+		<modulecode>MBM540 emba memba</modulecode>
+		<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
+		<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>-</room>
+		<lecturer>Abbey, Graham </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>26/08/13</week>
+		<modulecode>MBM540 emba memba</modulecode>
+		<activity>MBM540 South Africa International Elective (EMBA/MEMBA12 overseas/MTWTFS/01</activity>
+		<desc>EMBA /MEMBA12 elective stage 2 : 2013 - runs overseas - no room required : GAbbey</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>-</room>
+		<lecturer>Abbey, Graham </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

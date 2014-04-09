@@ -1,13 +1,15 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>IF3207</modulecode>
-	<activity>IF3207 Corporate Strategy/A&F/BIF/Lecture 1/1</activity>
-	<desc>Autumn Lecture + exchange</desc>
-	<joint> </joint>
-	<studentnos>100</studentnos>
-	<room>AG21</room>
-	<lecturer>Volpin, Paolo </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>IF3207</modulecode>
+		<activity>IF3207 Corporate Strategy/A&F/BIF/Lecture 1/1</activity>
+		<desc>Autumn Lecture + exchange</desc>
+		<joint>-</joint>
+		<studentnos>100</studentnos>
+		<room>AG21</room>
+		<lecturer>Volpin, Paolo </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

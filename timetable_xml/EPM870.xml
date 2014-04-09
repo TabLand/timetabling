@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EPM870</modulecode>
-	<activity>EPM870 Energy Utilisation and Management/Lecture 1/01/JOINT</activity>
-	<desc>Joint with ME3112: total numbers 45</desc>
-	<joint>ME3112;EPM870</joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EPM870</modulecode>
-	<activity>EPM870 Energy Utilisation and Management/Lecture 2/02/JOINT</activity>
-	<desc>Joint with ME3112: total numbers 45</desc>
-	<joint>EPM870;ME3112</joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EPM870</modulecode>
+		<activity>EPM870 Energy Utilisation and Management/Lecture 1/01/JOINT</activity>
+		<desc>Joint with ME3112: total numbers 45</desc>
+		<joint>ME3112;EPM870</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EPM870</modulecode>
+		<activity>EPM870 Energy Utilisation and Management/Lecture 2/02/JOINT</activity>
+		<desc>Joint with ME3112: total numbers 45</desc>
+		<joint>EPM870;ME3112</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

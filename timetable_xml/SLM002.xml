@@ -1,65 +1,67 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13</week>
-	<modulecode>SLM002</modulecode>
-	<activity>SLM002 Bio-medical Sciences/Lecture 1/01 (lead) wk1</activity>
-	<desc>PG1s 90 / BSc2 43</desc>
-	<joint>SL2002;SLM002</joint>
-	<studentnos>131</studentnos>
-	<room>BG02</room>
-	<lecturer>Lee, Mary </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SLM002</modulecode>
-	<activity>SLM002 Bio-medical Sciences/Lecture 1/01 (lead) wks 2-11</activity>
-	<desc>PG1s 90 / BSc2 43</desc>
-	<joint>SLM002;SL2002</joint>
-	<studentnos>131</studentnos>
-	<room>BG02</room>
-	<lecturer>Harrison, Kirsty;Turner, Paul;VL 01 - HACOMS;VL 02 - HACOMS </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14</week>
-	<modulecode>SLM002</modulecode>
-	<activity>SLM002 Bio-medical Sciences/MCT 3/02</activity>
-	<desc>Neurology Class Test SA (extra time) (removed KH)</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C158</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14</week>
-	<modulecode>SLM002</modulecode>
-	<activity>SLM002 Bio-medical Sciences/MCT 3/01</activity>
-	<desc>Total grp 90 - PGs only in room - exam style room - double spaced</desc>
-	<joint> </joint>
-	<studentnos>160</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Harrison, Kirsty </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13</week>
-	<modulecode>SLM002</modulecode>
-	<activity>SLM002 Bio-medical Sciences/MCT 1/01 - wk2</activity>
-	<desc>Class test - PG group only of 90 students -</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Hirson, Allen;Verhoeven, Jo </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13</week>
+		<modulecode>SLM002</modulecode>
+		<activity>SLM002 Bio-medical Sciences/Lecture 1/01 (lead) wk1</activity>
+		<desc>PG1s 90 / BSc2 43</desc>
+		<joint>SL2002;SLM002</joint>
+		<studentnos>131</studentnos>
+		<room>BG02</room>
+		<lecturer>Lee, Mary </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SLM002</modulecode>
+		<activity>SLM002 Bio-medical Sciences/Lecture 1/01 (lead) wks 2-11</activity>
+		<desc>PG1s 90 / BSc2 43</desc>
+		<joint>SLM002;SL2002</joint>
+		<studentnos>131</studentnos>
+		<room>BG02</room>
+		<lecturer>Harrison, Kirsty;Turner, Paul;VL 01 - HACOMS;VL 02 - HACOMS </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14</week>
+		<modulecode>SLM002</modulecode>
+		<activity>SLM002 Bio-medical Sciences/MCT 3/02</activity>
+		<desc>Neurology Class Test SA (extra time) (removed KH)</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C158</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14</week>
+		<modulecode>SLM002</modulecode>
+		<activity>SLM002 Bio-medical Sciences/MCT 3/01</activity>
+		<desc>Total grp 90 - PGs only in room - exam style room - double spaced</desc>
+		<joint>-</joint>
+		<studentnos>160</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Harrison, Kirsty </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13</week>
+		<modulecode>SLM002</modulecode>
+		<activity>SLM002 Bio-medical Sciences/MCT 1/01 - wk2</activity>
+		<desc>Class test - PG group only of 90 students -</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Hirson, Allen;Verhoeven, Jo </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

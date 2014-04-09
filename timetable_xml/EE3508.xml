@@ -1,91 +1,93 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>02/12/13</week>
-	<modulecode>EE3508</modulecode>
-	<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C339</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>16:50</end>
-	<week>21/10/13, 11/11/13-18/11/13</week>
-	<modulecode>EE3508</modulecode>
-	<activity>EE3508 Radiation Physics & Imaging/Lab/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>ELG14 (Radiography);ELG07 (Radiography)</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>28/10/13, 09/12/13</week>
-	<modulecode>EE3508</modulecode>
-	<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>CG03</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>25/11/13</week>
-	<modulecode>EE3508</modulecode>
-	<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>No room needed</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-14/10/13</week>
-	<modulecode>EE3508</modulecode>
-	<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>D220</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-14/10/13, 28/10/13, 25/11/13-02/12/13</week>
-	<modulecode>EE3508</modulecode>
-	<activity>EE3508 Radiation Physics & Imaging/Tutorial 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>C161</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>21/10/13, 11/11/13-18/11/13</week>
-	<modulecode>EE3508</modulecode>
-	<activity>EE3508 Radiation Physics & Imaging/Lab/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>ELG14 (Radiography);ELG07 (Radiography)</room>
-	<lecturer>McHugh, Kevin </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>02/12/13</week>
+		<modulecode>EE3508</modulecode>
+		<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C339</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>16:50</end>
+		<week>21/10/13, 11/11/13-18/11/13</week>
+		<modulecode>EE3508</modulecode>
+		<activity>EE3508 Radiation Physics & Imaging/Lab/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>ELG14 (Radiography);ELG07 (Radiography)</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>28/10/13, 09/12/13</week>
+		<modulecode>EE3508</modulecode>
+		<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>CG03</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>25/11/13</week>
+		<modulecode>EE3508</modulecode>
+		<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>No room needed</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-14/10/13</week>
+		<modulecode>EE3508</modulecode>
+		<activity>EE3508 Radiation Physics & Imaging/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>D220</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-14/10/13, 28/10/13, 25/11/13-02/12/13</week>
+		<modulecode>EE3508</modulecode>
+		<activity>EE3508 Radiation Physics & Imaging/Tutorial 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>C161</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>21/10/13, 11/11/13-18/11/13</week>
+		<modulecode>EE3508</modulecode>
+		<activity>EE3508 Radiation Physics & Imaging/Lab/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>ELG14 (Radiography);ELG07 (Radiography)</room>
+		<lecturer>McHugh, Kevin </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

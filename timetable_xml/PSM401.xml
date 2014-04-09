@@ -1,13 +1,15 @@
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>PSM401</modulecode>
-	<activity>PSM401 Theoretical Foundations Of Health Psychology/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>D112</room>
-	<lecturer>Kalsi, Parmpreet </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>PSM401</modulecode>
+		<activity>PSM401 Theoretical Foundations Of Health Psychology/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>D112</room>
+		<lecturer>Kalsi, Parmpreet </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

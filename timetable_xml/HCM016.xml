@@ -1,26 +1,28 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-03/02/14</week>
-	<modulecode>HCM016</modulecode>
-	<activity>HCM016 Speech Acoustics And Speech Perception/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C244 (LCS Learning Resources Lab)</room>
-	<lecturer>Hirson, Allen;Verhoeven, Jo </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>10/02/14-07/04/14</week>
-	<modulecode>HCM016</modulecode>
-	<activity>HCM016 Speech Acoustics And Speech Perception/Lab 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>C244 (LCS Learning Resources Lab)</room>
-	<lecturer>Hirson, Allen;Verhoeven, Jo </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-03/02/14</week>
+		<modulecode>HCM016</modulecode>
+		<activity>HCM016 Speech Acoustics And Speech Perception/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C244 (LCS Learning Resources Lab)</room>
+		<lecturer>Hirson, Allen;Verhoeven, Jo </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>10/02/14-07/04/14</week>
+		<modulecode>HCM016</modulecode>
+		<activity>HCM016 Speech Acoustics And Speech Perception/Lab 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>C244 (LCS Learning Resources Lab)</room>
+		<lecturer>Hirson, Allen;Verhoeven, Jo </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

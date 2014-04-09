@@ -1,78 +1,80 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>02/09/13</week>
-	<modulecode>MBM140 EMBA</modulecode>
-	<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Lecture 01/wk 1</activity>
-	<desc>EMBA stage 2: Week 1 (replacment room)</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216a</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>09/09/13</week>
-	<modulecode>MBM140 EMBA</modulecode>
-	<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Lecture 01</activity>
-	<desc>EMBA stage 2 (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N217</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>09/09/13, 28/10/13</week>
-	<modulecode>MBM140 EMBA</modulecode>
-	<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Syn Rooms 01</activity>
-	<desc>EMBA: Scott Moeller - Syndicate Rooms</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>N220;N214;N213;N212</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>23/09/13, 07/10/13-28/10/13</week>
-	<modulecode>MBM140 EMBA</modulecode>
-	<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Lecture 01</activity>
-	<desc>EMBA stage 2</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216b</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>18/11/13-25/11/13</week>
-	<modulecode>MBM140 EMBA</modulecode>
-	<activity>MBM140 Mergers & Acquisitions/EMBA/Wed/Lecture 01</activity>
-	<desc>EMBA stage 2</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216a</room>
-	<lecturer>Moeller, Scott </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>18/11/13-25/11/13</week>
-	<modulecode>MBM140 EMBA</modulecode>
-	<activity>MBM140 Mergers & Acquisitions/EMBA/Wed/Syn Rooms</activity>
-	<desc>EMBA stage 2 - Syndicate rooms - SMoeller</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>N214;N213;N212;N211</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>02/09/13</week>
+		<modulecode>MBM140 EMBA</modulecode>
+		<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Lecture 01/wk 1</activity>
+		<desc>EMBA stage 2: Week 1 (replacment room)</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216a</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>09/09/13</week>
+		<modulecode>MBM140 EMBA</modulecode>
+		<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Lecture 01</activity>
+		<desc>EMBA stage 2 (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N217</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>09/09/13, 28/10/13</week>
+		<modulecode>MBM140 EMBA</modulecode>
+		<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Syn Rooms 01</activity>
+		<desc>EMBA: Scott Moeller - Syndicate Rooms</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>N220;N214;N213;N212</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>23/09/13, 07/10/13-28/10/13</week>
+		<modulecode>MBM140 EMBA</modulecode>
+		<activity>MBM140 Mergers & Acquisitions/EMBA/Tue/Lecture 01</activity>
+		<desc>EMBA stage 2</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216b</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>18/11/13-25/11/13</week>
+		<modulecode>MBM140 EMBA</modulecode>
+		<activity>MBM140 Mergers & Acquisitions/EMBA/Wed/Lecture 01</activity>
+		<desc>EMBA stage 2</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216a</room>
+		<lecturer>Moeller, Scott </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>18/11/13-25/11/13</week>
+		<modulecode>MBM140 EMBA</modulecode>
+		<activity>MBM140 Mergers & Acquisitions/EMBA/Wed/Syn Rooms</activity>
+		<desc>EMBA stage 2 - Syndicate rooms - SMoeller</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>N214;N213;N212;N211</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

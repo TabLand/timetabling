@@ -1,65 +1,67 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1797</modulecode>
-	<activity>CS1797 Human Resource Management term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C158</room>
-	<lecturer>Ahmed, Saud </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>03/02/14-07/04/14</week>
-	<modulecode>CS1797</modulecode>
-	<activity>CS1797 Human Resource Management term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>A227</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1797</modulecode>
-	<activity>CS1797 Human Resource Management term 1 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG22</room>
-	<lecturer>Ahmed, Saud </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>03/02/14-07/04/14</week>
-	<modulecode>CS1797</modulecode>
-	<activity>CS1797 Human Resource Management term 2 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1797</modulecode>
-	<activity>CS1797 Human Resource Management term 3 (Thur)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1797</modulecode>
+		<activity>CS1797 Human Resource Management term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C158</room>
+		<lecturer>Ahmed, Saud </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>03/02/14-07/04/14</week>
+		<modulecode>CS1797</modulecode>
+		<activity>CS1797 Human Resource Management term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>A227</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1797</modulecode>
+		<activity>CS1797 Human Resource Management term 1 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG22</room>
+		<lecturer>Ahmed, Saud </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>03/02/14-07/04/14</week>
+		<modulecode>CS1797</modulecode>
+		<activity>CS1797 Human Resource Management term 2 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1797</modulecode>
+		<activity>CS1797 Human Resource Management term 3 (Thur)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

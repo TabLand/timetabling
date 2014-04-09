@@ -1,52 +1,54 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>16/06/14</week>
-	<modulecode>SMM276</modulecode>
-	<activity>SMM276 Matlab/WK 6/05</activity>
-	<desc>Week 6 ONLY : LAB Session 05</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>2001</room>
-	<lecturer>Giamouridis, Daniel </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>16/06/14</week>
-	<modulecode>SMM276</modulecode>
-	<activity>SMM276 Matlab/WK 6/06</activity>
-	<desc>Week 6 ONLY : LAB Session 06</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>2001</room>
-	<lecturer>Giamouridis, Daniel </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>09/06/14</week>
-	<modulecode>SMM276</modulecode>
-	<activity>SMM276 Matlab/WK 5/01</activity>
-	<desc>Week 5 ONLY : LAB Session 01</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>2001</room>
-	<lecturer>Giamouridis, Daniel </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>09/06/14</week>
-	<modulecode>SMM276</modulecode>
-	<activity>SMM276 Matlab/WK 5/02</activity>
-	<desc>Week 5 ONLY : LAB Session 02</desc>
-	<joint> </joint>
-	<studentnos>48</studentnos>
-	<room>2001</room>
-	<lecturer>Giamouridis, Daniel </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>16/06/14</week>
+		<modulecode>SMM276</modulecode>
+		<activity>SMM276 Matlab/WK 6/05</activity>
+		<desc>Week 6 ONLY : LAB Session 05</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>2001</room>
+		<lecturer>Giamouridis, Daniel </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>16/06/14</week>
+		<modulecode>SMM276</modulecode>
+		<activity>SMM276 Matlab/WK 6/06</activity>
+		<desc>Week 6 ONLY : LAB Session 06</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>2001</room>
+		<lecturer>Giamouridis, Daniel </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>09/06/14</week>
+		<modulecode>SMM276</modulecode>
+		<activity>SMM276 Matlab/WK 5/01</activity>
+		<desc>Week 5 ONLY : LAB Session 01</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>2001</room>
+		<lecturer>Giamouridis, Daniel </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>09/06/14</week>
+		<modulecode>SMM276</modulecode>
+		<activity>SMM276 Matlab/WK 5/02</activity>
+		<desc>Week 5 ONLY : LAB Session 02</desc>
+		<joint>-</joint>
+		<studentnos>48</studentnos>
+		<room>2001</room>
+		<lecturer>Giamouridis, Daniel </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

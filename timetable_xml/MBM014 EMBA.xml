@@ -1,65 +1,67 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/07/14</week>
-	<modulecode>MBM014 EMBA</modulecode>
-	<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/07/14</week>
-	<modulecode>MBM014 EMBA</modulecode>
-	<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/07/14</week>
-	<modulecode>MBM014 EMBA</modulecode>
-	<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/07/14</week>
-	<modulecode>MBM014 EMBA</modulecode>
-	<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>14/07/14</week>
-	<modulecode>MBM014 EMBA</modulecode>
-	<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/07/14</week>
+		<modulecode>MBM014 EMBA</modulecode>
+		<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/07/14</week>
+		<modulecode>MBM014 EMBA</modulecode>
+		<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/07/14</week>
+		<modulecode>MBM014 EMBA</modulecode>
+		<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/07/14</week>
+		<modulecode>MBM014 EMBA</modulecode>
+		<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>14/07/14</week>
+		<modulecode>MBM014 EMBA</modulecode>
+		<activity>MBM014 Operations Management/EMBA/Lecture 01-05</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

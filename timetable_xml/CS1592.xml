@@ -1,39 +1,41 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS1592</modulecode>
-	<activity>CS1592 Digital Imaging with Adobe Photoshop term 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A220</room>
-	<lecturer>Polanyk, Peter </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS1592</modulecode>
-	<activity>CS1592 Digital Imaging with Adobe Photoshop term 2 (Wed)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>A307</room>
-	<lecturer>Polanyk, Peter </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS1592</modulecode>
-	<activity>CS1592 Digital Imaging with Adobe Photoshop term 3</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>A220</room>
-	<lecturer>Polanyk, Peter </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS1592</modulecode>
+		<activity>CS1592 Digital Imaging with Adobe Photoshop term 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A220</room>
+		<lecturer>Polanyk, Peter </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS1592</modulecode>
+		<activity>CS1592 Digital Imaging with Adobe Photoshop term 2 (Wed)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>A307</room>
+		<lecturer>Polanyk, Peter </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS1592</modulecode>
+		<activity>CS1592 Digital Imaging with Adobe Photoshop term 3</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>A220</room>
+		<lecturer>Polanyk, Peter </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

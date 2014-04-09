@@ -1,26 +1,28 @@
-<booking>
-	<start>13:10</start>
-	<end>15:00</end>
-	<week>03/03/14-24/03/14</week>
-	<modulecode>MBM409 IM (B)</modulecode>
-	<activity>MBM409 Mba Block 4: Information Management/B1/Lecture 01</activity>
-	<desc>FTMBA 2013 Block 4: Information Management B session 1</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2003</room>
-	<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>03/03/14-24/03/14</week>
-	<modulecode>MBM409 IM (B)</modulecode>
-	<activity>MBM409 Mba Block 4: Information Management/B2/Lecture 02</activity>
-	<desc>FTMBA 2013 Block 4: Information Management B session 2</desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>2005</room>
-	<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:10</start>
+		<end>15:00</end>
+		<week>03/03/14-24/03/14</week>
+		<modulecode>MBM409 IM (B)</modulecode>
+		<activity>MBM409 Mba Block 4: Information Management/B1/Lecture 01</activity>
+		<desc>FTMBA 2013 Block 4: Information Management B session 1</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2003</room>
+		<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>03/03/14-24/03/14</week>
+		<modulecode>MBM409 IM (B)</modulecode>
+		<activity>MBM409 Mba Block 4: Information Management/B2/Lecture 02</activity>
+		<desc>FTMBA 2013 Block 4: Information Management B session 2</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>2005</room>
+		<lecturer>Cacciatori, Eugenia;Holtham, Clive </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

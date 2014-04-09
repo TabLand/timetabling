@@ -1,130 +1,132 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 5/Feb 24th</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 5</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Beck, Thorsten Prof </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>24/03/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 9/Mar 24th</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 9</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>31/03/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 10/Apr 1st</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Custodio, Claudia </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 8/Mar 19th am</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 8</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2007</room>
-	<lecturer>Schmeling, Maik </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>17/03/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 8/Mar 19th pm</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 8</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Schmeling, Maik </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>24/02/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 5/Feb 27th</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 5</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2007</room>
-	<lecturer>Beck, Thorsten Prof </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/03/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 8/Mar 20th</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>2002</room>
-	<lecturer>Custodio, Claudia </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>28/04/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 14/May 1st</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 14</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>24/02/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 5/Feb 28th</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 5</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Nomikos, Nikos Prof. </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>28/04/14</week>
-	<modulecode>SMM994</modulecode>
-	<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 14/May 2nd</activity>
-	<desc>PhD: Finance stream: Spring Term 2: Week 14</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>CS2&3</room>
-	<lecturer>Keswani, Aneel </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 5/Feb 24th</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 5</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Beck, Thorsten Prof </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>24/03/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 9/Mar 24th</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 9</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>31/03/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 10/Apr 1st</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Custodio, Claudia </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 8/Mar 19th am</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 8</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2007</room>
+		<lecturer>Schmeling, Maik </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>17/03/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 8/Mar 19th pm</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 8</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Schmeling, Maik </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>24/02/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 5/Feb 27th</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 5</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2007</room>
+		<lecturer>Beck, Thorsten Prof </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/03/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 8/Mar 20th</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>2002</room>
+		<lecturer>Custodio, Claudia </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>28/04/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 14/May 1st</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 14</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>24/02/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 5/Feb 28th</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 5</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Nomikos, Nikos Prof. </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>28/04/14</week>
+		<modulecode>SMM994</modulecode>
+		<activity>SMM994 Topics in Finance/PhD/Lecture 1/Wk 14/May 2nd</activity>
+		<desc>PhD: Finance stream: Spring Term 2: Week 14</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>CS2&3</room>
+		<lecturer>Keswani, Aneel </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

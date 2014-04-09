@@ -1,13 +1,15 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-17/03/14, 31/03/14-07/04/14</week>
-	<modulecode>SGM229</modulecode>
-	<activity>SGM229 Theories of Race and Ethnicity/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D220</room>
-	<lecturer>James, Malcolm </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-17/03/14, 31/03/14-07/04/14</week>
+		<modulecode>SGM229</modulecode>
+		<activity>SGM229 Theories of Race and Ethnicity/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D220</room>
+		<lecturer>James, Malcolm </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>18:00</start>
-	<end>20:50</end>
-	<week>13/01/14-17/03/14</week>
-	<modulecode>JOM957</modulecode>
-	<activity>JOM957 The Process of Writing</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>D106</room>
-	<lecturer>Wheelwright, Julie </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>20:50</end>
+		<week>13/01/14-17/03/14</week>
+		<modulecode>JOM957</modulecode>
+		<activity>JOM957 The Process of Writing</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>D106</room>
+		<lecturer>Wheelwright, Julie </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

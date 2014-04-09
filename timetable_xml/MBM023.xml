@@ -1,13 +1,15 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>16/09/13-14/10/13</week>
-	<modulecode>MBM023</modulecode>
-	<activity>MBM023 Accounting Information (EMBA)/Lecture 1/01</activity>
-	<desc>EMBA Sept 2013 Intake - Stage 1 -</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>N201</room>
-	<lecturer>Amir, Eli Prof. </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>16/09/13-14/10/13</week>
+		<modulecode>MBM023</modulecode>
+		<activity>MBM023 Accounting Information (EMBA)/Lecture 1/01</activity>
+		<desc>EMBA Sept 2013 Intake - Stage 1 -</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>N201</room>
+		<lecturer>Amir, Eli Prof. </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>AE3211</modulecode>
-	<activity>AE3211 System Reliability And Safety/Lecture 1/01/LEAD</activity>
-	<desc>System Reliability. Joint with ME3108: total numbers 55</desc>
-	<joint>AE3211;ME3108</joint>
-	<studentnos>55</studentnos>
-	<room>DLG03</room>
-	<lecturer>Thomas, P </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>AE3211</modulecode>
-	<activity>AE3211 System Reliability And Safety/Lecture 2/02</activity>
-	<desc>System Safety</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C345</room>
-	<lecturer>Turkoglou, C </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>AE3211</modulecode>
+		<activity>AE3211 System Reliability And Safety/Lecture 1/01/LEAD</activity>
+		<desc>System Reliability. Joint with ME3108: total numbers 55</desc>
+		<joint>AE3211;ME3108</joint>
+		<studentnos>55</studentnos>
+		<room>DLG03</room>
+		<lecturer>Thomas, P </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>AE3211</modulecode>
+		<activity>AE3211 System Reliability And Safety/Lecture 2/02</activity>
+		<desc>System Safety</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C345</room>
+		<lecturer>Turkoglou, C </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

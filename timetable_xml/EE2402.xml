@@ -1,104 +1,106 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>25/11/13-09/12/13</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/Tutorial 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C345</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>21/10/13-28/10/13, 11/11/13-02/12/13</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/Lab Sems 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>CG17</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/report presentations</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>3</studentnos>
-	<room>C167</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C343</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>13/01/14</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/Tutorial 1/03</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C337</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/Tutorial 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C343</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>06/01/14</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/Tutorial 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C337</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>25/11/13-09/12/13</week>
-	<modulecode>EE2402</modulecode>
-	<activity>EE2402 Communication Systems/Tutorial 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C115</room>
-	<lecturer>Rahman, A </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>25/11/13-09/12/13</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/Tutorial 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C345</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>21/10/13-28/10/13, 11/11/13-02/12/13</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/Lab Sems 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>CG17</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/report presentations</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>3</studentnos>
+		<room>C167</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C343</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>13/01/14</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/Tutorial 1/03</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C337</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/Tutorial 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C343</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>06/01/14</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/Tutorial 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C337</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>25/11/13-09/12/13</week>
+		<modulecode>EE2402</modulecode>
+		<activity>EE2402 Communication Systems/Tutorial 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C115</room>
+		<lecturer>Rahman, A </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

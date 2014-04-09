@@ -1,13 +1,15 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>PSM404</modulecode>
-	<activity>PSM404 Health Promotion/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>D112</room>
-	<lecturer>Kalsi, Parmpreet </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>PSM404</modulecode>
+		<activity>PSM404 Health Promotion/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>D112</room>
+		<lecturer>Kalsi, Parmpreet </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

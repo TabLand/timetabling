@@ -1,26 +1,28 @@
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>#SPLUSB0508C</modulecode>
-	<activity>Extracurricular French for Business 3 Autumn/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C322</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>#SPLUSB0508C</modulecode>
-	<activity>Extracurricular French for Business 3 Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>C150</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>#SPLUSB0508C</modulecode>
+		<activity>Extracurricular French for Business 3 Autumn/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C322</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>#SPLUSB0508C</modulecode>
+		<activity>Extracurricular French for Business 3 Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>C150</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

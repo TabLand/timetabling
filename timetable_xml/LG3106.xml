@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>LG3106</modulecode>
-	<activity>LG3106 Aviation Law & Regulation/Tutorial 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LU3106;LG3106</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
-	<modulecode>LG3106</modulecode>
-	<activity>LG3106 Aviation Law & Regulation/Lecture 1/1/JOINT</activity>
-	<desc> </desc>
-	<joint>LU3106;LG3106</joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>LG3106</modulecode>
+		<activity>LG3106 Aviation Law & Regulation/Tutorial 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LU3106;LG3106</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+		<modulecode>LG3106</modulecode>
+		<activity>LG3106 Aviation Law & Regulation/Lecture 1/1/JOINT</activity>
+		<desc>-</desc>
+		<joint>LU3106;LG3106</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

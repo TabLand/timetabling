@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>SMM952 FI WM</modulecode>
-	<activity>SMM952 Theory of Finance/FI/Lecture 01/wks 1-5</activity>
-	<desc>FI : YR1 : Autumn : Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>3003</room>
-	<lecturer>Todorovic, Natasha </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>04/11/13-02/12/13</week>
-	<modulecode>SMM952 FI WM</modulecode>
-	<activity>SMM952 Theory of Finance/FI/Lecture 01/wks 6-10</activity>
-	<desc>FI : YR1 : Autumn : Weeks 6-10</desc>
-	<joint> </joint>
-	<studentnos>32</studentnos>
-	<room>3003</room>
-	<lecturer>Cespa, Giovanni </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>SMM952 FI WM</modulecode>
+		<activity>SMM952 Theory of Finance/FI/Lecture 01/wks 1-5</activity>
+		<desc>FI : YR1 : Autumn : Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>3003</room>
+		<lecturer>Todorovic, Natasha </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>04/11/13-02/12/13</week>
+		<modulecode>SMM952 FI WM</modulecode>
+		<activity>SMM952 Theory of Finance/FI/Lecture 01/wks 6-10</activity>
+		<desc>FI : YR1 : Autumn : Weeks 6-10</desc>
+		<joint>-</joint>
+		<studentnos>32</studentnos>
+		<room>3003</room>
+		<lecturer>Cespa, Giovanni </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

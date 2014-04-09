@@ -1,26 +1,28 @@
-<booking>
-	<start>14:00</start>
-	<end>16:30</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>HCM007</modulecode>
-	<activity>HCM007 Dysphagia And Disorders Of Eating And Drinking/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C167</room>
-	<lecturer>Harding, Celia;Lee, Mary;Harrison, Kirsty </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:30</end>
-	<week>09/12/13</week>
-	<modulecode>HCM007</modulecode>
-	<activity>HCM007 Dysphagia And Disorders Of Eating And Drinking/Lecture 1/02</activity>
-	<desc>Final Week Presentations (additional breakout room)</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C135</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:30</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>HCM007</modulecode>
+		<activity>HCM007 Dysphagia And Disorders Of Eating And Drinking/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C167</room>
+		<lecturer>Harding, Celia;Lee, Mary;Harrison, Kirsty </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:30</end>
+		<week>09/12/13</week>
+		<modulecode>HCM007</modulecode>
+		<activity>HCM007 Dysphagia And Disorders Of Eating And Drinking/Lecture 1/02</activity>
+		<desc>Final Week Presentations (additional breakout room)</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C135</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

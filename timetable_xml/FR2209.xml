@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>FR2209</modulecode>
-	<activity>FR2209 Portfolio Theory & Investment Valuation/Lecture 1/02</activity>
-	<desc>Spring</desc>
-	<joint> </joint>
-	<studentnos>135</studentnos>
-	<room>BG03</room>
-	<lecturer>Mateus, Cesario </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>FR2209</modulecode>
+		<activity>FR2209 Portfolio Theory & Investment Valuation/Lecture 1/02</activity>
+		<desc>Spring</desc>
+		<joint>-</joint>
+		<studentnos>135</studentnos>
+		<room>BG03</room>
+		<lecturer>Mateus, Cesario </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

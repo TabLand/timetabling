@@ -1,52 +1,54 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>INM312 (FT)</modulecode>
-	<activity>INM312 Systems Specification 1/Lecture (FT)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>Oakden</room>
-	<lecturer>Gacek, Cristina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM312 (FT)</modulecode>
-	<activity>INM312 Systems Specification 1/Lecture (FT)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>BG03</room>
-	<lecturer>Gacek, Cristina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM312 (FT)</modulecode>
-	<activity>INM312 Systems Specification 1/Laboratory 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Gacek, Cristina </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM312 (FT)</modulecode>
-	<activity>INM312 Systems Specification 1/Laboratory 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>Gacek, Cristina </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>INM312 (FT)</modulecode>
+		<activity>INM312 Systems Specification 1/Lecture (FT)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>Oakden</room>
+		<lecturer>Gacek, Cristina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM312 (FT)</modulecode>
+		<activity>INM312 Systems Specification 1/Lecture (FT)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>BG03</room>
+		<lecturer>Gacek, Cristina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM312 (FT)</modulecode>
+		<activity>INM312 Systems Specification 1/Laboratory 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Gacek, Cristina </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM312 (FT)</modulecode>
+		<activity>INM312 Systems Specification 1/Laboratory 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>Gacek, Cristina </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

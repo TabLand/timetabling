@@ -1,91 +1,93 @@
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2304</modulecode>
-	<activity>CS2304 Major Event Management term 1 (Group B)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C300</room>
-	<lecturer>O'Shaughnessy, Justin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2304</modulecode>
-	<activity>CS2304 Major Event Management term 1 (Group A)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>AG22</room>
-	<lecturer>Devine, Liam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS2304</modulecode>
-	<activity>CS2304 Major Event Management term 2 (Group B)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ALG16</room>
-	<lecturer>O'Shaughnessy, Justin </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS2304</modulecode>
-	<activity>CS2304 Major Event Management term 2 (Group A)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG22</room>
-	<lecturer>Devine, Liam </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>CS2304</modulecode>
-	<activity>CS2304 Major Event Management term 1 (Group C)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>A108</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>27/01/14-31/03/14</week>
-	<modulecode>CS2304</modulecode>
-	<activity>CS2304 Major Event Management term 2 (Group C)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>BM02</room>
-	<lecturer>O'Shaughnessy, Justin </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:30</start>
-	<end>20:50</end>
-	<week>28/04/14-30/06/14</week>
-	<modulecode>CS2304</modulecode>
-	<activity>CS2304 Major Event Management term 3 (Group C)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>50</studentnos>
-	<room>C340</room>
-	<lecturer>O'Shaughnessy, Justin </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2304</modulecode>
+		<activity>CS2304 Major Event Management term 1 (Group B)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C300</room>
+		<lecturer>O'Shaughnessy, Justin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2304</modulecode>
+		<activity>CS2304 Major Event Management term 1 (Group A)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>AG22</room>
+		<lecturer>Devine, Liam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS2304</modulecode>
+		<activity>CS2304 Major Event Management term 2 (Group B)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ALG16</room>
+		<lecturer>O'Shaughnessy, Justin </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS2304</modulecode>
+		<activity>CS2304 Major Event Management term 2 (Group A)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG22</room>
+		<lecturer>Devine, Liam </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>CS2304</modulecode>
+		<activity>CS2304 Major Event Management term 1 (Group C)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>A108</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>27/01/14-31/03/14</week>
+		<modulecode>CS2304</modulecode>
+		<activity>CS2304 Major Event Management term 2 (Group C)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>BM02</room>
+		<lecturer>O'Shaughnessy, Justin </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:30</start>
+		<end>20:50</end>
+		<week>28/04/14-30/06/14</week>
+		<modulecode>CS2304</modulecode>
+		<activity>CS2304 Major Event Management term 3 (Group C)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>50</studentnos>
+		<room>C340</room>
+		<lecturer>O'Shaughnessy, Justin </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

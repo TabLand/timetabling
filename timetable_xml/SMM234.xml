@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>12/05/14-19/05/14, 02/06/14-16/06/14</week>
-	<modulecode>SMM234</modulecode>
-	<activity>SMM234 Raising Equity Capital/Lecture 01/WKS 1-2, 4-6</activity>
-	<desc>Weeks 1-2, 4-6</desc>
-	<joint> </joint>
-	<studentnos>68</studentnos>
-	<room>2002</room>
-	<lecturer>Golubov, Andrey </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>26/05/14</week>
-	<modulecode>SMM234</modulecode>
-	<activity>SMM234 Raising Equity Capital/Lecture 01/WK3</activity>
-	<desc>Week 3 only (replacement for bank holiday missed)</desc>
-	<joint> </joint>
-	<studentnos>68</studentnos>
-	<room>G001</room>
-	<lecturer>Golubov, Andrey </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>12/05/14-19/05/14, 02/06/14-16/06/14</week>
+		<modulecode>SMM234</modulecode>
+		<activity>SMM234 Raising Equity Capital/Lecture 01/WKS 1-2, 4-6</activity>
+		<desc>Weeks 1-2, 4-6</desc>
+		<joint>-</joint>
+		<studentnos>68</studentnos>
+		<room>2002</room>
+		<lecturer>Golubov, Andrey </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>26/05/14</week>
+		<modulecode>SMM234</modulecode>
+		<activity>SMM234 Raising Equity Capital/Lecture 01/WK3</activity>
+		<desc>Week 3 only (replacement for bank holiday missed)</desc>
+		<joint>-</joint>
+		<studentnos>68</studentnos>
+		<room>G001</room>
+		<lecturer>Golubov, Andrey </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>SMM033</modulecode>
-	<activity>SMM033 Pensions & Other Benefits (ST4)/Lecture</activity>
-	<desc>Autumn</desc>
-	<joint>SMM036;SMM033</joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>Khorasanee, Zaki </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>SMM033</modulecode>
+		<activity>SMM033 Pensions & Other Benefits (ST4)/Lecture</activity>
+		<desc>Autumn</desc>
+		<joint>SMM036;SMM033</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>Khorasanee, Zaki </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

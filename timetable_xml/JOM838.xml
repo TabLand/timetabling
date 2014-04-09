@@ -1,143 +1,145 @@
-<booking>
-	<start>9:30</start>
-	<end>10:50</end>
-	<week>27/01/14</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Science Journalism</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>A227</room>
-	<lecturer>St Louis, Connie </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:30</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Science Tutorial 1 (Mon)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>AG32</room>
-	<lecturer>Cooney, Colette </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>17/02/14-24/02/14, 10/03/14-31/03/14</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Science Journalism tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A108</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>03/03/14</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Science Journalism tutorial</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>A108</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Journalism Practice Science/Investigative Workshop 1 Fortnightly</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG35b</room>
-	<lecturer>Ascherson, Alex </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Journalism Practice Science/Investigative Workshop 2 Fortnightly</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>EG04</room>
-	<lecturer>Vize, Richard </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Science Tutorial 1 (Tue)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>AG32</room>
-	<lecturer>Murcott, Toby </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>30/09/13</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Journalism Practice (Print)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>D220</room>
-	<lecturer>Brock, George </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>07/10/13-02/12/13</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Journalism Practice (Print)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>19</studentnos>
-	<room>C167</room>
-	<lecturer>Brock, George </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Journalism Practice (Print)</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>AG37</room>
-	<lecturer>Murcott, Toby </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:30</start>
-	<end>11:50</end>
-	<week>04/11/13</week>
-	<modulecode>JOM838</modulecode>
-	<activity>JOM838 Journalism Practice Science/Investigative Workshop 1 Fortnightly</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>A111</room>
-	<lecturer>St Louis, Connie </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>10:50</end>
+		<week>27/01/14</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Science Journalism</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>A227</room>
+		<lecturer>St Louis, Connie </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:30</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Science Tutorial 1 (Mon)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>AG32</room>
+		<lecturer>Cooney, Colette </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>17/02/14-24/02/14, 10/03/14-31/03/14</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Science Journalism tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A108</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>03/03/14</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Science Journalism tutorial</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>A108</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Journalism Practice Science/Investigative Workshop 1 Fortnightly</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG35b</room>
+		<lecturer>Ascherson, Alex </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/02/14, 17/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Journalism Practice Science/Investigative Workshop 2 Fortnightly</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>EG04</room>
+		<lecturer>Vize, Richard </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Science Tutorial 1 (Tue)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>AG32</room>
+		<lecturer>Murcott, Toby </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>30/09/13</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Journalism Practice (Print)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>D220</room>
+		<lecturer>Brock, George </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>07/10/13-02/12/13</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Journalism Practice (Print)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>19</studentnos>
+		<room>C167</room>
+		<lecturer>Brock, George </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Journalism Practice (Print)</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>AG37</room>
+		<lecturer>Murcott, Toby </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:30</start>
+		<end>11:50</end>
+		<week>04/11/13</week>
+		<modulecode>JOM838</modulecode>
+		<activity>JOM838 Journalism Practice Science/Investigative Workshop 1 Fortnightly</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>A111</room>
+		<lecturer>St Louis, Connie </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

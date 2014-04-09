@@ -1,13 +1,15 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SGM243</modulecode>
-	<activity>SGM243 The Information Society/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D111</room>
-	<lecturer>Marcea, Dan </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SGM243</modulecode>
+		<activity>SGM243 The Information Society/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D111</room>
+		<lecturer>Marcea, Dan </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>INM341</modulecode>
-	<activity>INM341 Information Management Policy</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>75</studentnos>
-	<room>CG04</room>
-	<lecturer>Haynes, David </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>INM341</modulecode>
+		<activity>INM341 Information Management Policy</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>75</studentnos>
+		<room>CG04</room>
+		<lecturer>Haynes, David </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

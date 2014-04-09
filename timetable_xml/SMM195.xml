@@ -1,65 +1,67 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>17/02/14, 10/03/14</week>
-	<modulecode>SMM195</modulecode>
-	<activity>SMM195 Real Estate Investment & Market Analysis/RE/A/Computer Room 01</activity>
-	<desc>RE : Computer Lab - Spring : Group A : Weeks 4 & 7 only</desc>
-	<joint> </joint>
-	<studentnos>47</studentnos>
-	<room>2001</room>
-	<lecturer>Key Tony </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/02/14, 10/03/14</week>
-	<modulecode>SMM195</modulecode>
-	<activity>SMM195 Real Estate Investment & Market Analysis/RE/B/Computer Room 01</activity>
-	<desc>RE : Computer Lab - Spring : Group B : Weeks 4 & 7 only</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>1001</room>
-	<lecturer>Key Tony </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14-10/02/14, 03/03/14</week>
-	<modulecode>SMM195</modulecode>
-	<activity>SMM195 Real Estate Investment & Market Analysis/RE/Lecture/WKS 1-3, 6</activity>
-	<desc>Lecture : Spring : RE: Weeks 1-3, 6</desc>
-	<joint> </joint>
-	<studentnos>82</studentnos>
-	<room>2004</room>
-	<lecturer>Key Tony </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>17/02/14-24/02/14, 17/03/14-31/03/14</week>
-	<modulecode>SMM195</modulecode>
-	<activity>SMM195 Real Estate Investment & Market Analysis/RE/Lecture/WKS 4-5, 8-10</activity>
-	<desc>Lecture : Spring : RE: Weeks 4-5, 8-10</desc>
-	<joint> </joint>
-	<studentnos>82</studentnos>
-	<room>2006</room>
-	<lecturer>Key Tony </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>10/03/14</week>
-	<modulecode>SMM195</modulecode>
-	<activity>SMM195 Real Estate Investment & Market Analysis/RE/Lecture/WK 7</activity>
-	<desc>Lecture : Spring : RE: Week 7 ONLY</desc>
-	<joint> </joint>
-	<studentnos>82</studentnos>
-	<room>2003</room>
-	<lecturer>Key Tony </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>17/02/14, 10/03/14</week>
+		<modulecode>SMM195</modulecode>
+		<activity>SMM195 Real Estate Investment & Market Analysis/RE/A/Computer Room 01</activity>
+		<desc>RE : Computer Lab - Spring : Group A : Weeks 4 & 7 only</desc>
+		<joint>-</joint>
+		<studentnos>47</studentnos>
+		<room>2001</room>
+		<lecturer>Key Tony </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/02/14, 10/03/14</week>
+		<modulecode>SMM195</modulecode>
+		<activity>SMM195 Real Estate Investment & Market Analysis/RE/B/Computer Room 01</activity>
+		<desc>RE : Computer Lab - Spring : Group B : Weeks 4 & 7 only</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>1001</room>
+		<lecturer>Key Tony </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14-10/02/14, 03/03/14</week>
+		<modulecode>SMM195</modulecode>
+		<activity>SMM195 Real Estate Investment & Market Analysis/RE/Lecture/WKS 1-3, 6</activity>
+		<desc>Lecture : Spring : RE: Weeks 1-3, 6</desc>
+		<joint>-</joint>
+		<studentnos>82</studentnos>
+		<room>2004</room>
+		<lecturer>Key Tony </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>17/02/14-24/02/14, 17/03/14-31/03/14</week>
+		<modulecode>SMM195</modulecode>
+		<activity>SMM195 Real Estate Investment & Market Analysis/RE/Lecture/WKS 4-5, 8-10</activity>
+		<desc>Lecture : Spring : RE: Weeks 4-5, 8-10</desc>
+		<joint>-</joint>
+		<studentnos>82</studentnos>
+		<room>2006</room>
+		<lecturer>Key Tony </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>10/03/14</week>
+		<modulecode>SMM195</modulecode>
+		<activity>SMM195 Real Estate Investment & Market Analysis/RE/Lecture/WK 7</activity>
+		<desc>Lecture : Spring : RE: Week 7 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>82</studentnos>
+		<room>2003</room>
+		<lecturer>Key Tony </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

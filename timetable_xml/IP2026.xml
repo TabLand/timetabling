@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>07/10/13</week>
-	<modulecode>IP2026</modulecode>
-	<activity>IP2026 Foreign Policy Analysis 1/Lecture 01/Oct 8th</activity>
-	<desc>Week 2 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>AG22</room>
-	<lecturer>Aran, Amnon </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>30/09/13, 14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP2026</modulecode>
-	<activity>IP2026 Foreign Policy Analysis 1/Lecture 01/01</activity>
-	<desc>Weeks 1, 3-5 & 7-11</desc>
-	<joint> </joint>
-	<studentnos>38</studentnos>
-	<room>AG08</room>
-	<lecturer>Aran, Amnon </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP2026</modulecode>
-	<activity>IP2026 Foreign Policy Analysis 1/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Sabbag, Hisham </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>IP2026</modulecode>
-	<activity>IP2026 Foreign Policy Analysis 1/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Sabbag, Hisham </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>07/10/13</week>
+		<modulecode>IP2026</modulecode>
+		<activity>IP2026 Foreign Policy Analysis 1/Lecture 01/Oct 8th</activity>
+		<desc>Week 2 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>AG22</room>
+		<lecturer>Aran, Amnon </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>30/09/13, 14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP2026</modulecode>
+		<activity>IP2026 Foreign Policy Analysis 1/Lecture 01/01</activity>
+		<desc>Weeks 1, 3-5 & 7-11</desc>
+		<joint>-</joint>
+		<studentnos>38</studentnos>
+		<room>AG08</room>
+		<lecturer>Aran, Amnon </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP2026</modulecode>
+		<activity>IP2026 Foreign Policy Analysis 1/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Sabbag, Hisham </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>IP2026</modulecode>
+		<activity>IP2026 Foreign Policy Analysis 1/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Sabbag, Hisham </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

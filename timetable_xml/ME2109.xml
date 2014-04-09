@@ -1,325 +1,327 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>13/01/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 (4) Test/01</activity>
-	<desc>Materials</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>Geary</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>20/01/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 (2) Test/01</activity>
-	<desc>Thermodynamics</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>Geary</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 1/01/LEAD</activity>
-	<desc>Fluid Dynamics. Joint with CV2402: total numbers 190 *</desc>
-	<joint>CV2402;ME2109</joint>
-	<studentnos>190</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Nouri, J Prof </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>20/01/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Revision session</activity>
-	<desc>Fluid Dynamics. Joint with CV2402: total numbers 130 *</desc>
-	<joint>CV2402;ME2109</joint>
-	<studentnos>130</studentnos>
-	<room>BG03</room>
-	<lecturer>Nouri, J Prof </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 3/02</activity>
-	<desc>Mechatronics</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>BG03</room>
-	<lecturer>Tomas-Rodriguez, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Tutorial 1/01/LEAD</activity>
-	<desc>See Rota</desc>
-	<joint>ME2111;ME2109</joint>
-	<studentnos>25</studentnos>
-	<room>A111;A108;C302</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Tutorial 1/02/LEAD</activity>
-	<desc>See Rota</desc>
-	<joint>ME2111;ME2109</joint>
-	<studentnos>25</studentnos>
-	<room>A108;BM02;CG56;A214</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 4/01</activity>
-	<desc>Thermodynamics</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Lockett, R </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-17/03/14, 31/03/14-07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 5/02</activity>
-	<desc>Materials & Manufacture</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>Geary</room>
-	<lecturer>Naher, S Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>24/03/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 5/02/25th March</activity>
-	<desc>Materials & Manufacture</desc>
-	<joint> </joint>
-	<studentnos>56</studentnos>
-	<room>C118</room>
-	<lecturer>Naher, S Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 2/01</activity>
-	<desc>Structures</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Cheung, Chak-Wah </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 (1) Test/01</activity>
-	<desc>Fluid Mechanics - joint with CV2402 (150 total)</desc>
-	<joint>CV2402;ME2109</joint>
-	<studentnos>80</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Tutorial 2/02/LEAD</activity>
-	<desc>See Rota</desc>
-	<joint>ME2111;ME2109</joint>
-	<studentnos>25</studentnos>
-	<room>A214;CG56;BM02;BLG08</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 5/01</activity>
-	<desc>Materials & Manufacture</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Naher, S Dr </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 2/02</activity>
-	<desc>Structures</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>C304</room>
-	<lecturer>Banerjee, R </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Tutorial 2/01/LEAD</activity>
-	<desc>See Rota</desc>
-	<joint>ME2111;ME2109</joint>
-	<studentnos>25</studentnos>
-	<room>A108;BM02;CG56</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 4/02</activity>
-	<desc>Thermodynamics</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>Geary</room>
-	<lecturer>Vogiatzaki, Dr K </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 (5) Test/01</activity>
-	<desc>Mechatronics</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>Geary</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/10/13-28/10/13, 11/11/13, 25/11/13-09/12/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 3/01</activity>
-	<desc>Mechatronics</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Tomas-Rodriguez, M </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 1/02/LEAD</activity>
-	<desc>Fluid Dynamics. Joint with CV2402: total numbers 190 *</desc>
-	<joint>CV2402;ME2109</joint>
-	<studentnos>190</studentnos>
-	<room>Oakden</room>
-	<lecturer>Nouri, J Prof </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>17/03/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Revision 1/02/LEAD/Mar 21st</activity>
-	<desc>Fluid Dynamics. Joint with CV2402: total numbers 140 *</desc>
-	<joint>CV2402;ME2109</joint>
-	<studentnos>140</studentnos>
-	<room>Great Hall & Foyer</room>
-	<lecturer>Nouri, J Prof </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Revision session</activity>
-	<desc>Fluid Dynamics *</desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>CG03</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>04/11/13</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 4/01</activity>
-	<desc>Thermodynamics</desc>
-	<joint> </joint>
-	<studentnos>75</studentnos>
-	<room>B103</room>
-	<lecturer>Lockett, R </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>10/03/14-07/04/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 Engineering Science 2/Lecture 1/02</activity>
-	<desc>Fluid Dynamics *</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>Birley</room>
-	<lecturer>Prince, S </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>ME2109</modulecode>
-	<activity>ME2109 (3) Test/01</activity>
-	<desc>Structure</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>Geary</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>13/01/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 (4) Test/01</activity>
+		<desc>Materials</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>Geary</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>20/01/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 (2) Test/01</activity>
+		<desc>Thermodynamics</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>Geary</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 1/01/LEAD</activity>
+		<desc>Fluid Dynamics. Joint with CV2402: total numbers 190 *</desc>
+		<joint>CV2402;ME2109</joint>
+		<studentnos>190</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Nouri, J Prof </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>20/01/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Revision session</activity>
+		<desc>Fluid Dynamics. Joint with CV2402: total numbers 130 *</desc>
+		<joint>CV2402;ME2109</joint>
+		<studentnos>130</studentnos>
+		<room>BG03</room>
+		<lecturer>Nouri, J Prof </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 3/02</activity>
+		<desc>Mechatronics</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>BG03</room>
+		<lecturer>Tomas-Rodriguez, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Tutorial 1/01/LEAD</activity>
+		<desc>See Rota</desc>
+		<joint>ME2111;ME2109</joint>
+		<studentnos>25</studentnos>
+		<room>A111;A108;C302</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Tutorial 1/02/LEAD</activity>
+		<desc>See Rota</desc>
+		<joint>ME2111;ME2109</joint>
+		<studentnos>25</studentnos>
+		<room>A108;BM02;CG56;A214</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 4/01</activity>
+		<desc>Thermodynamics</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Lockett, R </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-17/03/14, 31/03/14-07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 5/02</activity>
+		<desc>Materials & Manufacture</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>Geary</room>
+		<lecturer>Naher, S Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>24/03/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 5/02/25th March</activity>
+		<desc>Materials & Manufacture</desc>
+		<joint>-</joint>
+		<studentnos>56</studentnos>
+		<room>C118</room>
+		<lecturer>Naher, S Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 2/01</activity>
+		<desc>Structures</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Cheung, Chak-Wah </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 (1) Test/01</activity>
+		<desc>Fluid Mechanics - joint with CV2402 (150 total)</desc>
+		<joint>CV2402;ME2109</joint>
+		<studentnos>80</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Tutorial 2/02/LEAD</activity>
+		<desc>See Rota</desc>
+		<joint>ME2111;ME2109</joint>
+		<studentnos>25</studentnos>
+		<room>A214;CG56;BM02;BLG08</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 5/01</activity>
+		<desc>Materials & Manufacture</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Naher, S Dr </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 2/02</activity>
+		<desc>Structures</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>C304</room>
+		<lecturer>Banerjee, R </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Tutorial 2/01/LEAD</activity>
+		<desc>See Rota</desc>
+		<joint>ME2111;ME2109</joint>
+		<studentnos>25</studentnos>
+		<room>A108;BM02;CG56</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 4/02</activity>
+		<desc>Thermodynamics</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>Geary</room>
+		<lecturer>Vogiatzaki, Dr K </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 (5) Test/01</activity>
+		<desc>Mechatronics</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>Geary</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/10/13-28/10/13, 11/11/13, 25/11/13-09/12/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 3/01</activity>
+		<desc>Mechatronics</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Tomas-Rodriguez, M </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 1/02/LEAD</activity>
+		<desc>Fluid Dynamics. Joint with CV2402: total numbers 190 *</desc>
+		<joint>CV2402;ME2109</joint>
+		<studentnos>190</studentnos>
+		<room>Oakden</room>
+		<lecturer>Nouri, J Prof </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>17/03/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Revision 1/02/LEAD/Mar 21st</activity>
+		<desc>Fluid Dynamics. Joint with CV2402: total numbers 140 *</desc>
+		<joint>CV2402;ME2109</joint>
+		<studentnos>140</studentnos>
+		<room>Great Hall & Foyer</room>
+		<lecturer>Nouri, J Prof </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Revision session</activity>
+		<desc>Fluid Dynamics *</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>CG03</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>04/11/13</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 4/01</activity>
+		<desc>Thermodynamics</desc>
+		<joint>-</joint>
+		<studentnos>75</studentnos>
+		<room>B103</room>
+		<lecturer>Lockett, R </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>10/03/14-07/04/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 Engineering Science 2/Lecture 1/02</activity>
+		<desc>Fluid Dynamics *</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>Birley</room>
+		<lecturer>Prince, S </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>ME2109</modulecode>
+		<activity>ME2109 (3) Test/01</activity>
+		<desc>Structure</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>Geary</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

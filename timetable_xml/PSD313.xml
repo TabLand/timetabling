@@ -1,13 +1,15 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>PSD313</modulecode>
-	<activity>PSD313 Developing Research Skills in Counselling Psychology/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG02</room>
-	<lecturer>Rawson, Don </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>PSD313</modulecode>
+		<activity>PSD313 Developing Research Skills in Counselling Psychology/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG02</room>
+		<lecturer>Rawson, Don </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

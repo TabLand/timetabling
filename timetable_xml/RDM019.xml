@@ -1,182 +1,184 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 1/01</activity>
-	<desc>Lecture 1 (removed JM - teaching RD2024)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>VL 04 - HARADI </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 7/01</activity>
-	<desc>Lecture 7</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>14:30</end>
-	<week>16/12/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 13/01</activity>
-	<desc>Oral Presentations</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C322</room>
-	<lecturer>Walls, Darren;Morgan, J </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>14:30</end>
-	<week>16/12/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 13/02</activity>
-	<desc>Oral Presentations</desc>
-	<joint> </joint>
-	<studentnos>15</studentnos>
-	<room>C328</room>
-	<lecturer>Bland, Paul;McHugh, Kevin </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 2/01</activity>
-	<desc>Lecture 2</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>14/10/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 8/01</activity>
-	<desc>Lecture 8 (removed JM - teaching RD1024)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>VL 01 - HARADI </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 3/01</activity>
-	<desc>Lecture 3</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 9/01</activity>
-	<desc>Lecture 9</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A227</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 4/01</activity>
-	<desc>Library level 3</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room> </room>
-	<lecturer>Scanlon, Endang </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>14/10/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 10/01</activity>
-	<desc>Lecture 10 (removed JM - teaching RD1024)</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>VL 03 - HARADI </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 5/01</activity>
-	<desc>Lecture 5</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A111</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 11/01</activity>
-	<desc>Lecture 11</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>CG56</room>
-	<lecturer>Khine, Ricardo </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 6/01</activity>
-	<desc>Lecture 6</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A214</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>14/10/13</week>
-	<modulecode>RDM019</modulecode>
-	<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 12/01</activity>
-	<desc>Lecture 12</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D112</room>
-	<lecturer>Morgan, J </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 1/01</activity>
+		<desc>Lecture 1 (removed JM - teaching RD2024)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>VL 04 - HARADI </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 7/01</activity>
+		<desc>Lecture 7</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>14:30</end>
+		<week>16/12/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 13/01</activity>
+		<desc>Oral Presentations</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C322</room>
+		<lecturer>Walls, Darren;Morgan, J </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>14:30</end>
+		<week>16/12/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 13/02</activity>
+		<desc>Oral Presentations</desc>
+		<joint>-</joint>
+		<studentnos>15</studentnos>
+		<room>C328</room>
+		<lecturer>Bland, Paul;McHugh, Kevin </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 2/01</activity>
+		<desc>Lecture 2</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>14/10/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 8/01</activity>
+		<desc>Lecture 8 (removed JM - teaching RD1024)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>VL 01 - HARADI </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 3/01</activity>
+		<desc>Lecture 3</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 9/01</activity>
+		<desc>Lecture 9</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A227</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 4/01</activity>
+		<desc>Library level 3</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>-</room>
+		<lecturer>Scanlon, Endang </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>14/10/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 10/01</activity>
+		<desc>Lecture 10 (removed JM - teaching RD1024)</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>VL 03 - HARADI </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 5/01</activity>
+		<desc>Lecture 5</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A111</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 11/01</activity>
+		<desc>Lecture 11</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>CG56</room>
+		<lecturer>Khine, Ricardo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 6/01</activity>
+		<desc>Lecture 6</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A214</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>14/10/13</week>
+		<modulecode>RDM019</modulecode>
+		<activity>RDM019 Clinical Applications Of Computed Tomography/Lecture 12/01</activity>
+		<desc>Lecture 12</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D112</room>
+		<lecturer>Morgan, J </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

@@ -1,65 +1,67 @@
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU3124</modulecode>
-	<activity>MU3124 Studio Composition and Audio Art/02</activity>
-	<desc> </desc>
-	<joint>MU2124;MU3124</joint>
-	<studentnos>20</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU3124</modulecode>
-	<activity>MU3124 Studio Composition and Audio Art/03</activity>
-	<desc> </desc>
-	<joint>MU3124;MU2124</joint>
-	<studentnos>10</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>MU3124</modulecode>
-	<activity>MU3124 Studio Composition and Audio Art/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG08</room>
-	<lecturer>VL 01 - AAMUSC </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU3124</modulecode>
-	<activity>MU3124 Composition</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>MU3124</modulecode>
-	<activity>MU3124 Studio Composition and Audio Art/04</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>AG09</room>
-	<lecturer>Bailie, Joanna </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU3124</modulecode>
+		<activity>MU3124 Studio Composition and Audio Art/02</activity>
+		<desc>-</desc>
+		<joint>MU2124;MU3124</joint>
+		<studentnos>20</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU3124</modulecode>
+		<activity>MU3124 Studio Composition and Audio Art/03</activity>
+		<desc>-</desc>
+		<joint>MU3124;MU2124</joint>
+		<studentnos>10</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>MU3124</modulecode>
+		<activity>MU3124 Studio Composition and Audio Art/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG08</room>
+		<lecturer>VL 01 - AAMUSC </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU3124</modulecode>
+		<activity>MU3124 Composition</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>MU3124</modulecode>
+		<activity>MU3124 Studio Composition and Audio Art/04</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>AG09</room>
+		<lecturer>Bailie, Joanna </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

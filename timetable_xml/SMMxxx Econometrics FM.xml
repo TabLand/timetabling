@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14</week>
-	<modulecode>SMMxxx Econometrics FM</modulecode>
-	<activity>SMMxxx Introduction to Econometrics/FM/Lecture 02</activity>
-	<desc>Extra prep session FM only</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>3003</room>
-	<lecturer>Trapani, Lorenzo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>18:00</end>
-	<week>20/01/14</week>
-	<modulecode>SMMxxx Econometrics FM</modulecode>
-	<activity>SMMxxx Introduction to Econometrics/FM/Lecture 01</activity>
-	<desc>Extra prep session FM only</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>3003</room>
-	<lecturer>Trapani, Lorenzo </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14</week>
+		<modulecode>SMMxxx Econometrics FM</modulecode>
+		<activity>SMMxxx Introduction to Econometrics/FM/Lecture 02</activity>
+		<desc>Extra prep session FM only</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>3003</room>
+		<lecturer>Trapani, Lorenzo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>18:00</end>
+		<week>20/01/14</week>
+		<modulecode>SMMxxx Econometrics FM</modulecode>
+		<activity>SMMxxx Introduction to Econometrics/FM/Lecture 01</activity>
+		<desc>Extra prep session FM only</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>3003</room>
+		<lecturer>Trapani, Lorenzo </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

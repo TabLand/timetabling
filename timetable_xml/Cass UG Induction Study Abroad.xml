@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>23/09/13</week>
-	<modulecode>Cass UG Induction Study Abroad</modulecode>
-	<activity>Cass UG Induction: Study Abroad/Welcome Talk 01</activity>
-	<desc>Louise Poole 8957</desc>
-	<joint> </joint>
-	<studentnos>73</studentnos>
-	<room>CG04</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:30</end>
-	<week>23/09/13</week>
-	<modulecode>Cass UG Induction Study Abroad</modulecode>
-	<activity>Cass UG Induction: Study Abroad/LAB 01/03</activity>
-	<desc>Louise Poole 8957</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C301</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>10:30</start>
-	<end>10:50</end>
-	<week>23/09/13</week>
-	<modulecode>Cass UG Induction Study Abroad</modulecode>
-	<activity>Cass UG Induction: Study Abroad/LAB 02/03</activity>
-	<desc>Louise Poole 8957</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C301</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:30</end>
-	<week>23/09/13</week>
-	<modulecode>Cass UG Induction Study Abroad</modulecode>
-	<activity>Cass UG Induction: Study Abroad/LAB 03/03</activity>
-	<desc>Louise Poole 8957</desc>
-	<joint> </joint>
-	<studentnos>23</studentnos>
-	<room>C301</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>23/09/13</week>
+		<modulecode>Cass UG Induction Study Abroad</modulecode>
+		<activity>Cass UG Induction: Study Abroad/Welcome Talk 01</activity>
+		<desc>Louise Poole 8957</desc>
+		<joint>-</joint>
+		<studentnos>73</studentnos>
+		<room>CG04</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:30</end>
+		<week>23/09/13</week>
+		<modulecode>Cass UG Induction Study Abroad</modulecode>
+		<activity>Cass UG Induction: Study Abroad/LAB 01/03</activity>
+		<desc>Louise Poole 8957</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C301</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>10:30</start>
+		<end>10:50</end>
+		<week>23/09/13</week>
+		<modulecode>Cass UG Induction Study Abroad</modulecode>
+		<activity>Cass UG Induction: Study Abroad/LAB 02/03</activity>
+		<desc>Louise Poole 8957</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C301</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:30</end>
+		<week>23/09/13</week>
+		<modulecode>Cass UG Induction Study Abroad</modulecode>
+		<activity>Cass UG Induction: Study Abroad/LAB 03/03</activity>
+		<desc>Louise Poole 8957</desc>
+		<joint>-</joint>
+		<studentnos>23</studentnos>
+		<room>C301</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

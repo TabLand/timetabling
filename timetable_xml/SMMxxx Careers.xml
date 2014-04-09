@@ -1,416 +1,418 @@
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-07/10/13, 28/10/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 01/wks 1-2, 5-7,9-10</activity>
-	<desc>Autumn - Term 1: weeks 1-2, 5-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>27/01/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Daytime 01/WK 1</activity>
-	<desc>Spring - Term 1- Week 1 ONLY</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>LG003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>03/02/14-10/02/14, 03/03/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Daytime 01/WKS 2-3, 5-7&10</activity>
-	<desc>Spring - Term 1- Weeks 2-3, 5-7 & 10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>17/02/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Daytime 01/WK 4</activity>
-	<desc>Spring - Term 1- Week 4 ONLY</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-07/10/13, 21/10/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Evening 01</activity>
-	<desc>Autumn - Term 1: Weeks 1-2, 3-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/LAB 01</activity>
-	<desc>Autumn - Term 1 : Computer Lab: Weeks 1-7, 10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>03/02/14, 24/02/14, 10/03/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Evening 01</activity>
-	<desc>Spring Term 2 : Weeks 2-7</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>2006</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>31/03/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Evening 01/WK 10</activity>
-	<desc>Spring Term 2 : Week 10 ONLY</desc>
-	<joint> </joint>
-	<studentnos>150</studentnos>
-	<room>LG001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-19/05/14, 02/06/14-23/06/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T3/Evening 01</activity>
-	<desc>Summer - Term 3</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-07/10/13, 21/10/13, 04/11/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 03/wks 1-2, 4, 6-7,10</activity>
-	<desc>Autumn - Term 1: Weeks 1-2, 4, 6-7,10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>LG003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>14/10/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 03/wk 3</activity>
-	<desc>Autumn - Term 1: Week 3 only (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>28/10/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 03/wk 5</activity>
-	<desc>Autumn - Term 1: Week 5</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>G001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>17/02/14, 24/03/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Daytime 02</activity>
-	<desc>Spring - Term 1- Weeks 2&9</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13-18/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 02</activity>
-	<desc>Autumn - Term 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>07/10/13-28/10/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime/VL/WKS 2-5</activity>
-	<desc>Autumn - Term 1 Weeks 2,3,4,5 Tuesday (delivered by one VL: External consultant)</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>2003</room>
-	<lecturer>VL 01 -Careers Consultant MSc 01 </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>12/05/14-23/06/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T3/Daytime 01</activity>
-	<desc>Summer - Term 3</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>3003</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>28/10/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime/VL/WK 5</activity>
-	<desc>Autumn - Term 1 Week 5 ONLY: Tuesday (delivered by one VL: External consultant)</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>LG002/3</room>
-	<lecturer>VL 01 -Careers Consultant MSc 01 </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>04/11/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/LAB 03/WKS 6-7,10</activity>
-	<desc>Autumn - Term 1 : Computer Lab : Weeks 6-7, 10</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>1010</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 04</activity>
-	<desc>Autumn - Term 1</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>10/02/14, 17/03/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Daytime 03</activity>
-	<desc>Spring - Term 1- Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>04/11/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/LAB 04/WKS 6-7,10</activity>
-	<desc>Autumn - Term 1 : Computer Lab : Weeks 6-7,10</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>1010</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>30/09/13-07/10/13, 21/10/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Evening 02</activity>
-	<desc>Autumn - Term 1</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/02/14-03/03/14, 17/03/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Evening 02</activity>
-	<desc>Spring Term 2 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>12/05/14-23/06/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T3/Evening 02</activity>
-	<desc>Summer - Term 3</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 05/wks 1-7, 9-10</activity>
-	<desc>Autumn - Term 1 - weeks 1-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>04/11/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/LAB 05/WKS 6-7,10</activity>
-	<desc>Autumn - Term 1 : Computer Lab : Weeks 6-7,10</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>1010</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>11:50</end>
-	<week>03/02/14, 24/02/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Daytime 04</activity>
-	<desc>Spring - Term 1- Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/LAB 02</activity>
-	<desc>Autumn - Term 1 : Computer Lab: Weeks 1-7,9-10</desc>
-	<joint> </joint>
-	<studentnos>36</studentnos>
-	<room>1001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>30/09/13-11/11/13, 02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Daytime 06</activity>
-	<desc>Autumn - Term 1 : Weeks 1-7,10</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>G001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:10</start>
-	<end>18:00</end>
-	<week>12/05/14-23/06/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T3/Daytime 02</activity>
-	<desc>Summer - Term 3</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2005</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>07/10/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T1/Evening 03</activity>
-	<desc>Autumn - Term 1 - weeks 1-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>G001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>17/02/14-24/02/14, 10/03/14-17/03/14</week>
-	<modulecode>SMMxxx Careers</modulecode>
-	<activity>SMMxxx Careers MSc/T2/Evening 03</activity>
-	<desc>Spring Term 2 : Weeks 2-10</desc>
-	<joint> </joint>
-	<studentnos>83</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-07/10/13, 28/10/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 01/wks 1-2, 5-7,9-10</activity>
+		<desc>Autumn - Term 1: weeks 1-2, 5-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>27/01/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Daytime 01/WK 1</activity>
+		<desc>Spring - Term 1- Week 1 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>LG003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>03/02/14-10/02/14, 03/03/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Daytime 01/WKS 2-3, 5-7&10</activity>
+		<desc>Spring - Term 1- Weeks 2-3, 5-7 & 10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>17/02/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Daytime 01/WK 4</activity>
+		<desc>Spring - Term 1- Week 4 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-07/10/13, 21/10/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Evening 01</activity>
+		<desc>Autumn - Term 1: Weeks 1-2, 3-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/LAB 01</activity>
+		<desc>Autumn - Term 1 : Computer Lab: Weeks 1-7, 10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>03/02/14, 24/02/14, 10/03/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Evening 01</activity>
+		<desc>Spring Term 2 : Weeks 2-7</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>2006</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>31/03/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Evening 01/WK 10</activity>
+		<desc>Spring Term 2 : Week 10 ONLY</desc>
+		<joint>-</joint>
+		<studentnos>150</studentnos>
+		<room>LG001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-19/05/14, 02/06/14-23/06/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T3/Evening 01</activity>
+		<desc>Summer - Term 3</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-07/10/13, 21/10/13, 04/11/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 03/wks 1-2, 4, 6-7,10</activity>
+		<desc>Autumn - Term 1: Weeks 1-2, 4, 6-7,10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>LG003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>14/10/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 03/wk 3</activity>
+		<desc>Autumn - Term 1: Week 3 only (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>28/10/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 03/wk 5</activity>
+		<desc>Autumn - Term 1: Week 5</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>G001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>17/02/14, 24/03/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Daytime 02</activity>
+		<desc>Spring - Term 1- Weeks 2&9</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13-18/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 02</activity>
+		<desc>Autumn - Term 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>07/10/13-28/10/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime/VL/WKS 2-5</activity>
+		<desc>Autumn - Term 1 Weeks 2,3,4,5 Tuesday (delivered by one VL: External consultant)</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>2003</room>
+		<lecturer>VL 01 -Careers Consultant MSc 01 </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>12/05/14-23/06/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T3/Daytime 01</activity>
+		<desc>Summer - Term 3</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>3003</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>28/10/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime/VL/WK 5</activity>
+		<desc>Autumn - Term 1 Week 5 ONLY: Tuesday (delivered by one VL: External consultant)</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>LG002/3</room>
+		<lecturer>VL 01 -Careers Consultant MSc 01 </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>04/11/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/LAB 03/WKS 6-7,10</activity>
+		<desc>Autumn - Term 1 : Computer Lab : Weeks 6-7, 10</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>1010</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 04</activity>
+		<desc>Autumn - Term 1</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>10/02/14, 17/03/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Daytime 03</activity>
+		<desc>Spring - Term 1- Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>04/11/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/LAB 04/WKS 6-7,10</activity>
+		<desc>Autumn - Term 1 : Computer Lab : Weeks 6-7,10</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>1010</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>30/09/13-07/10/13, 21/10/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Evening 02</activity>
+		<desc>Autumn - Term 1</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/02/14-03/03/14, 17/03/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Evening 02</activity>
+		<desc>Spring Term 2 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>12/05/14-23/06/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T3/Evening 02</activity>
+		<desc>Summer - Term 3</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 05/wks 1-7, 9-10</activity>
+		<desc>Autumn - Term 1 - weeks 1-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>04/11/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/LAB 05/WKS 6-7,10</activity>
+		<desc>Autumn - Term 1 : Computer Lab : Weeks 6-7,10</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>1010</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>11:50</end>
+		<week>03/02/14, 24/02/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Daytime 04</activity>
+		<desc>Spring - Term 1- Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/LAB 02</activity>
+		<desc>Autumn - Term 1 : Computer Lab: Weeks 1-7,9-10</desc>
+		<joint>-</joint>
+		<studentnos>36</studentnos>
+		<room>1001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>30/09/13-11/11/13, 02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Daytime 06</activity>
+		<desc>Autumn - Term 1 : Weeks 1-7,10</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>G001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:10</start>
+		<end>18:00</end>
+		<week>12/05/14-23/06/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T3/Daytime 02</activity>
+		<desc>Summer - Term 3</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2005</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>07/10/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T1/Evening 03</activity>
+		<desc>Autumn - Term 1 - weeks 1-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>G001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>17/02/14-24/02/14, 10/03/14-17/03/14</week>
+		<modulecode>SMMxxx Careers</modulecode>
+		<activity>SMMxxx Careers MSc/T2/Evening 03</activity>
+		<desc>Spring Term 2 : Weeks 2-10</desc>
+		<joint>-</joint>
+		<studentnos>83</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

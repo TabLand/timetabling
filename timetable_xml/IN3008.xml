@@ -1,39 +1,41 @@
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN3008</modulecode>
-	<activity>IN3008 Electronic Commerce/Lecture (LEAD)</activity>
-	<desc> </desc>
-	<joint>INM352;IN3008</joint>
-	<studentnos>120</studentnos>
-	<room>Birley</room>
-	<lecturer>Mashanovich, Natasha </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN3008</modulecode>
-	<activity>IN3008 Electronic Commerce/Lab 1</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>VL 01 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>IN3008</modulecode>
-	<activity>IN3008 Electronic Commerce/Lab 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>EG07</room>
-	<lecturer>VL 03 - IISOIN </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN3008</modulecode>
+		<activity>IN3008 Electronic Commerce/Lecture (LEAD)</activity>
+		<desc>-</desc>
+		<joint>INM352;IN3008</joint>
+		<studentnos>120</studentnos>
+		<room>Birley</room>
+		<lecturer>Mashanovich, Natasha </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN3008</modulecode>
+		<activity>IN3008 Electronic Commerce/Lab 1</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>VL 01 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>IN3008</modulecode>
+		<activity>IN3008 Electronic Commerce/Lab 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>EG07</room>
+		<lecturer>VL 03 - IISOIN </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

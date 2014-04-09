@@ -1,26 +1,28 @@
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>06/01/14-17/02/14, 03/03/14, 17/03/14</week>
-	<modulecode>MBM526 EMBA</modulecode>
-	<activity>MBM526 Managing Strategic Change/EMBA/Lecture 1</activity>
-	<desc>Managing Strategic Change EMBA</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N216a</room>
-	<lecturer>Nigam, Amit </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>18:10</start>
-	<end>21:00</end>
-	<week>10/03/14</week>
-	<modulecode>MBM526 EMBA</modulecode>
-	<activity>MBM526 Managing Strategic Change/EMBA/Lecture 1/Mar 13th</activity>
-	<desc>Managing Strategic Change EMBA</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N217</room>
-	<lecturer>Nigam, Amit </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>06/01/14-17/02/14, 03/03/14, 17/03/14</week>
+		<modulecode>MBM526 EMBA</modulecode>
+		<activity>MBM526 Managing Strategic Change/EMBA/Lecture 1</activity>
+		<desc>Managing Strategic Change EMBA</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N216a</room>
+		<lecturer>Nigam, Amit </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>18:10</start>
+		<end>21:00</end>
+		<week>10/03/14</week>
+		<modulecode>MBM526 EMBA</modulecode>
+		<activity>MBM526 Managing Strategic Change/EMBA/Lecture 1/Mar 13th</activity>
+		<desc>Managing Strategic Change EMBA</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N217</room>
+		<lecturer>Nigam, Amit </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

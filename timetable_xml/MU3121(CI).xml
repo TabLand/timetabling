@@ -1,13 +1,15 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MU3121(CI)</modulecode>
-	<activity>MU3121 Sound Recording and Studio Techniques</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>Music Studios;ALG10 (Performance Space)</room>
-	<lecturer>Newis, Paul;Goring, Will </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MU3121(CI)</modulecode>
+		<activity>MU3121 Sound Recording and Studio Techniques</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>Music Studios;ALG10 (Performance Space)</room>
+		<lecturer>Newis, Paul;Goring, Will </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>CV3313</modulecode>
-	<activity>CV3313 Building Engineering/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>AG21</room>
-	<lecturer>Parine, N;Dunkeld, M </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>27/01/14-24/03/14</week>
-	<modulecode>CV3313</modulecode>
-	<activity>CV3313 Building Engineering/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>80</studentnos>
-	<room>C304</room>
-	<lecturer>Parine, N;Dunkeld, M </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>CV3313</modulecode>
+		<activity>CV3313 Building Engineering/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>AG21</room>
+		<lecturer>Parine, N;Dunkeld, M </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>27/01/14-24/03/14</week>
+		<modulecode>CV3313</modulecode>
+		<activity>CV3313 Building Engineering/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>80</studentnos>
+		<room>C304</room>
+		<lecturer>Parine, N;Dunkeld, M </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

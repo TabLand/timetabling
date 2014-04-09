@@ -1,104 +1,106 @@
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-02/12/13</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 01/wks 1-10</activity>
-	<desc>Term 1: Weeks 1-10</desc>
-	<joint> </joint>
-	<studentnos>102</studentnos>
-	<room>Birley</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>09/12/13</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 01/wk 11</activity>
-	<desc>Term 1: Week 11 only</desc>
-	<joint> </joint>
-	<studentnos>102</studentnos>
-	<room>Geary</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/03/14, 31/03/14-07/04/14</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T2/Tutorial 01/wks 1-8, 10-11</activity>
-	<desc>Term 2 : Drop in Tutorial (Optional ) Weeks 1-8, 10-11</desc>
-	<joint> </joint>
-	<studentnos>107</studentnos>
-	<room>Geary</room>
-	<lecturer>Feng, Lulu </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/03/14</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T2/Tutorial 01/wk 9</activity>
-	<desc>Term 2 : Drop in Tutorial (Optional ) Week 9 ONLY (replacement room)</desc>
-	<joint> </joint>
-	<studentnos>107</studentnos>
-	<room>BG03</room>
-	<lecturer>Feng, Lulu </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 02/wk 1</activity>
-	<desc>Term 1 - Week 1</desc>
-	<joint> </joint>
-	<studentnos>102</studentnos>
-	<room>AG07</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 02/wks 2-11</activity>
-	<desc>Term 1 - Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>102</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>17:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T2/Lecture 03</activity>
-	<desc>Term 2</desc>
-	<joint> </joint>
-	<studentnos>107</studentnos>
-	<room>Oakden</room>
-	<lecturer>Pilbeam, Keith Prof. </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>07/10/13-09/12/13</week>
-	<modulecode>AS1071</modulecode>
-	<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Tutorial 01</activity>
-	<desc>Term 1 : Drop in Session (Optional) - Weeks 2-11</desc>
-	<joint> </joint>
-	<studentnos>102</studentnos>
-	<room>Birley</room>
-	<lecturer>Feng, Lulu </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-02/12/13</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 01/wks 1-10</activity>
+		<desc>Term 1: Weeks 1-10</desc>
+		<joint>-</joint>
+		<studentnos>102</studentnos>
+		<room>Birley</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>09/12/13</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 01/wk 11</activity>
+		<desc>Term 1: Week 11 only</desc>
+		<joint>-</joint>
+		<studentnos>102</studentnos>
+		<room>Geary</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/03/14, 31/03/14-07/04/14</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T2/Tutorial 01/wks 1-8, 10-11</activity>
+		<desc>Term 2 : Drop in Tutorial (Optional ) Weeks 1-8, 10-11</desc>
+		<joint>-</joint>
+		<studentnos>107</studentnos>
+		<room>Geary</room>
+		<lecturer>Feng, Lulu </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/03/14</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T2/Tutorial 01/wk 9</activity>
+		<desc>Term 2 : Drop in Tutorial (Optional ) Week 9 ONLY (replacement room)</desc>
+		<joint>-</joint>
+		<studentnos>107</studentnos>
+		<room>BG03</room>
+		<lecturer>Feng, Lulu </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 02/wk 1</activity>
+		<desc>Term 1 - Week 1</desc>
+		<joint>-</joint>
+		<studentnos>102</studentnos>
+		<room>AG07</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Lecture 02/wks 2-11</activity>
+		<desc>Term 1 - Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>102</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>17:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T2/Lecture 03</activity>
+		<desc>Term 2</desc>
+		<joint>-</joint>
+		<studentnos>107</studentnos>
+		<room>Oakden</room>
+		<lecturer>Pilbeam, Keith Prof. </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>07/10/13-09/12/13</week>
+		<modulecode>AS1071</modulecode>
+		<activity>AS1071 Introduction To Economics (actuarial Science)/T1/Tutorial 01</activity>
+		<desc>Term 1 : Drop in Session (Optional) - Weeks 2-11</desc>
+		<joint>-</joint>
+		<studentnos>102</studentnos>
+		<room>Birley</room>
+		<lecturer>Feng, Lulu </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

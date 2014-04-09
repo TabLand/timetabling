@@ -1,13 +1,15 @@
-<booking>
-	<start>18:30</start>
-	<end>20:30</end>
-	<week>27/01/14-24/02/14</week>
-	<modulecode>CS1764</modulecode>
-	<activity>CS1764 Market Research with SPSS term 2</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C339</room>
-	<lecturer>Metha, Purnima </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:30</start>
+		<end>20:30</end>
+		<week>27/01/14-24/02/14</week>
+		<modulecode>CS1764</modulecode>
+		<activity>CS1764 Market Research with SPSS term 2</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C339</room>
+		<lecturer>Metha, Purnima </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

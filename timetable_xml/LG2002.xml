@@ -1,169 +1,171 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>02/12/13</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/04/Dec 2nd</activity>
-	<desc>Group 4</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D222</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>03/03/14</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Lecture 02/Mar 3rd</activity>
-	<desc>Week 5 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>D104</room>
-	<lecturer>Stanton, John </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>07/10/13-21/10/13, 04/11/13-09/12/13</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>C302</room>
-	<lecturer>Kalpouzos, Iaonnis </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/01</activity>
-	<desc>Group 1</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/02</activity>
-	<desc>Group 2</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>10/03/14</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/03/Mar 12th</activity>
-	<desc>Group 3</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>AG08</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/02</activity>
-	<desc>Group 2</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/01</activity>
-	<desc>Group 1</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/04</activity>
-	<desc>Group 4</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>17/02/14, 24/03/14, 07/04/14</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/03</activity>
-	<desc>Group 3</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D106</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>21/10/13, 11/11/13, 09/12/13</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/04</activity>
-	<desc>Group 4</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D113</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/03</activity>
-	<desc>Group 3</desc>
-	<joint> </joint>
-	<studentnos>18</studentnos>
-	<room>D113</room>
-	<lecturer>Loveland, Ian </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
-	<modulecode>LG2002</modulecode>
-	<activity>LG2002 Constitutional and Administrative Law/Lecture 02/01</activity>
-	<desc>Weeks 1-4 & 7-11</desc>
-	<joint> </joint>
-	<studentnos>55</studentnos>
-	<room>DLG08</room>
-	<lecturer>Stanton, John </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>02/12/13</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/04/Dec 2nd</activity>
+		<desc>Group 4</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D222</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>03/03/14</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Lecture 02/Mar 3rd</activity>
+		<desc>Week 5 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>D104</room>
+		<lecturer>Stanton, John </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>07/10/13-21/10/13, 04/11/13-09/12/13</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>C302</room>
+		<lecturer>Kalpouzos, Iaonnis </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/01</activity>
+		<desc>Group 1</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/02</activity>
+		<desc>Group 2</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>10/03/14</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/03/Mar 12th</activity>
+		<desc>Group 3</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>AG08</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/02</activity>
+		<desc>Group 2</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/01</activity>
+		<desc>Group 1</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/04</activity>
+		<desc>Group 4</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>17/02/14, 24/03/14, 07/04/14</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 02/03</activity>
+		<desc>Group 3</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D106</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>21/10/13, 11/11/13, 09/12/13</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/04</activity>
+		<desc>Group 4</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D113</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Tutorial 01/03</activity>
+		<desc>Group 3</desc>
+		<joint>-</joint>
+		<studentnos>18</studentnos>
+		<room>D113</room>
+		<lecturer>Loveland, Ian </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
+		<modulecode>LG2002</modulecode>
+		<activity>LG2002 Constitutional and Administrative Law/Lecture 02/01</activity>
+		<desc>Weeks 1-4 & 7-11</desc>
+		<joint>-</joint>
+		<studentnos>55</studentnos>
+		<room>DLG08</room>
+		<lecturer>Stanton, John </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>09/06/14-21/07/14</week>
-	<modulecode>IN2031</modulecode>
-	<activity>IN2031 Continuing Professional Development in IT</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG09</room>
-	<lecturer>Khan, Mohson </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>09/06/14-21/07/14</week>
-	<modulecode>IN2031</modulecode>
-	<activity>IN2031 Continuing Professional Development in IT</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG19</room>
-	<lecturer>Khan, Mohson </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>09/06/14-21/07/14</week>
+		<modulecode>IN2031</modulecode>
+		<activity>IN2031 Continuing Professional Development in IT</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG09</room>
+		<lecturer>Khan, Mohson </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>09/06/14-21/07/14</week>
+		<modulecode>IN2031</modulecode>
+		<activity>IN2031 Continuing Professional Development in IT</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG19</room>
+		<lecturer>Khan, Mohson </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

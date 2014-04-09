@@ -1,13 +1,15 @@
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-07/04/14</week>
-	<modulecode>BS3200</modulecode>
-	<activity>BS3200 International Financial Management/Lecture 1/1</activity>
-	<desc>Spring Lecture</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>Geary</room>
-	<lecturer>Edelshain, David </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-07/04/14</week>
+		<modulecode>BS3200</modulecode>
+		<activity>BS3200 International Financial Management/Lecture 1/1</activity>
+		<desc>Spring Lecture</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>Geary</room>
+		<lecturer>Edelshain, David </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

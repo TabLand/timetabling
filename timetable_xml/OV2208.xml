@@ -1,26 +1,28 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>26/08/13</week>
-	<modulecode>OV2208</modulecode>
-	<activity>OV2208 NVB Lab Test Resit</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>A307&8</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14-24/03/14</week>
-	<modulecode>OV2208</modulecode>
-	<activity>OV2208 Visual And Neural Biology/Laboratory 2/01</activity>
-	<desc>FD2 Visual & Neural Biology Laboratory</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C209</room>
-	<lecturer>Douglas, Ron </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>26/08/13</week>
+		<modulecode>OV2208</modulecode>
+		<activity>OV2208 NVB Lab Test Resit</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>A307&8</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14-24/03/14</week>
+		<modulecode>OV2208</modulecode>
+		<activity>OV2208 Visual And Neural Biology/Laboratory 2/01</activity>
+		<desc>FD2 Visual & Neural Biology Laboratory</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C209</room>
+		<lecturer>Douglas, Ron </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

@@ -1,130 +1,132 @@
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>09/06/14</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/OSCE2/01</activity>
-	<desc>Summative assessment - Viva</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>D106</room>
-	<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>24/03/14</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/OSCE1/01</activity>
-	<desc>Formative assessment - Mock viva</desc>
-	<joint> </joint>
-	<studentnos>2</studentnos>
-	<room>C300</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>02/06/14</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Tutorial 6/01</activity>
-	<desc>Tutorial 6 (was ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>10/03/14</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Tutorial 5/01</activity>
-	<desc>Tutorial 5</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C357</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>07/10/13</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Tutorial 1/01</activity>
-	<desc>Tutorial 1</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C357</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>21/10/13</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Tutorial 7/01</activity>
-	<desc>Skin Apposition Session</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>20/01/14</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Tutorial 4/01</activity>
-	<desc>Tutorial 4 (ELG04)</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C235 (Radiography - VERT)</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Tutorial 2/01</activity>
-	<desc>Tutorial 2</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>ELG04 (Radiography)</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Lecture 1/01</activity>
-	<desc>Introduction to module and practice record</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C357</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>02/12/13</week>
-	<modulecode>RT2018</modulecode>
-	<activity>RT2018 Competence to Practice 2/Tutorial 3/01</activity>
-	<desc>Tutorial 3</desc>
-	<joint> </joint>
-	<studentnos>6</studentnos>
-	<room>C357</room>
-	<lecturer>Raymond-Barker, Clare </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>09/06/14</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/OSCE2/01</activity>
+		<desc>Summative assessment - Viva</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>D106</room>
+		<lecturer>Cherry, Pam;Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>24/03/14</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/OSCE1/01</activity>
+		<desc>Formative assessment - Mock viva</desc>
+		<joint>-</joint>
+		<studentnos>2</studentnos>
+		<room>C300</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>02/06/14</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Tutorial 6/01</activity>
+		<desc>Tutorial 6 (was ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>10/03/14</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Tutorial 5/01</activity>
+		<desc>Tutorial 5</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C357</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>07/10/13</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Tutorial 1/01</activity>
+		<desc>Tutorial 1</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C357</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>21/10/13</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Tutorial 7/01</activity>
+		<desc>Skin Apposition Session</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>20/01/14</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Tutorial 4/01</activity>
+		<desc>Tutorial 4 (ELG04)</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C235 (Radiography - VERT)</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Tutorial 2/01</activity>
+		<desc>Tutorial 2</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>ELG04 (Radiography)</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Lecture 1/01</activity>
+		<desc>Introduction to module and practice record</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C357</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>02/12/13</week>
+		<modulecode>RT2018</modulecode>
+		<activity>RT2018 Competence to Practice 2/Tutorial 3/01</activity>
+		<desc>Tutorial 3</desc>
+		<joint>-</joint>
+		<studentnos>6</studentnos>
+		<room>C357</room>
+		<lecturer>Raymond-Barker, Clare </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

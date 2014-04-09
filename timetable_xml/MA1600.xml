@@ -1,520 +1,522 @@
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-07/10/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 8/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C322</room>
-	<lecturer>De Visscher, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 13/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C313</room>
-	<lecturer>Stefanski, B </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 9/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>D112</room>
-	<lecturer>Fring, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 7/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>D222</room>
-	<lecturer>De Martino, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 6/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>A107</room>
-	<lecturer>Cox, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 5/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C343</room>
-	<lecturer>Chuang, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 4/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>A226</room>
-	<lecturer>Caudrelier, V </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 3/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C323</room>
-	<lecturer>Castro Alvaredo, O </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 2/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>I203/I206</room>
-	<lecturer>Broom, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 12/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C312</room>
-	<lecturer>Silvers, L </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 11/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>D106</room>
-	<lecturer>Kerr, O S </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 10/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C330</room>
-	<lecturer>Kandler, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 1/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C158</room>
-	<lecturer>Alvarez, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 16/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C140</room>
-	<lecturer>Kessar, R Prof </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 17/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>I103</room>
-	<lecturer>Linckelmann, M Prof </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 15/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>DLG08</room>
-	<lecturer>He, Yang-Hui </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 14/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>AG11</room>
-	<lecturer>Baronchelli, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 8/01</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>BM02</room>
-	<lecturer>De Visscher, M </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>10:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Lecture 1/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Castro Alvaredo, O </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 12/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>IG03</room>
-	<lecturer>Fring, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 6/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C167</room>
-	<lecturer>Cox, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 3/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C140</room>
-	<lecturer>Castro Alvaredo, O </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 1/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>D106</room>
-	<lecturer>Alvarez, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 10/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>I203/I206</room>
-	<lecturer>Kandler, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 2/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>CG05</room>
-	<lecturer>Broom, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 7/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>I103</room>
-	<lecturer>De Martino, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 4/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>I106</room>
-	<lecturer>Caudrelier, V </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 9/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>A226</room>
-	<lecturer>Silvers, L </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 8/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C164</room>
-	<lecturer>De Visscher, M </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 11/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C312</room>
-	<lecturer>Kerr, O S </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 16/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C135</room>
-	<lecturer>Kessar, R Prof </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 13/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C357</room>
-	<lecturer>Stefanski, B </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 15/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>D113</room>
-	<lecturer>He, Yang-Hui </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 5/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C323</room>
-	<lecturer>Chuang, J </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 14/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>D222</room>
-	<lecturer>Baronchelli, A </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Tutorial 17/02</activity>
-	<desc>*</desc>
-	<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
-	<studentnos>15</studentnos>
-	<room>C300</room>
-	<lecturer>Linckelmann, M Prof </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Lecture 2/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>Oakden</room>
-	<lecturer>Chuang, J </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Lecture 2/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
-	<lecturer>Castro Alvaredo, O </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>30/09/13</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Personal tutor meeting</activity>
-	<desc>Lara Silvers 8456</desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>C143</room>
-	<lecturer>Silvers, L </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>MA1600</modulecode>
-	<activity>MA1600 Functions, Vectors & Calculus/Lecture 1/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>140</studentnos>
-	<room>A130</room>
-	<lecturer>Chuang, J </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-07/10/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 8/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C322</room>
+		<lecturer>De Visscher, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 13/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C313</room>
+		<lecturer>Stefanski, B </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 9/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>D112</room>
+		<lecturer>Fring, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 7/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>D222</room>
+		<lecturer>De Martino, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 6/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>A107</room>
+		<lecturer>Cox, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 5/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C343</room>
+		<lecturer>Chuang, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 4/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>A226</room>
+		<lecturer>Caudrelier, V </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 3/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C323</room>
+		<lecturer>Castro Alvaredo, O </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 2/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>I203/I206</room>
+		<lecturer>Broom, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 12/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C312</room>
+		<lecturer>Silvers, L </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 11/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>D106</room>
+		<lecturer>Kerr, O S </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 10/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C330</room>
+		<lecturer>Kandler, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 1/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C158</room>
+		<lecturer>Alvarez, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 16/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C140</room>
+		<lecturer>Kessar, R Prof </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 17/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>I103</room>
+		<lecturer>Linckelmann, M Prof </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 15/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>DLG08</room>
+		<lecturer>He, Yang-Hui </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 14/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>AG11</room>
+		<lecturer>Baronchelli, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 8/01</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>BM02</room>
+		<lecturer>De Visscher, M </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>10:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Lecture 1/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Castro Alvaredo, O </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 12/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>IG03</room>
+		<lecturer>Fring, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 6/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C167</room>
+		<lecturer>Cox, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 3/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C140</room>
+		<lecturer>Castro Alvaredo, O </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 1/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>D106</room>
+		<lecturer>Alvarez, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 10/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>I203/I206</room>
+		<lecturer>Kandler, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 2/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>CG05</room>
+		<lecturer>Broom, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 7/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>I103</room>
+		<lecturer>De Martino, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 4/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>I106</room>
+		<lecturer>Caudrelier, V </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 9/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>A226</room>
+		<lecturer>Silvers, L </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 8/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C164</room>
+		<lecturer>De Visscher, M </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 11/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C312</room>
+		<lecturer>Kerr, O S </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 16/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C135</room>
+		<lecturer>Kessar, R Prof </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 13/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C357</room>
+		<lecturer>Stefanski, B </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 15/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>D113</room>
+		<lecturer>He, Yang-Hui </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 5/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C323</room>
+		<lecturer>Chuang, J </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 14/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>D222</room>
+		<lecturer>Baronchelli, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Tutorial 17/02</activity>
+		<desc>*</desc>
+		<joint>MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600;MA1600</joint>
+		<studentnos>15</studentnos>
+		<room>C300</room>
+		<lecturer>Linckelmann, M Prof </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Lecture 2/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>Oakden</room>
+		<lecturer>Chuang, J </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Lecture 2/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+		<lecturer>Castro Alvaredo, O </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>30/09/13</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Personal tutor meeting</activity>
+		<desc>Lara Silvers 8456</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>C143</room>
+		<lecturer>Silvers, L </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>MA1600</modulecode>
+		<activity>MA1600 Functions, Vectors & Calculus/Lecture 1/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>140</studentnos>
+		<room>A130</room>
+		<lecturer>Chuang, J </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

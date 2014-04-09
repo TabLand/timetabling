@@ -1,156 +1,158 @@
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/08</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C167</room>
-	<lecturer>Stallebrass, S;Taylor, R N;Goodey, R Dr </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>12:30</end>
-	<week>20/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/09</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C167</room>
-	<lecturer>McNamara, A;Taylor, R N;Goodey, R Dr </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>20/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/10</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C323</room>
-	<lecturer>Divall, S;McNamara, A;Fonseca, J </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/11/LEAD</activity>
-	<desc>With CVM412; Architecture students only</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C304</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>12:30</end>
-	<week>13/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/03</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C167</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:50</end>
-	<week>13/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/04</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C167</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>12:30</end>
-	<week>13/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/05</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C167;C164</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/11/LEAD</activity>
-	<desc>With CVM412; Architecture students only</desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>C135</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>16:30</end>
-	<week>13/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/06</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C167;C164</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>28/10/13</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/01</activity>
-	<desc>workshop on StarCCM+</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>A217</room>
-	<lecturer>Yan, S </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>04/11/13</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/02</activity>
-	<desc>Hydraulics group: Presentation on activity in reflective week</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C164</room>
-	<lecturer>Yan, S </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:30</start>
-	<end>17:50</end>
-	<week>13/01/14</week>
-	<modulecode>CV3409</modulecode>
-	<activity>CV3409 Major Project/07</activity>
-	<desc>Presentations</desc>
-	<joint> </joint>
-	<studentnos>11</studentnos>
-	<room>C167</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/08</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C167</room>
+		<lecturer>Stallebrass, S;Taylor, R N;Goodey, R Dr </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>12:30</end>
+		<week>20/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/09</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C167</room>
+		<lecturer>McNamara, A;Taylor, R N;Goodey, R Dr </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>20/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/10</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C323</room>
+		<lecturer>Divall, S;McNamara, A;Fonseca, J </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/11/LEAD</activity>
+		<desc>With CVM412; Architecture students only</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C304</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>12:30</end>
+		<week>13/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/03</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C167</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:50</end>
+		<week>13/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/04</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C167</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>12:30</end>
+		<week>13/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/05</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C167;C164</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/11/LEAD</activity>
+		<desc>With CVM412; Architecture students only</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>C135</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>16:30</end>
+		<week>13/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/06</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C167;C164</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>28/10/13</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/01</activity>
+		<desc>workshop on StarCCM+</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>A217</room>
+		<lecturer>Yan, S </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>04/11/13</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/02</activity>
+		<desc>Hydraulics group: Presentation on activity in reflective week</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C164</room>
+		<lecturer>Yan, S </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:30</start>
+		<end>17:50</end>
+		<week>13/01/14</week>
+		<modulecode>CV3409</modulecode>
+		<activity>CV3409 Major Project/07</activity>
+		<desc>Presentations</desc>
+		<joint>-</joint>
+		<studentnos>11</studentnos>
+		<room>C167</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

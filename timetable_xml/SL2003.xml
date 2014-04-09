@@ -1,39 +1,41 @@
-<booking>
-	<start>12:00</start>
-	<end>13:50</end>
-	<week>10/02/14</week>
-	<modulecode>SL2003</modulecode>
-	<activity>Designing teenage questionnaires SL2003</activity>
-	<desc>Nicola Botting 8314</desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>AG03</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>SL2003</modulecode>
-	<activity>SL2003 Developmental Psychology/Lecture 1/01</activity>
-	<desc>Developmental Psychology (UG & HC2s students only)</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>A110</room>
-	<lecturer>Botting, Nikki </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>SL2003</modulecode>
-	<activity>SL2003 Developmental Psychology/Lecture 1/02</activity>
-	<desc>Developmental Psychology (UG & HC2s students only)</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>A110</room>
-	<lecturer>Botting, Nikki </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>13:50</end>
+		<week>10/02/14</week>
+		<modulecode>SL2003</modulecode>
+		<activity>Designing teenage questionnaires SL2003</activity>
+		<desc>Nicola Botting 8314</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>AG03</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>SL2003</modulecode>
+		<activity>SL2003 Developmental Psychology/Lecture 1/01</activity>
+		<desc>Developmental Psychology (UG & HC2s students only)</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>A110</room>
+		<lecturer>Botting, Nikki </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>SL2003</modulecode>
+		<activity>SL2003 Developmental Psychology/Lecture 1/02</activity>
+		<desc>Developmental Psychology (UG & HC2s students only)</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>A110</room>
+		<lecturer>Botting, Nikki </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

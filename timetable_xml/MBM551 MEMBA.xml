@@ -1,13 +1,15 @@
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>21/04/14</week>
-	<modulecode>MBM551 MEMBA</modulecode>
-	<activity>MBMxxx Corporate Leadership MEMBA/Syn rooms 02/replace tbc</activity>
-	<desc>MEMBA : Syndicate rooms - Board, Johnston & Sims</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room> </room>
-	<lecturer>Board, Douglas </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>21/04/14</week>
+		<modulecode>MBM551 MEMBA</modulecode>
+		<activity>MBMxxx Corporate Leadership MEMBA/Syn rooms 02/replace tbc</activity>
+		<desc>MEMBA : Syndicate rooms - Board, Johnston & Sims</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>-</room>
+		<lecturer>Board, Douglas </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

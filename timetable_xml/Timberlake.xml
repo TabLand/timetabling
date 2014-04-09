@@ -1,481 +1,483 @@
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Econometrics using Stata/Timberlake</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>16/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Forecasting Summer School/Time Series/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>07/07/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Summer School 40/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>14/07/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Econometrics Basics using Matlab/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Econometrics using Stata/Timberlake</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>14/07/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Econometrics Basics using Matlab/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>24/02/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Design, Implementation & Analysis of Survey Data using CAP/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>02/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Dynamic Factor Models/Time Series/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>16/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Forecasting Summer School/Time Series/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>23/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Mata Course/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>07/07/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Summer School 40/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Econometrics using Stata/Timberlake</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>16/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Forecasting Summer School/Time Series/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>23/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Mata Course/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>07/07/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Summer School 40/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Marketing Analytics/Wed</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>02/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Dynamic Factor Models/Time Series/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>07/07/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Summer School 40/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>16/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Forecasting Summer School/Time Series/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>09/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata UGM course/Timberlake</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>60</studentnos>
-	<room>2004</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Marketing Analytics/Thur</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>21/10/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Programming & Managing Large Datasets/Thur</activity>
-	<desc>Marilyn Parris-Bell 8470</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>LG003</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>26/05/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Modelling & Forecasting Energy Markets with EViews/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>02/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Panic Data Analysis/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>23/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Data Management, Regression, Panel Data Analysis & Research output using Stata/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>18:00</end>
-	<week>02/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>2002</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>07/07/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Summer School 40/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>16/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Forecasting Summer School/Time Series/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>40</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>26/05/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Modelling & Forecasting Energy Markets with EViews/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>N201</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>02/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Panic Data Analysis/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>30/09/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Marketing Analytics/Fri</activity>
-	<desc>Lucy Green 0928</desc>
-	<joint> </joint>
-	<studentnos>16</studentnos>
-	<room>2007</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>8:00</start>
-	<end>18:00</end>
-	<week>21/10/13</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Stata Programming & Managing Large Datasets/Fri</activity>
-	<desc>Marilyn Parris-Bell 8470</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:30</end>
-	<week>23/06/14</week>
-	<modulecode>Timberlake</modulecode>
-	<activity>Data Management, Regression, Panel Data Analysis & Research output using Stata/Timberlake</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>6001</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Econometrics using Stata/Timberlake</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>16/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Forecasting Summer School/Time Series/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>07/07/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Summer School 40/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>14/07/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Econometrics Basics using Matlab/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Econometrics using Stata/Timberlake</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>14/07/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Econometrics Basics using Matlab/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>24/02/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Design, Implementation & Analysis of Survey Data using CAP/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>02/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Dynamic Factor Models/Time Series/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>16/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Forecasting Summer School/Time Series/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>23/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Mata Course/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>07/07/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Summer School 40/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Econometrics using Stata/Timberlake</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>16/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Forecasting Summer School/Time Series/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>23/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Mata Course/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>07/07/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Summer School 40/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Marketing Analytics/Wed</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>02/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Dynamic Factor Models/Time Series/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>07/07/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Summer School 40/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>16/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Forecasting Summer School/Time Series/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>09/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata UGM course/Timberlake</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>60</studentnos>
+		<room>2004</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Marketing Analytics/Thur</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>21/10/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Programming & Managing Large Datasets/Thur</activity>
+		<desc>Marilyn Parris-Bell 8470</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>LG003</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>26/05/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Modelling & Forecasting Energy Markets with EViews/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>02/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Panic Data Analysis/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>23/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Data Management, Regression, Panel Data Analysis & Research output using Stata/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>18:00</end>
+		<week>02/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Autumn School: Advanced Course in Statistical Analysis usingStata/Timberlake/HOLDING</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>2002</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>07/07/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Summer School 40/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>16/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Forecasting Summer School/Time Series/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>40</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>26/05/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Modelling & Forecasting Energy Markets with EViews/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>N201</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>02/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Panic Data Analysis/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>30/09/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Marketing Analytics/Fri</activity>
+		<desc>Lucy Green 0928</desc>
+		<joint>-</joint>
+		<studentnos>16</studentnos>
+		<room>2007</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>8:00</start>
+		<end>18:00</end>
+		<week>21/10/13</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Stata Programming & Managing Large Datasets/Fri</activity>
+		<desc>Marilyn Parris-Bell 8470</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:30</end>
+		<week>23/06/14</week>
+		<modulecode>Timberlake</modulecode>
+		<activity>Data Management, Regression, Panel Data Analysis & Research output using Stata/Timberlake</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>6001</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

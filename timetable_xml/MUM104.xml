@@ -1,13 +1,15 @@
-<booking>
-	<start>18:00</start>
-	<end>19:50</end>
-	<week>30/09/13-09/12/13</week>
-	<modulecode>MUM104</modulecode>
-	<activity>MUM104 Live Projects</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>10</studentnos>
-	<room>ALG04;AG10</room>
-	<lecturer>Mera, Miguel </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>18:00</start>
+		<end>19:50</end>
+		<week>30/09/13-09/12/13</week>
+		<modulecode>MUM104</modulecode>
+		<activity>MUM104 Live Projects</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>10</studentnos>
+		<room>ALG04;AG10</room>
+		<lecturer>Mera, Miguel </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

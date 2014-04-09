@@ -1,52 +1,54 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>23/09/13</week>
-	<modulecode>#SPLUSA936FF</modulecode>
-	<activity>Induction - Erasmus Mundus (Mon)</activity>
-	<desc>Neil thurman 8222</desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>C135</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>23/09/13</week>
-	<modulecode>#SPLUSA936FF</modulecode>
-	<activity>Induction - Erasmus Mundus (Mon)</activity>
-	<desc>Neil thurman 8222</desc>
-	<joint> </joint>
-	<studentnos>17</studentnos>
-	<room>A218</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>23/09/13</week>
-	<modulecode>#SPLUSA936FF</modulecode>
-	<activity>Induction - Erasmus Mundus (Tue)</activity>
-	<desc>Steve Schifferes 3522</desc>
-	<joint>#SPLUSA936FF;Fin Ind</joint>
-	<studentnos>35</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>14:50</end>
-	<week>23/09/13</week>
-	<modulecode>#SPLUSA936FF</modulecode>
-	<activity>Induction - Erasmus Mundus (Tue)</activity>
-	<desc>Steve Schifferes 3522</desc>
-	<joint>#SPLUSA936FF;Fin Ind</joint>
-	<studentnos>35</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>23/09/13</week>
+		<modulecode>#SPLUSA936FF</modulecode>
+		<activity>Induction - Erasmus Mundus (Mon)</activity>
+		<desc>Neil thurman 8222</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>C135</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>23/09/13</week>
+		<modulecode>#SPLUSA936FF</modulecode>
+		<activity>Induction - Erasmus Mundus (Mon)</activity>
+		<desc>Neil thurman 8222</desc>
+		<joint>-</joint>
+		<studentnos>17</studentnos>
+		<room>A218</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>23/09/13</week>
+		<modulecode>#SPLUSA936FF</modulecode>
+		<activity>Induction - Erasmus Mundus (Tue)</activity>
+		<desc>Steve Schifferes 3522</desc>
+		<joint>#SPLUSA936FF;Fin Ind</joint>
+		<studentnos>35</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>14:50</end>
+		<week>23/09/13</week>
+		<modulecode>#SPLUSA936FF</modulecode>
+		<activity>Induction - Erasmus Mundus (Tue)</activity>
+		<desc>Steve Schifferes 3522</desc>
+		<joint>#SPLUSA936FF;Fin Ind</joint>
+		<studentnos>35</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+</module>

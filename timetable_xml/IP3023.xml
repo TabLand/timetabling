@@ -1,65 +1,67 @@
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
-	<modulecode>IP3023</modulecode>
-	<activity>IP3023 Governance and Economic Diplomacy/Lecture 01/01</activity>
-	<desc>Weeks 1-5, 7-9 & 11</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>DLG03</room>
-	<lecturer>Pagliari, Stefano </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
-	<modulecode>IP3023</modulecode>
-	<activity>IP3023 Governance and Economic Diplomacy/Tutorial 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG20</room>
-	<lecturer>Pagliari, Stefano </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
-	<modulecode>IP3023</modulecode>
-	<activity>IP3023 Governance and Economic Diplomacy/Tutorial 01/02</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>DLG20</room>
-	<lecturer>Pagliari, Stefano </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>31/03/14</week>
-	<modulecode>IP3023</modulecode>
-	<activity>IP3023 Governance and Economic Diplomacy/Lecture 01/Apr 3rd</activity>
-	<desc>Week 10 rescheduled</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>D220</room>
-	<lecturer>Pagliari, Stefano </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>31/03/14</week>
-	<modulecode>IP3023</modulecode>
-	<activity>IP3023 Governance and Economic Diplomacy/Tutorial 01/Apr 3rd</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>D220</room>
-	<lecturer>Pagliari, Stefano </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+		<modulecode>IP3023</modulecode>
+		<activity>IP3023 Governance and Economic Diplomacy/Lecture 01/01</activity>
+		<desc>Weeks 1-5, 7-9 & 11</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>DLG03</room>
+		<lecturer>Pagliari, Stefano </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+		<modulecode>IP3023</modulecode>
+		<activity>IP3023 Governance and Economic Diplomacy/Tutorial 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG20</room>
+		<lecturer>Pagliari, Stefano </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+		<modulecode>IP3023</modulecode>
+		<activity>IP3023 Governance and Economic Diplomacy/Tutorial 01/02</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>DLG20</room>
+		<lecturer>Pagliari, Stefano </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>31/03/14</week>
+		<modulecode>IP3023</modulecode>
+		<activity>IP3023 Governance and Economic Diplomacy/Lecture 01/Apr 3rd</activity>
+		<desc>Week 10 rescheduled</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>D220</room>
+		<lecturer>Pagliari, Stefano </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>31/03/14</week>
+		<modulecode>IP3023</modulecode>
+		<activity>IP3023 Governance and Economic Diplomacy/Tutorial 01/Apr 3rd</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>D220</room>
+		<lecturer>Pagliari, Stefano </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

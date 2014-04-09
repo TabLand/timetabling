@@ -1,26 +1,28 @@
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>17/02/14</week>
-	<modulecode>EPM974</modulecode>
-	<activity>EPM974 General Principles of Human Factors/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>17:50</end>
-	<week>17/02/14</week>
-	<modulecode>EPM974</modulecode>
-	<activity>EPM974 General Principles of Human Factors/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>35</studentnos>
-	<room>C118</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>17/02/14</week>
+		<modulecode>EPM974</modulecode>
+		<activity>EPM974 General Principles of Human Factors/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>17:50</end>
+		<week>17/02/14</week>
+		<modulecode>EPM974</modulecode>
+		<activity>EPM974 General Principles of Human Factors/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>35</studentnos>
+		<room>C118</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

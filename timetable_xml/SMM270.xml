@@ -1,26 +1,28 @@
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>02/12/13</week>
-	<modulecode>SMM270</modulecode>
-	<activity>SMM270 Foundations of Econometrics/Lecture/wk 10</activity>
-	<desc>QF - Week 10 only (replacement for wk 9 missed)</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>2004</room>
-	<lecturer>Trapani, Lorenzo </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:10</start>
-	<end>15:00</end>
-	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
-	<modulecode>SMM270</modulecode>
-	<activity>SMM270 Foundations of Econometrics/Lecture/wks 1-7, 9-10</activity>
-	<desc>QF - Weeks 1-7, 9-10</desc>
-	<joint> </joint>
-	<studentnos>24</studentnos>
-	<room>3003</room>
-	<lecturer>Trapani, Lorenzo </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>02/12/13</week>
+		<modulecode>SMM270</modulecode>
+		<activity>SMM270 Foundations of Econometrics/Lecture/wk 10</activity>
+		<desc>QF - Week 10 only (replacement for wk 9 missed)</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>2004</room>
+		<lecturer>Trapani, Lorenzo </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:10</start>
+		<end>15:00</end>
+		<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+		<modulecode>SMM270</modulecode>
+		<activity>SMM270 Foundations of Econometrics/Lecture/wks 1-7, 9-10</activity>
+		<desc>QF - Weeks 1-7, 9-10</desc>
+		<joint>-</joint>
+		<studentnos>24</studentnos>
+		<room>3003</room>
+		<lecturer>Trapani, Lorenzo </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

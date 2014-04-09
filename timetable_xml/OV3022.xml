@@ -1,1391 +1,1393 @@
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>03/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>10/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>17/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/05</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>24/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>03/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>10/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>24/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:30</start>
-	<end>11:30</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>RNIB</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>30/09/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Subramaniam, Ahalya </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>07/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>14/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/03</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Subramaniam, Ahalya </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>21/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/04</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Subramaniam, Ahalya </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>28/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/05</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>11/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Subramaniam, Ahalya </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>18/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Subramaniam, Ahalya </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>25/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Subramaniam, Ahalya </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>02/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>09/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>27/01/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>03/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>10/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/05</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>17/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/06</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>24/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/07</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>03/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/08</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>10/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/03/01</activity>
-	<desc>Optional clinics: B1-4 & D1-4</desc>
-	<joint> </joint>
-	<studentnos>56</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>15:30</end>
-	<week>17/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/03/02</activity>
-	<desc>Optional clinics: A1-4 & C1-4</desc>
-	<joint> </joint>
-	<studentnos>56</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:30</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/01</activity>
-	<desc>03A</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 4</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:30</start>
-	<end>14:30</end>
-	<week>07/04/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/03</activity>
-	<desc>03C</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 4</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:30</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/02</activity>
-	<desc>03B</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 4</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:30</start>
-	<end>15:30</end>
-	<week>07/04/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/04</activity>
-	<desc>03D</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 4</room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>17/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>24/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>15:50</end>
-	<week>07/04/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/05</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>07/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>14/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>21/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>28/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/04</activity>
-	<desc>D1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>11/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>18/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>25/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>02/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/04</activity>
-	<desc>D1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 5</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>09/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>27/01/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>03/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>10/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/04</activity>
-	<desc>D1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>17/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>24/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>03/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/04</activity>
-	<desc>D1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>17/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>24/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>07/04/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>  </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/OSCE/05</activity>
-	<desc>Special arrangements</desc>
-	<joint> </joint>
-	<studentnos>4</studentnos>
-	<room>C202 (Clinical Skills Room)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>30/09/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>07/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>14/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>21/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>28/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>11/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>18/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>25/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>02/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>09/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>27/01/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/05</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>03/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>10/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>17/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>24/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>03/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>12:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>30/09/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>07/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>14/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/05</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>21/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>28/10/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>11/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>18/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/05</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>25/11/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>02/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>09/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>27/01/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/06</activity>
-	<desc>C3/C4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/07</activity>
-	<desc>D1/D2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>10/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/02</activity>
-	<desc>A3/A4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>17/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/04</activity>
-	<desc>B3/B4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>24/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/05</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>03/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>10/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/01</activity>
-	<desc>A1/A2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>17/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/03</activity>
-	<desc>B1/B2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>24/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/05</activity>
-	<desc>C1/C2</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>14:00</start>
-	<end>16:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/08</activity>
-	<desc>D3/D4</desc>
-	<joint> </joint>
-	<studentnos>14</studentnos>
-	<room>Bath Street Level 6 (cubicles)</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>30/09/13, 28/10/13, 02/12/13, 10/02/14, 10/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/01</activity>
-	<desc>A1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>BS703</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>07/10/13, 11/11/13, 09/12/13, 17/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>BS703</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>14/10/13, 18/11/13, 27/01/14, 24/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>BS703</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>17:00</start>
-	<end>17:50</end>
-	<week>21/10/13, 25/11/13, 03/02/14, 03/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/04</activity>
-	<desc>D1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>BS703</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>17/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/02</activity>
-	<desc>B1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>A217</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>24/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/03</activity>
-	<desc>C1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C301</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/04</activity>
-	<desc>D1-4</desc>
-	<joint> </joint>
-	<studentnos>28</studentnos>
-	<room>C301</room>
-	<lecturer>Conway, Miriam </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>24/02/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Fielder, Alistair;Harvey, William;Subramaniam, Ahalya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>27/01/14-03/02/14, 17/02/14, 10/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
-	<desc> </desc>
-	<joint>OV3022;OV3022;OV3022</joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Fielder, Alistair;Harvey, William;Subramaniam, Ahalya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>13:50</end>
-	<week>10/02/14, 03/03/14, 24/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Fielder, Alistair;Harvey, William;Subramaniam, Ahalya </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>14:50</end>
-	<week>31/03/14</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
-	<desc> </desc>
-	<joint>OV3022;OV3022;OV3022</joint>
-	<studentnos>112</studentnos>
-	<room>BG03</room>
-	<lecturer>Weddell, Lynne </lecturer>
-	<day>Friday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>16:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>OV3022</modulecode>
-	<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture 2/Autumn/01</activity>
-	<desc>VI lecture</desc>
-	<joint> </joint>
-	<studentnos>112</studentnos>
-	<room>BG02</room>
-	<lecturer>Subramaniam, Ahalya;Weddell, Lynne;Conway, Miriam </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>03/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>10/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>17/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/05</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>24/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>03/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>10/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>24/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:30</start>
+		<end>11:30</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/RNIB visit/01/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>RNIB</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>30/09/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Subramaniam, Ahalya </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>07/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>14/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/03</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Subramaniam, Ahalya </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>21/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/04</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Subramaniam, Ahalya </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>28/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/05</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>11/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Subramaniam, Ahalya </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>18/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Subramaniam, Ahalya </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>25/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/01/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Subramaniam, Ahalya </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>02/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>09/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>27/01/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>03/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>10/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/05</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>17/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/06</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>24/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/07</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>03/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/02/08</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>10/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/03/01</activity>
+		<desc>Optional clinics: B1-4 & D1-4</desc>
+		<joint>-</joint>
+		<studentnos>56</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>15:30</end>
+		<week>17/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI clinic/03/02</activity>
+		<desc>Optional clinics: A1-4 & C1-4</desc>
+		<joint>-</joint>
+		<studentnos>56</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:30</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/01</activity>
+		<desc>03A</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 4</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:30</start>
+		<end>14:30</end>
+		<week>07/04/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/03</activity>
+		<desc>03C</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 4</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:30</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/02</activity>
+		<desc>03B</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 4</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:30</start>
+		<end>15:30</end>
+		<week>07/04/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/VI Grand Rounds/04</activity>
+		<desc>03D</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 4</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>17/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>24/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>15:50</end>
+		<week>07/04/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/05</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>07/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>14/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>21/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>28/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/01/04</activity>
+		<desc>D1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>11/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>18/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>25/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>02/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/02/04</activity>
+		<desc>D1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 5</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>09/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>27/01/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>03/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>10/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/03/04</activity>
+		<desc>D1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>17/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>24/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>03/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/BV workshop/04/04</activity>
+		<desc>D1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>17/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>24/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>07/04/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Grand rounds/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>- </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/OSCE/05</activity>
+		<desc>Special arrangements</desc>
+		<joint>-</joint>
+		<studentnos>4</studentnos>
+		<room>C202 (Clinical Skills Room)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>30/09/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>07/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>14/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>21/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>28/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>11/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>18/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>25/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>02/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>09/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>27/01/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/05</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>03/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>10/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>17/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>24/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>03/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>12:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>30/09/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>07/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>14/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/05</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>21/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/01/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>28/10/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>11/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>18/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/05</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>25/11/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/02/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>02/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>09/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>27/01/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/06</activity>
+		<desc>C3/C4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/03/07</activity>
+		<desc>D1/D2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>10/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/02</activity>
+		<desc>A3/A4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>17/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/04</activity>
+		<desc>B3/B4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>24/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/05</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>03/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/04/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>10/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/01</activity>
+		<desc>A1/A2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>17/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/03</activity>
+		<desc>B1/B2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>24/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/05</activity>
+		<desc>C1/C2</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>14:00</start>
+		<end>16:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Paediatric clinic/05/08</activity>
+		<desc>D3/D4</desc>
+		<joint>-</joint>
+		<studentnos>14</studentnos>
+		<room>Bath Street Level 6 (cubicles)</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>30/09/13, 28/10/13, 02/12/13, 10/02/14, 10/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/01</activity>
+		<desc>A1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>BS703</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>07/10/13, 11/11/13, 09/12/13, 17/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>BS703</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>14/10/13, 18/11/13, 27/01/14, 24/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>BS703</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>17:00</start>
+		<end>17:50</end>
+		<week>21/10/13, 25/11/13, 03/02/14, 03/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/04</activity>
+		<desc>D1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>BS703</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>17/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/02</activity>
+		<desc>B1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>A217</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>24/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/03</activity>
+		<desc>C1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C301</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Tutorial/04</activity>
+		<desc>D1-4</desc>
+		<joint>-</joint>
+		<studentnos>28</studentnos>
+		<room>C301</room>
+		<lecturer>Conway, Miriam </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>24/02/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Fielder, Alistair;Harvey, William;Subramaniam, Ahalya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>27/01/14-03/02/14, 17/02/14, 10/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
+		<desc>-</desc>
+		<joint>OV3022;OV3022;OV3022</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Fielder, Alistair;Harvey, William;Subramaniam, Ahalya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>13:50</end>
+		<week>10/02/14, 03/03/14, 24/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Fielder, Alistair;Harvey, William;Subramaniam, Ahalya </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>14:50</end>
+		<week>31/03/14</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture/Spring/01</activity>
+		<desc>-</desc>
+		<joint>OV3022;OV3022;OV3022</joint>
+		<studentnos>112</studentnos>
+		<room>BG03</room>
+		<lecturer>Weddell, Lynne </lecturer>
+		<day>Friday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>16:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>OV3022</modulecode>
+		<activity>OV3022 Binocular Vision, Paediatrics & Visual Impairment/Lecture 2/Autumn/01</activity>
+		<desc>VI lecture</desc>
+		<joint>-</joint>
+		<studentnos>112</studentnos>
+		<room>BG02</room>
+		<lecturer>Subramaniam, Ahalya;Weddell, Lynne;Conway, Miriam </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>

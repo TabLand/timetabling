@@ -1,26 +1,28 @@
-<booking>
-	<start>12:00</start>
-	<end>14:50</end>
-	<week>31/03/14</week>
-	<modulecode>LAM027</modulecode>
-	<activity>LAM027 Principles of Screenwriting and the Translation of Screenplays/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>AG13</room>
-	<lecturer>Kretschmer, Christine </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>13:00</start>
-	<end>15:50</end>
-	<week>20/01/14-27/01/14, 10/02/14-03/03/14</week>
-	<modulecode>LAM027</modulecode>
-	<activity>LAM027 Principles of Screenwriting and the Translation of Screenplays/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>12</studentnos>
-	<room>C323;AG13</room>
-	<lecturer>Kretschmer, Christine </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>12:00</start>
+		<end>14:50</end>
+		<week>31/03/14</week>
+		<modulecode>LAM027</modulecode>
+		<activity>LAM027 Principles of Screenwriting and the Translation of Screenplays/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>AG13</room>
+		<lecturer>Kretschmer, Christine </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>13:00</start>
+		<end>15:50</end>
+		<week>20/01/14-27/01/14, 10/02/14-03/03/14</week>
+		<modulecode>LAM027</modulecode>
+		<activity>LAM027 Principles of Screenwriting and the Translation of Screenplays/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>12</studentnos>
+		<room>C323;AG13</room>
+		<lecturer>Kretschmer, Christine </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

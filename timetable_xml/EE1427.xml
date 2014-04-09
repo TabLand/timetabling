@@ -1,65 +1,67 @@
-<booking>
-	<start>15:00</start>
-	<end>16:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-25/11/13</week>
-	<modulecode>EE1427</modulecode>
-	<activity>EE1427 Engineering Science/Lab Sems 1/01 A</activity>
-	<desc>Elec, Comp Sys & Tel ONLY</desc>
-	<joint> </joint>
-	<studentnos>45</studentnos>
-	<room>CG17</room>
-	<lecturer>Agrawal, A </lecturer>
-	<day>Tuesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>28/10/13</week>
-	<modulecode>EE1427</modulecode>
-	<activity>EE1427 Engineering Science/Tutorial 1/01</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG07</room>
-	<lecturer>Agrawal, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>21/10/13</week>
-	<modulecode>EE1427</modulecode>
-	<activity>EE1427 Engineering Science/Tutorial 1/01</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Agrawal, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>13:50</end>
-	<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EE1427</modulecode>
-	<activity>EE1427 Engineering Science/Tutorial 1/01</activity>
-	<desc>*</desc>
-	<joint> </joint>
-	<studentnos>90</studentnos>
-	<room>AG22</room>
-	<lecturer>Agrawal, A </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>12:50</end>
-	<week>14/10/13-28/10/13, 11/11/13-25/11/13</week>
-	<modulecode>EE1427</modulecode>
-	<activity>EE1427 Engineering Science/Lab Sems 1/01 B</activity>
-	<desc>Biomedical ONLY*</desc>
-	<joint> </joint>
-	<studentnos>30</studentnos>
-	<room>CG17</room>
-	<lecturer>Agrawal, A </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>16:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-25/11/13</week>
+		<modulecode>EE1427</modulecode>
+		<activity>EE1427 Engineering Science/Lab Sems 1/01 A</activity>
+		<desc>Elec, Comp Sys & Tel ONLY</desc>
+		<joint>-</joint>
+		<studentnos>45</studentnos>
+		<room>CG17</room>
+		<lecturer>Agrawal, A </lecturer>
+		<day>Tuesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>28/10/13</week>
+		<modulecode>EE1427</modulecode>
+		<activity>EE1427 Engineering Science/Tutorial 1/01</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG07</room>
+		<lecturer>Agrawal, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>21/10/13</week>
+		<modulecode>EE1427</modulecode>
+		<activity>EE1427 Engineering Science/Tutorial 1/01</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Agrawal, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>13:50</end>
+		<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EE1427</modulecode>
+		<activity>EE1427 Engineering Science/Tutorial 1/01</activity>
+		<desc>*</desc>
+		<joint>-</joint>
+		<studentnos>90</studentnos>
+		<room>AG22</room>
+		<lecturer>Agrawal, A </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>12:50</end>
+		<week>14/10/13-28/10/13, 11/11/13-25/11/13</week>
+		<modulecode>EE1427</modulecode>
+		<activity>EE1427 Engineering Science/Lab Sems 1/01 B</activity>
+		<desc>Biomedical ONLY*</desc>
+		<joint>-</joint>
+		<studentnos>30</studentnos>
+		<room>CG17</room>
+		<lecturer>Agrawal, A </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

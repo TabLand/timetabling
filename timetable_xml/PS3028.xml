@@ -1,39 +1,41 @@
-<booking>
-	<start>10:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>PS3028</modulecode>
-	<activity>PS3028 Memory and the Law/Lecture 01/01</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C322</room>
-	<lecturer>Howe, Mark </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>27/01/14, 10/02/14, 24/02/14, 17/03/14, 31/03/14</week>
-	<modulecode>PS3028</modulecode>
-	<activity>PS3028 Memory and the Law/Drop-In Clinic 01/01</activity>
-	<desc>Weeks 1, 3, 5, 8 & 10</desc>
-	<joint> </joint>
-	<studentnos>5</studentnos>
-	<room>D432</room>
-	<lecturer>Howe, Mark </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>12:00</start>
-	<end>12:50</end>
-	<week>03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
-	<modulecode>PS3028</modulecode>
-	<activity>PS3028 Memory and the Law/Presentations 01/01</activity>
-	<desc>Weeks 2, 4, 7 & 9</desc>
-	<joint> </joint>
-	<studentnos>25</studentnos>
-	<room>C322</room>
-	<lecturer>Howe, Mark </lecturer>
-	<day>Monday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>PS3028</modulecode>
+		<activity>PS3028 Memory and the Law/Lecture 01/01</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C322</room>
+		<lecturer>Howe, Mark </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>27/01/14, 10/02/14, 24/02/14, 17/03/14, 31/03/14</week>
+		<modulecode>PS3028</modulecode>
+		<activity>PS3028 Memory and the Law/Drop-In Clinic 01/01</activity>
+		<desc>Weeks 1, 3, 5, 8 & 10</desc>
+		<joint>-</joint>
+		<studentnos>5</studentnos>
+		<room>D432</room>
+		<lecturer>Howe, Mark </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>12:00</start>
+		<end>12:50</end>
+		<week>03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
+		<modulecode>PS3028</modulecode>
+		<activity>PS3028 Memory and the Law/Presentations 01/01</activity>
+		<desc>Weeks 2, 4, 7 & 9</desc>
+		<joint>-</joint>
+		<studentnos>25</studentnos>
+		<room>C322</room>
+		<lecturer>Howe, Mark </lecturer>
+		<day>Monday </day>
+	</booking>
+</module>

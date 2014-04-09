@@ -1,26 +1,28 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>JO2209</modulecode>
-	<activity>JO2209 Conflict Reporting/Lecture</activity>
-	<desc>JOINT</desc>
-	<joint>JO2209;JO3124</joint>
-	<studentnos>25</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>11:00</start>
-	<end>11:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>JO2209</modulecode>
-	<activity>JO2209 Conflict Reporting/Seminar</activity>
-	<desc> </desc>
-	<joint> </joint>
-	<studentnos>20</studentnos>
-	<room>AG03</room>
-	<lecturer>  </lecturer>
-	<day>Wednesday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>JO2209</modulecode>
+		<activity>JO2209 Conflict Reporting/Lecture</activity>
+		<desc>JOINT</desc>
+		<joint>JO2209;JO3124</joint>
+		<studentnos>25</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>11:00</start>
+		<end>11:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>JO2209</modulecode>
+		<activity>JO2209 Conflict Reporting/Seminar</activity>
+		<desc>-</desc>
+		<joint>-</joint>
+		<studentnos>20</studentnos>
+		<room>AG03</room>
+		<lecturer>- </lecturer>
+		<day>Wednesday </day>
+	</booking>
+</module>

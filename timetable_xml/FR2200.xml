@@ -1,52 +1,54 @@
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
-	<modulecode>FR2200</modulecode>
-	<activity>FR2200 Mathematical Finance/IFRM/Tutorial 01/02</activity>
-	<desc>Group 01 : IFRM : Weeks 2, 4, 6, 8, 10</desc>
-	<joint> </joint>
-	<studentnos>110</studentnos>
-	<room>AG07</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Wednesday </day>
-</booking>
-<booking>
-	<start>10:00</start>
-	<end>10:50</end>
-	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
-	<modulecode>FR2200</modulecode>
-	<activity>FR2200 Mathematical Finance/BIF/Tutorial 02/02</activity>
-	<desc>Group 02 : BIF & Study Abroad : Weeks 3,5,7,9,11</desc>
-	<joint> </joint>
-	<studentnos>67</studentnos>
-	<room>C338</room>
-	<lecturer>Manyemba, Oliver </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>30/09/13-28/10/13</week>
-	<modulecode>FR2200</modulecode>
-	<activity>FR2200 Mathematical Finance/Lecture 01/WKS 1-5</activity>
-	<desc>Autumn Lecture (BIF, IFRM, Study abroad) : Weeks 1-5</desc>
-	<joint> </joint>
-	<studentnos>133</studentnos>
-	<room>Poynton</room>
-	<lecturer>Kalotychou, Elena </lecturer>
-	<day>Thursday </day>
-</booking>
-<booking>
-	<start>16:00</start>
-	<end>17:50</end>
-	<week>04/11/13-09/12/13</week>
-	<modulecode>FR2200</modulecode>
-	<activity>FR2200 Mathematical Finance/Lecture 01/WKS 6-11</activity>
-	<desc>Autumn Lecture (BIF, IFRM, Study abroad) : Weeks 6-11</desc>
-	<joint> </joint>
-	<studentnos>133</studentnos>
-	<room>OTLT & Foyer</room>
-	<lecturer>Zhao, Gang (Henry) </lecturer>
-	<day>Thursday </day>
-</booking>
+<module>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>07/10/13, 21/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+		<modulecode>FR2200</modulecode>
+		<activity>FR2200 Mathematical Finance/IFRM/Tutorial 01/02</activity>
+		<desc>Group 01 : IFRM : Weeks 2, 4, 6, 8, 10</desc>
+		<joint>-</joint>
+		<studentnos>110</studentnos>
+		<room>AG07</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Wednesday </day>
+	</booking>
+	<booking>
+		<start>10:00</start>
+		<end>10:50</end>
+		<week>14/10/13, 28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+		<modulecode>FR2200</modulecode>
+		<activity>FR2200 Mathematical Finance/BIF/Tutorial 02/02</activity>
+		<desc>Group 02 : BIF & Study Abroad : Weeks 3,5,7,9,11</desc>
+		<joint>-</joint>
+		<studentnos>67</studentnos>
+		<room>C338</room>
+		<lecturer>Manyemba, Oliver </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>30/09/13-28/10/13</week>
+		<modulecode>FR2200</modulecode>
+		<activity>FR2200 Mathematical Finance/Lecture 01/WKS 1-5</activity>
+		<desc>Autumn Lecture (BIF, IFRM, Study abroad) : Weeks 1-5</desc>
+		<joint>-</joint>
+		<studentnos>133</studentnos>
+		<room>Poynton</room>
+		<lecturer>Kalotychou, Elena </lecturer>
+		<day>Thursday </day>
+	</booking>
+	<booking>
+		<start>16:00</start>
+		<end>17:50</end>
+		<week>04/11/13-09/12/13</week>
+		<modulecode>FR2200</modulecode>
+		<activity>FR2200 Mathematical Finance/Lecture 01/WKS 6-11</activity>
+		<desc>Autumn Lecture (BIF, IFRM, Study abroad) : Weeks 6-11</desc>
+		<joint>-</joint>
+		<studentnos>133</studentnos>
+		<room>OTLT & Foyer</room>
+		<lecturer>Zhao, Gang (Henry) </lecturer>
+		<day>Thursday </day>
+	</booking>
+</module>

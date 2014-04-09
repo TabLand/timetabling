@@ -1,26 +1,28 @@
-<booking>
-	<start>15:00</start>
-	<end>15:50</end>
-	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
-	<modulecode>EEE Y1 Tut</modulecode>
-	<activity>EEE Year 1 Personal Tutor Hour/Spring</activity>
-	<desc>Held in tutor's office</desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room> </room>
-	<lecturer>  </lecturer>
-	<day>Monday </day>
-</booking>
-<booking>
-	<start>9:00</start>
-	<end>9:50</end>
-	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
-	<modulecode>EEE Y1 Tut</modulecode>
-	<activity>EEE Year 1 Personal Tutor Hour/Autumn</activity>
-	<desc>Held in tutor's office</desc>
-	<joint> </joint>
-	<studentnos>1</studentnos>
-	<room>No room needed</room>
-	<lecturer>  </lecturer>
-	<day>Friday </day>
-</booking>
+<module>
+	<booking>
+		<start>15:00</start>
+		<end>15:50</end>
+		<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+		<modulecode>EEE Y1 Tut</modulecode>
+		<activity>EEE Year 1 Personal Tutor Hour/Spring</activity>
+		<desc>Held in tutor's office</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>-</room>
+		<lecturer>- </lecturer>
+		<day>Monday </day>
+	</booking>
+	<booking>
+		<start>9:00</start>
+		<end>9:50</end>
+		<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+		<modulecode>EEE Y1 Tut</modulecode>
+		<activity>EEE Year 1 Personal Tutor Hour/Autumn</activity>
+		<desc>Held in tutor's office</desc>
+		<joint>-</joint>
+		<studentnos>1</studentnos>
+		<room>No room needed</room>
+		<lecturer>- </lecturer>
+		<day>Friday </day>
+	</booking>
+</module>
