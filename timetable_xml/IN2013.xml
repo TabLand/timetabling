@@ -1,0 +1,78 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2013</modulecode>
+	<activity>IN2013 Object-oriented Analysis And Design/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>190</studentnos>
+	<room>Oakden</room>
+	<lecturer>Popov, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2013</modulecode>
+	<activity>IN2013 Object-oriented Analysis And Design/Tutorial B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2013</modulecode>
+	<activity>IN2013 Object-oriented Analysis And Design/Tutorial A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C345</room>
+	<lecturer>VL 04 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2013</modulecode>
+	<activity>IN2013 Object-oriented Analysis And Design/Tutorial C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C345</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2013</modulecode>
+	<activity>IN2013 Object-oriented Analysis And Design/Tutorial D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2013</modulecode>
+	<activity>IN2013 Object-oriented Analysis And Design/Tutorial E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C345</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>

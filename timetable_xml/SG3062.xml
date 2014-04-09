@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14</week>
+	<modulecode>SG3062</modulecode>
+	<activity>SG3062 Work and Workers in the 21st Century/Lecture 01/Jan 30th</activity>
+	<desc>Week 1: Different time & location</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>D221</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14</week>
+	<modulecode>SG3062</modulecode>
+	<activity>SG3062 Work and Workers in the 21st Century/Tutorial 01/01/Jan 30th</activity>
+	<desc>Week 1: Different time & location</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>D221</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3062</modulecode>
+	<activity>SG3062 Work and Workers in the 21st Century/Lecture 01/01</activity>
+	<desc>Weeks 2-5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>ALG16</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3062</modulecode>
+	<activity>SG3062 Work and Workers in the 21st Century/Tutorial 01/01</activity>
+	<desc>Weeks 2-5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>ALG16</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Friday </day>
+</booking>

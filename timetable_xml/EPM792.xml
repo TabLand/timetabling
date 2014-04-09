@@ -1,0 +1,39 @@
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>10/03/14</week>
+	<modulecode>EPM792</modulecode>
+	<activity>EPM792 Security Studies, Accident Investigation & Crisis Management/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>10/03/14</week>
+	<modulecode>EPM792</modulecode>
+	<activity>EPM792 Security Studies, Accident Investigation & Crisis Management/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>10/03/14</week>
+	<modulecode>EPM792</modulecode>
+	<activity>EPM792 Security Studies, Accident Investigation & Crisis Management/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

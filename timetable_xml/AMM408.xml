@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>AMM408</modulecode>
+	<activity>AMM408 Audiences and Marketing/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C350</room>
+	<lecturer>Gaio, Ana </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>AMM408</modulecode>
+	<activity>AMM408 Audiences and Marketing/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C350</room>
+	<lecturer>Gaio, Ana </lecturer>
+	<day>Thursday </day>
+</booking>

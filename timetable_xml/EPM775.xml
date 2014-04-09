@@ -1,0 +1,13 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>EPM775</modulecode>
+	<activity>EPM775 Multiserve Communication Networks/Lecture 1/01</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C170</room>
+	<lecturer>Rajarajan, M </lecturer>
+	<day>Friday </day>
+</booking>

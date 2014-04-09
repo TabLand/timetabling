@@ -1,0 +1,52 @@
+<booking>
+	<start>14:30</start>
+	<end>17:30</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>EPM751</modulecode>
+	<activity>EPM751 Optimisation & Optimal Control/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG08</room>
+	<lecturer>Xu, Prof. H;Halikias, G </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>10/02/14-31/03/14</week>
+	<modulecode>EPM751</modulecode>
+	<activity>EPM751 Optimisation & Optimal Control/Lecture term 2/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG08</room>
+	<lecturer>Xu, Prof. H;Halikias, G </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:30</end>
+	<week>10/02/14-31/03/14</week>
+	<modulecode>EPM751</modulecode>
+	<activity>EPM751 Optimisation & Optimal Control/Lecture term 2/2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG07</room>
+	<lecturer>Xu, Prof. H;Halikias, G </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:30</start>
+	<end>17:30</end>
+	<week>10/02/14-31/03/14</week>
+	<modulecode>EPM751</modulecode>
+	<activity>EPM751 Optimisation & Optimal Control/Lecture term 2/3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG07</room>
+	<lecturer>Xu, Prof. H;Halikias, G </lecturer>
+	<day>Friday </day>
+</booking>

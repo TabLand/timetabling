@@ -1,0 +1,1157 @@
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>16/12/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G3;Skills room G2;Skills room G1</room>
+	<lecturer>Ellis, M;Bickerton, J;Novak, B;Apau, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>28/04/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G3;Skills room G2;Skills room G1</room>
+	<lecturer>Klufio, A;Ellis, M;Outside speaker;Outside speaker;Apau, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>16/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Introduction to Module, Review of Coursework and Assessments/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>13/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Introduction to Module, Review of Coursework and Assessments/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>28/04/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Introduction to Module, Review of Coursework and Assessments/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>21/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Cranial Nerves/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Baker, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Musculoskeletal System /01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Baker, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>11/11/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Female Genitalia/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Outside speaker </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>18/11/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Diagnostic Reasoning and Risk Assessment in Advanced Practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Cranial Nerves/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>24/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Musculoskeletal System/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Female Genitalia/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Outside speaker </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Diagnostic Reasoning and Risk Assessment in Advanced Practice/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Cranial Nerves/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Musculoskeletal System/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C232</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Female Genitalia/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Outside speaker </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Diagnostic Reasoning and Risk Assessment in Advanced Practice/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>23/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Head, Ears, Nose, Mouth and Neck/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>30/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Respiratory System/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Cockram, E </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>14/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Abdominal and Genitourinary systems /01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Hicks, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>20/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Head, Ears, Nose, Mouth and Neck/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>27/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Respiratory System/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>10/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Abdominal and Genitourinary systems/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>05/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Head, Ears, Nose, Mouth and Neck/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>12/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Respiratory System/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>26/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Abdominal and Genitourinary systems/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>07/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Cardiovascular System/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Cardiovascular System/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Cardiovascular System/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>04/11/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision All Systems: Child and Adult /01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>02/12/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 3/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision All Systems: Child and Adult/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 3/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>14/04/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 4/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Bickerton, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision All Systems: Child and Adult/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>07/07/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 2/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>14/07/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 3/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>16/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 History taking, Interview techniques, communication and documentation strategies/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Hicks, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>13/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 History taking, Interview techniques, communication and documentation strategies/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Bickerton, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>28/04/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 History taking, Interview techniques, communication and documentation strategies/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Bickerton, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>11/11/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Male Genitalia/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>10/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Male Genitalia/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>23/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Male Genitalia/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>23/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of Eyes/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Weddell, Lynne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>20/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of Eyes/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Weddell, Lynne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>05/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of Eyes/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Weddell, Lynne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>21/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Neurological System /01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Baker, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Integumentary System /01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Bickerton, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>17/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Neurological System/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Integumentary System/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Neurological System/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Examination of the Integumentary System/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C232</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>18/11/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>30/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:30</end>
+	<week>12/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Principles of Chest X ray/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Mental Health Assessment/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Outside speaker </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Mental Health Assessment/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Outside speaker </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:50</end>
+	<week>26/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Mental Health Assessment/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Outside speaker </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of HEENT, Eyes and Respiratory system: Child and Adult/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of HEENT, Eyes and Respiratory system: Child and Adult/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>16/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Critical thinking and decision making in Advanced Practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>13/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Critical thinking and decision making in Advanced Practice/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>28/04/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Critical thinking and decision making in Advanced Practice/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>07/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of Cardiovascular, Respiratory, HEENT, Eyes (Child and Adult)/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Outside speaker;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of Cardiovascular, Respiratory, HEENT, Eyes (Child and Adult)/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>19/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of Cardiovascular, Respiratory, HEENT, Eyes (Child and Adult)/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>16/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Practice Seminar: Child and Adult 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Akamo, A;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Practice Seminar: Child and Adult 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>13/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Practice Seminar: Child and Adult 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.4;Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Practice Seminar: Child and Adult 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>28/04/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Practice Seminar: Child and Adult 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>05/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Tutorials/Seminar: Child and Adult/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>12/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of HEENT, Eyes and Respiratory system: Child and Adult/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Tutorials/Practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Tutorials/Seminar: Child and Adult/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of MSK and Integumentary system: Child and Adult /01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Bickerton, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision: Child and Adult/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Bickerton, J;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Tutorials/Practice/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>17/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Tutorials/Seminar: Child and Adult/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of MSK and Integumentary system: Child and Adult/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision: Child and Adult/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>26/05/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Tutorials/Practice/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>02/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Practice Seminar: Child and Adult 2/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS);3D (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision of MSK and Integumentary system: Child and Adult/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C232</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>23/06/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 Revision: Child and Adult/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills room G2;Skills room G1</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>21/04/14</week>
+	<modulecode>APM008/9</modulecode>
+	<activity>APM008/9 OSCE Revision: Child and Adult 4/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Apau, D </lecturer>
+	<day>Friday </day>
+</booking>

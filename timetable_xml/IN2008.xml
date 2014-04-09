@@ -1,0 +1,65 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>IN2008</modulecode>
+	<activity>IN2008 Information Management/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>87</studentnos>
+	<room>AG21</room>
+	<lecturer>Makri, Stephann </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>IN2008</modulecode>
+	<activity>IN2008 Information Management/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>87</studentnos>
+	<room>AG21</room>
+	<lecturer>Makri, Stephann </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>IN2008</modulecode>
+	<activity>IN2008 Information Management/Lab 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>A307&8</room>
+	<lecturer>Makri, Stephann </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>IN2008</modulecode>
+	<activity>IN2008 Information Management/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D104</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>IN2008</modulecode>
+	<activity>IN2008 Information Management/Lab 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>A307&8</room>
+	<lecturer>Makri, Stephann </lecturer>
+	<day>Monday </day>
+</booking>

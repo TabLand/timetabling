@@ -1,0 +1,546 @@
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/05</activity>
+	<desc>Protocols/patient pathways 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Workshop 01/01</activity>
+	<desc>Practical technique group 1</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG07 (Radiography)</room>
+	<lecturer>Willis, Sophie;McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/13</activity>
+	<desc>Risk groups and patient profiling in relation to contrast media in the imaging dept</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Self Study 5/01</activity>
+	<desc>Directed Study ? POVA/POCA legislation</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Poynter, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>10/02/14</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/21</activity>
+	<desc>Radiographic appearances of non-accidental injury (NAI)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/06</activity>
+	<desc>Protocols/patient pathways 2</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/15</activity>
+	<desc>IV Contrast Agents</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Workshop 01/05</activity>
+	<desc>Practical technique group 2</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG09 (Radiography)</room>
+	<lecturer>Bland, Paul;Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Self Study 3/01</activity>
+	<desc>Directed Study - Advanced Radiographic technique (Pre Study)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Walls, Darren;Morgan, J;Poynter, D;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/18</activity>
+	<desc>Forensic Work</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG05</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Self Study 4/01</activity>
+	<desc>Risk groups and patient profiling</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/01</activity>
+	<desc>Introduction to Module</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>AG07</room>
+	<lecturer>Morgan, J;McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Workshop 01/02</activity>
+	<desc>Practical technique group 3</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG07 (Radiography)</room>
+	<lecturer>Walls, Darren;McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/17</activity>
+	<desc>Practical aspects of injecting and safety procedures 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>19/05/14</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Exam 01/01a</activity>
+	<desc>Vivas exams</desc>
+	<joint>RD3024;RD3024</joint>
+	<studentnos>2</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room)</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>19/05/14</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Exam 01/01</activity>
+	<desc>Vivas exams</desc>
+	<joint>RD3024;RD3024</joint>
+	<studentnos>2</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/04</activity>
+	<desc>Mechanisms of Injury</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>AG22</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/16</activity>
+	<desc>Safeguarding of children and vulnerable adults</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Poynter, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/07</activity>
+	<desc>Pathology and treatment</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>AG22</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Workshop 01/06</activity>
+	<desc>Practical technique group 4</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG09 (Radiography)</room>
+	<lecturer>Walls, Darren;Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/24</activity>
+	<desc>Viva revision</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>Morgan, J;McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Self Study 1/01</activity>
+	<desc>Directed study ? Protocols/patient pathways</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Walls, Darren;Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/10</activity>
+	<desc>Advanced Radiographic Technique ? Appendicular Skeleton</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/23</activity>
+	<desc>Revision (IV MCT)</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG08</room>
+	<lecturer>Walls, Darren;McHugh, Kevin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Exam 01/02</activity>
+	<desc>Viva exams</desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/02</activity>
+	<desc>Equipment Requirements for A/E</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/tutorial 1/01 (joint)</activity>
+	<desc>Clinical Practice Meeting - personal tutees meeting</desc>
+	<joint>RD3024;RD2024</joint>
+	<studentnos>1</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>19/05/14</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Exam 01/03</activity>
+	<desc>Viva exams</desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>A111;AG10;AG11</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Workshop 01/04</activity>
+	<desc>Practical technique group 5</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG07 (Radiography)</room>
+	<lecturer>Willis, Sophie;McHugh, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/19</activity>
+	<desc>Practical aspects of injecting and safety procedures 2</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG03</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Laboratory 3/01</activity>
+	<desc>Manual handling and CPR update</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG03 (Radiography);ELG04 (Radiography);ELG09 (Radiography)</room>
+	<lecturer>Walls, Darren;Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/11</activity>
+	<desc>Advanced Radiographic Technique - Axial Skeleton</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Poynter, D;McHugh, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/03</activity>
+	<desc>A/E Service Development 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG03</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/20</activity>
+	<desc>Management of Adverse Reactions</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Workshop 01/08</activity>
+	<desc>Practical technique group 6</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG09 (Radiography)</room>
+	<lecturer>Morgan, J;Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/12</activity>
+	<desc>Advanced Radiographic Technique - Specials</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Walls, Darren;Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/22</activity>
+	<desc>Applying for Radiography posts & interview technique (Gemma Lewis)</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343</room>
+	<lecturer>VL 01 - HARADI </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Laboratory 1/01</activity>
+	<desc>IV Practicals (need 3 rooms from 9-11)</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG03 (Radiography);ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Walls, Darren;Morgan, J;McHugh, Kevin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/08</activity>
+	<desc>A/E Service Developments 2</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Lecture 1/09</activity>
+	<desc>Major Incident Policy</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Laboratory 2/01</activity>
+	<desc>IV Practicals (need 3 rooms from 1-3)</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG03 (Radiography);ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Walls, Darren;Morgan, J;McHugh, Kevin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>09/09/13</week>
+	<modulecode>RD3024</modulecode>
+	<activity>RD3024 Preparation for Clinical Practice/Self Study 2/01</activity>
+	<desc>Directed Study - Major Incident Policy</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>

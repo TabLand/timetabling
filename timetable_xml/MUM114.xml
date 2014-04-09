@@ -1,0 +1,13 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>MUM114</modulecode>
+	<activity>MUM114 Studio/Composition Techniques</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>Music Studios</room>
+	<lecturer>Armstrong, Newton </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,1209 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 1 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D112</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 1 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 1 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C303</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 1 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 1 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 1 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C161</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 1 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C300</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lecture 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>214</studentnos>
+	<room>Oakden</room>
+	<lecturer>Mliczak, Renate </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lecture 1 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>Howe, Jacob </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Computer Room 01/Lab Group J</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>VL 07 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Computer Room 01/Lab Group K</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A218</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Computer Room 01/Lab Group L</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A218</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Computer Room 01/Lab Group I</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG05</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG09</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Monday 2 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C300</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Computer Room 01/Lab Group N</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>EG12</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Computer Room 01/Lab Group H</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A218</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Computer Room 01/Lab Group M</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A220</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>21/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Tuesday Catch Up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG12</room>
+	<lecturer>Watson, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 1 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 1 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C339</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 1 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 1 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 1 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 1 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 1 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lecture 1 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>Howe, Jacob </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lab Group J</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A218</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lab Group L</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A220</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lab Group I</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>EG12</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 4</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lab Group M</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A220</room>
+	<lecturer>VL 06 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lab Group N</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A307&8</room>
+	<lecturer>Howe, Jacob;VL 02 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG09</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG08</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG02</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C337</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Tuesday 2 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D221</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lab Group H</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>EG12</room>
+	<lecturer>VL 04 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lab Group K</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 5</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG02</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG08</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C158</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C150</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 1 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>E212</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 6</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C339</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D221</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D112</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Thursday 2 Group B/Oct 10th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 7</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lecture 1 (Fri)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Howe, Jacob;Smith, Peter </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 1 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG05</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 1 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C350</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 1 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C150</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 1 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 1 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG08</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 1 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 1 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG03</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>25/11/13-02/12/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Programming In Java/Lecture 1 (Fri)/additional hour</activity>
+	<desc>Weeks 9 & 10: Additional hour (catch-up)</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Smith, Peter </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Lecture 8</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 2 Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 2 Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 2 Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 2 Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG08</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 2 Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG03</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 2 Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>IN1007</modulecode>
+	<activity>IN1007 Intensive Java/Friday 2 Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

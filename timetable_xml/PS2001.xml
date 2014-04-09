@@ -1,0 +1,377 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Statistics Lecture 01/01</activity>
+	<desc>Weeks 1-5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>AG07</room>
+	<lecturer>Knott, Lauren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Statistics Lecture 02/01</activity>
+	<desc>Weeks 1-5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>BG03</room>
+	<lecturer>Hampton, James </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13-28/10/13, 18/11/13-09/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Statistics/Drop-In Clinic 01/01</activity>
+	<desc>Weeks 2-5 & 8-11</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D334</room>
+	<lecturer>Knott, Lauren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>11/11/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Statistics/Revision/Nov 14th</activity>
+	<desc>Week 6</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D104</room>
+	<lecturer>Knott, Lauren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Statistics/Drop-In Clinic 02/01</activity>
+	<desc>Weeks 1-5, 7 & 9-11</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D406</room>
+	<lecturer>Hampton, James </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/03/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Statistics/Revision/Mar 20th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>D104</room>
+	<lecturer>Hampton, James </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-02/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/SPSS Support Class/Lab 01/01</activity>
+	<desc>Weeks 1-4 & 7-10</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D518</room>
+	<lecturer>Fassnidge, Chris;Dhir, Pritha </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Experimental Methods/Presentations 1/01</activity>
+	<desc>Week 5</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG02</room>
+	<lecturer>Knott, Lauren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Observational Methods/Presentations 1/01</activity>
+	<desc>Week 11</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG02</room>
+	<lecturer>Tapper, Katy </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-17/02/14, 10/03/14-31/03/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/SPSS Support Class/Lab 02/01</activity>
+	<desc>Weeks 1-4 & 7-10</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D518</room>
+	<lecturer>Fassnidge, Chris;Dhir, Pritha </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Psychometrics 1/Presentation 1/02</activity>
+	<desc>Week 5</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>E212</room>
+	<lecturer>Menzies, Stuart </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Qualitative Methods/Presentations 1/02</activity>
+	<desc>Week 11</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>E212</room>
+	<lecturer>Challenor, Julianna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Experimental Methods/Lecture 01/01</activity>
+	<desc>Week 1</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>AG07</room>
+	<lecturer>Knott, Lauren </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>07/10/13-21/10/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Planning & Data Collection/Drop-In Clinic 01/01</activity>
+	<desc>Weeks 2-4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A307&8</room>
+	<lecturer>Daniel, Lauren;Ring, Melanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Experimental Methods/Presentations 2/01</activity>
+	<desc>Week 5</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG02</room>
+	<lecturer>Knott, Lauren </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Observational Methods/Lecture 01/01</activity>
+	<desc>Week 7</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>AG07</room>
+	<lecturer>Tapper, Katy </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Planning & Data Collection/Drop-In Clinic 01A/02</activity>
+	<desc>Weeks 8-10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D109</room>
+	<lecturer>Ring, Melanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Planning & Data Collection/Drop-In Clinic 01A/01</activity>
+	<desc>Weeks 8-10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D108</room>
+	<lecturer>Daniel, Lauren </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Observational Methods/Presentations 2/01</activity>
+	<desc>Week 11</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG02</room>
+	<lecturer>Tapper, Katy </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Psychometrics 1/Lecture 02/01</activity>
+	<desc>Weeks 1 & 2</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>BG03</room>
+	<lecturer>Menzies, Stuart </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/02/14-17/02/14, 24/03/14-31/03/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Planning & Data Collection/Drop-In Clinic 02/02</activity>
+	<desc>Weeks 3, 4, 9 & 10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D109</room>
+	<lecturer>Ring, Melanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/02/14-17/02/14, 24/03/14-31/03/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Planning & Data Collection/Drop-In Clinic 02/01</activity>
+	<desc>Weeks 3, 4, 9 & 10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Daniel, Lauren </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Psychometrics 1/Presentation 2/02</activity>
+	<desc>Week 5</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG03</room>
+	<lecturer>Menzies, Stuart </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/03/14-17/03/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Qualitative Methods/Lecture 02/01</activity>
+	<desc>Weeks 7 & 8</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>Poynton</room>
+	<lecturer>Challenor, Julianna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>07/04/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Qualitative Methods/Presentations 2/02</activity>
+	<desc>Week 11</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>E212</room>
+	<lecturer>Challenor, Julianna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13, 02/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Pre-Presentation/Lecture 01/02</activity>
+	<desc>Weeks 4 & 10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG19</room>
+	<lecturer>Ring, Melanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13, 02/12/13</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Pre-Presentation/Lecture 01/01</activity>
+	<desc>Weeks 4 & 10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D220</room>
+	<lecturer>Daniel, Lauren </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/02/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Pre-Presentation/Lecture 02/02</activity>
+	<desc>Week 4</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG19</room>
+	<lecturer>Ring, Melanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/02/14</week>
+	<modulecode>PS2001</modulecode>
+	<activity>PS2001 Research Methods In Psychology/Pre-Presentation/Lecture 02/01</activity>
+	<desc>Week 4</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D104</room>
+	<lecturer>Daniel, Lauren </lecturer>
+	<day>Friday </day>
+</booking>

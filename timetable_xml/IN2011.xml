@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2011</modulecode>
+	<activity>IN2011 Networks And Operating Systems/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>190</studentnos>
+	<room>Oakden</room>
+	<lecturer>Hunt, Sebastian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2011</modulecode>
+	<activity>IN2011 Networks And Operating Systems/Lab A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A220</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2011</modulecode>
+	<activity>IN2011 Networks And Operating Systems/Lab B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>B307A</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2011</modulecode>
+	<activity>IN2011 Networks And Operating Systems/Lab D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A220</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2011</modulecode>
+	<activity>IN2011 Networks And Operating Systems/Lab C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2011</modulecode>
+	<activity>IN2011 Networks And Operating Systems/Lab E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A220</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Tuesday </day>
+</booking>

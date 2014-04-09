@@ -1,0 +1,52 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>Databases INV</modulecode>
+	<activity>SMMxxx Databases/INV</activity>
+	<desc>Investment Mgt</desc>
+	<joint>MSc Induction;Databases INV</joint>
+	<studentnos>145</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>14:00</end>
+	<week>30/09/13</week>
+	<modulecode>Databases INV</modulecode>
+	<activity>SMMxxx Bloomberg/INV/WK 1</activity>
+	<desc>Investment Mgt : Autumn : Week 1 only</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>15:00</end>
+	<week>30/09/13</week>
+	<modulecode>Databases INV</modulecode>
+	<activity>SMMxxx Thomson Reuters/INV/WK 1</activity>
+	<desc>Investment Mgt : Autumn : Week 1 only</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>24/02/14</week>
+	<modulecode>Databases INV</modulecode>
+	<activity>Financial Markets Trading Demonstration/INV/wk 5</activity>
+	<desc>Investment Mgt: Week 5 only</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Wednesday </day>
+</booking>

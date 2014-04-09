@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS2006</modulecode>
+	<activity>PS2006 Social Psychology/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>160</studentnos>
+	<room>Birley</room>
+	<lecturer>Reimars, Stian </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS2006</modulecode>
+	<activity>PS2006 Social Psychology/Drop-In Clinic 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D413</room>
+	<lecturer>Reimars, Stian </lecturer>
+	<day>Monday </day>
+</booking>

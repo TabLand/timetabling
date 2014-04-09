@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 02/12/13</week>
+	<modulecode>RDM032</modulecode>
+	<activity>RDM032 Abdominal Ultrasound/Lecture 2/01</activity>
+	<desc>Abdominal Ultrasound AM lectures (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>RDM032</modulecode>
+	<activity>RDM032 Abdominal Ultrasound/Lecture 2/01/Nov 26th</activity>
+	<desc>Abdominal Ultrasound AM lectures (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A109</room>
+	<lecturer>Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>13/01/14</week>
+	<modulecode>RDM032</modulecode>
+	<activity>RDM032 Abdominal Ultrasound/OSCE 01/01</activity>
+	<desc>OSE Abdominal Ultrasound - Exam</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>EG07</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>RDM032</modulecode>
+	<activity>RDM032 Abdominal Ultrasound/Tutorial 1/01</activity>
+	<desc>Abdominal Ultrasound</desc>
+	<joint>RDM032;RDM032</joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>RDM032</modulecode>
+	<activity>RDM032 Abdominal Ultrasound/Tutorial 1/02</activity>
+	<desc>Abdominal Ultrasound</desc>
+	<joint>RDM032;RDM032</joint>
+	<studentnos>15</studentnos>
+	<room>ELG12 (Radiography)</room>
+	<lecturer>Harris, Allison </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>28/10/13, 11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>RDM032</modulecode>
+	<activity>RDM032 Abdominal Ultrasound/Lecture 2/02</activity>
+	<desc>Abdominal Ultrasound PM lectures (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>

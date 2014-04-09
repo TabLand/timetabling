@@ -1,0 +1,65 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM373 (FT)</modulecode>
+	<activity>INM373 Research Methods and Professional Issues/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Poynton</room>
+	<lecturer>Dykes, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13, 11/11/13-18/11/13, 02/12/13</week>
+	<modulecode>INM373 (FT)</modulecode>
+	<activity>INM373 Research Methods and Professional Issues/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A307&8;A220;A218;EG07;EG04;C301</room>
+	<lecturer>Maiden, Neil;Dykes, Jason;Buchanan, George;Stumpf, Simone </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>14/10/13-21/10/13, 25/11/13</week>
+	<modulecode>INM373 (FT)</modulecode>
+	<activity>INM373 Research Methods and Professional Issues/Seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG03;DLG20;D220</room>
+	<lecturer>Maiden, Neil;Dykes, Jason;Buchanan, George;Stumpf, Simone </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>INM373 (FT)</modulecode>
+	<activity>INM373 Research Methods and Professional Issues/Tutorial 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C313;C312;C328;C330;AG10;C322;C164;C357;I106;I103;IG03;I203/I206</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>INM373 (FT)</modulecode>
+	<activity>INM373 Research Methods and Professional Issues/Tutorial 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C313;C312;C328;C330;AG10;C140;C135;C323;C164;C357;IG03;I203/I206</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

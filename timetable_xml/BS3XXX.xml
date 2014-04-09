@@ -1,0 +1,13 @@
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>28/10/13-25/11/13</week>
+	<modulecode>BS3XXX</modulecode>
+	<activity>BS3xxx SPSS Research/Computer Room 01/1</activity>
+	<desc>Year 3 : Autumn LAB : Weeks 5-9 : BUS only</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Gelade, Garry </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>SMM987</modulecode>
+	<activity>SMM987 Readings in Management 1 (Organisation Theory) MGT/Lecture 1/01</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Spicer, Andre Prof </lecturer>
+	<day>Tuesday </day>
+</booking>

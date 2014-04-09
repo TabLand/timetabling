@@ -1,0 +1,65 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14</week>
+	<modulecode>SMM201</modulecode>
+	<activity>SMM201 Asset Management (MSc Fin)/Lecture 01/wk 1</activity>
+	<desc>MSc Fin: LECTURE: Spring : Week 1 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>3002</room>
+	<lecturer>Keswani, Aneel </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>24/03/14</week>
+	<modulecode>SMM201</modulecode>
+	<activity>SMM201 Asset Management (MSc Fin)/Lecture 01/wk 9</activity>
+	<desc>MSc Fin: LECTURE: Spring : Week 9 ONLY (replacement)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>LG002/3</room>
+	<lecturer>Keswani, Aneel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>03/02/14-10/02/14</week>
+	<modulecode>SMM201</modulecode>
+	<activity>SMM201 Asset Management (MSc Fin)/Lecture 01/wks 2-3</activity>
+	<desc>MSc Fin: LECTURE: Spring : Weeks 2-3</desc>
+	<joint>SMM201;SMM201;SMM201</joint>
+	<studentnos>90</studentnos>
+	<room>LG001</room>
+	<lecturer>Keswani, Aneel </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>17/02/14, 03/03/14-17/03/14, 31/03/14</week>
+	<modulecode>SMM201</modulecode>
+	<activity>SMM201 Asset Management (MSc Fin)/Lecture 01/wks 4,6-8, 10</activity>
+	<desc>MSc Fin: LECTURE: Spring : Weeks 4, 6-8, 10</desc>
+	<joint>SMM201;SMM201;SMM201</joint>
+	<studentnos>90</studentnos>
+	<room>G001</room>
+	<lecturer>Keswani, Aneel </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM201</modulecode>
+	<activity>SMM201 Asset Management (MSc Fin)/TEST/wk 5</activity>
+	<desc>MSc Fin: Spring : Week 5 only: TEST : 90 students sharing 2 rooms</desc>
+	<joint>SMM201;SMM201;SMM201</joint>
+	<studentnos>90</studentnos>
+	<room>3002;LG002/3</room>
+	<lecturer>Keswani, Aneel </lecturer>
+	<day>Friday </day>
+</booking>

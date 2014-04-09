@@ -1,0 +1,65 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-04/11/13, 18/11/13-09/12/13</week>
+	<modulecode>CS1509</modulecode>
+	<activity>CS1509 Object-oriented Programming with Java Part 1 term 1 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>A220</room>
+	<lecturer>O'Shea, Martin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1509</modulecode>
+	<activity>CS1509 Object-oriented Programming with Java Part 1 term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>EG12</room>
+	<lecturer>O'Shea, Martin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CS1509</modulecode>
+	<activity>CS1509 Object-oriented Programming with Java Part 1 term 1 (Fri)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG24a</room>
+	<lecturer>O'Shea, Martin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-17/03/14, 31/03/14-07/04/14</week>
+	<modulecode>CS1509</modulecode>
+	<activity>CS1509 Object-oriented Programming with Java Part 1 term 2 (Fri)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>A308</room>
+	<lecturer>O'Shea, Martin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS1509</modulecode>
+	<activity>CS1509 Object-oriented Programming with Java Part 1 term 3 (Fri)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>O'Shea, Martin </lecturer>
+	<day>Friday </day>
+</booking>

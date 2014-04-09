@@ -1,0 +1,234 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>24/03/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/18</activity>
+	<desc>Exam</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Khine, Ricardo;Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/05</activity>
+	<desc>Review Tutorial - AOM Skin</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>24/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/10</activity>
+	<desc>Review Tutorial - AOM H&N</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>20/01/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/03</activity>
+	<desc>Principles of Contrast Administration</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/06</activity>
+	<desc>Review Tutorial - AOM CNS & tumours</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>24/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/11</activity>
+	<desc>Tutorial - Nasal cavity, Paranasal sinuses & Nasopharynx</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/13</activity>
+	<desc>Tutorial - Glottis</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C313</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/04</activity>
+	<desc>Specialised Radiotherapy Imaging Techniques</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/14</activity>
+	<desc>Tutorial - Hypopharynx</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C330</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/07</activity>
+	<desc>CNS Image Viewing</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/12</activity>
+	<desc>Tutorial - Oral cavity, Oropharynx & Salivary glands</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>13/01/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/01</activity>
+	<desc>Introduction to module & skin directed study</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/08</activity>
+	<desc>Introduction to H&N Directed Study</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/15</activity>
+	<desc>H&N Image Viewing</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>13/01/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/02</activity>
+	<desc>Introduction to CNS directed study</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/09</activity>
+	<desc>IMRT</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/16</activity>
+	<desc>Assessment tutorial</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2017</modulecode>
+	<activity>RT2017 Anatomy, oncology and management 3 (Skin, H&N and CNS)/Lecture 1/17</activity>
+	<desc>Review tutorial - intracranial and spinal tumours</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>

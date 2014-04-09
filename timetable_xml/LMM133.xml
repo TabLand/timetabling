@@ -1,0 +1,39 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>18/11/13-25/11/13, 09/12/13</week>
+	<modulecode>LMM133</modulecode>
+	<activity>LMM133 International Law and the Global Economy/Seminar 01/Wks 8-11</activity>
+	<desc>Weeks 8, 9 & 11</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>I103</room>
+	<lecturer>Baars, Grietje </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-11/11/13</week>
+	<modulecode>LMM133</modulecode>
+	<activity>LMM133 International Law and the Global Economy/Seminar 01/Wks 1-7</activity>
+	<desc>Weeks 1-4, 6 & 7</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106</room>
+	<lecturer>Baars, Grietje </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>02/12/13</week>
+	<modulecode>LMM133</modulecode>
+	<activity>LMM133 International Law and the Global Economy/Seminar 01/Dec 5th</activity>
+	<desc>Week 10 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A112</room>
+	<lecturer>Baars, Grietje </lecturer>
+	<day>Thursday </day>
+</booking>

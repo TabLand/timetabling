@@ -1,0 +1,117 @@
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>23/09/13</week>
+	<modulecode>HMM000</modulecode>
+	<activity>Induction - Health Management (catering)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>HMM000</modulecode>
+	<activity>Induction - Health Management</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>160</studentnos>
+	<room>Geary</room>
+	<lecturer>Layther, Greg;Needle, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HMM000</modulecode>
+	<activity>Induction - Introduction to Health Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2E (WS)</room>
+	<lecturer>Layther, Greg;Needle, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>13:50</end>
+	<week>23/09/13</week>
+	<modulecode>HMM000</modulecode>
+	<activity>Induction - Health Management</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C161;C170;C322;C158;C150</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>HMM000</modulecode>
+	<activity>Reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>HMM000</modulecode>
+	<activity>Induction - Introduction to Health Management/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>3C (WS)</room>
+	<lecturer>Layther, Greg;Needle, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>HMM000</modulecode>
+	<activity>HMM000 Health Management Open Forum/Tutorial 01/01</activity>
+	<desc>Health Management Open Forum</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A112</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>HMM000</modulecode>
+	<activity>HMM000 Health Management Open Forum/Tutorial 02/01</activity>
+	<desc>Health Management Open Forum</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A226</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>19/05/14-23/06/14</week>
+	<modulecode>HMM000</modulecode>
+	<activity>HMM000 Health Management Open Forum/Tutorial 03/01</activity>
+	<desc>Health Management Open Forum</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A112</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

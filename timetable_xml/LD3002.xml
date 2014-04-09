@@ -1,0 +1,325 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>06/01/14, 20/01/14, 03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/I</activity>
+	<desc>Group I</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG10</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>13/01/14, 27/01/14, 10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/J</activity>
+	<desc>Group J</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG10</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>06/01/14, 20/01/14, 03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/K</activity>
+	<desc>Group K</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C164</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>13/01/14, 27/01/14, 10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/L</activity>
+	<desc>Group L</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C164</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13, 14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/A</activity>
+	<desc>Group A</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A112</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/B</activity>
+	<desc>Group B</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A112</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>06/01/14, 20/01/14, 03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/A</activity>
+	<desc>Group A</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG10</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>13/01/14, 27/01/14, 10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/B</activity>
+	<desc>Group B</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG10</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13, 14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/E</activity>
+	<desc>Group E</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D113</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/F</activity>
+	<desc>Group F</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D113</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>05/05/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Revision Tutorial 02/I,J,K&L/May 8th</activity>
+	<desc>Groups I, J, K & L</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D104</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13, 14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/G</activity>
+	<desc>Group G</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/H</activity>
+	<desc>Group H</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>06/01/14, 20/01/14, 03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/E</activity>
+	<desc>Group E</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>13/01/14, 27/01/14, 10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/F</activity>
+	<desc>Group F</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13, 14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/C</activity>
+	<desc>Group C</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>C312</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/D</activity>
+	<desc>Group D</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>C312</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>06/01/14, 20/01/14, 03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/C</activity>
+	<desc>Group C</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>13/01/14, 27/01/14, 10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/D</activity>
+	<desc>Group D</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>06/01/14, 20/01/14, 03/02/14, 17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/G</activity>
+	<desc>Group G</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>13/01/14, 27/01/14, 10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 02/H</activity>
+	<desc>Group H</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C167</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13, 14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/I</activity>
+	<desc>Group I</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>I106</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/J</activity>
+	<desc>Group J</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>I106</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13, 14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/K</activity>
+	<desc>Group K</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>I106</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LD3002</modulecode>
+	<activity>LD3002 Contract Law/Tutorial 01/L</activity>
+	<desc>Group L</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>I106</room>
+	<lecturer>Reece Thomas, Katherine </lecturer>
+	<day>Friday </day>
+</booking>

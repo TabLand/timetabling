@@ -1,0 +1,52 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>ECM210</modulecode>
+	<activity>ECM210 Advanced Economic Evaluation In Healthcare/Lecture 01/1</activity>
+	<desc>Weeks 1-11</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>D104</room>
+	<lecturer>Cairns, John </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
+	<modulecode>ECM210</modulecode>
+	<activity>ECM210 Advanced Economic Evaluation In Healthcare/Tutorial 01/02</activity>
+	<desc>Weeks 1-7, 9 & 10</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D111</room>
+	<lecturer>Li, Bernadette </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
+	<modulecode>ECM210</modulecode>
+	<activity>ECM210 Advanced Economic Evaluation In Healthcare/Tutorial 01/01</activity>
+	<desc>Weeks 1-7, 9 & 10</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D112</room>
+	<lecturer>Cairns, John </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>ECM210</modulecode>
+	<activity>ECM210 Advanced Economic Evaluation In Healthcare/Exam/Mat 20th</activity>
+	<desc>Week 8</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>D104</room>
+	<lecturer>Cairns, John </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>SMM467 FIN</modulecode>
+	<activity>SMM467 Corporate Finance & Valuation (MSc Fin)/Lecture 01</activity>
+	<desc>MSc Fin: Lecture: Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>LG001</room>
+	<lecturer>Golubov, Andrey </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>SMM467 FIN</modulecode>
+	<activity>SMM467 Corporate Finance & Valuation (MSc Fin/MSc CF)/TEST/wk 6</activity>
+	<desc>(LEAD) MSc Fin: Lecture: Week 6 : Test</desc>
+	<joint>SMM467 FIN;SMM467 CF</joint>
+	<studentnos>80</studentnos>
+	<room>2002;2003;2006;LG002/3</room>
+	<lecturer>Golubov, Andrey </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE3506</modulecode>
+	<activity>EE3506 Java Programming/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG05</room>
+	<lecturer>Perez, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE3506</modulecode>
+	<activity>EE3506 Java Programming/Computer Room 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>VLSEMS1 </lecturer>
+	<day>Friday </day>
+</booking>

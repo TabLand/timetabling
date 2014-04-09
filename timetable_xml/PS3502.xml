@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>16:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>PS3502</modulecode>
+	<activity>PS3502 Counselling Skills/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>26</studentnos>
+	<room>A109</room>
+	<lecturer>Chaudry, Sara </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/10/13-02/12/13</week>
+	<modulecode>PS3502</modulecode>
+	<activity>PS3502 Counselling Skills/Break Out 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

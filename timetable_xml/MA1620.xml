@@ -1,0 +1,26 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/06/14-23/06/14</week>
+	<modulecode>MA1620</modulecode>
+	<activity>MA1620 Introduction To Finance/Lecture 1/03</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Geary</room>
+	<lecturer>Michaelson, Robin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>09/06/14-23/06/14</week>
+	<modulecode>MA1620</modulecode>
+	<activity>MA1620 Introduction To Finance/Lecture 2/03</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Geary</room>
+	<lecturer>Michaelson, Robin </lecturer>
+	<day>Friday </day>
+</booking>

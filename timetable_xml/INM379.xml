@@ -1,0 +1,26 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM379</modulecode>
+	<activity>INM379 Computer Games Architectures/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>Child, Chris </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM379</modulecode>
+	<activity>INM379 Computer Games Architectures/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A219</room>
+	<lecturer>Child, Chris </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-03/02/14, 17/02/14-31/03/14</week>
+	<modulecode>SMM030</modulecode>
+	<activity>SMM030 Health & Care/(ST1) Lecture/Wks 1-2, 4-10</activity>
+	<desc>(ST1) Spring : Weeks 1-2, 4-10</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>3003</room>
+	<lecturer>Cheung, Jacky </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM030</modulecode>
+	<activity>SMM030 Health & Care/(ST1) Lecture/Wk 3</activity>
+	<desc>(ST1) Spring : Week 3 only</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2002</room>
+	<lecturer>Cheung, Jacky </lecturer>
+	<day>Tuesday </day>
+</booking>

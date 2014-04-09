@@ -1,0 +1,117 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>30/09/13-07/10/13, 21/10/13, 11/11/13-09/12/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Lecture 1/1/LEAD</activity>
+	<desc>Weeks 1, 2, 4 and 6-11</desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>36</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Tutorial 1/1/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>18</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>18/11/13, 02/12/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Tutorial 1/2/LEAD</activity>
+	<desc> </desc>
+	<joint>LU3072;LG3072</joint>
+	<studentnos>18</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>14/10/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Lecture 1/1/LEAD/Oct 17th</activity>
+	<desc>Week 3 rescheduled</desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>36</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>11/11/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Lecture 1/1/LEAD/Nov 14th</activity>
+	<desc>Week 6 rescheduled in week 7</desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>36</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>09/12/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Lecture 1/1/LEAD/Dec 11th</activity>
+	<desc> </desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>36</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>14/10/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Tutorial 1/2/LEAD/Oct 17th</activity>
+	<desc>Week 3 rescheduled</desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>18</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>11/11/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Tutorial 1/2/LEAD/Nov 14th</activity>
+	<desc>Week 6 rescheduled in week 7</desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>18</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>09/12/13</week>
+	<modulecode>LU3072</modulecode>
+	<activity>LU3072 Islamic Law/Tutorial 1/LEAD/Dec 11th</activity>
+	<desc> </desc>
+	<joint>LG3072;LU3072</joint>
+	<studentnos>18</studentnos>
+	<room>DLG20</room>
+	<lecturer>Rafiq, Nabil </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 18/11/13-09/12/13</week>
+	<modulecode>LA0020</modulecode>
+	<activity>LA0020 Extracurricular Business Arabic Beginner Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>El-Shareif, Ahmed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>LA0020</modulecode>
+	<activity>LA0020 Extracurricular Business Arabic Beginner Autumn/01 - wk6</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>El-Shareif, Ahmed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>11/11/13</week>
+	<modulecode>LA0020</modulecode>
+	<activity>LA0020 Extracurricular Business Arabic Beginner Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG19</room>
+	<lecturer>El-Shareif, Ahmed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>LA0020</modulecode>
+	<activity>LA0020 Extracurricular Business Arabic Beginner Spring/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>El-Shareif, Ahmed </lecturer>
+	<day>Monday </day>
+</booking>

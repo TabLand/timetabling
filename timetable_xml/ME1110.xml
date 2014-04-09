@@ -1,0 +1,715 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>14/10/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 3/01</activity>
+	<desc>Manufacturing & Workshop</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>BG02</room>
+	<lecturer>Leach, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-07/10/13, 21/10/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 3/01</activity>
+	<desc>Manufacturing & Workshop</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>Geary</room>
+	<lecturer>Leach, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 3/01</activity>
+	<desc>Manufacturing & Workshop</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>BG03</room>
+	<lecturer>Leach, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-10/02/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 1/02/LEAD</activity>
+	<desc>Drawing & Design. Joint with ME1105: total numbers 105</desc>
+	<joint>ME1110;ME1105;ME1110</joint>
+	<studentnos>110</studentnos>
+	<room>AG07</room>
+	<lecturer>Dhunput, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>17/02/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 1/02/LEAD</activity>
+	<desc>Drawing & Design. Joint with ME1105: total numbers 105</desc>
+	<joint>ME1110;ME1105;ME1110</joint>
+	<studentnos>110</studentnos>
+	<room>AG07</room>
+	<lecturer>Dhunput, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Test/02</activity>
+	<desc>Drawing & design</desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>28/10/13, 11/11/13, 09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 2/01</activity>
+	<desc>Lab Lecture*</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>AG07</room>
+	<lecturer>Yan, Y </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 4 catch-up session/01</activity>
+	<desc>Gp D Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>EG07;CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-18/11/13, 09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 1/01/LEAD</activity>
+	<desc>Drawing & Design. Joint with ME1105: total numbers 105</desc>
+	<joint>ME1105;ME1110;ME1110</joint>
+	<studentnos>110</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Dhunput, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>25/11/13-02/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lecture 1/01/LEAD</activity>
+	<desc>Drawing & Design. Joint with ME1105: total numbers 105</desc>
+	<joint>ME1105;ME1110;ME1110</joint>
+	<studentnos>110</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Aylmer, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 1/01</activity>
+	<desc>Gp D Drawing</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>21/10/13-28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 1/01</activity>
+	<desc>Gp C Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 1 catch-up session/01</activity>
+	<desc>Gp C Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>18/11/13, 02/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 1/01</activity>
+	<desc>Gp C Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Practical 1/01</activity>
+	<desc>Gp D AutoCAD</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>VL 04 - EFMECA </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-03/02/14, 17/02/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3/02/Wks 1,2,4</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>15</studentnos>
+	<room>C301;CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 3/02</activity>
+	<desc>Gp B Design</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>VL 03 - EFMECA </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14, 24/02/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3/02/Wks 3,5</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3/02/Wks 7,9,11</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/03/14, 31/03/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3/02/Wks 8,10</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A307&8;CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>20/01/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/MEA Part 1 Design Week/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>BG02</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/MEA Part 1 Design Week/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG03;CG02;CG04;C150</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 4/02/Wks 1,2,4,8,10</activity>
+	<desc>Gp D Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C301;CLG07</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 4/02</activity>
+	<desc>Gp C Design</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110</joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>VL 04 - EFMECA </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 4/02/Wks 3,5,7,9,11</activity>
+	<desc>Gp D Lab/Workshop Rota</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110</joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 2/01</activity>
+	<desc>Gp A Drawing</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>21/10/13-28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 2/01</activity>
+	<desc>Gp B Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 2 catch-up session/01</activity>
+	<desc>Gp B Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>18/11/13, 02/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 2/01</activity>
+	<desc>Gp B Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Practical 2/01</activity>
+	<desc>Gp A AutoCAD</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>VL 03 - EFMECA </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 1 catch-up session/02</activity>
+	<desc>Gp C Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A220;CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/MEA Part 1 Design Week/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>CLG07</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/London Eye/2nd Oct</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>140</studentnos>
+	<room>External</room>
+	<lecturer>Kaparias, I;Dhunput, A;Leach, R;Pullen, K;Tomas-Rodriguez, M;Banerjee, R;Gavaises, M;Kovacevic, A;Cheung, Chak-Wah;Stosic, N;Lockett, R;Nouri, J Prof;Prince, S;Yan, Y;Stirling, D;Atkin, C Prof;Turkoglou, C;Sikora, Dr I;Naher, S Dr;Sayma, A;Evans, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 2 catch-up session/02</activity>
+	<desc>Gp B Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C301;CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>13/01/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Test/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>140</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/MEA Part 1 Design Week/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>CLG07</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 2/02/Wks 1,2,4,8,10</activity>
+	<desc>Gp B Lab/Workshop Rota</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>15</studentnos>
+	<room>B307A;CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 2/02</activity>
+	<desc>Gp A Design</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>VL 03 - EFMECA </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 2/02/Wks 3,5,7,9,11</activity>
+	<desc>Gp B Lab/Workshop Rota</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 3/01</activity>
+	<desc>Gp B Drawing</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>VL 03 - EFMECA </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>21/10/13-28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3/01</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3 catch-up session/01</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>18/11/13, 02/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3/01</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Practical 3/01</activity>
+	<desc>Gp B AutoCAD</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>27/01/14-03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 1/02/Wks 1,2,4,8,10</activity>
+	<desc>Gp C Lab/Workshop Rota</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG51</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 1/02</activity>
+	<desc>Gp D Design</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>VL 04 - EFMECA </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 1/02/Wks 3,5,7,9,11</activity>
+	<desc>Gp C Lab/Workshop Rota</desc>
+	<joint>ME1109;ME1109;ME1110;ME1110;ME1110</joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Tutorial 4/01</activity>
+	<desc>Gp C Drawing</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>VL 04 - EFMECA </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>21/10/13-28/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 4/01</activity>
+	<desc>Gp D Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>B307A;CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 4 catch-up session/02</activity>
+	<desc>Gp D Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>18/11/13, 02/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 4/01</activity>
+	<desc>Gp D Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Practical 4/01</activity>
+	<desc>Gp C AutoCAD</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>20/01/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/MEA Part 1 Design Week/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>CLG07</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:30</end>
+	<week>20/01/14</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/MEA Part 1 Design Week/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>Geary</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME1110</modulecode>
+	<activity>ME1110 Engineering Practice 1/Lab Sems 3 catch-up session/02</activity>
+	<desc>Gp A Lab/Workshop Rota</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CLG07;CG50</room>
+	<lecturer>Leach, R;Yan, Y </lecturer>
+	<day>Friday </day>
+</booking>

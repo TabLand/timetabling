@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>BS2208</modulecode>
+	<activity>BS2208 New Venture Thinking/Lecture 01</activity>
+	<desc>Lecture: Spring</desc>
+	<joint> </joint>
+	<studentnos>85</studentnos>
+	<room>AG07</room>
+	<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>BS2208</modulecode>
+	<activity>BS2208 New Venture Thinking/Tutorial 01/01</activity>
+	<desc>Tutorial - Spring</desc>
+	<joint> </joint>
+	<studentnos>85</studentnos>
+	<room>BG02</room>
+	<lecturer>Foit, Benedikt;Lesevic, Habib </lecturer>
+	<day>Tuesday </day>
+</booking>

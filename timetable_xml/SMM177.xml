@@ -1,0 +1,39 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM177</modulecode>
+	<activity>SMM177 Real Estate Debt Markets/Lecture 01</activity>
+	<desc>Spring lecture REI</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>3002</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/02/14, 03/03/14</week>
+	<modulecode>SMM177</modulecode>
+	<activity>SMM177 Real Estate Debt Markets/Computer Room 01/1</activity>
+	<desc>Comp Labs : Spring Term 2 - REI: Weeks 4 & 6</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>31/03/14</week>
+	<modulecode>SMM177</modulecode>
+	<activity>SMM177 Real Estate Debt Markets/TEST/WK 10</activity>
+	<desc>Spring TEST WK 10 : REI</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>3003</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Wednesday </day>
+</booking>

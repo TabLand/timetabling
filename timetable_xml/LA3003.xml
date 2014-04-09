@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA3003</modulecode>
+	<activity>LA3003 Lgp French Advanced/Lecture Autumn/Joint</activity>
+	<desc>Joint with LA3401</desc>
+	<joint>LA3003;LA3401</joint>
+	<studentnos>30</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA3003</modulecode>
+	<activity>LA3003 Lgp French Advanced/Lecture Spring/Joint</activity>
+	<desc>Joint with LA3401</desc>
+	<joint>LA3401;LA3003</joint>
+	<studentnos>16</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

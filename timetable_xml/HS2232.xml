@@ -1,0 +1,637 @@
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Workshop/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>A107</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C158</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Workshop/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG24b</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG24b</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Practical/03</activity>
+	<desc>CPR: CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C216</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Lanlehin, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C170</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C345</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Workshop/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG24b</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Research methods/01</activity>
+	<desc>All CN groups</desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>CG04</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>23/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Lecture/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>C336</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Lecture/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>C336</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>07/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Lecture/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>C336</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Lecture/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>C336</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>21/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Lecture/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>C336</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>28/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Lecture/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>C336</room>
+	<lecturer>Lanlehin, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Assessment and management of the child with an Endocrine Disorder/01</activity>
+	<desc>CN/01 & 02</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2F (WS)</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Library session/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>Radbourne, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Practical/02</activity>
+	<desc>CPR: CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C215</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/01</activity>
+	<desc>CN/01 & 02</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>C170</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Lanlehin, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>13:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Medicines Management/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Library session/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>Radbourne, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Safeguarding children/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Practical/01</activity>
+	<desc>CPR: CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C216</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/01</activity>
+	<desc>CN/01 & 02</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>ALG16</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 1/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Lanlehin, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Medicines Management/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2C/2D (WS)</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Experiencing Acute Care, Diagnosis & Treatment: Nursing/Tutorial 2/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Library session/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>Radbourne, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2232</modulecode>
+	<activity>HS2232 Rescheduled: Safeguarding children/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2C/2D (WS)</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1788</modulecode>
+	<activity>CS1788 Introduction to the City and Financial Services term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C170</room>
+	<lecturer>Singh, Permjit </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>CS1788</modulecode>
+	<activity>CS1788 Introduction to the City and Financial Services term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG09</room>
+	<lecturer>Singh, Permjit </lecturer>
+	<day>Tuesday </day>
+</booking>

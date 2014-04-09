@@ -1,0 +1,221 @@
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>09/06/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/OSCE2/01</activity>
+	<desc>Viva Exams x 5 rooms - 1:1 sessions for all 65 students</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A111;A108;A107;A226;AG11</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 4/01</activity>
+	<desc>Clinical Practice Tutorial - Group 4</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>09/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Lecture 1/01</activity>
+	<desc>Introduction to the Module</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>AG21</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 6/01</activity>
+	<desc>Clinical Practice Tutorial - Group 6</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>09/06/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/OSCE2/02 PM</activity>
+	<desc>Sue Humphries</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG03;DLG09;A227;A225;DLG20</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>19/05/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/OSCE1/01</activity>
+	<desc>Image Evaluation Exam (65 full grp) 2 rooms req'd</desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>A218;EG07</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 5/01</activity>
+	<desc>Clinical Practice Tutorial - Group 5</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>16/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 1/02</activity>
+	<desc>Clinical Practice Tutorial - Group 1</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 7/05</activity>
+	<desc>Portfolio check</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A107</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 7/04</activity>
+	<desc>Portfolio check</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>I203/I206</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 7/03</activity>
+	<desc>Portfolio check</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C312</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 7/02</activity>
+	<desc>Portfolio check</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C328</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 7/01</activity>
+	<desc>Portfolio check</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 1/01</activity>
+	<desc>Revision Session</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>09/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 8/01 (lead)</activity>
+	<desc>Clinical Practice Meeting - personal tutees only</desc>
+	<joint>RD3024;RD2024</joint>
+	<studentnos>15</studentnos>
+	<room>D106</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 2/01</activity>
+	<desc>Clinical Practice Tutorial - Group 2</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>RD2024</modulecode>
+	<activity>RD2024 Professional Practice in Medical Imaging/Tutorial 3/01</activity>
+	<desc>Clinical Practice Tutorial - Group 3</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>

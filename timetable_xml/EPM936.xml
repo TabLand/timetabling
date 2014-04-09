@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EPM936</modulecode>
+	<activity>EPM936 International Construction Contracts & Arbitration/SEMS/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Burgan, B </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:50</end>
+	<week>04/11/13</week>
+	<modulecode>EPM936</modulecode>
+	<activity>EPM936 International Construction Contracts & Arbitration/SEMS/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Burgan, B </lecturer>
+	<day>Thursday </day>
+</booking>

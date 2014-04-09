@@ -1,0 +1,143 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/08</activity>
+	<desc>Tutorial Autumn</desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>I203/I206</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C330</room>
+	<lecturer>VL 13/2 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C328</room>
+	<lecturer>VL 13/8 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C312</room>
+	<lecturer>VL 13/5 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A112</room>
+	<lecturer>VL 13/4 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>D109</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/01</activity>
+	<desc>Tutorial Autumn</desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>D108</room>
+	<lecturer>VL 13/1 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 25/11/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C313</room>
+	<lecturer>VL 13/7 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Lecture 1/02</activity>
+	<desc>Fortnightly masterclass</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>09/12/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 02/01 - wk 11</activity>
+	<desc>Lecture wk11 - needs to be mon 2-4</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>SLM005</modulecode>
+	<activity>SLM005 Professional Studies (a)/Autumn/Tutorial 01/09</activity>
+	<desc>Tutorial Autumn</desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A112;C313;C312;D108;C328;C330;I203/I206</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>

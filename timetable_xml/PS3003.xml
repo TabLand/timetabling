@@ -1,0 +1,52 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14</week>
+	<modulecode>PS3003</modulecode>
+	<activity>PS3003 Judgment And Decision Making/Lecture 01/01 LEAD/Wk 2</activity>
+	<desc>Week 2</desc>
+	<joint>PSM513;PS3003</joint>
+	<studentnos>20</studentnos>
+	<room>A108</room>
+	<lecturer>Ayton, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>10/02/14-24/02/14, 24/03/14-07/04/14</week>
+	<modulecode>PS3003</modulecode>
+	<activity>PS3003 Judgment And Decision Making/Lecture 01/01 LEAD/Wks 3-5&9-11</activity>
+	<desc>Weeks 3-5 & 9-11</desc>
+	<joint>PSM513;PS3003</joint>
+	<studentnos>20</studentnos>
+	<room>D111</room>
+	<lecturer>Ayton, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>10/03/14-17/03/14</week>
+	<modulecode>PS3003</modulecode>
+	<activity>PS3003 Judgment And Decision Making/Lecture 01/01 LEAD/Wks 7&8</activity>
+	<desc>Weeks 7 & 8</desc>
+	<joint>PSM513;PS3003</joint>
+	<studentnos>20</studentnos>
+	<room>E212</room>
+	<lecturer>Ayton, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>PS3003</modulecode>
+	<activity>PS3003 Judgment And Decision Making/Drop-In Clinic 01/01 LEAD</activity>
+	<desc>Weeks 1-5 & 7-11</desc>
+	<joint>PS3003;PSM513</joint>
+	<studentnos>5</studentnos>
+	<room>D330</room>
+	<lecturer>Ayton, Peter </lecturer>
+	<day>Monday </day>
+</booking>

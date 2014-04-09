@@ -1,0 +1,39 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-17/02/14, 03/03/14-17/03/14, 31/03/14</week>
+	<modulecode>SMM200</modulecode>
+	<activity>SMM200 Derivatives & Risk Management (MSc Fin)/Lecture 01/wks 1-4, 6-8,10</activity>
+	<desc>MSc Fin: Weeks 1-4, 6-8,10</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2004</room>
+	<lecturer>Bruche, Max </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM200</modulecode>
+	<activity>SMM200 Derivatives & Risk Management (MSc Fin)/TEST/wk 5</activity>
+	<desc>MSc Fin: Week 5 only : TEST : 90 students sharing 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2003;2004</room>
+	<lecturer>Bruche, Max </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>24/03/14</week>
+	<modulecode>SMM200</modulecode>
+	<activity>SMM200 Derivatives & Risk Management (MSc Fin)/Lecture 01/wk 9</activity>
+	<desc>MSc Fin: Week 9 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2003</room>
+	<lecturer>Bruche, Max </lecturer>
+	<day>Friday </day>
+</booking>

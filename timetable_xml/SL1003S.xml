@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>SL1003S</modulecode>
+	<activity>SL1003 Life Span Studies/Spring/Lecture 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343</room>
+	<lecturer>Morgan, Gary </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>SL1003S</modulecode>
+	<activity>SL1003 Life Span Studies/Spring/Lecture 01/02 (joint)</activity>
+	<desc>Life Span Studies (wks1-5 only) joint with SLM003 - 88 (Dev Psy part)</desc>
+	<joint>SLM003;SL1003S</joint>
+	<studentnos>50</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

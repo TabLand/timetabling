@@ -1,0 +1,1378 @@
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Service user involvement, empowerment, creative engagement and teaching 1/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A227</room>
+	<lecturer>Howard, C;O'Carroll, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Senior Medicines Management: Making sense of pharmacology in practice/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A214</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical audit 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM02</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: IV study day - GIS/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Carers' triangle of care 1/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BLG07</room>
+	<lecturer>Simpson, A;Outside speaker </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Risk Assessment and Management Workshop 1/01</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C208/210</room>
+	<lecturer>Eales, S;Outside speaker </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: IV study day - GIS/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Medicines calculations exam/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: IV study day 1/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching patients and users/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Service user involvement, empowerment, creative engagement and teaching 2/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A227</room>
+	<lecturer>Howard, C;O'Carroll, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical audit 1/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical audit 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A214</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Practical Aspects of Medicines Management/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Carers' triangle of care 2/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BLG07</room>
+	<lecturer>Simpson, A;Outside speaker </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Risk Assessment and Management Workshop 2/01</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C208/210</room>
+	<lecturer>Eales, S;Outside speaker </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Practical Aspects of Medicines Management/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Moving & handling update/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Hunter, J;Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/06/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Engaging in practice 3/Tutorial/01</activity>
+	<desc>Mid-placement review:CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24a</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: IV study day 2/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: The Law, policy and Mental Health 1/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Outside speaker;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (acute-ward) 1/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Lindsay, T;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Patient care simulations 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Bliss, M;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching patients, carers & students 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C232</room>
+	<lecturer>Gelbart, M;Hunter, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching, supervising, PDP development and appraisal of junior staff 1/01</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Moving & handling update/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Francis, A;Saunder, L;Lindsay, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Patient care simulations 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>McLeod, A;Chamney, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Public health & health promotion/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Hill, Marie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical audit/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D111</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>10/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Engaging in practice 3/Introduction</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>48</studentnos>
+	<room>BG03</room>
+	<lecturer>Chamney, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: The Law, policy and Mental Health 2/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Outside speaker;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (community) 2/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Diversity/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Jones, Mark;Hunter, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching patients, carers & students 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C232</room>
+	<lecturer>Gelbart, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching, supervising, PDP development and appraisal of junior staff 2/01</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Medicines calculations exam/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>IT Skills 5A (WS)</room>
+	<lecturer>Saunder, L;Lindsay, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Complex care closer to home/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C340</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Diversity/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>21/04/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Moving and Handling/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Francis, A;Anderson, D;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Patient care simulation 1 - deteriorating child/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D111</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: "Everybody matters" - compassion, dignity & communication/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A214</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review 1/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>O'Carroll, M;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (acute-ward) 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM02</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Senior Medicines Management: Making sense of pharmacology in practice/01</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BM02</room>
+	<lecturer>Lindsay, T;Outside speaker </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review 1/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C232</room>
+	<lecturer>Howard, C;O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Gelbart, M;Chamney, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Senior medicines management/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>07/04/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Calculations exam resit/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>Rawlings-Anderson, K;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>05/05/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Calculations exam resit/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>Rawlings-Anderson, K;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: guided study 1/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review 1/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Prep for registration workshop/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Haddad, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review 2/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Reynolds, L;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Final rehearsal of clinical skills - you say/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (community) 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical audit 1/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>I203/I206</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review 2/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C232</room>
+	<lecturer>Eales, S;Howard, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Final rehearsal of clinical skills - you say/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: consolidating your tissue viability skills/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Calculations exam resit/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24a</room>
+	<lecturer>Rawlings-Anderson, K;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: guided study 2/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>21/04/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical skills review 2/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching, supervising, PDP development and appraisal of junior staff 1/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Eales, S;Howard, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Moving & handling update/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Francis, A;Anderson, D;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Medicines calculations exam/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: consolidating your tissue viability skills/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Service user involvement, empowerment, creative engagement and teaching 1/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Howard, C;O'Carroll, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (acute-ward) 1/03</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>I103</room>
+	<lecturer>Lindsay, T;Outside speaker </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching patients, carers & students 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (acute-ward) 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BLG08</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (acute-ward)/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A225</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Senior Medicines Management: Making sense of calculations in practice/03</activity>
+	<desc>Test: CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24a</room>
+	<lecturer>Benato, R;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Complex care closer to home/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>3F (WS)</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching, supervising, PDP development and appraisal of junior staff 2/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Eales, S;Howard, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Medicines calculations exam/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>IT Skills 5C (WS)</room>
+	<lecturer>Francis, A;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Moving & handling update/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Hunter, J;Manning, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Senior medicines management/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Service user involvement, empowerment, creative engagement and teaching 2/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Howard, C;Davies, Jacqueline </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (community) 2/03</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>I103</room>
+	<lecturer>Eales, S;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching patients, carers & students 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Virtual workload (community) 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C340</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Senior Medicines Management: Making sense of pharmacology in practice - calculations/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Klufio, A;Anderson, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Preparation for Registration & PDP/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>21/04/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Health promotion 1/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>3F (WS)</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Carers' triangle of care 1/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Simpson, A;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Risk Assessment and Management Workshop 1/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C208/210</room>
+	<lecturer>Eales, S;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: "Everybody matters" - compassion, dignity & communication/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Public health & health promotion/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BLG08</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: The Law, policy and Mental Health 1/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A109</room>
+	<lecturer>Outside speaker;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: "Everybody matters" - compassion, dignity & communication/03</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>I106</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical audit 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BLG07</room>
+	<lecturer>Jones, Mark;Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: "Everybody matters" - compassion, dignity & communication/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: compassion, dignity & communication 2 - conflict resolution/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C323</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: compassion, dignity & communication 1/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>21/07/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Engaging in practice 3/Review</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>48</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Cooper, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Carers' triangle of care 2/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BM02</room>
+	<lecturer>Simpson, A;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Risk Assessment and Management Workshop 2/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C208/210</room>
+	<lecturer>Eales, S;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Complex care closer to home/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Benato, R;Hill, Marie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Prep for registration workshop/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: The Law, policy and Mental Health 2/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A109</room>
+	<lecturer>Outside speaker;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Prep for registration workshop/03</activity>
+	<desc>MHN/01 & 02B</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>I106</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Clinical audit 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Prep for registration workshop/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>24/02/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: patient care simulation 2 - deteriorating child/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>Skills room G5/G6</room>
+	<lecturer>Klufio, A;Ellis, M;Mahoney, P </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>03/03/14</week>
+	<modulecode>HSM301</modulecode>
+	<activity>HSM301 Simulating Practice: Teaching, supervising, development and appraisal of junior staff/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>

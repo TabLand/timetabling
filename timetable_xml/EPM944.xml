@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM944</modulecode>
+	<activity>EPM944 Managing Project Risk & Uncertainty/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM944</modulecode>
+	<activity>EPM944 Managing Project Risk & Uncertainty/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM944</modulecode>
+	<activity>EPM944 Managing Project Risk & Uncertainty/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM944</modulecode>
+	<activity>EPM944 Managing Project Risk & Uncertainty/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

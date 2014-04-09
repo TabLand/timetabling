@@ -1,0 +1,351 @@
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - Business Studies</activity>
+	<desc>extra talk</desc>
+	<joint> </joint>
+	<studentnos>175</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - IFRM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>125</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - A & F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>AG22</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - BNU</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>AG05</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Interactive Event - IFRM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343;C348;C350</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>14:30</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Interactive Event - Business Studies</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338;C336</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - BIF</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>125</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:30</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - Management</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>175</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Interactive Event - A & F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>C303</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - Actuarial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Library Induction - BIF</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>125</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Library Induction - Management</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>175</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Maths/English Test - Actuarial</activity>
+	<desc>Michael Davies 3147</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>BG03</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass FMBS Test</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Library Induction - A & F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>Geary</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Interactive Event - BIF</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343;C348;C350</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass UG Induction: Introduction to professional skills 01</activity>
+	<desc>Introduction to professional skills</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Library Induction - IFRM & BNU</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>137</studentnos>
+	<room>Geary</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Library Induction</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>175</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Interactive Event - Management</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338;C336</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass UG Induction: Introduction to professional skills 02</activity>
+	<desc>Introduction to professional skills</desc>
+	<joint> </joint>
+	<studentnos>115</studentnos>
+	<room>Birley</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Interactive Event - Actuarial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C338;C336</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Course Officer - A & F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C304</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass Language Elective Test</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass CD Welcome - Business Studies/extra CD brief/yr 1 timetabling</activity>
+	<desc>extra talk on Bus yr 1 timetabling</desc>
+	<joint> </joint>
+	<studentnos>196</studentnos>
+	<room>Poynton</room>
+	<lecturer>Zaleska, Joanna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass IT/Moodle Induction</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>Cass UG Induction</modulecode>
+	<activity>Cass IT/Moodle Induction</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>EG12</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

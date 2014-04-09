@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3058</modulecode>
+	<activity>SG3058 Understanding Global Media Flows/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D104</room>
+	<lecturer>Chalaby, Jean </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3058</modulecode>
+	<activity>SG3058 Understanding Global Media Flows/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D112</room>
+	<lecturer>Chalaby, Jean;Wilson, Neil </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3058</modulecode>
+	<activity>SG3058 Understanding Global Media Flows/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D112</room>
+	<lecturer>Chalaby, Jean;Wilson, Neil </lecturer>
+	<day>Tuesday </day>
+</booking>

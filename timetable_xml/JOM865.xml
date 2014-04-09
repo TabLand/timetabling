@@ -1,0 +1,923 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>A110</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-21/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Felle, Tom </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Felle, Tom </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C330</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>I203/I206</room>
+	<lecturer>Swain, Harriet </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C312</room>
+	<lecturer>Bennetto, Jason </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C312</room>
+	<lecturer>Bennetto, Jason </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>I203/I206</room>
+	<lecturer>Swain, Harriet </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C330</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG24a</room>
+	<lecturer>Felle, Tom </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A214</room>
+	<lecturer>Felle, Tom </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>C350</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14-10/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 2 Tue/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C150</room>
+	<lecturer>Felle, Tom </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14-10/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 2 Tue/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C328</room>
+	<lecturer>Bennetto, Jason </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14-10/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 2 Tue/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>Swain, Harriet </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14-10/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Clinic term 2 Tue/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C140</room>
+	<lecturer>Newman, Linda </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>17/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>AG37</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>C170</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:30</end>
+	<week>28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>CG02</room>
+	<lecturer>VL 01 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111;A107</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>A108</room>
+	<lecturer>Newman, Linda </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>A226</room>
+	<lecturer>Bennetto, Jason </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>A108;AG03;AG32</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>05/05/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Careers Session</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A107</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Tutorial term 2/01 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>DLG03</room>
+	<lecturer>VL 02 - AAJOUR </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>03/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>D104</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14, 10/02/14-03/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>AG32</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Tutorial term 2/01 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>D112</room>
+	<lecturer>Bennetto, Jason </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A107</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG08</room>
+	<lecturer>Swain, Harriet </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>Magazice Journalism tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>C301</room>
+	<lecturer>Burlage, Fred </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>ALG16</room>
+	<lecturer>D'Argy Smith, Marcelle </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-14/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine Thursday 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>I106</room>
+	<lecturer>Bennetto, Jason </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-14/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine Thursday 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>I203/I206</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Multimedia</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>EG04</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>05/05/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Celebrity Interviewing</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>03/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Multimedia</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>C301</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Multimedia</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>EG04</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Multimedia</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>EG04</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>C343</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>05/05/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 How to do an invoice with CV tips</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>D104</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>03/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Multimedia</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>EG12</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24a</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>17/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Multimedia</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>A220</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:30</start>
+	<end>18:30</end>
+	<week>27/01/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Multimedia</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>41</studentnos>
+	<room>EG12</room>
+	<lecturer>Davis, Dan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>E212</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C350</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>DLG03</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine (Friday)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A214</room>
+	<lecturer>D'Argy Smith, Marcelle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A225;CG56</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13, 28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A225;CG56</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:30</end>
+	<week>14/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A225;CG56</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>21/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Freedom of Information 25/10/13</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG07</room>
+	<lecturer>Brooke, Heather </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>13:50</end>
+	<week>18/11/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>BLG07</room>
+	<lecturer>Rowlands, Barbara </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>ALG16</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>04/11/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>A111;A108</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A225;CG56</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>BLG08;BM02</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>ALG16</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>18:50</end>
+	<week>10/02/14-17/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine (Friday)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>AG24b</room>
+	<lecturer>D'Argy Smith, Marcelle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>18:50</end>
+	<week>24/02/14-03/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine (Friday)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D111</room>
+	<lecturer>D'Argy Smith, Marcelle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>18:50</end>
+	<week>10/03/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine (Friday)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>BM03</room>
+	<lecturer>D'Argy Smith, Marcelle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>27/01/14-10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG27 (TV Studio)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13, 21/10/13-28/10/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Lab term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG12</room>
+	<lecturer>Rowlands, Barbara;Bennetto, Jason </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A226</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>18:50</end>
+	<week>27/01/14-10/02/14</week>
+	<modulecode>JOM865</modulecode>
+	<activity>JOM865 Journalism Practice Magazine</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

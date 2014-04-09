@@ -1,0 +1,39 @@
+<booking>
+	<start>13:30</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM846</modulecode>
+	<activity>JOM846 Media Law/Lecture term 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>210</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Battle, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM846</modulecode>
+	<activity>JOM846 Media Law/Lecture term 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>210</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Battle, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>19:30</start>
+	<end>20:30</end>
+	<week>31/03/14</week>
+	<modulecode>JOM846</modulecode>
+	<activity>JOM846 Media Law</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>250</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Battle, John </lecturer>
+	<day>Thursday </day>
+</booking>

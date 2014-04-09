@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-10/02/14</week>
+	<modulecode>SMM029</modulecode>
+	<activity>SMM029 Actuarial Risk Management (CA1) Part II/Lecture 01/wks 1-3</activity>
+	<desc>Spring :AM FT/PT1 : Weeks 1-3</desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>2006</room>
+	<lecturer>Wright, Douglas </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>17/02/14-31/03/14</week>
+	<modulecode>SMM029</modulecode>
+	<activity>SMM029 Actuarial Risk Management (CA1) Part II/Lecture 01/wks 4-10</activity>
+	<desc>Spring :AM FT/PT1 : Weeks 4-10</desc>
+	<joint> </joint>
+	<studentnos>68</studentnos>
+	<room>2006</room>
+	<lecturer>Smith, David;Wright, Douglas </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG2028</modulecode>
+	<activity>SG2028 Contemporary Social Theory/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>57</studentnos>
+	<room>AG22</room>
+	<lecturer>Friedman, Samuel </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG2028</modulecode>
+	<activity>SG2028 Contemporary Social Theory/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A109</room>
+	<lecturer>Feather, Howard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG2028</modulecode>
+	<activity>SG2028 Contemporary Social Theory/Tutorial 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A109</room>
+	<lecturer>Feather, Howard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG2028</modulecode>
+	<activity>SG2028 Contemporary Social Theory/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D111</room>
+	<lecturer>Feather, Howard </lecturer>
+	<day>Friday </day>
+</booking>

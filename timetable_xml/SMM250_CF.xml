@@ -1,0 +1,39 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-10/03/14, 24/03/14</week>
+	<modulecode>SMM250_CF</modulecode>
+	<activity>SMM250 Corporate Risk Management (MSc CF)/Lecture/wks 1-7,9</activity>
+	<desc>MSc CF: Weeks 1-7, 9</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>2004</room>
+	<lecturer>Schroth, Enrique </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>31/03/14</week>
+	<modulecode>SMM250_CF</modulecode>
+	<activity>SMM250 Corporate Risk Management (MSc CF)/Lecture/wk 10</activity>
+	<desc>MSc CF: Week 10 only - Guest Speaker</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>LG001</room>
+	<lecturer>Schroth, Enrique </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>SMM250_CF</modulecode>
+	<activity>SMM250 Corporate Risk Management (MSc CF)/Lecture/wk 7</activity>
+	<desc>MSc CF: Week 7 only (replacement for wk 8 missed)</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>LG001</room>
+	<lecturer>Schroth, Enrique </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>26/05/14</week>
+	<modulecode>RDM031</modulecode>
+	<activity>RDM031 Obstetric Ultrasound/OSE/01</activity>
+	<desc>OSE</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>D518</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>24/03/14</week>
+	<modulecode>RDM031</modulecode>
+	<activity>RDM031 Obstetric Ultrasound/Lecture 1/02 wk9</activity>
+	<desc>Obstetric Ultrasound Lectures (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>31</studentnos>
+	<room>AG11</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>31/03/14</week>
+	<modulecode>RDM031</modulecode>
+	<activity>RDM031 Obstetric Ultrasound/Lecture 1/02 wk10</activity>
+	<desc>Obstetric Ultrasound Lectures (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>31</studentnos>
+	<room>C337</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RDM031</modulecode>
+	<activity>RDM031 Obstetric Ultrasound/Lecture 1/02 wk11</activity>
+	<desc>Obstetric Ultrasound Lectures (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A109</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>

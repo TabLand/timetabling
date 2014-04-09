@@ -1,0 +1,39 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-21/10/13</week>
+	<modulecode>LG2001</modulecode>
+	<activity>LG2001 Legal Skills/Lecture 1/01</activity>
+	<desc>Weeks 1-4</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>LG2001</modulecode>
+	<activity>LG2001 Legal Skills/Exam/Nov 5th</activity>
+	<desc>Week 6</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>AG07</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13</week>
+	<modulecode>LG2001</modulecode>
+	<activity>LG2001 Legal Skills/Additional Lecture/Oct 24th</activity>
+	<desc>Week 4</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>E212</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Thursday </day>
+</booking>

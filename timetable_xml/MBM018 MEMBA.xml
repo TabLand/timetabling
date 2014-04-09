@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>11/11/13</week>
+	<modulecode>MBM018 MEMBA</modulecode>
+	<activity>MBM018 Finance 2/MEMBA/Syndicate Rooms 01</activity>
+	<desc>MEMBA 13 Intake - Syndicate Rooms : M. Lasfer</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N211;N210;N209;N206</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>11/11/13</week>
+	<modulecode>MBM018 MEMBA</modulecode>
+	<activity>MBM018 Finance 2/MEMBA/Fri/Lecture 01</activity>
+	<desc>MEMBA 2013 Stage 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Lasfer, Meziane </lecturer>
+	<day>Friday </day>
+</booking>

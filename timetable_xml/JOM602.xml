@@ -1,0 +1,65 @@
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>JOM602</modulecode>
+	<activity>JOM602 Publishing As A Business/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C345</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>21/10/13-28/10/13, 11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>JOM602</modulecode>
+	<activity>JOM602 Publishing As A Business/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>DLG09</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:30</end>
+	<week>14/10/13</week>
+	<modulecode>JOM602</modulecode>
+	<activity>JOM602 Publishing As A Business/Lecture/Oct 16th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG03</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>04/11/13</week>
+	<modulecode>JOM602</modulecode>
+	<activity>JOM602 Publishing As A Business/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>DLG09</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>JOM602</modulecode>
+	<activity>JOM602 Publishing As A Business/Lecture/Oct 16th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG03</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Wednesday </day>
+</booking>

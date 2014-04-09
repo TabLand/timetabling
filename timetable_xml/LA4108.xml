@@ -1,0 +1,39 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>12/05/14</week>
+	<modulecode>LA4108</modulecode>
+	<activity>LA4108 French for Media: Advanced</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>AG02</room>
+	<lecturer>Dalle, Nicole </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA4108</modulecode>
+	<activity>LA4108 French For Media (advanced)/Autumn</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D106</room>
+	<lecturer>Dalle, Nicole </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA4108</modulecode>
+	<activity>LA4108 French For Media (advanced)/Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C312</room>
+	<lecturer>Dalle, Nicole </lecturer>
+	<day>Tuesday </day>
+</booking>

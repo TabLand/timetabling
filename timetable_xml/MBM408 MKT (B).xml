@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>20/01/14-10/02/14</week>
+	<modulecode>MBM408 MKT (B)</modulecode>
+	<activity>MBM408 Mba Block 3: Marketing/B1/Lecture 01</activity>
+	<desc>FTMBA 2013 - Block 3 Marketing B1 session 1</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>G001</room>
+	<lecturer>Wiertz, Caroline;Robinson, Sionade;Bardhi, Fleura Prof.;MacDonnell, Rhiannon </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>20/01/14-10/02/14</week>
+	<modulecode>MBM408 MKT (B)</modulecode>
+	<activity>MBM408 Mba Block 3: Marketing/B2/Lecture 02</activity>
+	<desc>FTMBA 2013 - Block 3 Marketing B session 2</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2002</room>
+	<lecturer>Robinson, Sionade;Bardhi, Fleura Prof.;MacDonnell, Rhiannon </lecturer>
+	<day>Wednesday </day>
+</booking>

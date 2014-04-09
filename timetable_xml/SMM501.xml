@@ -1,0 +1,26 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>SMM501</modulecode>
+	<activity>SMM501 Portfolio Theory/IM/Lecture 01</activity>
+	<desc>IM : Autumn Lecture:</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Todorovic, Natasha </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>16:00</end>
+	<week>29/07/13</week>
+	<modulecode>SMM501</modulecode>
+	<activity>SMM501 Portfolio Theory/IM/Revision Lecture/Aug 01st</activity>
+	<desc>IM : Revision Lecture</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>G001</room>
+	<lecturer>Mateus, Cesario </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,221 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Lecture 01/1</activity>
+	<desc>Autumn Lecture</desc>
+	<joint> </joint>
+	<studentnos>196</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Oswick, Cliff;Brown, Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/Tutors meeting</activity>
+	<desc>tutors coordination meeting : no students to attend</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>ELG18/Drysdale Seminar Room</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>30/09/13-25/11/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/07/09/WKS 1-9</activity>
+	<desc>Group 7 of 9: Weeks 1-9 only</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D104</room>
+	<lecturer>Hallinan, Clare </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/Tutors prep</activity>
+	<desc>tutors prep between sessions : no students to attend ( no room required )</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/01/09</activity>
+	<desc>Group 1 of 9</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>DLG20</room>
+	<lecturer>Coombe, Fiona </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/03/09</activity>
+	<desc>Group 3 of 9 (40 seats req'd for 20 students double spaced)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>DLG19</room>
+	<lecturer>Dove, Angela </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>02/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/07/09/WK 10</activity>
+	<desc>Group 7 of 7: Week 10 only</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C135</room>
+	<lecturer>Hallinan, Clare </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/07/09/WK 11</activity>
+	<desc>Group 7 of 7: Week 11 only</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D221</room>
+	<lecturer>Hallinan, Clare </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/04/09</activity>
+	<desc>Group 4 of 9</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG05</room>
+	<lecturer>Chapman, Simon </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/05/09</activity>
+	<desc>Group 5 of 9</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>B103</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/06/09</activity>
+	<desc>Group 6 of 9</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C336</room>
+	<lecturer>Llewellyn, Geoff </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/05/09/Wk 6</activity>
+	<desc>Group 5 of 9</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG07</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/02/09/wks 1-2</activity>
+	<desc>Group 2 of 9 (40 seats req'd for 20 students double spaced) Weeks 1-2</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C303</room>
+	<lecturer>Dove, Angela </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-04/11/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/09/09/wks 1-6</activity>
+	<desc>Group 9 of 9 - Weeks 1-6</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C164</room>
+	<lecturer>O'Kane, Brendan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/08/09</activity>
+	<desc>Group 8 of 9</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG56</room>
+	<lecturer>Coombe, Fiona </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>14/10/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/02/09/wks 3-11</activity>
+	<desc>Group 2 of 9 (40 seats req'd for 20 students double spaced) Weeks 3-11</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C343</room>
+	<lecturer>Dove, Angela </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>11/11/13-09/12/13</week>
+	<modulecode>BS1005 MPS</modulecode>
+	<activity>BS1005 Management Practice & Skills/BUS/Tutorial/09/09/wks 7-11</activity>
+	<desc>Group 9 of 9 - Weeks 7-11</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG11</room>
+	<lecturer>O'Kane, Brendan </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>27/01/14-03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>SMM563</modulecode>
+	<activity>SMM563 International Commodity Trade/STF/Lecture/wks 1-6,8,10</activity>
+	<desc>ICT - STF only - Weeks 1-6, 8,10</desc>
+	<joint>SMM563;SMM563</joint>
+	<studentnos>82</studentnos>
+	<room>2003</room>
+	<lecturer>Tamvakis, Michael Prof. </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>10/03/14</week>
+	<modulecode>SMM563</modulecode>
+	<activity>SMM563 International Commodity Trade/STF/Lecture/wk 7</activity>
+	<desc>ICT - STF only - Week 7 only</desc>
+	<joint>SMM563;SMM563</joint>
+	<studentnos>82</studentnos>
+	<room>3002</room>
+	<lecturer>Tamvakis, Michael Prof. </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>31/03/14</week>
+	<modulecode>SMM563</modulecode>
+	<activity>SMM563 International Commodity Trade/STF/Lecture/wk 10</activity>
+	<desc>ICT - STF only - Week 10 only (replacement for wk 9 missed)</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>2003</room>
+	<lecturer>Tamvakis, Michael Prof. </lecturer>
+	<day>Friday </day>
+</booking>

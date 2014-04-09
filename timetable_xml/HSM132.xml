@@ -1,0 +1,429 @@
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>24/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>D104</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>07/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Practical/01</activity>
+	<desc>CPR: AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Francis, A;McLeod, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>17/03/14-31/03/14, 14/04/14-28/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24a</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>17/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>D104</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>31/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>D104</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>07/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Practical/02</activity>
+	<desc>CPR: AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>C208/210</room>
+	<lecturer>Francis, A;Bliss, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>14/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>D104</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>21/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>D104</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>28/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>D104</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/03/14-21/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 1/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>Dingle, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>28/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 1/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>Coutts, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>24/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>31/03/14, 14/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/01/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>Bowden, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>17/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>AG21</room>
+	<lecturer>Davies, Jacqueline </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>24/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>AG21</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>31/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>Davies, Jacqueline </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Lecture/02/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>A130</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>17/03/14-14/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 2/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>Geary</room>
+	<lecturer>Dingle, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 2/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>Geary</room>
+	<lecturer>Blows, W </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>28/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lecture 2/01</activity>
+	<desc>AN/01 & 02A/B</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>Geary</room>
+	<lecturer>Coutts, A;Dingle, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>31/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lab/01/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>C221</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>21/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lab/01/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>C221</room>
+	<lecturer>Filer, L;Dingle, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>17/03/14, 14/04/14, 28/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>I106</room>
+	<lecturer>Bowden, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lab/01/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C221</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>31/03/14, 21/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/03</activity>
+	<desc>AN/02B</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>I106</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>07/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Practical/03</activity>
+	<desc>CPR: AN/03</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>C208/210</room>
+	<lecturer>Francis, A;Bowden, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lab/01/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C221</room>
+	<lecturer>Filer, L;Dingle, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>13:50</end>
+	<week>24/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Nursing Tutorial/01/03</activity>
+	<desc>AN/02B</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>I106</room>
+	<lecturer>Bliss, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>31/03/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lab/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>C221</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>21/04/14</week>
+	<modulecode>HSM132</modulecode>
+	<activity>HSM132 Experiencing Acute Care, Diagnostics & Treatment/Biology Lab/01/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>C221</room>
+	<lecturer>Filer, L;Dingle, M </lecturer>
+	<day>Thursday </day>
+</booking>

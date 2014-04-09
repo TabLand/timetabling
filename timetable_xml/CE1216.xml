@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-03/02/14, 17/02/14-31/03/14</week>
+	<modulecode>CE1216</modulecode>
+	<activity>CE1216 Writing for Business/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>10/02/14</week>
+	<modulecode>CE1216</modulecode>
+	<activity>CE1216 Writing for Business/01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>24/02/14</week>
+	<modulecode>CE1216</modulecode>
+	<activity>CE1216 Writing for Business/01/27 Feb</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

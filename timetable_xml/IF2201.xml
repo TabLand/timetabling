@@ -1,0 +1,39 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>IF2201</modulecode>
+	<activity>IF2201 Monetary Economics/Lecture</activity>
+	<desc>Autumn</desc>
+	<joint> </joint>
+	<studentnos>103</studentnos>
+	<room>AG21</room>
+	<lecturer>Chrystal, Alec </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>IF2201</modulecode>
+	<activity>IF2201 Monetary Economics/Lecture/wk 10</activity>
+	<desc>Autumn : Week 10 only</desc>
+	<joint> </joint>
+	<studentnos>103</studentnos>
+	<room>AG21</room>
+	<lecturer>Chrystal, Alec </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>25/11/13</week>
+	<modulecode>IF2201</modulecode>
+	<activity>IF2201 Monetary Economics/Lecture/wk 9</activity>
+	<desc>Autumn : Week 9 only</desc>
+	<joint> </joint>
+	<studentnos>103</studentnos>
+	<room>BG02</room>
+	<lecturer>Chrystal, Alec </lecturer>
+	<day>Wednesday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EPM756</modulecode>
+	<activity>EPM756 Wireless Communications/Lecture 1/02</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG08</room>
+	<lecturer>Rakocevic, V;Rahman, A </lecturer>
+	<day>Monday </day>
+</booking>

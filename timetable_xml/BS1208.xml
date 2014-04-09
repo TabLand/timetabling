@@ -1,0 +1,91 @@
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>10/02/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>BS1208</modulecode>
+	<activity>BS1208 Introduction to Management Accounting for Business/Tutorial 2/Wks 3-6 ,8-10</activity>
+	<desc>Tutorial Group 2 : Weeks 3-6 ,8-10</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>C170</room>
+	<lecturer>Hesni, Bijan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>BS1208</modulecode>
+	<activity>BS1208 Introduction to Management Accounting for Business/Lecture 1/01/wks 1-6, 8-10</activity>
+	<desc>Lecture plus Exchange (10) - Weeks 1-6, 8-10</desc>
+	<joint> </joint>
+	<studentnos>130</studentnos>
+	<room>Birley</room>
+	<lecturer>Bilinski, Pawel </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>BS1208</modulecode>
+	<activity>BS1208 Introduction to Management Accounting for Business/TEST/wk 7</activity>
+	<desc>Test : Week 7 only ; 260 seats required for 130 students</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>Birley;C350;C170</room>
+	<lecturer>Bilinski, Pawel </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14-31/03/14</week>
+	<modulecode>BS1208</modulecode>
+	<activity>BS1208 Introduction to Management Accounting for Business/Drop in Surgery/wks 3-10</activity>
+	<desc>Drop in Surgery; Weeks 3-10</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>C303</room>
+	<lecturer>Iqbal, Mohammad </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/02/14</week>
+	<modulecode>BS1208</modulecode>
+	<activity>BS1208/grp 2/Holding/wk 3</activity>
+	<desc>Tutorial Group 2 : wk 3 - due to room move today</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/02/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>BS1208</modulecode>
+	<activity>BS1208 Introduction to Management Accounting for Business/Tutorial 3/Wks 3-6 ,8-10</activity>
+	<desc>Tutorial Group 3 : Weeks 3-6 ,8-10</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>C350</room>
+	<lecturer>Bilinski, Pawel </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>10/02/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>BS1208</modulecode>
+	<activity>BS1208 Introduction to Management Accounting for Business/Tutorial 1/Wks 3-6 ,8-10</activity>
+	<desc>Tutorial Group 1 : Weeks 3-6 ,8-10</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>

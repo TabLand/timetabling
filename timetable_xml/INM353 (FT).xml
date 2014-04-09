@@ -1,0 +1,39 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM353 (FT)</modulecode>
+	<activity>INM353 Practical Business Systems Consultancy/Lecture (FT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C170</room>
+	<lecturer>Smart, Chris </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM353 (FT)</modulecode>
+	<activity>INM353 Practical Business Systems Consultancy/Tutorial (FT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C340</room>
+	<lecturer>Smart, Chris </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>21/10/13-28/10/13, 18/11/13-02/12/13</week>
+	<modulecode>INM353 (FT)</modulecode>
+	<activity>INM353 Practical Business Systems Consultancy/Tutorial (FT)/Extension</activity>
+	<desc>Weeks, 4, 5, 8, 9 & 10</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C340</room>
+	<lecturer>Smart, Chris </lecturer>
+	<day>Wednesday </day>
+</booking>

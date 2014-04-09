@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>INM339</modulecode>
+	<activity>INM339 Telemedicine/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A110</room>
+	<lecturer>O'Sullivan, Dympna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/03/14-07/04/14</week>
+	<modulecode>INM339</modulecode>
+	<activity>INM339 Telemedicine/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BM03</room>
+	<lecturer>O'Sullivan, Dympna </lecturer>
+	<day>Friday </day>
+</booking>

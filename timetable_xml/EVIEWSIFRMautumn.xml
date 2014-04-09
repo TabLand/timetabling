@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>28/10/13-25/11/13</week>
+	<modulecode>EVIEWSIFRMautumn</modulecode>
+	<activity>EVIEWS YR 3 (IFRM/REFI)/Autumn/01/02</activity>
+	<desc>Optional Lab : IFRM/REFI weeks 5-9</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A220</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Tuesday </day>
+</booking>

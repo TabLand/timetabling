@@ -1,0 +1,39 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>02/12/13-09/12/13</week>
+	<modulecode>AMM425</modulecode>
+	<activity>AMM425 Tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>18/11/13-09/12/13</week>
+	<modulecode>AMM425</modulecode>
+	<activity>AMM425 Professional Placement/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>BLG07</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-03/02/14, 17/02/14</week>
+	<modulecode>AMM425</modulecode>
+	<activity>AMM425 Tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

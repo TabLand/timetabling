@@ -1,0 +1,39 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>BS2211</modulecode>
+	<activity>BS2211 Consumer Behaviour/BUS/MGT/Lecture/wks 1-11</activity>
+	<desc>Spring Lecture: BUS (Mkting stream) & MGT : Weeks 1-11</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>AG22</room>
+	<lecturer>Feiereisen, Stephanie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>03/03/14</week>
+	<modulecode>BS2211</modulecode>
+	<activity>BS2211 Consumer Behaviour/Guest Lecture with BS3108/(Joint)/wk 6</activity>
+	<desc>(Joint) BS3108 & BS2211 : Guest Lecture: Spring Week 6 only</desc>
+	<joint>BS3108;BS2211</joint>
+	<studentnos>140</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>10/03/14</week>
+	<modulecode>BS2211</modulecode>
+	<activity>BS2211 Consumer Behaviour/Guest Lecture with BS3108/(Joint)/wk 7</activity>
+	<desc>(Joint) BS3108 & BS2211 : Guest Lecture: Spring Week 7 only</desc>
+	<joint>BS2211;BS3108</joint>
+	<studentnos>140</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>

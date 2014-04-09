@@ -1,0 +1,39 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-03/02/14, 17/02/14-03/03/14, 17/03/14-07/04/14</week>
+	<modulecode>AF3200</modulecode>
+	<activity>AF3200 Financial Reporting Theory & Practice/Lecture/WKS 1-2, 4-6, 8-11</activity>
+	<desc>A&F Spring: Weeks 1-2, 4-6, 8-11</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>CG02</room>
+	<lecturer>Bilinski, Pawel </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>10/02/14</week>
+	<modulecode>AF3200</modulecode>
+	<activity>AF3200 Financial Reporting Theory & Practice/Lecture/WK 3</activity>
+	<desc>A&F Spring: Week 3 ONLY : ICAEW guest speaker</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BG03</room>
+	<lecturer>Bilinski, Pawel </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>10/03/14</week>
+	<modulecode>AF3200</modulecode>
+	<activity>AF3200 Financial Reporting Theory & Practice/TEST/WK 7</activity>
+	<desc>A&F Spring: Week 7 only - Test ; 130 Seats for 65 students</desc>
+	<joint> </joint>
+	<studentnos>130</studentnos>
+	<room>BG03</room>
+	<lecturer>Bilinski, Pawel </lecturer>
+	<day>Friday </day>
+</booking>

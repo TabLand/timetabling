@@ -1,0 +1,6825 @@
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A307&8;A217;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A307&8;A217;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>23/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 3 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A307&8;A217;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/09/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/09/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;ALG16;A227;A226;A225;A214</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/09/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D107;DLG19;DLG20;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/09/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>23/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (re-set)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>23/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>BM03;BM02;AG08</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>27/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room);The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C;AG02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (re-set)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room);The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (re-set)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>23/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG08;DLG03</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;B307A;A220;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>14:30</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:30</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JOM846</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;B307A;A220;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO1105</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:30</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;B307A;A220;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:30</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Optometry)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:30</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO2200</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>17:30</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JOM846</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;B307A;A220;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:30</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:30</start>
+	<end>16:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:30</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;B307A;A220;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>12/05/14-19/05/14, 02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/09/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/09/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D107;DLG19;DLG20;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>27/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room);The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C;AG02</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (re-set)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room);The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (re-set)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:30</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>12/05/14-19/05/14, 02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>The Northampton Committee Room (level 4)</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>15:50</end>
+	<week>23/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (re-set)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>15:50</end>
+	<week>23/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>ALG16;A227;A226;A225;A214</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/09/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>ALG16;A227;A226;A225;A214</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG08;DLG03;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A110;A109;ALG16;A227;A226;A225</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D108;D111;D112;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (re-set)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 keep locked)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 keep locked)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>12/05/14-19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>A218;CG50;CG51</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:30</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A111</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:30</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:30</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO2206</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO3112</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>17:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JOM866</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>18:30</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>18:30</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A307&8;A217;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A307&8;A217;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:30</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>12/05/14-19/05/14, 02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>The Northampton Committee Room (level 4)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>ALG16;A227;A226;A225;A214</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG08;DLG03;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A110;A109;ALG16;A227;A226;A225</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D108;D111;D112;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:30</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 pc lab (Wed/Fri))</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 pc lab (Wed/Fri))</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG09;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>EG07;EG12</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab AS1055)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A217;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab AS1055)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A217;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO3109</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:30</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;B307A;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>17:30</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO1166</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;B307A;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>18:30</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>17:30</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;B307A;A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:30</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>12/05/14-19/05/14, 02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>The Northampton Committee Room (level 4)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>ALG16;A227;A226;A225;A214</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D108;D111;D112;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 keep locked)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 keep locked)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:30</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D107;D108;D109;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>30/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room);The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C;AG02</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>14/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (set up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D108;D111;D112;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (set up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>The Northampton Suite - A;Great Hall & Foyer;The Northampton Suite - C;The Northampton Suite - B;The Northampton Committee Room (level 4)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;B307A;A218</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO3101</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;B307A;A218</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;B307A;A218</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>AG24a;A218</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A307&8;A217;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307A;A307&8;A217;A218;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: December Study Abroad (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>13/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 ATR STUDY SPACE)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room);AG02</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2 Special Arrangements/pc lab)</activity>
+	<desc>Rooms to be partitioned for the fortnight</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A308;A307</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 2 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June (week 4 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>28/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 1 Special Arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:30</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>12/05/14-19/05/14, 02/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>The Northampton Committee Room (level 4)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 1 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>ALG16;A227;A226;A225;A214</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 pc lab)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Social Science Reception;Atrium - Social Science</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 ATR)</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D107;D108;D109</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (1 week)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D108;D111;D112;D113;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MBA (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D109;D113;D222;D112;D111;D221;D220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (week 2 noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (noise prevention)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Atrium - Social Science;Social Science Reception</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 ATR) ATRS are in the Library, this is alt. study space</activity>
+	<desc>Assistive Technology Room</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:30</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>19/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 1 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2 lab)</activity>
+	<desc>Emma Bey 4076</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (pc lab/special arrangements)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A307</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>09/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 1 pc lab (Wed/Fri))</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>13:50</end>
+	<week>16/06/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: June Law GDL (week 2 pc lab (Wed/Fri))</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>IG03;I103;I203/I206;I106</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>12/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;D111;D112;DLG08;DLG03;DLG09;D113;D107;D108;D109;D220;D221;D222</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>30/12/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (storage)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room);The Northampton Committee Room (level 4);The Northampton Suite - A;The Northampton Suite - B;The Northampton Suite - C;AG02</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16;Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>06/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104;D111;D112;D113;D220;D221;D222;DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>21/04/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: April Cass MSc (set up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>The Northampton Suite - A;Great Hall & Foyer;The Northampton Suite - C;The Northampton Suite - B;The Northampton Committee Room (level 4)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Convocation Suite;E211A (Yellow Room)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107;A108;A109;A110;A214;A225;A226;A227;ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>DLG02;DLG03;DLG08;DLG09;DLG19;DLG20</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>15:50</end>
+	<week>26/08/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: August re-sits (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>BM03;AG08</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>20:50</end>
+	<week>05/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (set-up)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>D104</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A218</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam set-up</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>NMM278 exam</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>D109</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>26/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: May (week 3 SLM010)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>73</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO3114</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A218</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam JO1122</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:30</end>
+	<week>12/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;A218</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:30</end>
+	<week>19/05/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>Exam reset</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG37;AG36;AG34b;AG34a;AG13</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (week 2)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>20:50</end>
+	<week>20/01/14</week>
+	<modulecode>EXAM1314</modulecode>
+	<activity>University Exams: January (reset)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

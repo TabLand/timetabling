@@ -1,0 +1,39 @@
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>EDM107</modulecode>
+	<activity>EDM107 Information and Communications Technology in HE/01</activity>
+	<desc>LG01b</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>EDM107</modulecode>
+	<activity>EDM107 Information and Communications Technology in HE/02</activity>
+	<desc>LG01b</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>EDM107</modulecode>
+	<activity>EDM107 Information and Communications Technology in HE/03</activity>
+	<desc>LG01b</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Thursday </day>
+</booking>

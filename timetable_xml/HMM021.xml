@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>HMM021</modulecode>
+	<activity>HMM021 Strategic Commissioning/Lecture 03/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2E (WS)</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>02/06/14</week>
+	<modulecode>HMM021</modulecode>
+	<activity>HMM021 Strategic Commissioning/Lecture 05/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2E (WS)</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>09/06/14</week>
+	<modulecode>HMM021</modulecode>
+	<activity>HMM021 Strategic Commissioning/Lecture 07/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2E (WS)</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>19/05/14</week>
+	<modulecode>HMM021</modulecode>
+	<activity>HMM021 Strategic Commissioning/Lecture 04/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2E (WS)</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>02/06/14</week>
+	<modulecode>HMM021</modulecode>
+	<activity>HMM021 Strategic Commissioning/Lecture 06/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2E (WS)</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>09/06/14</week>
+	<modulecode>HMM021</modulecode>
+	<activity>HMM021 Strategic Commissioning/Lecture 08/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2E (WS)</room>
+	<lecturer>Benato, R </lecturer>
+	<day>Tuesday </day>
+</booking>

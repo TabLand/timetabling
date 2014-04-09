@@ -1,0 +1,52 @@
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>20/01/14-17/02/14, 03/03/14</week>
+	<modulecode>HS2441</modulecode>
+	<activity>HS2441 Family-Centred Practice, Challenging Perspectives of Risk & Resillience/Lecture/01</activity>
+	<desc>Optional module (all divisions)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG04</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>10/02/14-24/02/14</week>
+	<modulecode>HS2441</modulecode>
+	<activity>HS2441 Family-Centred Practice, Challenging Perspectives of Risk & Resillience/breakout/02</activity>
+	<desc>Optional module (all divisions)</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C161</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>24/02/14</week>
+	<modulecode>HS2441</modulecode>
+	<activity>HS2441 Family-Centred Practice, Challenging Perspectives of Risk & Resillience/Lecture/01</activity>
+	<desc>Optional module (all divisions)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG03</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:30</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>HS2441</modulecode>
+	<activity>HS2441 Family-Centred Practice, Challenging Perspectives of Risk & Resillience/breakout/01</activity>
+	<desc>Optional module (all divisions)</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C167</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14-07/04/14</week>
+	<modulecode>BS2203</modulecode>
+	<activity>BS2203 Financial Analysis/A&F/Tutorial 01</activity>
+	<desc>A&F ONLY: Group 1: Weeks 3-11</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C348</room>
+	<lecturer>Sahin, Ali </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14-07/04/14</week>
+	<modulecode>BS2203</modulecode>
+	<activity>BS2203 Financial Analysis/ECON/Tutorial 02</activity>
+	<desc>E&A ONLY: Group 2 : Weeks 3-11</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C350</room>
+	<lecturer>Sahin, Ali </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>BS2203</modulecode>
+	<activity>BS2203 Financial Analysis/Lecture/WKS 1-5, 7-11</activity>
+	<desc>Spring Lecture : Weeks 1-5, 7-11</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>B103</room>
+	<lecturer>Konstantinidi, Sonia </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>BS2203</modulecode>
+	<activity>BS2203 Financial Analysis/Lecture/Test/WK 6</activity>
+	<desc>Test : Week 6 only : 160 seats needed for 80 students</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338;C336</room>
+	<lecturer>Konstantinidi, Sonia </lecturer>
+	<day>Friday </day>
+</booking>

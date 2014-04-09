@@ -1,0 +1,39 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-14/10/13</week>
+	<modulecode>IPM020</modulecode>
+	<activity>IPM020 International Financial Institutions/Lecture 01/01a</activity>
+	<desc>Weeks 1-3</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>DLG03</room>
+	<lecturer>Pagliari, Stefano </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>21/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM020</modulecode>
+	<activity>IPM020 International Financial Institutions/Lecture 01/01b</activity>
+	<desc>Weeks 4,5 & 7-11: Different Location</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D222</room>
+	<lecturer>Pagliari, Stefano </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM020</modulecode>
+	<activity>IPM020 International Financial Institutions/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D222</room>
+	<lecturer>Pagliari, Stefano </lecturer>
+	<day>Thursday </day>
+</booking>

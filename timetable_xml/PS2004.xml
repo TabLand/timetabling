@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS2004</modulecode>
+	<activity>PS2004 Biological Psychology/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>140</studentnos>
+	<room>A130</room>
+	<lecturer>Yarrow, Kielan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS2004</modulecode>
+	<activity>PS2004 Biological Psychology/Drop-In Clinic 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D510</room>
+	<lecturer>Yarrow, Kielan </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13, 28/10/13-09/12/13</week>
+	<modulecode>MU2114</modulecode>
+	<activity>MU2114 Orchestral and Instrumental Studies/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG10</room>
+	<lecturer>Percy, Robert </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>14/10/13</week>
+	<modulecode>MU2114</modulecode>
+	<activity>MU2114 Orchestral and Instrumental Studies/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CG02</room>
+	<lecturer>Percy, Robert </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>MU2114</modulecode>
+	<activity>MU2114 Orchestral and Instrumental Studies/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CLG36</room>
+	<lecturer>Percy, Robert </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>13:10</start>
+	<end>21:00</end>
+	<week>07/04/14</week>
+	<modulecode>SMM753</modulecode>
+	<activity>SMM753 Organisations, Leadership And Change/Lecture 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>2006</room>
+	<lecturer>Copeman, Caroline;Patel, Atul </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>21:00</end>
+	<week>12/05/14</week>
+	<modulecode>SMM753</modulecode>
+	<activity>SMM753 Organisations, Leadership And Change/Lecture 03/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>2002</room>
+	<lecturer>Copeman, Caroline;Patel, Atul </lecturer>
+	<day>Friday </day>
+</booking>

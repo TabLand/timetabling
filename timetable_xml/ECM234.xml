@@ -1,0 +1,13 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>ECM234</modulecode>
+	<activity>ECM234 Game Theory/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>DLG20</room>
+	<lecturer>Jain, Neelam </lecturer>
+	<day>Tuesday </day>
+</booking>

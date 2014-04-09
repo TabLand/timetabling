@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CE1883</modulecode>
+	<activity>CS1883 Arabic - Accelerated term 2 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG02</room>
+	<lecturer>Tahssein, Hussein </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CE1883</modulecode>
+	<activity>CS1883 Arabic - Accelerated term 2 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG03</room>
+	<lecturer>Tahssein, Hussein </lecturer>
+	<day>Thursday </day>
+</booking>

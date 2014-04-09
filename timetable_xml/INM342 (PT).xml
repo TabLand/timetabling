@@ -1,0 +1,26 @@
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM342 (PT)</modulecode>
+	<activity>INM342 Business Engineering With Erp Solutions/Lecture (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C343</room>
+	<lecturer>Karakostas, Bill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>19:00</start>
+	<end>20:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM342 (PT)</modulecode>
+	<activity>INM342 Business Engineering With Erp Solutions/Lab (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Karakostas, Bill </lecturer>
+	<day>Tuesday </day>
+</booking>

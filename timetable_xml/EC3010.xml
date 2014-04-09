@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>EC3010</modulecode>
+	<activity>EC3010 Corporate Finance/Tutorial 01/01</activity>
+	<desc>Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>El Said, Ayah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>EC3010</modulecode>
+	<activity>EC3010 Corporate Finance/Tutorial 01/02</activity>
+	<desc>Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>El Said, Ayah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>EC3010</modulecode>
+	<activity>EC3010 Corporate Finance/Tutorial 01/03</activity>
+	<desc>Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>El Said, Ayah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>EC3010</modulecode>
+	<activity>EC3010 Corporate Finance/Lecture 01/Apr 9th</activity>
+	<desc>Week 9 rescheduled in week 11 (Wed pm agreed with students)</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Birley</room>
+	<lecturer>Atak, Alev </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-17/03/14, 31/03/14-07/04/14</week>
+	<modulecode>EC3010</modulecode>
+	<activity>EC3010 Corporate Finance/Lecture 01/01</activity>
+	<desc>Weeks 1-5, 7, 8, 10 & 11</desc>
+	<joint> </joint>
+	<studentnos>131</studentnos>
+	<room>BG02</room>
+	<lecturer>Atak, Alev </lecturer>
+	<day>Friday </day>
+</booking>

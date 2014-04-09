@@ -1,0 +1,104 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Lecture 02/01 (lead)</activity>
+	<desc>(PG1s 88; BSc2 38) Monday 9-11am (wks1-9)</desc>
+	<joint>SLM004;SL2005</joint>
+	<studentnos>131</studentnos>
+	<room>BG02</room>
+	<lecturer>VL 01 - HACOMS </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Lecture 01/01 wks 1-5 (lead)</activity>
+	<desc>PG1s 88 + BSc2 38</desc>
+	<joint>SLM004;SL2005</joint>
+	<studentnos>131</studentnos>
+	<room>BG02</room>
+	<lecturer>Lee, Mary </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>11/11/13-09/12/13</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Lecture 01/01 wks 6-11 (lead)</activity>
+	<desc>PG1s 88 + BSc2 38</desc>
+	<joint>SLM004;SL2005</joint>
+	<studentnos>131</studentnos>
+	<room>BG02</room>
+	<lecturer>Harding, Celia;Lee, Mary;Harrison, Kirsty </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Lecture 02/02 (lead)</activity>
+	<desc>PG1s 88; BSc2 38 - Friday 9-11am (wks1-9)</desc>
+	<joint>SLM004;SL2005</joint>
+	<studentnos>131</studentnos>
+	<room>BG02</room>
+	<lecturer>Harrison, Kirsty </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Workshop/Cleft pallate 01/01</activity>
+	<desc>Mary Lee (session led by GOSH)</desc>
+	<joint> </joint>
+	<studentnos>126</studentnos>
+	<room>BG02</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Lecture 01/02 wks 1-5 (lead)</activity>
+	<desc>(PG1s 88 + BSc2 38)</desc>
+	<joint>SLM004;SL2005</joint>
+	<studentnos>131</studentnos>
+	<room>BG02</room>
+	<lecturer>Williams, Roberta </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>11/11/13-09/12/13</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Lecture 01/02 wks 6-11 (lead)</activity>
+	<desc>(PG1s 88 + BSc2 38)</desc>
+	<joint>SLM004;SL2005</joint>
+	<studentnos>131</studentnos>
+	<room>BG02</room>
+	<lecturer>Joffe, Vicky </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>SLM004</modulecode>
+	<activity>SLM004 Speech, Communication & Swallowing Disabilities/Workshop/Cleft pallate 01/02</activity>
+	<desc>Mary Lee (session led by GOSH)</desc>
+	<joint> </joint>
+	<studentnos>126</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

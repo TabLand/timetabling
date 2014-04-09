@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2012</modulecode>
+	<activity>IN2012 Neural And Evolutionary Computing/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>9</studentnos>
+	<room>A107</room>
+	<lecturer>Garcez, Artur;Smith, Peter </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2012</modulecode>
+	<activity>IN2012 Neural And Evolutionary Computing/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>B307A</room>
+	<lecturer>Garcez, Artur;Smith, Peter </lecturer>
+	<day>Friday </day>
+</booking>

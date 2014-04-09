@@ -1,0 +1,39 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>EE3443</modulecode>
+	<activity>EE3443 Digital Broadcasting Technology/Lab Sems 1/01</activity>
+	<desc>40 students</desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>Rajarajan, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE3443</modulecode>
+	<activity>EE3443 Digital Broadcasting Technology/Tutorial 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG08</room>
+	<lecturer>Rajarajan, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE3443</modulecode>
+	<activity>EE3443 Digital Broadcasting Technology/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>B103</room>
+	<lecturer>Rajarajan, M </lecturer>
+	<day>Monday </day>
+</booking>

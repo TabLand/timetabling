@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13</week>
+	<modulecode>MS2000</modulecode>
+	<activity>MS2000 Welcome back/MGT/WK 1</activity>
+	<desc>Course Director briefing: MGT year 2: Week 1 ONLY</desc>
+	<joint> </joint>
+	<studentnos>112</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Rich, Martin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>24/02/14</week>
+	<modulecode>MS2000</modulecode>
+	<activity>MS2000 Dissertation/Lecture/wk 5</activity>
+	<desc>Term 2: Week 5</desc>
+	<joint> </joint>
+	<studentnos>109</studentnos>
+	<room>Geary</room>
+	<lecturer>Rich, Martin </lecturer>
+	<day>Friday </day>
+</booking>

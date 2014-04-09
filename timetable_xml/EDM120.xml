@@ -1,0 +1,169 @@
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>10/03/14</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>BLG07</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D104</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>10/03/14</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/08</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>28/04/14</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/09</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:30</end>
+	<week>30/09/13</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C345</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/05</activity>
+	<desc>breakout</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BLG07</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/06</activity>
+	<desc>breakout</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>CG02</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>28/04/14</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/11</activity>
+	<desc>breakout</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A226</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>28/04/14</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/11</activity>
+	<desc>breakout</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG10</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>28/04/14</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/10</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>EDM120</modulecode>
+	<activity>EDM120 Learning, Teaching and Assessment/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>CG05</room>
+	<lecturer>Sumner, N </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ETM451</modulecode>
+	<activity>ETM451 Professional, Industrial and Management Studies (PIMS)/Lecture 1/02/JOINT</activity>
+	<desc>Joint with ETM051 *</desc>
+	<joint>ETM051;ETM451</joint>
+	<studentnos>50</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ETM451</modulecode>
+	<activity>ETM451 Professional, Industrial and Management Studies (PIMS)/Lecture 1/01/JOINT</activity>
+	<desc>Joint with ETM051 *</desc>
+	<joint>ETM051;ETM451</joint>
+	<studentnos>50</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

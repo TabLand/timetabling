@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>AF2202</modulecode>
+	<activity>AF2202 Principles of Taxation/ A&F/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C336</room>
+	<lecturer>Williams, Stephen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>AF2202</modulecode>
+	<activity>AF2202 Principles of Taxation/ A&F/Tutorial 1/01</activity>
+	<desc>Group 1</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG56</room>
+	<lecturer>Williams, Stephen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>AF2202</modulecode>
+	<activity>AF2202 Principles of Taxation/A&F/Tutorial 2/01</activity>
+	<desc>Group 2</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BM02</room>
+	<lecturer>Williams, Stephen </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>AF2202</modulecode>
+	<activity>AF2202 Principles of Taxation/A&F/Tutorial 3/01</activity>
+	<desc>Group 3</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BM02</room>
+	<lecturer>Williams, Stephen </lecturer>
+	<day>Friday </day>
+</booking>

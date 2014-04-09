@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>18:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>LAM060</modulecode>
+	<activity>LAM060 Children's Fiction/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A109</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>13/01/14</week>
+	<modulecode>LAM060</modulecode>
+	<activity>LAM060 Children's Fiction/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Monday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA3611</modulecode>
+	<activity>MA3611 Mathematical Models And Modelling/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG05</room>
+	<lecturer>De Martino, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA3611</modulecode>
+	<activity>MA3611 Mathematical Models And Modelling/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG04</room>
+	<lecturer>De Martino, A </lecturer>
+	<day>Friday </day>
+</booking>

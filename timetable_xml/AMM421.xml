@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>AMM421</modulecode>
+	<activity>AMM421 Digital Cultures 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A110</room>
+	<lecturer>VL 05 - AAARTP </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>AMM421</modulecode>
+	<activity>AMM421 Digital Cultures 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>AG03</room>
+	<lecturer>VL 05 - AAARTP </lecturer>
+	<day>Friday </day>
+</booking>

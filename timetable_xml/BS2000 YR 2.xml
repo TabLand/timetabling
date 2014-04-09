@@ -1,0 +1,52 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>BS2000 YR 2</modulecode>
+	<activity>BS2000 Final Year Project: Dissertation/BUS Year 2/T2/wk 7</activity>
+	<desc>Week 7 only - BUS year 2 - Spring Term 2</desc>
+	<joint> </joint>
+	<studentnos>129</studentnos>
+	<room>BG03</room>
+	<lecturer>Zaleska, Joanna </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>BS2000 YR 2</modulecode>
+	<activity>BS2000 Briefing on Finance stream/BUS yr2/WK 10</activity>
+	<desc>Course Director briefing: Bus year 2: Week 10 ONLY</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG21</room>
+	<lecturer>Zaleska, Joanna;Carapeto, Maria </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>BS2000 YR 2</modulecode>
+	<activity>BS2000 Welcome back/BUS/WK 1</activity>
+	<desc>Course Director briefing: Bus year 2: Week 1 ONLY</desc>
+	<joint> </joint>
+	<studentnos>129</studentnos>
+	<room>BG03</room>
+	<lecturer>Zaleska, Joanna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>07/10/13</week>
+	<modulecode>BS2000 YR 2</modulecode>
+	<activity>BS2000 Careers Service/BUS/WK 2</activity>
+	<desc>Careers Service: Bus year 2: Week 2 ONLY</desc>
+	<joint> </joint>
+	<studentnos>129</studentnos>
+	<room>BG03</room>
+	<lecturer>Ahmad, Rashida;Hooke, Laura </lecturer>
+	<day>Thursday </day>
+</booking>

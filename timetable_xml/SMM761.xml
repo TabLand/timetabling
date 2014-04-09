@@ -1,0 +1,26 @@
+<booking>
+	<start>13:10</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>SMM761</modulecode>
+	<activity>SMM761 Strategy, Diversity & Governance/Lecture 01/04</activity>
+	<desc>(core module shared across all Charity Programmes)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2003</room>
+	<lecturer>Grant, Peter;Patel, Atul </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>21:00</end>
+	<week>21/07/14</week>
+	<modulecode>SMM761</modulecode>
+	<activity>SMM761 Strategy, Diversity & Governance/Lecture 03/04</activity>
+	<desc>(core module shared across all Charity Programmes)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2003</room>
+	<lecturer>Grant, Peter;Patel, Atul </lecturer>
+	<day>Friday </day>
+</booking>

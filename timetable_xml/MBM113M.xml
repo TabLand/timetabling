@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>21/07/14</week>
+	<modulecode>MBM113M</modulecode>
+	<activity>MBM113 Consulting on Management MEMBA13/Syn Rooms 04</activity>
+	<desc>MEMBA13 - Syndicate Rooms - A. Crede</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>21/07/14</week>
+	<modulecode>MBM113M</modulecode>
+	<activity>MBM113 Consulting on Management MEMBA/Lecture 04</activity>
+	<desc>MEMBA13</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>N201</room>
+	<lecturer>Crede, Andreas </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/07/14</week>
+	<modulecode>MBM113M</modulecode>
+	<activity>MBM113 Consulting on Management MEMBA13/Syn Rooms 01-03</activity>
+	<desc>MEMBA13 - Syndicate Rooms - A. Crede</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/07/14</week>
+	<modulecode>MBM113M</modulecode>
+	<activity>MBM113 Consulting on Management MEMBA/Lecture 01</activity>
+	<desc>MEMBA13</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>N201</room>
+	<lecturer>Crede, Andreas </lecturer>
+	<day>Friday </day>
+</booking>

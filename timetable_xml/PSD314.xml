@@ -1,0 +1,13 @@
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>PSD314</modulecode>
+	<activity>PSD314 Specialist Group Supervision/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D113;D106;D108;D109</room>
+	<lecturer>Filippopoulos, Pavlos </lecturer>
+	<day>Thursday </day>
+</booking>

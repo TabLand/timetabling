@@ -1,0 +1,91 @@
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>IF1202</modulecode>
+	<activity>IF1202 Introduction to Statistics/BIF/Tutorial 6/06</activity>
+	<desc>Tutorial : BIF Group 3 : Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>DLG02</room>
+	<lecturer>Roitch, Vladimir </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>IF1202</modulecode>
+	<activity>IF1202 Introduction to Statistics/BIF/Tutorial 5/06</activity>
+	<desc>Tutorial : BIF Group 2 : Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>C300</room>
+	<lecturer>Kazanidis, Priscila </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>IF1202</modulecode>
+	<activity>IF1202 Introduction to Statistics/BIF/Tutorial 4/06</activity>
+	<desc>Tutorial : BIF Group 1 : Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>A110</room>
+	<lecturer>Pollard, David </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>IF1202</modulecode>
+	<activity>IF1202 Introduction to Statistics/A&F/Tutorial 1/06</activity>
+	<desc>Tutorial : A&F Group 1 : Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C336</room>
+	<lecturer>Pollard, David </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>IF1202</modulecode>
+	<activity>IF1202 Introduction to Statistics/A&F/Tutorial 3/06</activity>
+	<desc>Tutorial : A&F Group 3 : Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>37</studentnos>
+	<room>B104</room>
+	<lecturer>Roitch, Vladimir </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>IF1202</modulecode>
+	<activity>IF1202 Introduction to Statistics/A&F/Tutorial 2/06</activity>
+	<desc>Tutorial : A&F Group 2 : Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>Kazanidis, Priscila </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>IF1202</modulecode>
+	<activity>IF1202 Introduction to Statistics/A&F/BIF/Lecture 1/01</activity>
+	<desc>Spring Lecture plus Exchange (5) Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>224</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Ribeiro, Carlos </lecturer>
+	<day>Friday </day>
+</booking>

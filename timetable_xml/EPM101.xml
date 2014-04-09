@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>07/10/13-28/10/13</week>
+	<modulecode>EPM101</modulecode>
+	<activity>EPM101 Economics of the Power Industry/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>CG05</room>
+	<lecturer>Ekonomou, L </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>04/11/13-09/12/13</week>
+	<modulecode>EPM101</modulecode>
+	<activity>EPM101 Economics of the Power Industry/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109</room>
+	<lecturer>Ekonomou, L </lecturer>
+	<day>Thursday </day>
+</booking>

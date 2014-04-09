@@ -1,0 +1,39 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>10/03/14</week>
+	<modulecode>SMM113 FIN</modulecode>
+	<activity>SMM113 International Finance (BIF & FIN)/Lecture/WK 7 (Lead)</activity>
+	<desc>Week 7 only : Guest speaker Ravi Rajani from Citibank</desc>
+	<joint>SMM113;SMM113 FIN</joint>
+	<studentnos>134</studentnos>
+	<room>LG001</room>
+	<lecturer>Marsh, Ian Prof. </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-03/02/14, 17/02/14-31/03/14</week>
+	<modulecode>SMM113 FIN</modulecode>
+	<activity>SMM113 International Finance (MSc Fin)/Lecture/wks 1-2, 4-10</activity>
+	<desc>MSc Fin: LECTURE: Weeks 1-2, 4-10</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>3002</room>
+	<lecturer>Marsh, Ian Prof. </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>SMM113 FIN</modulecode>
+	<activity>SMM113 International Finance (BIF & FIN)/Lecture/WK 3 (Lead)</activity>
+	<desc>Week 3 only : Replacement</desc>
+	<joint>SMM113;SMM113 FIN</joint>
+	<studentnos>134</studentnos>
+	<room>LG001</room>
+	<lecturer>Marsh, Ian Prof. </lecturer>
+	<day>Friday </day>
+</booking>

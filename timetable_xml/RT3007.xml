@@ -1,0 +1,91 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT3007</modulecode>
+	<activity>RT3007 Healthcare Policy and Quality Management/Lecture 3/03</activity>
+	<desc>Current issues in NHS (BP2)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RT3007</modulecode>
+	<activity>RT3007 Healthcare Policy and Quality Management/Lecture 4/04</activity>
+	<desc>Service standards, policies and procedures</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C330</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT3007</modulecode>
+	<activity>RT3007 Healthcare Policy and Quality Management/Lecture 01/01</activity>
+	<desc>Introduction to module, health policy and NHS (1) (BP2)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT3007</modulecode>
+	<activity>RT3007 Healthcare Policy and Quality Management/Lecture 02/02</activity>
+	<desc>Introduction to health policy and NHS (2) (BP2)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>28/04/14</week>
+	<modulecode>RT3007</modulecode>
+	<activity>RT3007 Healthcare Policy and Quality Management/Lecture 06/06</activity>
+	<desc>Audit (BP2)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>A107</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>28/04/14</week>
+	<modulecode>RT3007</modulecode>
+	<activity>RT3007 Healthcare Policy and Quality Management/Lecture 05/05</activity>
+	<desc>Regulatory and professional bodies (BP2)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>A107</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>28/04/14</week>
+	<modulecode>RT3007</modulecode>
+	<activity>RT3007 Healthcare Policy and Quality Management/Tutorial 01/01</activity>
+	<desc>Optional assignment tutorial (BP2)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>A107</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Friday </day>
+</booking>

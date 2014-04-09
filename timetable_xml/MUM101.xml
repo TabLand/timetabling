@@ -1,0 +1,13 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>MUM101</modulecode>
+	<activity>MUM101 Critical Reading in Musicology</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG10</room>
+	<lecturer>Lingas, Alex </lecturer>
+	<day>Tuesday </day>
+</booking>

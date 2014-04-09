@@ -1,0 +1,169 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>12/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 1/Mon</activity>
+	<desc>PhD: MGT stream: Summer: Week 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>De Menezes, Lillian </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>13:30</end>
+	<week>12/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 1/Tues</activity>
+	<desc>PhD: MGT stream: Summer: Week 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>De Menezes, Lillian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:00</end>
+	<week>12/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 1/Tues</activity>
+	<desc>PhD: MGT stream: Summer: Week 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>1010</room>
+	<lecturer>De Menezes, Lillian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>19/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 2/Wed</activity>
+	<desc>PhD: MGT stream: Summer: Week 2</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>09/06/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 5/Thurs</activity>
+	<desc>PhD: MGT stream: Summer: Week 5</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>13:30</end>
+	<week>12/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 1/Thurs</activity>
+	<desc>PhD: MGT stream: Summer: Week 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>De Menezes, Lillian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>19/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 2/Thurs</activity>
+	<desc>PhD: MGT stream: Summer: Week 2</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>1010</room>
+	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:00</end>
+	<week>12/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 1/Thurs</activity>
+	<desc>PhD: MGT stream: Summer: Week 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>1010</room>
+	<lecturer>De Menezes, Lillian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>09/06/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 5/Fri</activity>
+	<desc>PhD: MGT stream: Summer: Week 5</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/06/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 6</activity>
+	<desc>PhD: MGT stream: Summer: Week 6</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Wiertz, Caroline </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>13:30</end>
+	<week>12/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 1/Fri</activity>
+	<desc>PhD: MGT stream: Summer: Week 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>De Menezes, Lillian </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>19/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 2/Fri</activity>
+	<desc>PhD: MGT stream: Summer: Week 2</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>1010</room>
+	<lecturer>Kocabasoglu- Hillmer, Canan </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:00</end>
+	<week>12/05/14</week>
+	<modulecode>SMM986</modulecode>
+	<activity>SMM986 Research Methods in Management 3/WK 1/Fri</activity>
+	<desc>PhD: MGT stream: Summer: Week 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>1010</room>
+	<lecturer>De Menezes, Lillian </lecturer>
+	<day>Friday </day>
+</booking>

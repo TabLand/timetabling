@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3031</modulecode>
+	<activity>IN3031 Digital Signal Processing</activity>
+	<desc> </desc>
+	<joint>INM424;IN3031</joint>
+	<studentnos>30</studentnos>
+	<room>DLG09</room>
+	<lecturer>Weyde, Tillman </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3031</modulecode>
+	<activity>IN3031 Digital Signal Processing/Lab (LEAD)</activity>
+	<desc> </desc>
+	<joint>INM424;IN3031</joint>
+	<studentnos>30</studentnos>
+	<room>A218</room>
+	<lecturer>Weyde, Tillman </lecturer>
+	<day>Thursday </day>
+</booking>

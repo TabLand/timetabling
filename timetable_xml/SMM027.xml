@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>12/05/14-09/06/14</week>
+	<modulecode>SMM027</modulecode>
+	<activity>SMM027 Introduction to Copula Modelling/Lecture/WKS 1-5</activity>
+	<desc>Weeks 1-5</desc>
+	<joint>SMM027;SMM027</joint>
+	<studentnos>25</studentnos>
+	<room>2004</room>
+	<lecturer>Spreeuw, Jaap </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/06/14</week>
+	<modulecode>SMM027</modulecode>
+	<activity>SMM027 Introduction to Copula Modelling/Computer Lab/WK 6</activity>
+	<desc>Week 6 only (COMPUTER LAB)</desc>
+	<joint>SMM027;SMM027</joint>
+	<studentnos>25</studentnos>
+	<room>1001</room>
+	<lecturer>Spreeuw, Jaap </lecturer>
+	<day>Wednesday </day>
+</booking>

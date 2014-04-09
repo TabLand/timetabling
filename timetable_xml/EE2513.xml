@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>11/11/13-18/11/13</week>
+	<modulecode>EE2513</modulecode>
+	<activity>EE2513 Engineering Materials/Lab/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CLG07</room>
+	<lecturer>Naher, S Dr </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>25/11/13</week>
+	<modulecode>EE2513</modulecode>
+	<activity>EE2513 Engineering Materials/Lab/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CLG07</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>02/12/13</week>
+	<modulecode>EE2513</modulecode>
+	<activity>EE2513 Engineering Materials/Lab/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>27/01/14-24/02/14, 10/03/14</week>
+	<modulecode>EE2513</modulecode>
+	<activity>EE2513 Engineering Materials/Lecture 1/02/JOINT</activity>
+	<desc>Joint with ME1109: total numbers 100</desc>
+	<joint>EE2513;ME1109</joint>
+	<studentnos>20</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>17/03/14-07/04/14</week>
+	<modulecode>EE2513</modulecode>
+	<activity>EE2513 Engineering Materials/Lecture 1/02/JOINT/Wks 8-11</activity>
+	<desc>Joint with ME1109:new location and timing</desc>
+	<joint>EE2513;ME1109</joint>
+	<studentnos>20</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE2513</modulecode>
+	<activity>EE2513 Engineering Materials/Lecture 1/01/JOINT</activity>
+	<desc>Joint with ME1109 Materials: total numbers 100</desc>
+	<joint>ME1109;EE2513</joint>
+	<studentnos>20</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

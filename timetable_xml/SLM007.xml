@@ -1,0 +1,117 @@
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Lab 1/01</activity>
+	<desc>Acoustic Phonetics Lab</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D201 (LCS Learning Resources Lab)</room>
+	<lecturer>Hirson, Allen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Lab 1/01b</activity>
+	<desc>Acoustic Phonetics Lab</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C244 (LCS Learning Resources Lab)</room>
+	<lecturer>Hirson, Allen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Autumn/Practical 01/01</activity>
+	<desc>Hearing & Speech Sciences - Artic. Phon. somewhere quiet</desc>
+	<joint> </joint>
+	<studentnos>43</studentnos>
+	<room>DLG03</room>
+	<lecturer>Jones, Mark J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>09/12/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Autumn/MCT 1/01</activity>
+	<desc>Hearing & Speech Sciences - double spaced</desc>
+	<joint> </joint>
+	<studentnos>160</studentnos>
+	<room>Birley</room>
+	<lecturer>Hirson, Allen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Autumn/Lecture 01/01</activity>
+	<desc>Hearing & Speech Sciences</desc>
+	<joint> </joint>
+	<studentnos>85</studentnos>
+	<room>C304</room>
+	<lecturer>Hirson, Allen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Lab 1/03</activity>
+	<desc>Acoustic Phonetics Lab</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D201 (LCS Learning Resources Lab)</room>
+	<lecturer>Hirson, Allen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Lab 1/03b</activity>
+	<desc>Acoustic Phonetics Lab</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C244 (LCS Learning Resources Lab)</room>
+	<lecturer>Hirson, Allen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>16:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Lab 1/02</activity>
+	<desc>Acoustic Phonetics Lab (AH)</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D201 (LCS Learning Resources Lab)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>16:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>SLM007</modulecode>
+	<activity>SLM007 Hearing & Speech Sciences/Lab 1/02b</activity>
+	<desc>Acoustic Phonetics Lab (AH)</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C244 (LCS Learning Resources Lab)</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

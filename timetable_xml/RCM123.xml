@@ -1,0 +1,117 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 1/01</activity>
+	<desc>Lecture 1</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 7/01</activity>
+	<desc>Lecture 7 (JMorgan)</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>VL 01 - HARADI </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 8/01</activity>
+	<desc>Lecture 8</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 3/01</activity>
+	<desc>Lecture 3 (JM teaching RD1024)</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 9/01</activity>
+	<desc>Lecture 9</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 4/01</activity>
+	<desc>Lecture 4</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 10/01</activity>
+	<desc>Lecture 10</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 5/01</activity>
+	<desc>Lecture 5</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>RCM123</modulecode>
+	<activity>RCM123 Science And Instrumentation Of Computed Tomography/Lecture 6/01</activity>
+	<desc>Lecture 6</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>

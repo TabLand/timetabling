@@ -1,0 +1,65 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>20/01/14</week>
+	<modulecode>SMU Exc kaist irm Induction</modulecode>
+	<activity>Welcome talk/room set up</activity>
+	<desc>room set up</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2002</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:00</end>
+	<week>20/01/14</week>
+	<modulecode>SMU Exc kaist irm Induction</modulecode>
+	<activity>Welcome Talk/Exchange,partnership programme</activity>
+	<desc>Welcome Talk/Exchange,partnership programme</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>2002</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>20/01/14</week>
+	<modulecode>SMU Exc kaist irm Induction</modulecode>
+	<activity>Welcome Talk/KAIST/SOGANG</activity>
+	<desc>Welcome Talk/KAIST/SOGANG</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>2005</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>14:00</end>
+	<week>20/01/14</week>
+	<modulecode>SMU Exc kaist irm Induction</modulecode>
+	<activity>Welcome Talk/IRM Exempt route</activity>
+	<desc>Welcome Talk/IRM Exempt route</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>2010</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>14:00</end>
+	<week>20/01/14</week>
+	<modulecode>SMU Exc kaist irm Induction</modulecode>
+	<activity>Welcome Talk/SMU</activity>
+	<desc>Welcome Talk/Singapore Management University</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2002</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

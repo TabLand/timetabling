@@ -1,0 +1,26 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>SMM061</modulecode>
+	<activity>SMM061 Financial Mathematics (Ct1)/Lecture 01/wks 1-7, 9-10</activity>
+	<desc>(Ct1) Autumn : Weeks 1-7, 9-10</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>2006</room>
+	<lecturer>Wright, Douglas </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>18/11/13</week>
+	<modulecode>SMM061</modulecode>
+	<activity>SMM061 Financial Mathematics (Ct1)/Lecture 01/wk 8</activity>
+	<desc>(Ct1) Autumn : Week 8 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>3003</room>
+	<lecturer>Wright, Douglas </lecturer>
+	<day>Wednesday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>AMMxx4</modulecode>
+	<activity>AMM428 Creative Workers and the City</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C150</room>
+	<lecturer>Pratt, Andy;Gill, Rosalind </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>AMMxx4</modulecode>
+	<activity>AMM428 Creative Workers and the City</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Pratt, Andy;Gill, Rosalind </lecturer>
+	<day>Wednesday </day>
+</booking>

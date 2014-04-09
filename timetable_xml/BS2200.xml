@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>BS2200</modulecode>
+	<activity>BS2200 IT For Business Lecture/wks 1-10</activity>
+	<desc>Spring Lecture : Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C340</room>
+	<lecturer>Rich, Martin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>07/04/14</week>
+	<modulecode>BS2200</modulecode>
+	<activity>BS2200 IT For Business Lecture/wk 11</activity>
+	<desc>Spring Lecture : Week 11 only</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C339</room>
+	<lecturer>Rich, Martin </lecturer>
+	<day>Friday </day>
+</booking>

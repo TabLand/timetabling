@@ -1,0 +1,39 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SGM230</modulecode>
+	<activity>SGM230 Issues in Media and Communications Research/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>41</studentnos>
+	<room>D104</room>
+	<lecturer>Matos, Carolina;Iosifidis, Petros </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SGM230</modulecode>
+	<activity>SGM230 Issues in Media and Communications Research/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D104</room>
+	<lecturer>Matos, Carolina;Iosifidis, Petros </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SGM230</modulecode>
+	<activity>SGM230 Issues in Media and Communications Research/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D104</room>
+	<lecturer>Matos, Carolina;Iosifidis, Petros </lecturer>
+	<day>Monday </day>
+</booking>

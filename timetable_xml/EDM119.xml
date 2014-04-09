@@ -1,0 +1,39 @@
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>EDM119</modulecode>
+	<activity>EDM119 Research Supervision/02</activity>
+	<desc>LG01b</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Parker, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>21/10/13</week>
+	<modulecode>EDM119</modulecode>
+	<activity>EDM119 Research Supervision/01</activity>
+	<desc>LG01b</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Parker, P </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>EDM119</modulecode>
+	<activity>EDM119 Research Supervision/03</activity>
+	<desc>LG01b</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Parker, P </lecturer>
+	<day>Thursday </day>
+</booking>

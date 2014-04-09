@@ -1,0 +1,39 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2026</modulecode>
+	<activity>IN2026 Games Technology/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG03</room>
+	<lecturer>Child, Chris </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2026</modulecode>
+	<activity>IN2026 Games Technology/Lab 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Child, Chris </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2026</modulecode>
+	<activity>IN2026 Games Technology/Lab 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Child, Chris </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,169 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>11/11/13-09/12/13</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Lecture 4/01</activity>
+	<desc>Statistics</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>BG03</room>
+	<lecturer>Stupples, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>13/01/14</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Test/01/LEAD</activity>
+	<desc>Joint with EX2003 (180 joint numbers)</desc>
+	<joint>EX2003;ME2111</joint>
+	<studentnos>120</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Tutorial 1/01/JOINT</activity>
+	<desc> </desc>
+	<joint>ME2111;ME2109</joint>
+	<studentnos>1</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Tutorial 1/02/JOINT</activity>
+	<desc> </desc>
+	<joint>ME2111;ME2109</joint>
+	<studentnos>1</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Lecture 2/02/JOINT</activity>
+	<desc>Joint with EX2003: total numbers 140 *</desc>
+	<joint>ME2111;EX2003</joint>
+	<studentnos>90</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Tutorial 2/02/JOINT</activity>
+	<desc> </desc>
+	<joint>ME2111;ME2109</joint>
+	<studentnos>1</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>03/03/14</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Test/02/LEAD</activity>
+	<desc>Joint with EX2003 (joint numbers 180)</desc>
+	<joint>EX2003;ME2111</joint>
+	<studentnos>120</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Tutorial 2/01/JOINT</activity>
+	<desc> </desc>
+	<joint>ME2111;ME2109</joint>
+	<studentnos>1</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Lecture 1/01/JOINT</activity>
+	<desc>Joint with CV2407 & EX2003: total numbers 229 *</desc>
+	<joint>ME2111;EX2003;CV2407</joint>
+	<studentnos>90</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Lecture 1/02/JOINT</activity>
+	<desc>Joint with EX2003: total numbers 140</desc>
+	<joint>ME2111;EX2003</joint>
+	<studentnos>90</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Lecture 2/01/JOINT</activity>
+	<desc>Extra Maths * (Joint with EX2003)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>Halikias, G </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>28/10/13, 11/11/13</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Lecture 3/01</activity>
+	<desc>Computing in Part 2</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>AG22</room>
+	<lecturer>Yeganeh, Dr O </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>ME2111</modulecode>
+	<activity>ME2111 Mathematics & Computation 2/Lecture 3/01</activity>
+	<desc>Computing in Part 2</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>AG22</room>
+	<lecturer>Yeganeh, Dr O </lecturer>
+	<day>Friday </day>
+</booking>

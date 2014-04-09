@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>CV2309</modulecode>
+	<activity>CV2309 Construction Management/Lecture 1/1/JOINT</activity>
+	<desc>Joint with CV2318: total numbers 100</desc>
+	<joint>CV2309;CV2318</joint>
+	<studentnos>13</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>13/01/14</week>
+	<modulecode>CV2309</modulecode>
+	<activity>CV2309 Construction Management/Lecture 1/2 joint</activity>
+	<desc>Joint with CV2318</desc>
+	<joint>CV2309;CV2318</joint>
+	<studentnos>13</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>11/11/13</week>
+	<modulecode>CV2309</modulecode>
+	<activity>CV2309 Construction Management/Tutorial 1/01/JOINT</activity>
+	<desc>Joint with CV2318: total numbers 100</desc>
+	<joint>CV2318;CV2309</joint>
+	<studentnos>13</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>11/11/13</week>
+	<modulecode>CV2309</modulecode>
+	<activity>CV2309 Construction Management/Lab 1/1/JOINT</activity>
+	<desc>Joint with CV2318: total numbers 77</desc>
+	<joint>CV2318;CV2309</joint>
+	<studentnos>35</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

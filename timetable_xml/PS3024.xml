@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS3024</modulecode>
+	<activity>PS3024 The Psychology of Time/Lecture 01/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PS3024;PSM520</joint>
+	<studentnos>70</studentnos>
+	<room>C338</room>
+	<lecturer>Reimars, Stian </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS3024</modulecode>
+	<activity>PS3024 The Psychology of Time/Drop-In Clinic 01/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PS3024;PSM520</joint>
+	<studentnos>5</studentnos>
+	<room>D413</room>
+	<lecturer>Reimars, Stian </lecturer>
+	<day>Tuesday </day>
+</booking>

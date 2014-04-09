@@ -1,0 +1,130 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal medicine, stabilisation & transfer/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24a</room>
+	<lecturer>Lanlehin, R;Ratnavel, Dr </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal Surgery/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Ratnavel, Dr </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal medicine, stabilisation & transfer/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24a</room>
+	<lecturer>Lanlehin, R;Ratnavel, Dr </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal Surgery/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Ratnavel, Dr </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal medicine, stabilisation & transfer/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24a</room>
+	<lecturer>Lanlehin, R;Ratnavel, Dr </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal Surgery/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Ratnavel, Dr </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal medicine, stabilisation & transfer/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24a</room>
+	<lecturer>Lanlehin, R;Ratnavel, Dr </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal Surgery/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Ratnavel, Dr </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal medicine, stabilisation & transfer/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24a</room>
+	<lecturer>Lanlehin, R;Ratnavel, Dr </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM011</modulecode>
+	<activity>APM011 Neonatal Surgery/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Ratnavel, Dr </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>MU1059</modulecode>
+	<activity>MU1059 Composition 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG10;AG09</room>
+	<lecturer>Armstrong, Newton </lecturer>
+	<day>Thursday </day>
+</booking>

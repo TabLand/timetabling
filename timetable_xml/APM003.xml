@@ -1,0 +1,143 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Introduction to psychology for health and social care/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Stress/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Coping/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>21/10/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Symptom perception and pain/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Chronic illness/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Terminal illness & bereavement/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>11/11/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Psychological interventions/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Cardiovascular disease/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>25/11/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Obesity/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Cancer/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>APM003</modulecode>
+	<activity>APM003 Childbirth/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>Ayers, S </lecturer>
+	<day>Wednesday </day>
+</booking>

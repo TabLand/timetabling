@@ -1,0 +1,104 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 1/Monday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C303</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 2/Monday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 1/Tuesday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C302</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 2/Tuesday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 1/Wednesday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C302</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 2/Wednesday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 1/Friday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C302</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM263</modulecode>
+	<activity>JOM263 Shorthand/term 2/Friday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>Pitman College (PG) </lecturer>
+	<day>Friday </day>
+</booking>

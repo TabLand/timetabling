@@ -1,0 +1,65 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM147 CF</modulecode>
+	<activity>SMM147 Financial Statement Analysis (MSc CF)/Lecture 01</activity>
+	<desc>MSc CF: LECTURE:</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>2003</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>24/03/14</week>
+	<modulecode>SMM147 CF</modulecode>
+	<activity>SMM147 Financial Statement Analysis (MSc CF)/Tutorial/WK 9</activity>
+	<desc>MSc CF: TUTORIAL: Week 9 ONLY</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>2002</room>
+	<lecturer>De Cesaris, Stephano </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>10/03/14, 31/03/14</week>
+	<modulecode>SMM147 CF</modulecode>
+	<activity>SMM147 Financial Statement Analysis (MSc CF)/Tutorial/WKS 7 & 10</activity>
+	<desc>MSc CF: TUTORIAL: Weeks 7 & 10 ONLY</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>2003</room>
+	<lecturer>De Cesaris, Stephano </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>17/03/14</week>
+	<modulecode>SMM147 CF</modulecode>
+	<activity>SMM147 Financial Statement Analysis (MSc CF)/Tutorial/WK 8</activity>
+	<desc>MSc CF: TUTORIAL: Week 8</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>2006</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>SMM147 CF</modulecode>
+	<activity>SMM147 Financial Statement Analysis (MSc CF)/Tutorial/WK 6</activity>
+	<desc>MSc CF: TUTORIAL: Week 6</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>2003</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>13:10</start>
+	<end>21:00</end>
+	<week>07/04/14</week>
+	<modulecode>SMM814</modulecode>
+	<activity>SMM814 Principles & Practices Of Grantmaking/Lecture 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>3002</room>
+	<lecturer>Grant, Peter </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>21:00</end>
+	<week>05/05/14</week>
+	<modulecode>SMM814</modulecode>
+	<activity>SMM814 Principles & Practices Of Grantmaking/Lecture 03/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>3002</room>
+	<lecturer>Grant, Peter </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>18:00</end>
+	<week>02/06/14</week>
+	<modulecode>SMM814</modulecode>
+	<activity>SMM814 Principles & Practices Of Grantmaking/EXAM/JOINT</activity>
+	<desc> </desc>
+	<joint>SMM813;SMM816;SMM814</joint>
+	<studentnos>18</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

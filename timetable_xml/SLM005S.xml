@@ -1,0 +1,286 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/01</activity>
+	<desc>Spring Tutorial</desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>D108</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C312</room>
+	<lecturer>VL 13/8 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>I203/I206</room>
+	<lecturer>VL 13/6 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/08</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C330</room>
+	<lecturer>VL 13/5 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C313</room>
+	<lecturer>VL 13/4 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C328</room>
+	<lecturer>VL 13/2 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A112</room>
+	<lecturer>Cummins, Keena </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 01/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>D109</room>
+	<lecturer>VL 13/10 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Lecture 01</activity>
+	<desc>Fortnightly masterclass</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Tutorial 02/01 wk11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A107;C312;C167;D106;D109;I203/I206</room>
+	<lecturer>VL 13/5 - HACOMS - SLM005;Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Lecture 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Birley</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>23/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 3/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>AG24b;A112;DLG02;D112;D113;I203/I206;D222;A214</room>
+	<lecturer>VL 13/7 - HACOMS - SLM005;Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/08</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>D113</room>
+	<lecturer>VL 13/7 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>I103</room>
+	<lecturer>VL 13/6 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>D109</room>
+	<lecturer>VL 13/5 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>D108</room>
+	<lecturer>VL 13/4 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>I106</room>
+	<lecturer>VL 13/3 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>IG03</room>
+	<lecturer>VL 13/2 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>A112</room>
+	<lecturer>VL 13/1 - HACOMS - SLM005 </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/06/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Summer/Tutorial 2/01</activity>
+	<desc>Summer Tutorial</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>D106</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Workshop 1/01</activity>
+	<desc>Meet the Experts: Laryngectomy and Dysfluency (MLee) 2 rooms nearby</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>C350;C348</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:30</end>
+	<week>20/01/14</week>
+	<modulecode>SLM005S</modulecode>
+	<activity>SLM005 Professional Studies (a)/Spring/Workshop 1/02</activity>
+	<desc>Meet the Experts: Laryngectomy and Dysfluency (MLee) 4 rooms nearby</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C150;C164;C135;C167</room>
+	<lecturer>Camilleri, Bernard </lecturer>
+	<day>Friday </day>
+</booking>

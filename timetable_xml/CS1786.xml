@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>CS1786</modulecode>
+	<activity>CS1786 Persuading And Influencing Skills term 1 wk1&2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>AG01</room>
+	<lecturer>Bynoe, Sandra </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>14/10/13-02/12/13</week>
+	<modulecode>CS1786</modulecode>
+	<activity>CS1786 Persuading And Influencing Skills term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>AG02</room>
+	<lecturer>Bynoe, Sandra </lecturer>
+	<day>Tuesday </day>
+</booking>

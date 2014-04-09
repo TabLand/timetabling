@@ -1,0 +1,104 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>14/10/13-21/10/13, 02/12/13-09/12/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/B/Lecture 02</activity>
+	<desc>QM (B) - Extra Lecture: Weeks 3-4, 10-11</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Pouliasis, Panagiotis </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/B/Lecture 02/wk 9</activity>
+	<desc>QM (B) - Extra Lecture: Week 9 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2003</room>
+	<lecturer>Pouliasis, Panagiotis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/B/Lecture 01</activity>
+	<desc>QM (B) - Lecture : Weeks 1-5, 7-11</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>3002</room>
+	<lecturer>Pouliasis, Panagiotis </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/A/Lecture 01</activity>
+	<desc>QM (A) - Lecture: Weeks 1-5, 7-11</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>3002</room>
+	<lecturer>Papapostolou, Nikolaos </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/D: A2&B2/Excel/LAB/01</activity>
+	<desc>QM (D) - Excel LAB : Weeks 1, 3, 5, 7, 9</desc>
+	<joint> </joint>
+	<studentnos>52</studentnos>
+	<room>2001</room>
+	<lecturer>Pouliasis, Panagiotis;Papapostolou, Nikolaos </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:10</start>
+	<end>18:00</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/C: A1/Excel/LAB/01</activity>
+	<desc>QM (C) - Excel LAB : Weeks 1, 3, 5, 7, 9</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2001</room>
+	<lecturer>Pouliasis, Panagiotis;Papapostolou, Nikolaos </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/E: B1/Excel/LAB/01</activity>
+	<desc>QM (E) - Excel LAB : Weeks 1, 3, 5, 7, 9</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2001</room>
+	<lecturer>Pouliasis, Panagiotis;Papapostolou, Nikolaos </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>14/10/13-21/10/13, 25/11/13-09/12/13</week>
+	<modulecode>SMM556</modulecode>
+	<activity>SMM556 Quantitative Methods/A/Lecture 02</activity>
+	<desc>QM (A) - Extra Lecture: Weeks 3-4, 9-11</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>G001</room>
+	<lecturer>Papapostolou, Nikolaos </lecturer>
+	<day>Friday </day>
+</booking>

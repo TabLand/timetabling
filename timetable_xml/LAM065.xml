@@ -1,0 +1,13 @@
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>30/09/13-14/10/13, 28/10/13-18/11/13</week>
+	<modulecode>LAM065</modulecode>
+	<activity>LAM065 Subtitling</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>EG12</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

@@ -1,0 +1,78 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LG3079</modulecode>
+	<activity>LG3079 Legal Skills/Tutorial 1/1/JOINT</activity>
+	<desc> </desc>
+	<joint>LU3079;LG3079</joint>
+	<studentnos>2</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>03/03/14-10/03/14</week>
+	<modulecode>LG3079</modulecode>
+	<activity>LG3079 Legal Skills/Lecture 1/Main Room/1/JOINT/Mar 5th & 12th</activity>
+	<desc> </desc>
+	<joint>LG3079;LU3079</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>31/03/14</week>
+	<modulecode>LG3079</modulecode>
+	<activity>LG3079 Legal Skills/Revision Lecture/Apr 2nd/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3079;LU3079</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LG3079</modulecode>
+	<activity>LG3079 Legal Skills/Room 3/1/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3079;LU3079</joint>
+	<studentnos>5</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LG3079</modulecode>
+	<activity>LG3079 Legal Skills/Room 2/1/JOINT</activity>
+	<desc> </desc>
+	<joint>LU3079;LG3079</joint>
+	<studentnos>5</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14, 10/02/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LG3079</modulecode>
+	<activity>LG3079 Legal Skills/Lecture 1/Main Room/1/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3079;LU3079</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

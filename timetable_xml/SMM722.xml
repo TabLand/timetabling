@@ -1,0 +1,26 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>SMM722</modulecode>
+	<activity>SMM722 Securities/FIpt1/Lecture/WKS 1-5</activity>
+	<desc>FI PT Year 1 - Core : all PT1 students - Spring - Weeks 1-5</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>3003</room>
+	<lecturer>Schroth, Enrique </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>SMM722</modulecode>
+	<activity>SMM722 Securities/FIpt1/Lecture/WKS 6-10</activity>
+	<desc>FI PT Year 1 - Core : all PT1 students - Spring - Weeks 6-10</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>3003</room>
+	<lecturer>Staikouras, Sotiris </lecturer>
+	<day>Tuesday </day>
+</booking>

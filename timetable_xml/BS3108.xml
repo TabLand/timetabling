@@ -1,0 +1,52 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>BS3108</modulecode>
+	<activity>BS3108 Consumer Behaviour/Lecture/wks 2-11</activity>
+	<desc>Spring: Bus , Mgt & Exchange students: Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>B103</room>
+	<lecturer>Feiereisen, Stephanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14</week>
+	<modulecode>BS3108</modulecode>
+	<activity>BS3108 Consumer Behaviour/Lecture/wk 1</activity>
+	<desc>Spring: Bus , Mgt & Exchange students: Week 1 only</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG03</room>
+	<lecturer>Feiereisen, Stephanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>03/03/14</week>
+	<modulecode>BS3108</modulecode>
+	<activity>BS3108 Consumer Behaviour/Guest Lecture with BS2211/(Lead)/wk 6</activity>
+	<desc>(Lead) BS3108 & BS2211 : Guest Lecture: Spring Week 6 only</desc>
+	<joint>BS3108;BS2211</joint>
+	<studentnos>140</studentnos>
+	<room>A130</room>
+	<lecturer>Tarvainen, William;Feiereisen, Stephanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>10/03/14</week>
+	<modulecode>BS3108</modulecode>
+	<activity>BS3108 Consumer Behaviour/Guest Lecture with BS2211/(Lead)/wk 7</activity>
+	<desc>(Lead) BS3108 & BS2211 : Guest Lecture: Spring Week 7 only</desc>
+	<joint>BS2211;BS3108</joint>
+	<studentnos>140</studentnos>
+	<room>A130</room>
+	<lecturer>Tarvainen, William;Feiereisen, Stephanie </lecturer>
+	<day>Tuesday </day>
+</booking>

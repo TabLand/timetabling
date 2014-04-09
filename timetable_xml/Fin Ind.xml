@@ -1,0 +1,104 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Induction - Financial Journalism (Mon)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Induction - Financial Journalism (Mon)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Induction - Financial Journalism (Mon)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>EG12</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Induction - Financial Journalism (Tue)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint>#SPLUSA936FF;Fin Ind</joint>
+	<studentnos>35</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Induction - Financial Journalism (Tue)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint>#SPLUSA936FF;Fin Ind</joint>
+	<studentnos>40</studentnos>
+	<room>ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Induction - Financial Journalism (Wed)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A107</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Induction - Financial Journalism (Wed)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint>#SPLUS633C05;Fin Ind</joint>
+	<studentnos>35</studentnos>
+	<room>A110</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>Fin Ind</modulecode>
+	<activity>Financial Journalism</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>AG32</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

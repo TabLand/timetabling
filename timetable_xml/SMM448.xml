@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>26/05/14</week>
+	<modulecode>SMM448</modulecode>
+	<activity>SMM448 Brand Management/Lecture/wk 3</activity>
+	<desc>Core : MKT stream /MSc Mgt - Week 3 only (Replacement)</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>3003</room>
+	<lecturer>Luedicke, Marius </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>12/05/14-09/06/14</week>
+	<modulecode>SMM448</modulecode>
+	<activity>SMM448 Brand Management/Lecture/wks 1-5</activity>
+	<desc>Core : MKT stream /MSc Mgt - Weeks 1-5</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>3003</room>
+	<lecturer>Luedicke, Marius </lecturer>
+	<day>Thursday </day>
+</booking>

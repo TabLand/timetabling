@@ -1,0 +1,52 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SG2043</modulecode>
+	<activity>SG2043 Key Issues in Criminology/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>B103</room>
+	<lecturer>McLaughlin, Eugene;Hohl, Katrin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SG2043</modulecode>
+	<activity>SG2043 Key Issues in Criminology/Tutorial 01/02</activity>
+	<desc>Weeks 2-5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Hohl, Katrin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-25/11/13, 09/12/13</week>
+	<modulecode>SG2043</modulecode>
+	<activity>SG2043 Key Issues in Criminology/Tutorial 01/01</activity>
+	<desc>Weeks 2-5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>DLG02</room>
+	<lecturer>McLaughlin, Eugene </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-25/11/13</week>
+	<modulecode>SG2043</modulecode>
+	<activity>SG2043 Key Issues in Criminology/Tutorial 01/03</activity>
+	<desc>Weeks 2-5 & 7-9</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Hohl, Katrin </lecturer>
+	<day>Friday </day>
+</booking>

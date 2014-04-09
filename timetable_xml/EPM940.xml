@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>EPM940</modulecode>
+	<activity>EPM940 Sustainable Development and Corporate Social Responsibility/SEMS/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG09</room>
+	<lecturer>Melville, Rob </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>17/02/14-10/03/14</week>
+	<modulecode>EPM940</modulecode>
+	<activity>EPM940 Sustainable Development and Corporate Social Responsibility/SEMS/Lecture 3/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG09</room>
+	<lecturer>Venables, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>17/03/14-31/03/14</week>
+	<modulecode>EPM940</modulecode>
+	<activity>EPM940 Sustainable Development and Corporate Social Responsibility/SEMS/Lecture 4/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG09</room>
+	<lecturer>Melville, Rob </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>18:50</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>EPM940</modulecode>
+	<activity>EPM940 Sustainable Development and Corporate Social Responsibility/SEMS/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C350</room>
+	<lecturer>Manu, P </lecturer>
+	<day>Tuesday </day>
+</booking>

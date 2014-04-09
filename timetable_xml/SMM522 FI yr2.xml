@@ -1,0 +1,26 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>03/03/14, 24/03/14-31/03/14</week>
+	<modulecode>SMM522 FI yr2</modulecode>
+	<activity>SMM522 Research Project Management Skills (MSc FI)/Lecture 01/WKS 6,9,10</activity>
+	<desc>FI : YEAR 2 - Spring Lecture - Weeks 6,9,10</desc>
+	<joint> </joint>
+	<studentnos>31</studentnos>
+	<room>3003</room>
+	<lecturer>Motson, Nick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>14/10/13, 28/10/13, 11/11/13</week>
+	<modulecode>SMM522 FI yr2</modulecode>
+	<activity>SMM522 Research Methods for Finance Professionals (MSc FI)/Computer Room 01</activity>
+	<desc>FI : YEAR 2 Autumn: Computer LAB - Weeks 3, 5, 7</desc>
+	<joint> </joint>
+	<studentnos>31</studentnos>
+	<room>1001</room>
+	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+	<day>Wednesday </day>
+</booking>

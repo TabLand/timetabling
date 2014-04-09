@@ -1,0 +1,13 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>19/05/14-23/06/14</week>
+	<modulecode>SMM528</modulecode>
+	<activity>SMM528 Private Equity Investment/Lecture/wks 2-7</activity>
+	<desc>Weeks 2-7</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>G001</room>
+	<lecturer>Miller, Edgar </lecturer>
+	<day>Wednesday </day>
+</booking>

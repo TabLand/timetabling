@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS1004</modulecode>
+	<activity>PS1004 History And Theory Of Psychology/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>210</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Gaigg, Sebastian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS1004</modulecode>
+	<activity>PS1004 History And Theory Of Psychology/Drop-In Clinic 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>DG10b</room>
+	<lecturer>Gaigg, Sebastian </lecturer>
+	<day>Thursday </day>
+</booking>

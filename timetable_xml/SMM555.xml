@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 18/11/13-09/12/13</week>
+	<modulecode>SMM555</modulecode>
+	<activity>SMM555 Managerial Accounting/A/Lecture 01</activity>
+	<desc>MACC (A) - Lecture : Weeks 1-5, 8-11</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2002</room>
+	<lecturer>Ribeiro, Carlos </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13-28/10/13, 18/11/13-09/12/13</week>
+	<modulecode>SMM555</modulecode>
+	<activity>SMM555 Managerial Accounting/B/Lecture 02</activity>
+	<desc>MACC (B) - Lecture : Weeks 1-5, 8-11</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Ribeiro, Carlos </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>SMM555</modulecode>
+	<activity>SMM555 Managerial Accounting/B/Lecture 02/wk 11</activity>
+	<desc>MACC (B) - Lecture : Week 11 only (replacement for wk 7 Biennial missed)</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Ribeiro, Carlos </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>09/12/13</week>
+	<modulecode>SMM555</modulecode>
+	<activity>SMM555 Managerial Accounting/A/Lecture 01/wk 11</activity>
+	<desc>MACC (A) - Lecture: Week 11 only (replacement for wk 7 Biennial missed)</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2006</room>
+	<lecturer>Ribeiro, Carlos </lecturer>
+	<day>Friday </day>
+</booking>

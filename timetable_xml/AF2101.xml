@@ -1,0 +1,182 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>14/10/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/A&F/Lecture 02/02/wk 3</activity>
+	<desc>Autumn Lecture : Stream 2 : A&F only : Week 3 only (replacement for wk 2 missed)</desc>
+	<joint> </joint>
+	<studentnos>73</studentnos>
+	<room>AG22</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>28/10/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/ECON/Tutorial 2/06/WK 5</activity>
+	<desc>ECON ; Week 5 ONLY</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C343</room>
+	<lecturer>Leiwy, Danny </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13-14/10/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/IFRM+ECON/Tutorial 2/06/WKS 2-3</activity>
+	<desc>Group 2 IFRM+ECON ; Weeks 2-3 ONLY</desc>
+	<joint> </joint>
+	<studentnos>19</studentnos>
+	<room>AG10</room>
+	<lecturer>Leiwy, Danny </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>21/10/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/IFRM+ECON/Tutorial 2/06/WK 4</activity>
+	<desc>Group 2 IFRM+ECON ; Week 4 ONLY</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>CG03</room>
+	<lecturer>Leiwy, Danny </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/10/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/IFRM+ECON/Tutorial 2/06/WKS 5-7, 9-11</activity>
+	<desc>Group 2 IFRM+ECON ; Weeks 5-7, 9-11</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>DLG02</room>
+	<lecturer>Leiwy, Danny </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>07/10/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/ECON+IFRM/Tutorial 1/06</activity>
+	<desc>Group 1 ECON+EXCH+IFRM : Weeks 2-7, 9-11</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>DLG09</room>
+	<lecturer>Leiwy, Danny </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>18/11/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting A&F/BIF/IFRM/ECON/Drop-In Surgery/WK 8</activity>
+	<desc>Streams 1&2</desc>
+	<joint> </joint>
+	<studentnos>143</studentnos>
+	<room>Oakden</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13, 14/10/13-28/10/13, 11/11/13, 02/12/13-09/12/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/A&F/Lecture 02/02/wks 1, 3-5, 7, 10-11</activity>
+	<desc>Autumn Lecture : Stream 2 : A&F only : Weeks 1, 3-5, 7,10-11</desc>
+	<joint> </joint>
+	<studentnos>73</studentnos>
+	<room>B103</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>04/11/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/A&F/Lecture 02/02/wk 6</activity>
+	<desc>Autumn Lecture : Stream 2 : A&F only : Week 6 (different location)</desc>
+	<joint> </joint>
+	<studentnos>73</studentnos>
+	<room>Geary</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/BIF/Tutorial 5/06</activity>
+	<desc>Group 5 BIF : Weeks 2-7, 9-11</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C323</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>07/10/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/A&F/Tutorial 3/06</activity>
+	<desc>Group 3 A&F - Weeks 2-7, 9-11</desc>
+	<joint> </joint>
+	<studentnos>38</studentnos>
+	<room>C303</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting BIF/IFRM/ECON/Lecture 01/02/WKS 1-7 & 9-11</activity>
+	<desc>Autumn Lecture : Stream 1: BIF/IFRM/ECON plus exchange 3</desc>
+	<joint> </joint>
+	<studentnos>88</studentnos>
+	<room>Poynton</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>18/11/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting A&F/BIF/IFRM/ECON/Mid-Term Test/WK 8</activity>
+	<desc>Streams 1&2</desc>
+	<joint> </joint>
+	<studentnos>143</studentnos>
+	<room>Poynton</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>AF2101</modulecode>
+	<activity>AF2101 Financial Accounting/A&F/Tutorial 4/06</activity>
+	<desc>Group 4 A&F : Weeks 2-7, 9-11</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C303</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Friday </day>
+</booking>

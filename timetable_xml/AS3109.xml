@@ -1,0 +1,13 @@
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>AS3109</modulecode>
+	<activity>AS3109 Advanced Financial Economics/Lecture 01</activity>
+	<desc>Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>C303</room>
+	<lecturer>Dimitrova, D </lecturer>
+	<day>Tuesday </day>
+</booking>

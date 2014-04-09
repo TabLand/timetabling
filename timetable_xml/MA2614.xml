@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>MA2614</modulecode>
+	<activity>MA2614 Finance & Investment Maths B/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>BG02</room>
+	<lecturer>Butt, Zoltan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-25/11/13, 09/12/13</week>
+	<modulecode>MA2614</modulecode>
+	<activity>MA2614 Finance & Investment Maths B/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>B103</room>
+	<lecturer>Butt, Zoltan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA2614</modulecode>
+	<activity>MA2614 Finance & Investment Maths B/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG03</room>
+	<lecturer>Butt, Zoltan </lecturer>
+	<day>Friday </day>
+</booking>

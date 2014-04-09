@@ -1,0 +1,208 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-21/10/13, 11/11/13, 09/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/02</activity>
+	<desc>01B Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Binns, Alison;VL 02 - HAOPTM </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/02</activity>
+	<desc>01B Clinical Skills Laboratory</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>C203 (Refraction 1)</room>
+	<lecturer>Binns, Alison;VL 02 - HAOPTM </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 2/02</activity>
+	<desc>Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Binns, Alison;VL 02 - HAOPTM </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13, 09/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/04</activity>
+	<desc>01D Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Suttle, Catherine;VL 03 - HAOPTM </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/04</activity>
+	<desc>01D Clinical Skills Laboratory</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>C203 (Refraction 1)</room>
+	<lecturer>Suttle, Catherine;VL 03 - HAOPTM </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 2/04</activity>
+	<desc>Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Suttle, Catherine;VL 03 - HAOPTM </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13, 09/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/03</activity>
+	<desc>01C Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Binns, Alison;VL 02 - HAOPTM </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/03</activity>
+	<desc>01C Clinical Skills Laboratory</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>C203 (Refraction 1)</room>
+	<lecturer>Binns, Alison;VL 02 - HAOPTM </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 2/03</activity>
+	<desc>Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Binns, Alison;VL 02 - HAOPTM </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13, 09/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/01</activity>
+	<desc>01A Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Suttle, Catherine;D'Ath, Penny;VL 01 - HAOPTM </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/01</activity>
+	<desc>01A Clinical Skills Laboratory</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>C203 (Refraction 1)</room>
+	<lecturer>Suttle, Catherine;D'Ath, Penny;VL 01 - HAOPTM </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 2/01</activity>
+	<desc>Clinical Skills Laboratory</desc>
+	<joint>OV1012;OV1012</joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Suttle, Catherine;D'Ath, Penny;VL 01 - HAOPTM </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Laboratory 1/02/Oct 30th</activity>
+	<desc>01B Clinical Skills Laboratory Rescheduled</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>C204 (Refraction 2)</room>
+	<lecturer>Binns, Alison;VL 02 - HAOPTM </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/03/14</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Lecture 2/1/LEAD</activity>
+	<desc>Clinical Skills I (joint with OV2207)</desc>
+	<joint>OV1012;OV2207</joint>
+	<studentnos>150</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Suttle, Catherine;Huntjens, Byki </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:30</end>
+	<week>03/03/14</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Lecture 2/1/LEAD</activity>
+	<desc>Clinical Skills I (joint with OV2207)</desc>
+	<joint>OV2207;OV1012</joint>
+	<studentnos>150</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Huntjens, Byki </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>OV1012</modulecode>
+	<activity>OV1012 Clinical Skills I/Lecture 1/1/LEAD</activity>
+	<desc>Clinical Skills I (joint with OV2207)</desc>
+	<joint>OV1012;OV2207</joint>
+	<studentnos>170</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Suttle, Catherine;Huntjens, Byki </lecturer>
+	<day>Thursday </day>
+</booking>

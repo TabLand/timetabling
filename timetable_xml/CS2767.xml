@@ -1,0 +1,13 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS2767</modulecode>
+	<activity>CS2767 Advanced Coaching Skills term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG02</room>
+	<lecturer>Simpson, Quinn </lecturer>
+	<day>Wednesday </day>
+</booking>

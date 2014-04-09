@@ -1,0 +1,13 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1804</modulecode>
+	<activity>CS1804 French: Year 2 (Lower Intermediate) term 1 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C164</room>
+	<lecturer>Shepherd, Agnes </lecturer>
+	<day>Tuesday </day>
+</booking>

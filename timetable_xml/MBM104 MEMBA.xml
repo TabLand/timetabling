@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>21/10/13</week>
+	<modulecode>MBM104 MEMBA</modulecode>
+	<activity>MBM104 Applied Corporate Finance 1 MEMBA12/Lecture 02</activity>
+	<desc>ACF1 MEMBA12</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>N216b</room>
+	<lecturer>Williams, Matt </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>21/10/13</week>
+	<modulecode>MBM104 MEMBA</modulecode>
+	<activity>MBM104 Applied Corporate Finance 1 MEMBA12/Syn Rooms 02</activity>
+	<desc>MEMBA12 - Syndicate Rooms - M. Williams</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/10/13</week>
+	<modulecode>MBM104 MEMBA</modulecode>
+	<activity>MBM104 Applied Corporate Finance 1 MEMBA12 /Lecture 01</activity>
+	<desc>MEMBA12 ACF1</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>N216b</room>
+	<lecturer>Williams, Matt </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/10/13</week>
+	<modulecode>MBM104 MEMBA</modulecode>
+	<activity>MBM104 Applied Corporate Finance 1 MEMBA12/Syn Rooms 01</activity>
+	<desc>MEMBA12- Syndicate Rooms - M. Williams</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

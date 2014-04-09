@@ -1,0 +1,169 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>28/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/BUS/Tutorial 2/01/wks 5-11</activity>
+	<desc>Tutorial: Group 2 BUS - Weeks 5-11 only</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C343</room>
+	<lecturer>Hesni, Bijan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-25/11/13, 09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/Lecture/wks 1-9,11</activity>
+	<desc>Lecture plus Exchange (10) - weeks 1-9, 11</desc>
+	<joint> </joint>
+	<studentnos>252</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Hesni, Bijan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>02/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/TEST/Wk 10</activity>
+	<desc>Lecture plus Exchange (10) : Week 10 only (Test) 252 students in two rooms</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Great Hall & Foyer;AG07</room>
+	<lecturer>Hesni, Bijan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>07/10/13-04/11/13, 18/11/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/MGT/Tutorial 7/01</activity>
+	<desc>Tutorial: Group 7 MGT</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>11/11/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/MGT/Tutorial 7/01</activity>
+	<desc>Tutorial: Group 7 MGT</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D220</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/BUS/Tutorial 1/01</activity>
+	<desc>Tutorial: Group 1 BUS</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C339</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/MGT/Tutorial 8/01</activity>
+	<desc>Tutorial: Group 8 MGT</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C161</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/BUS/Tutorial 4/01</activity>
+	<desc>Tutorial: Group 4 BUS</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>DLG08</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/BUS/Tutorial 3/01</activity>
+	<desc>Tutorial: Group 3 BUS</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/BUS/Tutorial 5/01</activity>
+	<desc>Tutorial: Group 5 BUS</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C343</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/BUS/Tutorial 6/01</activity>
+	<desc>Tutorial: Group 6 BUS</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C350</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/10/13-21/10/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/BUS/Tutorial 2/01/wks 2-4</activity>
+	<desc>Tutorial: Group 2 BUS - Weeks 2-4 only</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>CG05</room>
+	<lecturer>Hesni, Bijan </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>14/10/13-09/12/13</week>
+	<modulecode>BS1108</modulecode>
+	<activity>BS1108 Introduction to Financial Accounting for Business/Drop in Surgery</activity>
+	<desc>Drop in Surgery : Weeks 3-11</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>C302</room>
+	<lecturer>Iqbal, Mohammad </lecturer>
+	<day>Friday </day>
+</booking>

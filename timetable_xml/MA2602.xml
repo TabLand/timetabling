@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA2602</modulecode>
+	<activity>MA2602 Linear Algebra/Lecture 1/01/LEAD</activity>
+	<desc>Joint with AS2051: total numbers 220</desc>
+	<joint>MA2602;AS2051</joint>
+	<studentnos>220</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Alvarez, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA2602</modulecode>
+	<activity>MA2602 Linear Algebra/Lecture 2/01/LEAD</activity>
+	<desc>Joint with AS2051: total numbers 220</desc>
+	<joint>MA2602;AS2051</joint>
+	<studentnos>220</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Alvarez, M </lecturer>
+	<day>Friday </day>
+</booking>

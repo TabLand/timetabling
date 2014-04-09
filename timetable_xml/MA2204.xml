@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA2204</modulecode>
+	<activity>MA2204 Mathematics for Economists Post GCSE 3/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C302</room>
+	<lecturer>Cox, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA2204</modulecode>
+	<activity>MA2204 Mathematics for Economists Post GCSE 3/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C340</room>
+	<lecturer>Radu, Xenia </lecturer>
+	<day>Monday </day>
+</booking>

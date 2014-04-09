@@ -1,0 +1,221 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Lecture/02</activity>
+	<desc>Top up hours: All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>AG07</room>
+	<lecturer>Support staff </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>12:30</end>
+	<week>20/01/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Tutorial/05</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>D106</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:30</end>
+	<week>17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Lecture/03</activity>
+	<desc>Extra session: AN only</desc>
+	<joint> </joint>
+	<studentnos>48</studentnos>
+	<room>AG21</room>
+	<lecturer>Chamney, M;Boswell, G </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>13:30</end>
+	<week>27/01/14-17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Tutorial/05</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Additional session</activity>
+	<desc>CN only</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>20/01/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Introduction</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>BG03</room>
+	<lecturer>Eales, S;Chamney, M;Smith, U </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>20/01/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>BG03</room>
+	<lecturer>Kyratsis, Yiannis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>BG03</room>
+	<lecturer>Laudicella, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>03/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>BG03</room>
+	<lecturer>Sheldon, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>10/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>BG03</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>BG03</room>
+	<lecturer>Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>20/01/14-17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Tutorial/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C158</room>
+	<lecturer>Chamney, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>20/01/14-17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Boswell, G </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>20/01/14-17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Tutorial/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C167</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>20/01/14-17/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Tutorial/04</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C140</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:30</end>
+	<week>03/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Careers</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>AG21</room>
+	<lecturer>Support staff </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:30</end>
+	<week>03/02/14</week>
+	<modulecode>HSM051</modulecode>
+	<activity>HSM051 Leading & Managing in Health Care Practice/Careers</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>102</studentnos>
+	<room>AG21</room>
+	<lecturer>Eales, S;Outside speaker </lecturer>
+	<day>Wednesday </day>
+</booking>

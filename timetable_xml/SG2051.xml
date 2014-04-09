@@ -1,0 +1,104 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Screening/Mar 10th</activity>
+	<desc>Week 7</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>BLG07</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Lecture 01/01</activity>
+	<desc>Weeks 1-5 & 8-11</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>B103</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>03/03/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Screening/Mar 03rd</activity>
+	<desc>Week 6</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>D221</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>10/03/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Lecture 01/Mar 10th</activity>
+	<desc>Week 7: Presentations (longer session and different location)</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>BLG07</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Tutorial 01/01</activity>
+	<desc>Weeks 1-5 & 8-11</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BM02</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Tutorial 01/02</activity>
+	<desc>Weeks 1-5 & 8-11</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BM02</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>17/03/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Screening/Mar 20th</activity>
+	<desc>Week 8</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>BLG07</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>24/03/14</week>
+	<modulecode>SG2051</modulecode>
+	<activity>SG2051 News and Society/Screening/Mar 27th</activity>
+	<desc>Week 9</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>A225</room>
+	<lecturer>Matos, Carolina </lecturer>
+	<day>Thursday </day>
+</booking>

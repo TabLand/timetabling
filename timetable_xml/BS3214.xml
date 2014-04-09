@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS3214</modulecode>
+	<activity>BS3214 Corporate Social Responsibility/Lecture 1/LEAD</activity>
+	<desc>Joint with EE3462: total numbers 132</desc>
+	<joint>EE3462;BS3214</joint>
+	<studentnos>132</studentnos>
+	<room>Birley</room>
+	<lecturer>Spicer, Andre Prof </lecturer>
+	<day>Wednesday </day>
+</booking>

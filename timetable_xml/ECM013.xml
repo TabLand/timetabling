@@ -1,0 +1,91 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>ECM013</modulecode>
+	<activity>ECM013 Financial Derivatives/Lecture 01/Revision/Dec 11th</activity>
+	<desc>Week 11: Different time and location</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D220</room>
+	<lecturer>Iori, Giulia </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>ECM013</modulecode>
+	<activity>ECM013 Financial Derivatives/Lab 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D518</room>
+	<lecturer>Kovaleva, Polina </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>ECM013</modulecode>
+	<activity>ECM013 Financial Derivatives/Lab 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D518</room>
+	<lecturer>Kovaleva, Polina </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>07/10/13</week>
+	<modulecode>ECM013</modulecode>
+	<activity>ECM013 Financial Derivatives/Lecture 01/Oct 10th</activity>
+	<desc>Week 2: Shorter session</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C303</room>
+	<lecturer>Iori, Giulia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>14/10/13-21/10/13, 11/11/13-02/12/13</week>
+	<modulecode>ECM013</modulecode>
+	<activity>ECM013 Financial Derivatives/Lecture 01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A214</room>
+	<lecturer>Iori, Giulia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>ECM013</modulecode>
+	<activity>ECM013 Financial Derivatives/Lecture 01/Oct 31st</activity>
+	<desc>Week 5:</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BLG08</room>
+	<lecturer>Iori, Giulia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>ECM013</modulecode>
+	<activity>ECM013 Financial Derivatives/Lecture 01/Nov 5th</activity>
+	<desc>Week 6: Different location</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D112</room>
+	<lecturer>Iori, Giulia </lecturer>
+	<day>Thursday </day>
+</booking>

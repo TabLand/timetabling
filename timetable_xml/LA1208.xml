@@ -1,0 +1,39 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA1208</modulecode>
+	<activity>LA1208 German For Media (beginners)/Autumn</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>A108</room>
+	<lecturer>Dequay, Marina </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA1208</modulecode>
+	<activity>LA1208 German For Media (beginners)/Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>D222</room>
+	<lecturer>Dequay, Marina </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>31/03/14-07/04/14</week>
+	<modulecode>LA1208</modulecode>
+	<activity>LA1208 German For Media (beginners)/Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>D222</room>
+	<lecturer>Dequay, Marina </lecturer>
+	<day>Tuesday </day>
+</booking>

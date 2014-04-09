@@ -1,0 +1,793 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>11/11/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Autumn 01/01 11/Nov</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Geary</room>
+	<lecturer>McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>14/10/13, 25/11/13-09/12/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Geary</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Geary</room>
+	<lecturer>Vseteckova, J;Davies, Jacqueline;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>03/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Hirani, Shashi;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>10/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Vseteckova, J;Drey, N </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>24/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Davies, Jacqueline;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>10/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Vseteckova, J;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>17/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Vseteckova, J;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>31/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Patey, A;Davies, Jacqueline </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Hirani, Shashi;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>14/10/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Autumn 01/01</activity>
+	<desc>replacement rooms for 14/10 only</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A109;C345;E212</room>
+	<lecturer>Hirani, Shashi;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Drey, N </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>BLG08;A109;C345</room>
+	<lecturer>Vseteckova, J;Davies, Jacqueline;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>25/11/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>BLG08;A109;C345</room>
+	<lecturer>Drey, N </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>BLG08;A109;C345</room>
+	<lecturer>Simon, A;Davies, Jacqueline </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>B104</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Hirani, Shashi;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Vseteckova, J;Drey, N </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>B104</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Davies, Jacqueline;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Vseteckova, J;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Vseteckova, J;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109</room>
+	<lecturer>Hirani, Shashi;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Patey, A;Davies, Jacqueline </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>07/04/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>A109;C345</room>
+	<lecturer>Hirani, Shashi;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-09/12/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Autumn 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>105</studentnos>
+	<room>Geary</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>28/10/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Autumn 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>105</studentnos>
+	<room>Geary</room>
+	<lecturer>Vseteckova, J;Davies, Jacqueline;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Hurt, Catherine;Sekhon, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>03/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>10/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>24/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Davies, Jacqueline;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Vseteckova, J;Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>24/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Hirani, Shashi;Vseteckova, J;Cartwright, Martin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>31/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Hirani, Shashi;Vseteckova, J;Cartwright, Martin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/04/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lecture/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13, 28/10/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Autumn 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03;DLG09</room>
+	<lecturer>Drey, N </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Autumn 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a;A220</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/10/13-21/10/13, 11/11/13-09/12/13</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Autumn 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C339;AG03</room>
+	<lecturer>Hurt, Catherine;Sekhon, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Tutorial/Spring 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C339;AG03</room>
+	<lecturer>McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Davies, Jacqueline </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Vseteckova, J;Cartwright, Martin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Vseteckova, J;Cartwright, Martin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Vseteckova, J;Cartwright, Martin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hirani, Shashi </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>HRM001</modulecode>
+	<activity>HRM001 Introduction to Research Methods & Data Analysis/Lab/Spring 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Botting, Nikki </lecturer>
+	<day>Monday </day>
+</booking>

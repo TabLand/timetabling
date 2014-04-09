@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>21/07/14</week>
+	<modulecode>RT1016</modulecode>
+	<activity>RT1016 Radiotherapy Equipment/Lecture 01/03</activity>
+	<desc>Pre-treatment</desc>
+	<joint> </joint>
+	<studentnos>4</studentnos>
+	<room>D107</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>30/06/14</week>
+	<modulecode>RT1016</modulecode>
+	<activity>RT1016 Radiotherapy Equipment/Lecture 01/01</activity>
+	<desc>Linacs</desc>
+	<joint> </joint>
+	<studentnos>4</studentnos>
+	<room>D107</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>14/07/14</week>
+	<modulecode>RT1016</modulecode>
+	<activity>RT1016 Radiotherapy Equipment/Lecture 01/02</activity>
+	<desc>SXR/DXR</desc>
+	<joint> </joint>
+	<studentnos>4</studentnos>
+	<room>D107</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>21/07/14</week>
+	<modulecode>RT1016</modulecode>
+	<activity>RT1016 Radiotherapy Equipment/Lecture 01/04</activity>
+	<desc>Other equipment</desc>
+	<joint> </joint>
+	<studentnos>4</studentnos>
+	<room>D107</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Thursday </day>
+</booking>

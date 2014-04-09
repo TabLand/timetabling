@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>EPM941</modulecode>
+	<activity>EPM941 Corporate Governance/SEMS/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Melville, Rob </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>10/02/14-31/03/14</week>
+	<modulecode>EPM941</modulecode>
+	<activity>EPM941 Corporate Governance/SEMS/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C339</room>
+	<lecturer>Melville, Rob </lecturer>
+	<day>Tuesday </day>
+</booking>

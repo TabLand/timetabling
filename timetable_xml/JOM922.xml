@@ -1,0 +1,234 @@
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/AM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/PM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/AM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/PM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/AM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>AG07</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/PM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/AM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14, 10/02/14-17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lab 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>Poynton</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>Poynton</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14, 10/02/14-17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lab 2/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/PM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>CG04</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lab 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lab 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14, 17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lab 2/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Online Journalism/Lab 2/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG35a</room>
+	<lecturer>Gilroy-Ware, Marcus </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/AM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>AG07</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>JOM922</modulecode>
+	<activity>JOM922 Introduction to Journalism/PM</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>C304</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

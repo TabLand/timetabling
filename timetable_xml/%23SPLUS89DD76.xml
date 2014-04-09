@@ -1,0 +1,13 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>#SPLUS89DD76</modulecode>
+	<activity>CS3501 Advanced Financial Engineering - Interest Rate Derivatives in C++/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG24a</room>
+	<lecturer>Turfus, Colin </lecturer>
+	<day>Tuesday </day>
+</booking>

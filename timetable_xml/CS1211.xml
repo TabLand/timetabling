@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1211</modulecode>
+	<activity>CS1211 Writing for Children</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A227</room>
+	<lecturer>Murray, Tamsyn </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1211</modulecode>
+	<activity>CS1211 Writing for Children term 2 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A109</room>
+	<lecturer>Murray, Tamsyn </lecturer>
+	<day>Monday </day>
+</booking>

@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>21/10/13</week>
+	<modulecode>SMM972</modulecode>
+	<activity>SMM972 Oil & Energy Transportation & Logistics/Lecture/WK 4</activity>
+	<desc>OETL Lecture - ETF only : Wk 4 only (replacement for wk 3 missed)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>3003</room>
+	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>30/09/13-07/10/13, 21/10/13-28/10/13, 18/11/13-09/12/13</week>
+	<modulecode>SMM972</modulecode>
+	<activity>SMM972 Oil & Energy Transportation & Logistics/Lecture/WKS 1-2, 4-5, 8-11</activity>
+	<desc>OETL Lecture - ETF only : Weeks 1-2, 4-5, 8-11</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>3002</room>
+	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>28/10/13</week>
+	<modulecode>SMM972</modulecode>
+	<activity>SMM972 Oil & Energy Transportation & Logistics/Lecture/WK 5</activity>
+	<desc>OETL Lecture - ETF only : Week 5 only (extra lecture)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2006</room>
+	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>18/11/13</week>
+	<modulecode>SMM972</modulecode>
+	<activity>SMM972 Oil & Energy Transportation & Logistics/Lecture/WK 8</activity>
+	<desc>OETL Lecture - ETF only : Week 8 only (extra lecture)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2006</room>
+	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>09/12/13</week>
+	<modulecode>SMM972</modulecode>
+	<activity>SMM972 Oil & Energy Transportation & Logistics/Lecture/WK 11</activity>
+	<desc>OETL Lecture - ETF only : Week 11 ONLY (replacement for wk 7 Biennial missed)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2006</room>
+	<lecturer>Alizadeh-Masoodian, Amir </lecturer>
+	<day>Thursday </day>
+</booking>

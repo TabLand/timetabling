@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>16:30</end>
+	<week>09/06/14</week>
+	<modulecode>IN3007</modulecode>
+	<activity>IN3007 Individual Project Preparation</activity>
+	<desc>Jagdeep Dosanjh 8393</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-14/10/13</week>
+	<modulecode>IN3007</modulecode>
+	<activity>IN3007 Individual Project</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Poynton</room>
+	<lecturer>Strigini, Lorenzo;Povyakalo, Andrey </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>16:30</end>
+	<week>09/06/14</week>
+	<modulecode>IN3007</modulecode>
+	<activity>IN3007 Individual Project Preparation</activity>
+	<desc>Jagdeep Dosanjh 8393</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>16:30</end>
+	<week>09/06/14</week>
+	<modulecode>IN3007</modulecode>
+	<activity>IN3007 Individual Project Preparation</activity>
+	<desc>Jagdeep Dosanjh 8393</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

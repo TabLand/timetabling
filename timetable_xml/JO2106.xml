@@ -1,0 +1,156 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production Lab term 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A219</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production Lab term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>AG35b</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production Lab term 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG35a</room>
+	<lecturer>Rennie, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production Lab term 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>AG35b</room>
+	<lecturer>VL 01 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production Lab term 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG35a</room>
+	<lecturer>Rennie, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production/TUTORIALS term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34a</room>
+	<lecturer>Rennie, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production/TUTORIALS term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34a</room>
+	<lecturer>Rennie, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production Radio/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b;AG34a</room>
+	<lecturer>Warr, Sandy </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Multimedia Production TUTORIALS/PRODUCTION</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG35a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Radio Editing</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>B307A</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14, 31/03/14-07/04/14</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Radio Class</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG35a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>17/03/14-24/03/14</week>
+	<modulecode>JO2106</modulecode>
+	<activity>JO2106 Radio Class</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

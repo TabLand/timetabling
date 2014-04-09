@@ -1,0 +1,91 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-03/03/14, 17/03/14-07/04/14</week>
+	<modulecode>ECM215</modulecode>
+	<activity>ECM215 Health Economics/Lecture 1/1</activity>
+	<desc>Weeks 1-6 & 8-11</desc>
+	<joint> </joint>
+	<studentnos>38</studentnos>
+	<room>DLG08</room>
+	<lecturer>Serra-Sastre, Victoria;Jofre-Bonet, Mireia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>10/03/14</week>
+	<modulecode>ECM215</modulecode>
+	<activity>ECM215 Health Economics/Exam/Mar 13th</activity>
+	<desc>Week 7: Exam</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C302</room>
+	<lecturer>Round, Jeff;Serra-Sastre, Victoria;Jofre-Bonet, Mireia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-03/03/14, 17/03/14-07/04/14</week>
+	<modulecode>ECM215</modulecode>
+	<activity>ECM215 Health Economics/Tutorial 1/01</activity>
+	<desc>Weeks 1-6 & 8-11</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG08</room>
+	<lecturer>Round, Jeff </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>27/01/14-03/03/14, 17/03/14-07/04/14</week>
+	<modulecode>ECM215</modulecode>
+	<activity>ECM215 Health Economics/Tutorial 1/02</activity>
+	<desc>Weeks 1-6 & 8-11</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>Round, Jeff </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>18:50</end>
+	<week>10/03/14</week>
+	<modulecode>ECM215</modulecode>
+	<activity>ECM215 Health Economics/Lecture 1/Mar 13th</activity>
+	<desc>Week 7</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D220</room>
+	<lecturer>Serra-Sastre, Victoria;Jofre-Bonet, Mireia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>24/02/14</week>
+	<modulecode>ECM215</modulecode>
+	<activity>ECM215 Health Economics/Lecture 1/Feb 27th</activity>
+	<desc>Additional session</desc>
+	<joint> </joint>
+	<studentnos>38</studentnos>
+	<room>D220</room>
+	<lecturer>Serra-Sastre, Victoria;Jofre-Bonet, Mireia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>24/03/14</week>
+	<modulecode>ECM215</modulecode>
+	<activity>ECM215 Health Economics/Lecture 1/Mar 27th</activity>
+	<desc>Additional session</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG09</room>
+	<lecturer>Serra-Sastre, Victoria </lecturer>
+	<day>Thursday </day>
+</booking>

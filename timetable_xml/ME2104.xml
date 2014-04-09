@@ -1,0 +1,156 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13, 28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 1/01</activity>
+	<desc>Mechanical Design</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>AG22</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 1/01</activity>
+	<desc>Mechanical Design</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A225</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Design Review Preparation</activity>
+	<desc>Ahmed Kovacevic 8780</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C345</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 1/02</activity>
+	<desc>Mechanical Design</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>ALG16</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-07/10/13, 28/10/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 2/01 B</activity>
+	<desc>Analysis of Mechanical Systems</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343</room>
+	<lecturer>Dhunput, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>14/10/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 2/01 B/14th Oct</activity>
+	<desc>Analysis of Mechanical Systems</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>CG05</room>
+	<lecturer>Dhunput, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>21/10/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 2/01 B/21st Oct</activity>
+	<desc>Analysis of Mechanical Systems</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C304</room>
+	<lecturer>Dhunput, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>11/11/13-09/12/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 2/01 A</activity>
+	<desc>Analysis of Mechanical Systems</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 2/02</activity>
+	<desc>Analysis of Mechanical Systems</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C340</room>
+	<lecturer>Pullen, K;Banerjee, R;Edney, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>07/10/13-14/10/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Mechanical Analysis & Design/Lecture 1/01</activity>
+	<desc>Mechanical Design</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C303</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>07/10/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 - Team allocation and team building</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG03</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>04/11/13</week>
+	<modulecode>ME2104</modulecode>
+	<activity>ME2104 Project review/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG22</room>
+	<lecturer>Kovacevic, A </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN3026</modulecode>
+	<activity>IN3026 Advanced Games Design Theory and Technology/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG03</room>
+	<lecturer>Slabaugh, Gregory </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN3026</modulecode>
+	<activity>IN3026 Advanced Games Design Theory and Technology/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A220</room>
+	<lecturer>Slabaugh, Gregory </lecturer>
+	<day>Tuesday </day>
+</booking>

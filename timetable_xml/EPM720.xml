@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>EPM720</modulecode>
+	<activity>EPM720 Shock And Earthquake Analysis/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>Giaralis, A;Kappos, A Prof </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>24/03/14</week>
+	<modulecode>EPM720</modulecode>
+	<activity>EPM720 Shock And Earthquake Analysis/Lecture 1/02</activity>
+	<desc>Addendum</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>Giaralis, A;Kappos, A Prof </lecturer>
+	<day>Friday </day>
+</booking>

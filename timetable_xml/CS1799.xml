@@ -1,0 +1,65 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1799</modulecode>
+	<activity>CS1799 Starting up in Business term 1 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C339</room>
+	<lecturer>Honey, Stuart </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1799</modulecode>
+	<activity>CS1799 Starting up in Business term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C339</room>
+	<lecturer>Honey, Stuart </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1799</modulecode>
+	<activity>CS1799 Starting up in Business term 1 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG11</room>
+	<lecturer>Mills, Kulan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1799</modulecode>
+	<activity>CS1799 Starting up in Business term 2 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>AG11</room>
+	<lecturer>Mills, Kulan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS1799</modulecode>
+	<activity>CS1799 Starting up in Business term 3 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>Mills, Kulan </lecturer>
+	<day>Thursday </day>
+</booking>

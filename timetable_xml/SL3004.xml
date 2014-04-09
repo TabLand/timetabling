@@ -1,0 +1,299 @@
+<booking>
+	<start>9:00</start>
+	<end>13:30</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 01/01</activity>
+	<desc>FRI AM 2 rooms needed</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C328;C313</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004;VL 11/2 - HACOMS - SL3004;VL 11/1 - HACOMS - SL3004;Harrison, Kirsty </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 01/02</activity>
+	<desc>FRI PM - 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313;C328</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004;VL 11/2 - HACOMS - SL3004;VL 11/1 - HACOMS - SL3004;Harrison, Kirsty </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:30</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 02/01</activity>
+	<desc>Tues AM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C357</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004;VL 11/2 - HACOMS - SL3004;VL 11/1 - HACOMS - SL3004;Harrison, Kirsty </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>02/06/14, 16/06/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 03/03</activity>
+	<desc> </desc>
+	<joint>SL3004;SL3004</joint>
+	<studentnos>12</studentnos>
+	<room>D106</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>02/06/14, 16/06/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 03/02</activity>
+	<desc> </desc>
+	<joint>SL3004;SL3004</joint>
+	<studentnos>12</studentnos>
+	<room>D109</room>
+	<lecturer>VL 11/2 - HACOMS - SL3004 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>02/06/14, 16/06/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 03/01</activity>
+	<desc>Summer tutorials</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A111</room>
+	<lecturer>VL 11/1 - HACOMS - SL3004 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 02/02</activity>
+	<desc>Tues PM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C357</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 18/11/13, 02/12/13</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Lecture 01/02</activity>
+	<desc>Autumn-Lecture</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C337</room>
+	<lecturer>Harrison, Kirsty </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13, 21/10/13, 25/11/13, 09/12/13</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 01/03</activity>
+	<desc> </desc>
+	<joint>SL3004;SL3004;SL3004;SL3004</joint>
+	<studentnos>13</studentnos>
+	<room>A227</room>
+	<lecturer>Levin, Abigail </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>11/11/13</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 01/03a</activity>
+	<desc> </desc>
+	<joint>SL3004;SL3004;SL3004;SL3004</joint>
+	<studentnos>13</studentnos>
+	<room>A227</room>
+	<lecturer>Levin, Abigail </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint>SL3004;SL3004;SL3004;SL3004</joint>
+	<studentnos>13</studentnos>
+	<room>CG56</room>
+	<lecturer>Harrison, Kirsty </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13, 21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 01/01</activity>
+	<desc>Autumn-tutorial</desc>
+	<joint>SL3004;SL3004;SL3004;SL3004</joint>
+	<studentnos>13</studentnos>
+	<room>C357</room>
+	<lecturer>Fitzpatrick, Emma </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 02/03</activity>
+	<desc>Abigail teaching SL1004 at same time - aware of clash</desc>
+	<joint>SL3004;SL3004;SL3004</joint>
+	<studentnos>13</studentnos>
+	<room>BLG08</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 02/01</activity>
+	<desc>Spring tutorial</desc>
+	<joint>SL3004;SL3004;SL3004</joint>
+	<studentnos>13</studentnos>
+	<room>I103</room>
+	<lecturer>Fitzpatrick, Emma </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Tutorial 02/02</activity>
+	<desc> </desc>
+	<joint>SL3004;SL3004;SL3004</joint>
+	<studentnos>13</studentnos>
+	<room>A226</room>
+	<lecturer>Harrison, Kirsty </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Lecture 02/02</activity>
+	<desc>Spring lecture</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C337</room>
+	<lecturer>Harrison, Kirsty </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 02/02</activity>
+	<desc>Tues PM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004;VL 11/2 - HACOMS - SL3004;VL 11/1 - HACOMS - SL3004;Harrison, Kirsty </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:30</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 03/01</activity>
+	<desc>Wed AM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C328;C313</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004;VL 11/2 - HACOMS - SL3004;VL 11/1 - HACOMS - SL3004;Harrison, Kirsty </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 03/02</activity>
+	<desc>Wed PM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C328</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>17:50</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 03/02</activity>
+	<desc>Wed PM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004;VL 11/2 - HACOMS - SL3004;VL 11/1 - HACOMS - SL3004;Harrison, Kirsty </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:30</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 04/01</activity>
+	<desc>Thur AM 2 rooms VLs</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313;C328</room>
+	<lecturer>Harrison, Kirsty </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 04/02</activity>
+	<desc>Wed PM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C328</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>17:50</end>
+	<week>07/04/14</week>
+	<modulecode>SL3004</modulecode>
+	<activity>SL3004 Professional Studies (3)/Exam 04/02</activity>
+	<desc>Thur PM 2 rooms</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>VL 11/3 - HACOMS - SL3004;VL 11/2 - HACOMS - SL3004;VL 11/1 - HACOMS - SL3004;Harrison, Kirsty </lecturer>
+	<day>Thursday </day>
+</booking>

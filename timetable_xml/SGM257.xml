@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>31/03/14</week>
+	<modulecode>SGM257</modulecode>
+	<activity>SGM257 Social Media & Engagement: From Theory to Practice/Lecture 01/Mar 31st</activity>
+	<desc>Week 11 rescheduled in Week 10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG09</room>
+	<lecturer>Kostkova, Patty </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>31/03/14</week>
+	<modulecode>SGM257</modulecode>
+	<activity>SGM257 Social Media & Engagement: From Theory to Practice/Tutorial 01/Mar 31st</activity>
+	<desc>Week 11 rescheduled in Week 10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D104</room>
+	<lecturer>Kostkova, Patty </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>SGM257</modulecode>
+	<activity>SGM257 Social Media & Engagement: From Theory to Practice/Lecture 01/01</activity>
+	<desc>Weeks 1-5 & 7-10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D220</room>
+	<lecturer>Kostkova, Patty </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>SGM257</modulecode>
+	<activity>SGM257 Social Media & Engagement: From Theory to Practice/Tutorial 01/01</activity>
+	<desc>Weeks 1-5 & 7-10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D220</room>
+	<lecturer>Kostkova, Patty </lecturer>
+	<day>Monday </day>
+</booking>

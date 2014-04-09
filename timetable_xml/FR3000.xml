@@ -1,0 +1,26 @@
+<booking>
+	<start>14:10</start>
+	<end>15:00</end>
+	<week>30/09/13</week>
+	<modulecode>FR3000</modulecode>
+	<activity>FR3000 Welcome back/IFRM/REFI yr 3/WK 1</activity>
+	<desc>Course Director briefing: IFRM/REFI year 3: Week 1 ONLY</desc>
+	<joint> </joint>
+	<studentnos>103</studentnos>
+	<room>BG02</room>
+	<lecturer>Staikouras, Sotiris </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>16:00</end>
+	<week>30/09/13</week>
+	<modulecode>FR3000</modulecode>
+	<activity>FR3000 Welcome back/IFRM/REFI/WK 1</activity>
+	<desc>Course Director briefing: IFRM/REFI year 3: Week 1 ONLY: Q&A with Course Officer</desc>
+	<joint> </joint>
+	<studentnos>103</studentnos>
+	<room>BG02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

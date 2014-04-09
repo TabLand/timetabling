@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>20/01/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>CV1302</modulecode>
+	<activity>CV1302 Hydraulics/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>A130</room>
+	<lecturer>Yan, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>13/01/14</week>
+	<modulecode>CV1302</modulecode>
+	<activity>CV1302 Hydraulics/Lecture 2/03</activity>
+	<desc>In-class test</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>Yan, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>CV1302</modulecode>
+	<activity>CV1302 Hydraulics/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>A130</room>
+	<lecturer>Yan, S </lecturer>
+	<day>Friday </day>
+</booking>

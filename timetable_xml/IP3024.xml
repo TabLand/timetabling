@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IP3024</modulecode>
+	<activity>IP3024 Global Money and Finance/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D104</room>
+	<lecturer>Nesvetailova, Anastasia </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IP3024</modulecode>
+	<activity>IP3024 Global Money and Finance/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D221</room>
+	<lecturer>Nesvetailova, Anastasia </lecturer>
+	<day>Tuesday </day>
+</booking>

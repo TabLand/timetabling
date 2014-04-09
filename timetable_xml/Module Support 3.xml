@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>20/01/14-17/02/14, 03/03/14-24/03/14</week>
+	<modulecode>Module Support 3</modulecode>
+	<activity>Module support Year 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG56</room>
+	<lecturer>Johnson, Ragnar </lecturer>
+	<day>Friday </day>
+</booking>

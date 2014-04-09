@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CC1004</modulecode>
+	<activity>CC1004 Contextualising Cultural Policy/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>DLG02</room>
+	<lecturer>O'Brien, Dave </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CC1004</modulecode>
+	<activity>CC1004 Contextualising Cultural Policy/Seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D111</room>
+	<lecturer>O'Brien, Dave </lecturer>
+	<day>Wednesday </day>
+</booking>

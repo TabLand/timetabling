@@ -1,0 +1,143 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/CPSQ/01</activity>
+	<desc>CN/01 & 02</desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/CPSQ/02</activity>
+	<desc>AN/02 & 03</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/CPSQ/03</activity>
+	<desc>AN/04 & MHN/01A & B</desc>
+	<joint> </joint>
+	<studentnos>41</studentnos>
+	<room>EG12</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:30</end>
+	<week>25/11/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/Uniform Issuing/01</activity>
+	<desc>AN/01, 03, 04</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/Uniform Issuing/02</activity>
+	<desc>CN/01 & 02</desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/CPSQ/04</activity>
+	<desc>AN/01 & CN/03</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:30</end>
+	<week>25/11/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/Uniform Issuing/03</activity>
+	<desc>CN/03, AN/02</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>13:50</end>
+	<week>25/11/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/Uniform Issuing/04</activity>
+	<desc>MHN/01 & 02, MW/01</desc>
+	<joint> </joint>
+	<studentnos>43</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:30</end>
+	<week>25/11/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/Uniform Issuing/05</activity>
+	<desc>MW/02 & 03</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/Intro to Year 2/01</activity>
+	<desc>All AN groups</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>AG07</room>
+	<lecturer>Chamney, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>HS1000</modulecode>
+	<activity>HS1000 Course administration/Intro to Year 2/02</activity>
+	<desc>All CN groups</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>C303</room>
+	<lecturer>Smith, U </lecturer>
+	<day>Thursday </day>
+</booking>

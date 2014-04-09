@@ -1,0 +1,39 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MAM611</modulecode>
+	<activity>MAM611 Integrable Systems/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C335</room>
+	<lecturer>Fring, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>MAM611</modulecode>
+	<activity>MAM611 Integrable Systems/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C313</room>
+	<lecturer>Fring, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MAM611</modulecode>
+	<activity>MAM611 Integrable Systems/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>Fring, A </lecturer>
+	<day>Tuesday </day>
+</booking>

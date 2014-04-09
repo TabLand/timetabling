@@ -1,0 +1,26 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>JOM845</modulecode>
+	<activity>JOM845 Online Journalism/Lecture 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>252</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Bradshaw, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>JOM845</modulecode>
+	<activity>JOM845 Online Journalism/Lecture 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>252</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Bradshaw, Paul </lecturer>
+	<day>Monday </day>
+</booking>

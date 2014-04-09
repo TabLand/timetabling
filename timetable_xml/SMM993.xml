@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14, 10/02/14-03/03/14</week>
+	<modulecode>SMM993</modulecode>
+	<activity>SMM993 Research Design Methods & Methodology/PhD/Lecture 1/WKS 1&3--6</activity>
+	<desc>PhD: Finance stream: Spring Term 2: Weeks 1-6</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Marsh, Ian Prof. </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/03/14-17/03/14</week>
+	<modulecode>SMM993</modulecode>
+	<activity>SMM993 Research Design Methods & Methodology/PhD/Lecture 1/WKS 7&8</activity>
+	<desc>PhD: Finance stream: Spring Term 2: Weeks 7 & 8</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>1010</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/02/14</week>
+	<modulecode>SMM993</modulecode>
+	<activity>SMM993 Research Design Methods & Methodology/PhD/Lecture 1/WK 2</activity>
+	<desc>PhD: Finance stream: Spring Term 2: Week 2</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>2007</room>
+	<lecturer>Marsh, Ian Prof. </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>24/03/14</week>
+	<modulecode>SMM993</modulecode>
+	<activity>SMM993 Research Design Methods & Methodology/PhD/Lecture 1/WK 9/Mar 26th</activity>
+	<desc>PhD: Finance stream: Spring Term 2: Week 10 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>2007</room>
+	<lecturer>Brandt, Michael </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/03/14</week>
+	<modulecode>SMM993</modulecode>
+	<activity>SMM993 Research Design Methods & Methodology/PhD/Lecture 1/WK 8/Mar 21st</activity>
+	<desc>PhD: Finance stream: Spring Term 2: Week 9 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Brandt, Michael </lecturer>
+	<day>Friday </day>
+</booking>

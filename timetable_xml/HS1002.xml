@@ -1,0 +1,2223 @@
+<booking>
+	<start>8:30</start>
+	<end>12:50</end>
+	<week>16/09/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Infection control OSCE re-sit - S12/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</room>
+	<lecturer>Hunter, J;Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Grant, R;Phillips, L </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24a</room>
+	<lecturer>Saunder, L </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>McLeod, A;Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>A214</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24a</room>
+	<lecturer>Saunder, L </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Simpson, A;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Student-directed OSCE prep/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A;Mahoney, P </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>28/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>25/11/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/AM/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>AG24b</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>03/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: PEWS & SBAR/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Ellis, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>24/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (care planning)/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Francis, A;Ellis, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24a</room>
+	<lecturer>Benato, R;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (oxygen)/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Mahoney, P </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/1/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: aseptic technique/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C232</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Saunder, L;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Lucktung, P;Gelbart, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>McLeod, A;Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J;McLeod, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>A214</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: EWS & SBAR/Practical/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Boswell, G </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Saunder, L;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A;Mahoney, P </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>28/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>25/11/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/PM/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>AG24b</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>24/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (VIPS)/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Ellis, M;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: PEWS & SBAR/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C216</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (oxygen)/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>17:30</end>
+	<week>03/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/1/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C232</room>
+	<lecturer>Klufio, A;Anderson, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Student-directed OSCE prep/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Mahoney, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;Chamney, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Saunder, L;Lindsay, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Hunter, J;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Bliss, M;Mahoney, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Gelbart, M;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:30</end>
+	<week>31/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Catch-up day/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Student-directed OSCE prep/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>09/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (injections)/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>17/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/2/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C232</room>
+	<lecturer>Smith, U;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: PEWS & SBAR/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C216</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/1/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C216</room>
+	<lecturer>Klufio, A;Anderson, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>14:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Student-directed OSCE prep/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Mahoney, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;Bliss, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Saunder, L;Lindsay, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Treacy, C;Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Hunter, J;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Lucktung, P;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>McGraw, C;Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Gelbart, M;Manning, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>02/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Klufio, A;Hill, Marie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>17/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/2/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C232</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C215</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>AG24a</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark;Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Gelbart, M;McLeod, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark;Bliss, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BLG08</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J;McLeod, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:30</end>
+	<week>31/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Catch-up day/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A;Francis, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>28/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>25/11/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/AM/07</activity>
+	<desc>CN/02 & 03</desc>
+	<joint> </joint>
+	<studentnos>46</studentnos>
+	<room>BLG07</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>02/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>09/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (injections)/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C215</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>17/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/2/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Anderson, D;Ellis, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>24/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (care planning)/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V;Trust representative </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>17:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Make up day (Clinical skills review & Student-directed OSCE prep)/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>14:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Student-directed OSCE prep/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (oxygen)/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/1/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: aseptic technique/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C232</room>
+	<lecturer>Hughes, V;Mahoney, P </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark;Francis, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Lucktung, P;Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C340</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Boswell, G </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A;Francis, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>21/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C216</room>
+	<lecturer>Benato, R;Hill, Marie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>28/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>25/11/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: compassion, dignity & communication/Tutorial/PM/07</activity>
+	<desc>CN/02 & 03</desc>
+	<joint> </joint>
+	<studentnos>46</studentnos>
+	<room>BLG07</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>02/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (calculations)/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C216</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>10/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: aseptic technique/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Ellis, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>17/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/2/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>24/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (VIPS)/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Treacy, C;Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: EWS & SBAR/Practical/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Gelbart, M;Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: EWS & SBAR/Practical/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:30</end>
+	<week>31/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Catch-up day/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>02/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (calculations)/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Ellis, M;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>09/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (injections)/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C215</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>13:50</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Make up day (Clinical skills review & Student-directed OSCE prep)/05 AM</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C232</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Manning, A;Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24a</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Gelbart, M;Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 1/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Infection control/Practical/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Make up day (Clinical skills review & Student-directed OSCE prep)/05 PM</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C232</room>
+	<lecturer>Klufio, A;Anderson, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;Chamney, M </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: EWS & SBAR/Practical/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/AM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Mahoney, P </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>D222</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Gelbart, M;Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/AM/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A;Mahoney, P </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>28/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/AM/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>02/12/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (calculations)/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>24/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/1/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>17/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/2/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>24/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (VIPS)/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Outside speaker;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/1/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C232</room>
+	<lecturer>Anderson, D;Ellis, M </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>17:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Make up day (Clinical skills review & Student-directed OSCE prep)/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C232</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: EWS & SBAR/Practical/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Shareville/Laboratory/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24a</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 1/Practical/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: clinical skills review/Practical/PM/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Mahoney, P </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management 2/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Gelbart, M;McLeod, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: First aid/Practical/PM/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>11C (WS)</room>
+	<lecturer>Francis, A;Mahoney, P </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>28/10/13</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: guided study workshop/Tutorial/PM/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>17/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: Ward shift 2/2/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>24/03/14</week>
+	<modulecode>HS1002</modulecode>
+	<activity>HS1002 Simulating Practice: medicines management (care planning)/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V;Trust representative </lecturer>
+	<day>Friday </day>
+</booking>

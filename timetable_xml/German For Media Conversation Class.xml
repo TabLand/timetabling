@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>German For Media Conversation Class</modulecode>
+	<activity>German for Media Conversation Class Term 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C164</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>German For Media Conversation Class</modulecode>
+	<activity>German for Media Conversation Class Term 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>I106</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

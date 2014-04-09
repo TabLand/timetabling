@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IP3018</modulecode>
+	<activity>IP3018 Global Governance/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C340</room>
+	<lecturer>Davies, Tom </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IP3018</modulecode>
+	<activity>IP3018 Global Governance/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C167</room>
+	<lecturer>Ryan, Holly </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IP3018</modulecode>
+	<activity>IP3018 Global Governance/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C140</room>
+	<lecturer>Davies, Tom </lecturer>
+	<day>Monday </day>
+</booking>

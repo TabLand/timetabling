@@ -1,0 +1,26 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>26/05/14-09/06/14, 23/06/14-21/07/14</week>
+	<modulecode>MBM542 EMBA</modulecode>
+	<activity>MBM542 New Venture Creation Process/EMBA/Syn rooms 01</activity>
+	<desc>EMBA stage 2 : Wednesday Evenings : Syndicate rooms - H. Lesevic</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>26/05/14-09/06/14, 23/06/14-21/07/14</week>
+	<modulecode>MBM542 EMBA</modulecode>
+	<activity>MBM542 New Venture Creation Process/EMBA/Lecture/01</activity>
+	<desc>EMBA stage 2</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>N216a/b</room>
+	<lecturer>Lesevic, Habib </lecturer>
+	<day>Wednesday </day>
+</booking>

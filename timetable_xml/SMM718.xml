@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>09/06/14</week>
+	<modulecode>SMM718</modulecode>
+	<activity>SMM718 Trade Finance/Lecture 01/WK 5</activity>
+	<desc>Week 5</desc>
+	<joint> </joint>
+	<studentnos>47</studentnos>
+	<room>3002</room>
+	<lecturer>Hodgson, Mark </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/06/14</week>
+	<modulecode>SMM718</modulecode>
+	<activity>SMM718 Trade Finance/Lecture 03/WK 7</activity>
+	<desc>Week 7</desc>
+	<joint> </joint>
+	<studentnos>47</studentnos>
+	<room>3002</room>
+	<lecturer>Hodgson, Mark </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>09/06/14</week>
+	<modulecode>SMM718</modulecode>
+	<activity>SMM718 Trade Finance/Lecture 02/WK 5</activity>
+	<desc>Week 5</desc>
+	<joint> </joint>
+	<studentnos>47</studentnos>
+	<room>3002</room>
+	<lecturer>Hodgson, Mark </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>23/06/14</week>
+	<modulecode>SMM718</modulecode>
+	<activity>SMM718 Trade Finance/Lecture 04/WK 7</activity>
+	<desc>Week 7</desc>
+	<joint> </joint>
+	<studentnos>47</studentnos>
+	<room>3002</room>
+	<lecturer>Hodgson, Mark </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/06/14</week>
+	<modulecode>SMM718</modulecode>
+	<activity>SMM718 Trade Finance/Lecture 05/WK 7</activity>
+	<desc>Week 7</desc>
+	<joint> </joint>
+	<studentnos>47</studentnos>
+	<room>3002</room>
+	<lecturer>Hodgson, Mark </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>23/06/14</week>
+	<modulecode>SMM718</modulecode>
+	<activity>SMM718 Trade Finance/Lecture 06/WK 7</activity>
+	<desc>Week 7</desc>
+	<joint> </joint>
+	<studentnos>47</studentnos>
+	<room>3002</room>
+	<lecturer>Hodgson, Mark </lecturer>
+	<day>Tuesday </day>
+</booking>

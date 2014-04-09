@@ -1,0 +1,91 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>24/02/14</week>
+	<modulecode>EE2500</modulecode>
+	<activity>EE2500 Electronic Circuit Design 2/Tutorial 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>C303</room>
+	<lecturer>Surre, F </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE2500</modulecode>
+	<activity>EE2500 Electronic Circuit Design 2/Lab Sems 1/01/LEAD</activity>
+	<desc>Joint with EE2514*</desc>
+	<joint>EE2500;EE2514</joint>
+	<studentnos>70</studentnos>
+	<room>CG17</room>
+	<lecturer>Triantis, I Dr </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE2500</modulecode>
+	<activity>EE2500 Electronic Circuit Design 2/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>C302</room>
+	<lecturer>Surre, F </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE2500</modulecode>
+	<activity>EE2500 Electronic Circuit Design 2/Lab Sems 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>CG17</room>
+	<lecturer>Surre, F </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE2500</modulecode>
+	<activity>EE2500 Electronic Circuit Design 2/Lecture 1/01/LEAD</activity>
+	<desc>Joint with EE2514: total numbers 70</desc>
+	<joint>EE2500;EE2514</joint>
+	<studentnos>70</studentnos>
+	<room>C302</room>
+	<lecturer>Triantis, I Dr </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE2500</modulecode>
+	<activity>EE2500 Electronic Circuit Design 2/Tutorial 1/01/LEAD</activity>
+	<desc>Joint with EE2514: total numbers 70</desc>
+	<joint>EE2500;EE2514</joint>
+	<studentnos>70</studentnos>
+	<room>C302</room>
+	<lecturer>Triantis, I Dr </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE2500</modulecode>
+	<activity>EE2500 Electronic Circuit Design 2/Tutorial 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>AG22</room>
+	<lecturer>Surre, F </lecturer>
+	<day>Friday </day>
+</booking>

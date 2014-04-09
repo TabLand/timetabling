@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA2607</modulecode>
+	<activity>MA2607 Applied Mathematics/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C303</room>
+	<lecturer>Stefanski, B </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA2607</modulecode>
+	<activity>MA2607 Applied Mathematics/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG20</room>
+	<lecturer>Stefanski, B </lecturer>
+	<day>Thursday </day>
+</booking>

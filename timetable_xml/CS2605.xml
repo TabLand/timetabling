@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS2605</modulecode>
+	<activity>CS2605 Game Development Using Unity 3D - An Introduction/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C301</room>
+	<lecturer>Antunes, Rui </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS2605</modulecode>
+	<activity>CS2605 Game Development Using Unity 3D - An Introduction term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>EG04</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

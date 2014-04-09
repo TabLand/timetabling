@@ -1,0 +1,52 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>07/10/13-18/11/13, 02/12/13-09/12/13</week>
+	<modulecode>CS2577</modulecode>
+	<activity>CS2577 Object-oriented programming with Java part 2 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A307</room>
+	<lecturer>Dimakopoulos, Dionisios </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>25/11/13</week>
+	<modulecode>CS2577</modulecode>
+	<activity>CS2577 Object-oriented programming with Java part 2 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>AG13</room>
+	<lecturer>Dimakopoulos, Dionisios </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>CS2577</modulecode>
+	<activity>CS2577 Object-orientated programming with Java part 2 term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A220</room>
+	<lecturer>Dimakopoulos, Dionisios </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS2577</modulecode>
+	<activity>CS2577 Object-orientated programming with Java part 2 term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG12</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>SMM108 BIF</modulecode>
+	<activity>SMM108 Commercial & Investment Banking//BIF/Lecture 01</activity>
+	<desc>Autumn Term</desc>
+	<joint> </joint>
+	<studentnos>74</studentnos>
+	<room>2002</room>
+	<lecturer>Casu Lukac, Barbara </lecturer>
+	<day>Thursday </day>
+</booking>

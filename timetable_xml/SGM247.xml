@@ -1,0 +1,13 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SGM247</modulecode>
+	<activity>SGM247 Penology/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>7</studentnos>
+	<room>I203/I206</room>
+	<lecturer>Steward, Kate </lecturer>
+	<day>Thursday </day>
+</booking>

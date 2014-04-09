@@ -1,0 +1,78 @@
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>24/02/14, 24/03/14</week>
+	<modulecode>FR2203</modulecode>
+	<activity>FR2203 Company Valuation/Tutorial 02/03</activity>
+	<desc>Group 2 - Weeks 5 & 9 only</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>BLG07</room>
+	<lecturer>Konstantinidi, Sonia </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>24/02/14, 24/03/14</week>
+	<modulecode>FR2203</modulecode>
+	<activity>FR2203 Company Valuation/Tutorial 03/03</activity>
+	<desc>Group 3 - Weeks 5 & 9 only</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG02</room>
+	<lecturer>Konstantinidi, Sonia </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>FR2203</modulecode>
+	<activity>FR2203 Company Valuation/BIF/A&F/IFRM/Lecture/WKS 1-5, 7-11</activity>
+	<desc>Spring lecture : All degrees - BIF/A&F/IFRM/Exchange : Weeks 1-5, 7-11</desc>
+	<joint> </joint>
+	<studentnos>214</studentnos>
+	<room>Poynton</room>
+	<lecturer>Konstantinidi, Sonia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>03/03/14</week>
+	<modulecode>FR2203</modulecode>
+	<activity>FR2203 Company Valuation/BIF/A&F/IFRM/Test/WK 6</activity>
+	<desc>Test : Week 6 only : 430 seats needed for 218 students</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07;Birley;Poynton</room>
+	<lecturer>Falconieri, Sonia </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>24/02/14, 24/03/14</week>
+	<modulecode>FR2203</modulecode>
+	<activity>FR2203 Company Valuation/Tutorial 01/03</activity>
+	<desc>Group 1 - Weeks 5 & 9 only</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>BLG07</room>
+	<lecturer>Konstantinidi, Sonia </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>24/02/14, 24/03/14</week>
+	<modulecode>FR2203</modulecode>
+	<activity>FR2203 Company Valuation/Tutorial 04/04</activity>
+	<desc>Group 4 - Weeks 5 & 9 only</desc>
+	<joint> </joint>
+	<studentnos>53</studentnos>
+	<room>C303</room>
+	<lecturer>Konstantinidi, Sonia </lecturer>
+	<day>Friday </day>
+</booking>

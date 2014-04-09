@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>FR3201</modulecode>
+	<activity>FR3201 Equity Investment Management/Lecture 1/01</activity>
+	<desc>Spring Lecture</desc>
+	<joint> </joint>
+	<studentnos>107</studentnos>
+	<room>Poynton</room>
+	<lecturer>Todorovic, Natasha </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>31/03/14</week>
+	<modulecode>FR3201</modulecode>
+	<activity>FR3201 Equity Investment Management/Revision Lecture/wk 10</activity>
+	<desc>Spring Lecture: Revision : Week 10 ONLY</desc>
+	<joint> </joint>
+	<studentnos>107</studentnos>
+	<room>Poynton</room>
+	<lecturer>Todorovic, Natasha </lecturer>
+	<day>Monday </day>
+</booking>

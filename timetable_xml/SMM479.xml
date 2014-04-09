@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>12/05/14</week>
+	<modulecode>SMM479</modulecode>
+	<activity>SMM479 Consulting Project/T3/Lecture /WK 1</activity>
+	<desc>Core (All MGT Streams) : Term 3 Week 1 : Extra session - preparation for project</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2006</room>
+	<lecturer>Markham, Calvert </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>23/06/14</week>
+	<modulecode>SMM479</modulecode>
+	<activity>SMM479 Consulting Project/T3/Presentations 01/WK 7</activity>
+	<desc>Core (All MGT Streams) : Term 3 Week 7 : student presentations to corporate clients</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>3003</room>
+	<lecturer>Goodall, Amanda;Makris, Christina </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>14:30</end>
+	<week>03/02/14</week>
+	<modulecode>SMM479</modulecode>
+	<activity>SMM479 Consulting Project/T2/Introduction/WK 2</activity>
+	<desc>Core (All MGT Streams) : Term 2 Introduction Talk : Week 2 only</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2006</room>
+	<lecturer>Goodall, Amanda;Makris, Christina </lecturer>
+	<day>Thursday </day>
+</booking>

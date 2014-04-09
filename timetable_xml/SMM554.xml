@@ -1,0 +1,13 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SMM554</modulecode>
+	<activity>SMM554 International Economics/Lecture 01</activity>
+	<desc>IE Lecture - STF Only</desc>
+	<joint>SMM711;SMM554</joint>
+	<studentnos>82</studentnos>
+	<room>G001</room>
+	<lecturer>Pilbeam, Keith Prof. </lecturer>
+	<day>Thursday </day>
+</booking>

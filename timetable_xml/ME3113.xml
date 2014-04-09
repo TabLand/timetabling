@@ -1,0 +1,39 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME3113</modulecode>
+	<activity>ME3113 Computational Analysis of Engineering Structures/Lecture 1/02/JOINT</activity>
+	<desc>Joint with AE3204: total numbers 30</desc>
+	<joint>AE3204;ME3113</joint>
+	<studentnos>20</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME3113</modulecode>
+	<activity>ME3113 Computational Analysis of Engineering Structures/Practical 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>CG04</room>
+	<lecturer>Banerjee, R </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME3113</modulecode>
+	<activity>ME3113 Computational Analysis of Engineering Structures/Practical 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>CG50</room>
+	<lecturer>Banerjee, R </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3003</modulecode>
+	<activity>IN3003 Business Engineering With Erp Solutions/Lecture (LEAD)</activity>
+	<desc> </desc>
+	<joint>INM342 (FT);IN3003</joint>
+	<studentnos>100</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Karakostas, Bill </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3003</modulecode>
+	<activity>IN3003 Business Engineering With Erp Solutions/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>B307A</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Wednesday </day>
+</booking>

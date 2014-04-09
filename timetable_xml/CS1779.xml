@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1779</modulecode>
+	<activity>CS1779 Leadership and Management term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A111</room>
+	<lecturer>Metha, Purnima </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>CS1779</modulecode>
+	<activity>CS1779 Leadership and Management term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A111</room>
+	<lecturer>Metha, Purnima </lecturer>
+	<day>Tuesday </day>
+</booking>

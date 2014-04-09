@@ -1,0 +1,52 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>CV1403</modulecode>
+	<activity>CV1403 Structural Mechanics/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG21</room>
+	<lecturer>Ayoub, A;D'Mello, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>CV1403</modulecode>
+	<activity>CV1403 Structural Mechanics/Lecture 1/02/Jan 23rd</activity>
+	<desc>Different Location</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Poynton</room>
+	<lecturer>D'Mello, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>CV1403</modulecode>
+	<activity>CV1403 Structural Mechanics/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>D'Mello, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>13/01/14</week>
+	<modulecode>CV1403</modulecode>
+	<activity>CV1403 Structural Mechanics/Lecture 1/03</activity>
+	<desc>In-class test</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>D'Mello, C </lecturer>
+	<day>Friday </day>
+</booking>

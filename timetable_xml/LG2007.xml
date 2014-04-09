@@ -1,0 +1,117 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Tutorial 01/02</activity>
+	<desc>Group 2 (Weeks 4, 6 & 8)</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>24/03/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Tutorial 01/01/Mar 26th</activity>
+	<desc>Group 1</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>31/03/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Lecture/Wednesday/Apr 2nd</activity>
+	<desc>Earlier lecture (one hour)</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>A110</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Tutorial 01/01</activity>
+	<desc>Group 1 (Weeks 4, 6, & 8)</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>24/03/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Tutorial 01/02/Mar 26th</activity>
+	<desc>Group 2</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-24/03/14, 07/04/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Lecture/Wednesday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>A110</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Lecture/Thursday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>C348</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Tutorial 01/01/Apr 11th</activity>
+	<desc>Group 1 (Week 11)</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>D220</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>LG2007</modulecode>
+	<activity>LG2007 Land/Tutorial 01/02/Apr 11th</activity>
+	<desc>Group 2 (Week 11)</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>D220</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Friday </day>
+</booking>

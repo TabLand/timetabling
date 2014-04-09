@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA2605</modulecode>
+	<activity>MA2605 Dynamical Systems/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>CG03</room>
+	<lecturer>Broom, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>MA2605</modulecode>
+	<activity>MA2605 Dynamical Systems/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343</room>
+	<lecturer>Broom, M </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA2605</modulecode>
+	<activity>MA2605 Dynamical Systems/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C337</room>
+	<lecturer>Broom, M </lecturer>
+	<day>Friday </day>
+</booking>

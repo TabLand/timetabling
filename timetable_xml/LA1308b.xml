@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA1308b</modulecode>
+	<activity>LA1308b Spanish For Media (beginners) Autumn</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C330</room>
+	<lecturer>Farjao, Natalia </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>LA1308b</modulecode>
+	<activity>LA1308b Spanish For Media (beginners) Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C330</room>
+	<lecturer>Farjao, Natalia </lecturer>
+	<day>Wednesday </day>
+</booking>

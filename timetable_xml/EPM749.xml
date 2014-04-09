@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>EPM749</modulecode>
+	<activity>EPM749 Control Systems Design/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C335</room>
+	<lecturer>Karcanias, N </lecturer>
+	<day>Monday </day>
+</booking>

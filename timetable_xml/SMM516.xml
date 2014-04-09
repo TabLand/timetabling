@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>07/10/13-02/12/13</week>
+	<modulecode>SMM516</modulecode>
+	<activity>SMM516 Fixed Income Analysis/IM/Lecture 01/wks 2-10</activity>
+	<desc>IM: Autumn Lecture: Weeks 2-10</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Clare, Andrew </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>07/10/13</week>
+	<modulecode>SMM516</modulecode>
+	<activity>SMM516 Fixed Income Analysis/IM/Lecture 01/wk 2</activity>
+	<desc>IM: Autumn Lecture: Week 2 only (replacement for wk 1 missed)</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Clare, Andrew </lecturer>
+	<day>Friday </day>
+</booking>

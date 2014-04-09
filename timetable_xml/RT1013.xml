@@ -1,0 +1,169 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 3/02</activity>
+	<desc>Oncology and management of bronchus</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/04/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/MCT 1/01</activity>
+	<desc>RT1013 exam</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>D108</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 01/01</activity>
+	<desc>Module intro, wileyplus and overview of alimentary and female repro systems</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D106</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 2/03</activity>
+	<desc>Bronchus Tutorial</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 3/01</activity>
+	<desc>Oncology and management of alimentary and female repro</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 2/01</activity>
+	<desc>Male repro tutorial and oncology and management</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>03/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 1/04</activity>
+	<desc>Clinical feedback</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D107</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 3/05</activity>
+	<desc>Film viewing</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>03/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 1/02</activity>
+	<desc>Overview of male reproductive system</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 2/02</activity>
+	<desc>Alimentary and female repro tutorial</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 3/06</activity>
+	<desc>oncology and management of urinary system</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 1/03</activity>
+	<desc>Overview of breast and bronchus</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT1013</modulecode>
+	<activity>RT1013 Oncology & Management 1/Lecture 2/04</activity>
+	<desc>Clinical feedback</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D108</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Thursday </day>
+</booking>

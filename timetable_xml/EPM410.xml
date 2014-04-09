@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>07/04/14</week>
+	<modulecode>EPM410</modulecode>
+	<activity>EPM410 Research Methods & Professional Skills/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>03/02/14</week>
+	<modulecode>EPM410</modulecode>
+	<activity>EPM410 Research Methods & Professional Skills/01/Thur</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>03/02/14</week>
+	<modulecode>EPM410</modulecode>
+	<activity>EPM410 Research Methods & Professional Skills/01/Fri</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

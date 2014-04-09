@@ -1,0 +1,78 @@
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>12/05/14</week>
+	<modulecode>CCE</modulecode>
+	<activity>Financial Leadership 2 Module 4</activity>
+	<desc>Guest, Matthew , Belfield, Rachel x 5562</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>LG002</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>19/05/14</week>
+	<modulecode>CCE</modulecode>
+	<activity>Outstanding Leadership 7</activity>
+	<desc>Guest, Matthew , Belfield, Rachel x 5562</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>LG002</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>09/06/14</week>
+	<modulecode>CCE</modulecode>
+	<activity>Outstanding Leadership 8</activity>
+	<desc>Guest, Matthew , Belfield, Rachel x 5562</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>LG002</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>14/07/14</week>
+	<modulecode>CCE</modulecode>
+	<activity>Outstanding Leadership 9</activity>
+	<desc>Guest, Matthew , Belfield, Rachel x 5562</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2005</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>23/06/14</week>
+	<modulecode>CCE</modulecode>
+	<activity>Financial Leadership 2 Module 5</activity>
+	<desc>Guest, Matthew , Belfield, Rachel x 5562</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>3003</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>07/07/14</week>
+	<modulecode>CCE</modulecode>
+	<activity>Financial Leadership 2 Module 6</activity>
+	<desc>Guest, Matthew , Belfield, Rachel x 5562</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>3002</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM021</modulecode>
+	<activity>IPM021 Strategy, Diplomacy and Decision-Making/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG20</room>
+	<lecturer>Hollis, Rosemary;Davies, Robert </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM021</modulecode>
+	<activity>IPM021 Strategy, Diplomacy and Decision-Making/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>DLG20</room>
+	<lecturer>Davies, Robert </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM021</modulecode>
+	<activity>IPM021 Strategy, Diplomacy and Decision-Making/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>DLG19</room>
+	<lecturer>Hollis, Rosemary </lecturer>
+	<day>Thursday </day>
+</booking>

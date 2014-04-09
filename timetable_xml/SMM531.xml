@@ -1,0 +1,104 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>18/11/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/C/Computer Session/Group 3/3/wk 8</activity>
+	<desc>Grp C : Week 8 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>1001</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>14/10/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/Lecture/wk 3</activity>
+	<desc>IM : Autumn Lecture: Week 3 only (replacement for wk 2 missed)</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Arghyrou, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>14/10/13-02/12/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/Lecture/wks 3-10</activity>
+	<desc>IM : Autumn Lecture: Weeks 3-10</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Arghyrou, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>18/11/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/B/Computer Session/Group 2/3/wk 8</activity>
+	<desc>Grp B : Week 8 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2001</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/10/13, 21/10/13, 04/11/13, 18/11/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/A/Computer Session/Group 1/3/wks 2,4,6,8</activity>
+	<desc>Grp A : Weeks 2, 4, 6, 8</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2001</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>30/09/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/Lecture/wk 1</activity>
+	<desc>IM : Autumn Lecture: Week 1 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Arghyrou, Michael </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>07/10/13, 21/10/13, 04/11/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/B/Computer Session/Group 2/3/wks 2,4,6</activity>
+	<desc>Grp B : Weeks 2, 4, 6</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2001</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/10/13, 21/10/13, 04/11/13</week>
+	<modulecode>SMM531</modulecode>
+	<activity>SMM531 Quantitative Methods for Investment Management/C/Computer Session/Group 3/3/wks 2,4,6</activity>
+	<desc>Grp C : Weeks 2, 4, 6</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>1001</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Friday </day>
+</booking>

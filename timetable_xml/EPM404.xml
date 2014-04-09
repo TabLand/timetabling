@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM404</modulecode>
+	<activity>EPM404 Principles of Transport Systems/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM404</modulecode>
+	<activity>EPM404 Principles of Transport Systems/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM404</modulecode>
+	<activity>EPM404 Principles of Transport Systems/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM404</modulecode>
+	<activity>EPM404 Principles of Transport Systems/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>18/11/13</week>
+	<modulecode>EPM404</modulecode>
+	<activity>EPM404 Principles of Transport Systems/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-03/02/14, 10/03/14</week>
+	<modulecode>BS2212</modulecode>
+	<activity>BS2212 Financial Accounting for Business/Lecture/WKS 1,2,7</activity>
+	<desc>Lecture plus exchange: Weeks 1,2,7</desc>
+	<joint> </joint>
+	<studentnos>43</studentnos>
+	<room>B103</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/02/14-03/03/14, 17/03/14-07/04/14</week>
+	<modulecode>BS2212</modulecode>
+	<activity>BS2212 Financial Accounting for Business/Lecture/WKS 3-6, 8-11</activity>
+	<desc>Lecture plus exchange : Weeks 3-6, 8-11</desc>
+	<joint> </joint>
+	<studentnos>43</studentnos>
+	<room>B103</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>BS2212</modulecode>
+	<activity>BS2212 Financial Accounting for Business/Tutorial 1/01</activity>
+	<desc>Tutorial plus exchange 10</desc>
+	<joint> </joint>
+	<studentnos>43</studentnos>
+	<room>C303</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>

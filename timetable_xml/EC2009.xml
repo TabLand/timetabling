@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EC2009</modulecode>
+	<activity>EC2009 International Trade/Lecture 01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>85</studentnos>
+	<room>AG22</room>
+	<lecturer>Jefferies, Claudia </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EC2009</modulecode>
+	<activity>EC2009 International Trade/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>85</studentnos>
+	<room>AG22</room>
+	<lecturer>Jefferies, Claudia </lecturer>
+	<day>Tuesday </day>
+</booking>

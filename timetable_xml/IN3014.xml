@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN3014</modulecode>
+	<activity>IN3014 Management of IT Strategy/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C170</room>
+	<lecturer>Rich, Martin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN3014</modulecode>
+	<activity>IN3014 Management of IT Strategy/Seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C170</room>
+	<lecturer>Rich, Martin </lecturer>
+	<day>Monday </day>
+</booking>

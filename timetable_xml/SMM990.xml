@@ -1,0 +1,130 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>21/10/13</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 1/21,22&24 Oct</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>09/12/13</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 2/9-12 Dec</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>06/01/14</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 3/6-9 Jan</activity>
+	<desc>PhD: MGT Stream: Spring Term 2</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>21/10/13</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 1/21,22&24 Oct</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>09/12/13</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 2/9-12 Dec</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>06/01/14</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 3/6-9 Jan</activity>
+	<desc>PhD: MGT Stream: Spring Term 2</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>09/12/13</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 2/9-12 Dec</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>06/01/14</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 3/6-9 Jan</activity>
+	<desc>PhD: MGT Stream: Spring Term 2</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>21/10/13</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 1/21,22&24 Oct</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>09/12/13</week>
+	<modulecode>SMM990</modulecode>
+	<activity>SMM990 Readings in Management 4 (Entrepreneurship): MGT/Lecture 2/9-12 Dec</activity>
+	<desc>PhD: MGT Stream: Autumn Term 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Shane, Scott Prof </lecturer>
+	<day>Thursday </day>
+</booking>

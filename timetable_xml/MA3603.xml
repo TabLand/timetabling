@@ -1,0 +1,65 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA3603</modulecode>
+	<activity>MA3603 Mathematical Methods/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>BG03</room>
+	<lecturer>Chuang, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-17/03/14, 31/03/14-07/04/14</week>
+	<modulecode>MA3603</modulecode>
+	<activity>MA3603 Mathematical Methods/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>Geary</room>
+	<lecturer>Fring, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>24/03/14</week>
+	<modulecode>MA3603</modulecode>
+	<activity>MA3603 Mathematical Methods/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Fring, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA3603</modulecode>
+	<activity>MA3603 Mathematical Methods/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>Geary</room>
+	<lecturer>Fring, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA3603</modulecode>
+	<activity>MA3603 Mathematical Methods/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Chuang, J </lecturer>
+	<day>Friday </day>
+</booking>

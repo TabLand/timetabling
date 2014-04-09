@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>30/09/13</week>
+	<modulecode>MBM140</modulecode>
+	<activity>MBM140 Mergers & Acquisitions MEMBA12/Lecture 04</activity>
+	<desc>MEMBA12 M&A</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>N216b</room>
+	<lecturer>Moeller, Scott </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>30/09/13</week>
+	<modulecode>MBM140</modulecode>
+	<activity>MBM140 Mergers & Acquisitions MEMBA12/Syn Rooms 04</activity>
+	<desc>MEMBA12 - Syndicate Rooms - Scott Moeller</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MBM140</modulecode>
+	<activity>MBM140 Mergers & Acquisitions MEMBA12/Lecture 01-03</activity>
+	<desc>MEMBA12 M&A</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>N216b</room>
+	<lecturer>Moeller, Scott </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MBM140</modulecode>
+	<activity>MBM140 Mergers & Acquisitions MEMBA12/Syn Rooms 01-03</activity>
+	<desc>MEMBA12 - Syndicate Rooms - Scott Moeller</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

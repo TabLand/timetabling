@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-17/02/14</week>
+	<modulecode>EPM931</modulecode>
+	<activity>EPM931 Project Planning & Management/SEMS/Lecture 1/02</activity>
+	<desc>Strategic & Business Planning</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Grubb, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>24/02/14-10/03/14, 24/03/14-31/03/14</week>
+	<modulecode>EPM931</modulecode>
+	<activity>EPM931 Project Planning & Management/SEMS/Lecture 2/02</activity>
+	<desc>Project Planning</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Wood, B </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>EPM931</modulecode>
+	<activity>EPM931 Project Planning & Management/SEMS/Lab/21 Mar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Wood, B </lecturer>
+	<day>Friday </day>
+</booking>

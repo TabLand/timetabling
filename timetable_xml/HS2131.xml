@@ -1,0 +1,169 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture/Nov 4th</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>B104</room>
+	<lecturer>Coutts, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>14/10/13, 28/10/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lab/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C221</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:50</end>
+	<week>14/10/13, 28/10/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lab/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C221</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>21/10/13, 04/11/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lab/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C221</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>21/10/13, 04/11/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lab/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C221</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>23/09/13-14/10/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 1/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Dingle, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 1/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Coutts, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 1/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Bentley, P </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 1/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Teklay, U </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>23/09/13-14/10/13, 04/11/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 2/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Dingle, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 2/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Coutts, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 2/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Bentley, P </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>23/09/13-21/10/13, 04/11/13</week>
+	<modulecode>HS2131</modulecode>
+	<activity>HS2131 Core Biological Principles related to Pathophysiology & therapeutics in Adult Nursing/Lecture 3/01</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Dingle, M </lecturer>
+	<day>Thursday </day>
+</booking>

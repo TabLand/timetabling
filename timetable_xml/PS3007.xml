@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>PS3007</modulecode>
+	<activity>PS3007 Approaches to Autism/Lecture 01/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PSM517;PS3007</joint>
+	<studentnos>60</studentnos>
+	<room>CG05</room>
+	<lecturer>Bowler, Dermot </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>PS3007</modulecode>
+	<activity>PS3007 Approaches to Autism/Drop-In Clinic 01/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PSM517;PS3007</joint>
+	<studentnos>5</studentnos>
+	<room>DG04</room>
+	<lecturer>Bowler, Dermot </lecturer>
+	<day>Thursday </day>
+</booking>

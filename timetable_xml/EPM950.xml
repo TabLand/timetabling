@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>EPM950</modulecode>
+	<activity>EPM950 Introductory Module/01</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

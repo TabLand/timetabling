@@ -1,0 +1,52 @@
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>EDM114</modulecode>
+	<activity>EDM114 Educational Research Project and Publication/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Baughan, Patrick </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>07/10/13</week>
+	<modulecode>EDM114</modulecode>
+	<activity>EDM114 Educational Research Project and Publication/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room> </room>
+	<lecturer>Baughan, Patrick </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>19/05/14</week>
+	<modulecode>EDM114</modulecode>
+	<activity>EDM114 Educational Research Project and Publication/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Baughan, Patrick </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>EDM114</modulecode>
+	<activity>EDM114 Educational Research Project and Publication/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>No room needed</room>
+	<lecturer>Baughan, Patrick </lecturer>
+	<day>Friday </day>
+</booking>

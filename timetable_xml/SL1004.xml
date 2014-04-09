@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SL1004</modulecode>
+	<activity>SL1004 Social Context/Autumn/Lecture 01/01</activity>
+	<desc>Social Context</desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>C343</room>
+	<lecturer>Levin, Abigail </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>SL1004</modulecode>
+	<activity>SL1004 Social Context/Autumn/Lecture 01/01/Oct 28th</activity>
+	<desc>Social Context : replacement room</desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>C348</room>
+	<lecturer>Levin, Abigail </lecturer>
+	<day>Monday </day>
+</booking>

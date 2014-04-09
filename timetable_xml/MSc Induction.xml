@@ -1,0 +1,1794 @@
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Registration 02</activity>
+	<desc>Caroline Bulmer 5246 - Rooms for Registration</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>2012;2001</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Economics/02</activity>
+	<desc>Re & REI *</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Talk 02/AM</activity>
+	<desc>Act Man</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2002</room>
+	<lecturer>Wright, Douglas </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Talk/01/AS</activity>
+	<desc>Act Sci :</desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>2003</room>
+	<lecturer>Owadally, Iqbal </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: English Language Test/01/room set up</activity>
+	<desc>Act Sci</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>3003</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, Milling area/2</activity>
+	<desc>AM: Milling area no room required</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/8/FIN</activity>
+	<desc>Finance</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, Milling area/1</activity>
+	<desc>AS: Milling area no room required</desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Stats & Maths/10 &11</activity>
+	<desc>IAF & BIF - Introduction to Stats & Maths</desc>
+	<joint> </joint>
+	<studentnos>170</studentnos>
+	<room>LG001</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: English Language Test/01</activity>
+	<desc>Act Sci</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>3003</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/9/CF</activity>
+	<desc>Corporate Finance</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2002</room>
+	<lecturer>Falconieri, Sonia </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:30</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Talk 20-23/MGT</activity>
+	<desc>MGT A&B</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2003</room>
+	<lecturer>Banerjee, Bobby </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: English Language Test/01/room reset</activity>
+	<desc>Act Sci</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>3003</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Careers Fair MSc 01</activity>
+	<desc>Charlie Statham 5214- optional for 1300 students in 200 Aldersgate St (etc Venues tbc)</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>External</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>17:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/17,18/RE,REI</activity>
+	<desc>MSc RE, REI</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Herd, George;Key Tony;Lee, Stephen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, External Venue/9</activity>
+	<desc>CF - External Venue : no room required</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, External Venue/20-23</activity>
+	<desc>MGT - External Venue : no room required</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>External</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, External Venue/8</activity>
+	<desc>FIN - External Venue : no room required</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, External Venue/17,18</activity>
+	<desc>RE & REI - External Venue : Corney & Barrow : no room required</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Economics/14,15</activity>
+	<desc>STF, ETF</desc>
+	<joint> </joint>
+	<studentnos>155</studentnos>
+	<room>LG001</room>
+	<lecturer>Hayley, Simon </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced maths/05 & 06</activity>
+	<desc>MTF FT & PT1</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>3003</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Registration 02</activity>
+	<desc>Caroline Bulmer 5246 - Rooms for Registration</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>2012;2001</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Admissions Office/Late Registration 2013</activity>
+	<desc>Caroline Bulmer 5246 - Room set up for Registration</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>3010</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/13</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>125</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Maths/04</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>2006</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: SMM063 Prob & Mathematical Stats (Ct3)</activity>
+	<desc>Act Sci</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>2002</room>
+	<lecturer>Cowell, Robert </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: SMM063 Prob & Mathematical Stats (Ct3)</activity>
+	<desc>Act Sci</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>G001</room>
+	<lecturer>Cowell, Robert </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:30</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 3/A/20 -21</activity>
+	<desc>MGT A</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>3003</room>
+	<lecturer>Simpson, Hugo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/14,15/STF,ETF</activity>
+	<desc>STF, ETF</desc>
+	<joint> </joint>
+	<studentnos>155</studentnos>
+	<room>LG001</room>
+	<lecturer>Sodhi, Mohan Prof.;Tamvakis, Michael Prof.;Nomikos, Nikos Prof. </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/13</activity>
+	<desc>IM</desc>
+	<joint>MSc Induction;Databases INV</joint>
+	<studentnos>125</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/11/IAF</activity>
+	<desc>IAF</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2002</room>
+	<lecturer>Kraft, Arthur;Cestone, Giacinta </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/10,11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>170</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Principles of Finance/01</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>2006</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Statistics/01</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>LG001</room>
+	<lecturer>Andrew, Mark </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>14:30</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/10/BIF</activity>
+	<desc>BIF</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>2003</room>
+	<lecturer>Casu Lukac, Barbara </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 3/B/22 -23</activity>
+	<desc>MGT B</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>3003</room>
+	<lecturer>Simpson, Hugo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/10,11</activity>
+	<desc>BIF IAF</desc>
+	<joint>MSc Induction;Databases BIF/IAF</joint>
+	<studentnos>170</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>16:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Talk/Extra/AS</activity>
+	<desc>Act Sci : Course details, Exemptions</desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>G001</room>
+	<lecturer>Owadally, Iqbal </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>17:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/13/IM</activity>
+	<desc>IM</desc>
+	<joint> </joint>
+	<studentnos>125</studentnos>
+	<room>LG001</room>
+	<lecturer>Staikouras, Sotiris </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>17:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Stats & Maths/8,9</activity>
+	<desc>MSc Fin & MSc CF (joint) : Introduction to Stats & Maths</desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Valuation/17</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>2006</room>
+	<lecturer>Herd, George </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced Quantitative Methods/3&4</activity>
+	<desc>FM & QF</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>2006</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>17:30</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/3,4/FM,QF</activity>
+	<desc>FM & QF</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>2003</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, External Venue/10</activity>
+	<desc>BIF- External Venue : no room required</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, External Venue/11</activity>
+	<desc>IAF- External Venue : no room required</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/5,6,7/MTF</activity>
+	<desc>MTF , MTF pt yr 1, MTF pt yr 2</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2002</room>
+	<lecturer>Hatgioannides, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/8,9</activity>
+	<desc>FIN CF</desc>
+	<joint>MSc Induction;SMMxxx FIN & CF</joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception/EC2Y 9HT/13</activity>
+	<desc>IM: Corney & Barrow, CityPoint, 1 Ropemaker Street EC2Y 9HT; no room required</desc>
+	<joint> </joint>
+	<studentnos>125</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:30</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception, External Venue/3,4</activity>
+	<desc>QF & FM - External Venue : Corney & Barrow : no room required</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>19:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Networking Exercise/A&B/20-23</activity>
+	<desc>MGT A&B</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>LG001</room>
+	<lecturer>Dobson, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Quants/19</activity>
+	<desc>FI</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>3003</room>
+	<lecturer>Kalotychou, Elena;Payne, Richard Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception/5,6,7/MTF</activity>
+	<desc>MTF , MTF pt yr 1, MTF pt yr 2: Welcome reception Milling area (no room required)</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Valuation/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>3002</room>
+	<lecturer>Herd, George </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial valuation/02</activity>
+	<desc>RE & REI *</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced Stats/05 & 07</activity>
+	<desc>MTF FT & PT2</desc>
+	<joint> </joint>
+	<studentnos>57</studentnos>
+	<room>3003</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>19:10</start>
+	<end>20:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Briefing on Assignment 1/A&B/20-23</activity>
+	<desc>MGT A&B</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>LG001</room>
+	<lecturer>Palmer, Paul Prof. </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Registration/Reset Room</activity>
+	<desc>Caroline Bulmer 5246 - Room reset up after Registration</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>2001;2012</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Admissions Office/Late Registration 2013</activity>
+	<desc>Caroline Bulmer 5246 - Room set up for Registration</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>3010</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/8,9</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Principles of Finance/04</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>2006</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:30</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 5/B/22 -23</activity>
+	<desc>MGT B</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>3003</room>
+	<lecturer>Kintish, Will </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Talk/Extra/AM</activity>
+	<desc>Act Man : course handbook , assessment, professional exemptions etc.</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>G001</room>
+	<lecturer>Wright, Douglas </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/1-4</activity>
+	<desc>AS, AM, FM, QF</desc>
+	<joint>Databases AM,AS, FM, QF;MSc Induction</joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Practical insight to Actuarial Work/AS</activity>
+	<desc>Act Sci</desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>2002</room>
+	<lecturer>VL 01 -Careers Consultant MSc 01;Fairbank, Michelle (formerly Cowdrey);Rickayzen, Ben </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Talk/RE/REI</activity>
+	<desc>RE & REI *</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/RE/(MSc group C)/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>1001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/5,6,12,19</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: English language test/AM</activity>
+	<desc>Act Man : Test - Computer LAB required</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 5/A/20 -21</activity>
+	<desc>MGT A</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>3003</room>
+	<lecturer>Kintish, Will </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced Quantitative Methods/3&4</activity>
+	<desc>FM & QF</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>2003</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Real Estate Markets/01</activity>
+	<desc>REI & RE</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>16:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/17,18</activity>
+	<desc>REI RE</desc>
+	<joint>Databases RE/REI;MSc Induction</joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced Quantitative Methods/3&4</activity>
+	<desc>FM & QF</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>2006</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:10</start>
+	<end>17:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/5,6,7,12</activity>
+	<desc>IRM, MTF ( FT, PT1, PT2)</desc>
+	<joint>MSc Induction;Databases IRM,FI, WM,MTF</joint>
+	<studentnos>142</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial valuation/01</activity>
+	<desc>RE & REI *</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced Stats/05 & 07</activity>
+	<desc>MTF FT & PT2</desc>
+	<joint> </joint>
+	<studentnos>57</studentnos>
+	<room>3003</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>19:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/19</activity>
+	<desc>FI</desc>
+	<joint>MSc Induction;Databases IRM,FI, WM,MTF</joint>
+	<studentnos>35</studentnos>
+	<room>2006</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Economics/14,15</activity>
+	<desc>STF, ETF</desc>
+	<joint> </joint>
+	<studentnos>155</studentnos>
+	<room>LG001</room>
+	<lecturer>Hayley, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced maths/05 & 06</activity>
+	<desc>MTF FT & PT1</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>2004</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Admissions Office/Late Registration 2013</activity>
+	<desc>Caroline Bulmer 5246 - Room set up for Registration</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>3010</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Assignment presentation (feedback + prize)/A/20-21</activity>
+	<desc>MGT A</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2006</room>
+	<lecturer>Palmer, Paul Prof. </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Services Overview/11</activity>
+	<desc>IAF</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>3002</room>
+	<lecturer>Van Drimmelen, Corjanne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Statistics/02</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>G001</room>
+	<lecturer>Andrew, Mark </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/REI/01</activity>
+	<desc>REI</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>2001</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Services Overview/3-6</activity>
+	<desc>FM, QF, MTF ft, pt yr1</desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Van Drimmelen, Corjanne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Assignment presentation (feedback + prize)/B/22-23</activity>
+	<desc>MGT B</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2006</room>
+	<lecturer>Palmer, Paul Prof. </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Registration/set up</activity>
+	<desc>Caroline Bulmer 5246 - Room set up for Registration</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>2012;2001</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 1/A/20 -21</activity>
+	<desc>MGT A</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2003</room>
+	<lecturer>Roberts, Louisa </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>13:30</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 6/A/20-21</activity>
+	<desc>MGT A</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2006</room>
+	<lecturer>Goudge, Mary </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/REI/02</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>2001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/17,18</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/1-4</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 7/B/22-23</activity>
+	<desc>MGT B</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2006</room>
+	<lecturer>Goudge, Mary </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 2/B/20 -21</activity>
+	<desc>MGT B</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2003</room>
+	<lecturer>Roberts, Louisa </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Services Overview/12,13</activity>
+	<desc>IRM, IM</desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Van Drimmelen, Corjanne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Maths/05</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>3003</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/RE/(MSc group B)/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>1001</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced Quantitative Methods/3&4</activity>
+	<desc>FM & QF</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>2006</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/RE/(MSc group B)/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>1001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Services Overview/14-17</activity>
+	<desc>STF, ETF , REI</desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Van Drimmelen, Corjanne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Economics/01</activity>
+	<desc>Re & REI</desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>LG001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced maths/05 & 06</activity>
+	<desc>MTF FT & PT1</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>3003</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Corporate Finance/19</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2006</room>
+	<lecturer>Lasfer, Meziane </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Economics/FI</activity>
+	<desc>FI</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>2006</room>
+	<lecturer>Clare, Andrew </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Advanced Stats/05 & 07</activity>
+	<desc>MTF FT & PT2</desc>
+	<joint> </joint>
+	<studentnos>57</studentnos>
+	<room>3002</room>
+	<lecturer>Trapani, Lorenzo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Bag Packing & Storage</activity>
+	<desc>Lenka Havlikova 5294</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Admissions Office/Late Registration 2013</activity>
+	<desc>Caroline Bulmer 5246 - Room set up for Registration</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>3010</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Induction MSc/Registration 01</activity>
+	<desc>Caroline Bulmer 5246 - Registration</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>2012;2001</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 1/B/22 -23</activity>
+	<desc>MGT B</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>G001</room>
+	<lecturer>Kissen, Steph </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Introduction to Investment/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>2006</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Maths/02</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>3003</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/RE/(MSc group C)/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>1001</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Services Overview/8,9</activity>
+	<desc>FIN, CF</desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Van Drimmelen, Corjanne </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Careers Boot Camp 2/A/20-21</activity>
+	<desc>MGTA</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>G001</room>
+	<lecturer>Kissen, Steph </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/RE/(MSc group A)/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>1001</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/20-23</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>G001</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>14:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: CV & Application Form/14-15</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>155</studentnos>
+	<room>LG001</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/20-23</activity>
+	<desc>MGT A & B</desc>
+	<joint>MSc Induction;Databases MGT</joint>
+	<studentnos>90</studentnos>
+	<room>G001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Excel/RE/(MSc group A)/18</activity>
+	<desc>RE *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>1001</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Maths/03</activity>
+	<desc>REI *</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>2006</room>
+	<lecturer>Papastamos, Dimitrios </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Financial Services Overview/1,2,10</activity>
+	<desc>BIF, AS, AM</desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>LG001</room>
+	<lecturer>Van Drimmelen, Corjanne </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Database/14-15</activity>
+	<desc>STF ETF</desc>
+	<joint>MSc Induction;Databases STF,ETF</joint>
+	<studentnos>155</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>20:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/12/IRM</activity>
+	<desc>IRM</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2002</room>
+	<lecturer>Parsons, Chris </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>20:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome talk/19/FI</activity>
+	<desc>FI pt</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>2003</room>
+	<lecturer>Motson, Nick </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Economics/14,15</activity>
+	<desc>STF, ETF</desc>
+	<joint> </joint>
+	<studentnos>155</studentnos>
+	<room>LG001</room>
+	<lecturer>Hayley, Simon </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>Welcome Reception - All MSc students</activity>
+	<desc>External Venue: Brewery, Chiswell Street, 6.00pm</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>External</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>20:10</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception/EC2Y 9HT/12</activity>
+	<desc>IRM : Corney & Barrow, CityPoint, 1 Ropemaker Street EC2Y 9HT; no room required</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>20:10</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>MSc Induction</modulecode>
+	<activity>MSc Inductions: Welcome Reception/EC2Y 9HT/19</activity>
+	<desc>FI : Corney & Barrow, CityPoint, 1 Ropemaker Street EC2Y 9HT; no room required</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>15:30</start>
+	<end>16:30</end>
+	<week>25/11/13</week>
+	<modulecode>MBM405 BMP</modulecode>
+	<activity>MBM405 Mba Block 2: BMP briefing session (A&B)</activity>
+	<desc>FTMBA block 2 : BMP briefing session (A&B)</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>LG001</room>
+	<lecturer>Robinson, Sionade </lecturer>
+	<day>Friday </day>
+</booking>

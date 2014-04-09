@@ -1,0 +1,26 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM359</modulecode>
+	<activity>SMM359 Risk Analysis & Modelling/A/Computer Session 01/02</activity>
+	<desc>Group A : FT & YR1 & Exempt</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>2001</room>
+	<lecturer>Dickinson, Chris </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM359</modulecode>
+	<activity>SMM359 Risk Analysis & Modelling/B/Computer Session 02/02</activity>
+	<desc>Group B- FT & YR1 & Exempt</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>1001</room>
+	<lecturer>Dickinson, Chris </lecturer>
+	<day>Thursday </day>
+</booking>

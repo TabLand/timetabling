@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>12/05/14-16/06/14</week>
+	<modulecode>SMM596</modulecode>
+	<activity>SMM596 Financial Derivatives/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>69</studentnos>
+	<room>3002</room>
+	<lecturer>Nomikos, Nikos Prof. </lecturer>
+	<day>Wednesday </day>
+</booking>

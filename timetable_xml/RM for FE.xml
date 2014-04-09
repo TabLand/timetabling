@@ -1,0 +1,26 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>RM for FE</modulecode>
+	<activity>Research Methods for Financial Economics/Workshop 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>B307A</room>
+	<lecturer>Stamboglis, Niccolo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>RM for FE</modulecode>
+	<activity>Financial Econometrics/Lab 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D518</room>
+	<lecturer>Stamboglis, Niccolo </lecturer>
+	<day>Wednesday </day>
+</booking>

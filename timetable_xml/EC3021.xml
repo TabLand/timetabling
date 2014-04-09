@@ -1,0 +1,39 @@
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>17/02/14</week>
+	<modulecode>EC3021</modulecode>
+	<activity>EC3021 Development Economics/Lecture 01/Feb 20th</activity>
+	<desc>Replacement for week 11</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>C338</room>
+	<lecturer>Chiodi, Vera </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>24/02/14</week>
+	<modulecode>EC3021</modulecode>
+	<activity>EC3021 Development Economics/Lecture 01/Feb 27th</activity>
+	<desc>Replacement for week 11</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>C338</room>
+	<lecturer>Chiodi, Vera </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>EC3021</modulecode>
+	<activity>EC3021 Development Economics/Lecture 01/1</activity>
+	<desc>Weeks 1-5 & 7-10</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>AG22</room>
+	<lecturer>Chiodi, Vera </lecturer>
+	<day>Thursday </day>
+</booking>

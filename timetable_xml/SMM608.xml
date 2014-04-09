@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM608</modulecode>
+	<activity>SMM608 Numerical Methods/FT/Computer Session 01</activity>
+	<desc>FT, Kaist : Spring : Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>2001</room>
+	<lecturer>Siu, Ken Prof. </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM608</modulecode>
+	<activity>SMM608 Numerical Methods/PT1/Computer Session 02</activity>
+	<desc>PT 1 - Spring : Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>2001</room>
+	<lecturer>Siu, Ken Prof. </lecturer>
+	<day>Friday </day>
+</booking>

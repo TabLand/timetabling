@@ -1,0 +1,182 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 3/01</activity>
+	<desc>Tomotherapy</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>07/04/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 7/02</activity>
+	<desc>Stereotactic Conformal Radiotherapy</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C164</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>05/05/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Self Study 2/01</activity>
+	<desc>Current Radiotherapy Trials</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>No room needed</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 4/03</activity>
+	<desc>Radiosurgery - Gamma Knife</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 5/01</activity>
+	<desc>Introduction to Portal Imaging</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 8/01</activity>
+	<desc>Proton Therapy</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C312</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>05/05/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Self Study 1/11</activity>
+	<desc>Nuclear Medicine Applications</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>No room needed</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 6/01</activity>
+	<desc>Brachytherapy</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>17/03/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 01/01</activity>
+	<desc>Introduction to Module + IMRT</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 2/01</activity>
+	<desc>IGRT</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C313</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>19/05/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 12/01</activity>
+	<desc>Poster vivas (1 room only required)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>D106</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>28/04/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 9/01</activity>
+	<desc>Poster presentation tutorial</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>A107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>28/04/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 09/01</activity>
+	<desc>Sarcomas and benign techniques</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>A107</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/04/14</week>
+	<modulecode>RT3006</modulecode>
+	<activity>RT3006 Progressive Techniques/Lecture 11/01</activity>
+	<desc>Paediatric, leukaemia, lymphoma techniques</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>A107</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Friday </day>
+</booking>

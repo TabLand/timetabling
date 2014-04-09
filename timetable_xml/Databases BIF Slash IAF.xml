@@ -1,0 +1,39 @@
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>07/10/13</week>
+	<modulecode>Databases BIF/IAF</modulecode>
+	<activity>SMMxxx Bloomberg/BIF, IAF/Lecture/WK 2</activity>
+	<desc>BIF, IAF : Autumn : Week 2 only</desc>
+	<joint> </joint>
+	<studentnos>146</studentnos>
+	<room>LG001</room>
+	<lecturer>Diwell, Lloyd;Griffiths, Suzanne </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>Databases BIF/IAF</modulecode>
+	<activity>SMMxxx Thomson Reuters/BIF, IAF/Lecture/WK 2</activity>
+	<desc>BIF, IAF : Autumn : Week 2 only</desc>
+	<joint> </joint>
+	<studentnos>146</studentnos>
+	<room>LG001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>Databases BIF/IAF</modulecode>
+	<activity>SMMxxx Databases/BIF, IAF</activity>
+	<desc>BIF, IAF</desc>
+	<joint>MSc Induction;Databases BIF/IAF</joint>
+	<studentnos>146</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>

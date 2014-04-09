@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM357</modulecode>
+	<activity>INM357 Information For Decisions In Healthcare/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C300</room>
+	<lecturer>Weller, Peter </lecturer>
+	<day>Friday </day>
+</booking>

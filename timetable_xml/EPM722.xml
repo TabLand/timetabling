@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>28/10/13</week>
+	<modulecode>EPM722</modulecode>
+	<activity>EPM722 Energy Policies & Economic Dimensions/01</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>28/10/13</week>
+	<modulecode>EPM722</modulecode>
+	<activity>EPM722 Energy Policies & Economic Dimensions/01</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>28/10/13</week>
+	<modulecode>EPM722</modulecode>
+	<activity>EPM722 Energy Policies & Economic Dimensions/01</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>56</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

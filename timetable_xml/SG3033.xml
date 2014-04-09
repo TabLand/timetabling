@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SG3033</modulecode>
+	<activity>SG3033 Quantitative Analysis of Social Research Data/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>D221</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 18/11/13</week>
+	<modulecode>SG3033</modulecode>
+	<activity>SG3033 Quantitative Analysis of Social Research Data/Tutorial 01/01</activity>
+	<desc>Weeks 1, 3, 5 & 8</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>C150</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/10/13, 21/10/13, 25/11/13</week>
+	<modulecode>SG3033</modulecode>
+	<activity>SG3033 Quantitative Analysis of Social Research Data/Lab 01/01</activity>
+	<desc>Weeks 2, 4 & 9</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>A218</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>SG3033</modulecode>
+	<activity>SG3033 Quantitative Analysis of Social Research Data/Lab 01/Dec 5th</activity>
+	<desc>Week 10: Tutorial changed to lab</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>AG24a</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>SG3033</modulecode>
+	<activity>SG3033 Quantitative Analysis of Social Research Data/Lab 01/Dec 12th</activity>
+	<desc>Week 11: Different Location</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>AG24a</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>SG3033</modulecode>
+	<activity>SG3033 Quantitative Analysis of Social Research Data/Lab 01/Nov 14th</activity>
+	<desc>Week 7: Different time</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>B307A</room>
+	<lecturer>Cohen, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>

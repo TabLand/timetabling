@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG2040</modulecode>
+	<activity>SG2040 Violence & Criminal Justice Policy/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>B104</room>
+	<lecturer>McLaughlin, Eugene;Myers, Carrie-Anne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>SG2040</modulecode>
+	<activity>SG2040 Violence & Criminal Justice Policy/Lecture 01/Feb 13th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>B104</room>
+	<lecturer>McLaughlin, Eugene;Myers, Carrie-Anne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG2040</modulecode>
+	<activity>SG2040 Violence & Criminal Justice Policy/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BLG08</room>
+	<lecturer>Myers, Carrie-Anne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG2040</modulecode>
+	<activity>SG2040 Violence & Criminal Justice Policy/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BM02</room>
+	<lecturer>McLaughlin, Eugene </lecturer>
+	<day>Thursday </day>
+</booking>

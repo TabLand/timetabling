@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>CC1002</modulecode>
+	<activity>CC1002 Managing Creative Enterprises/Lecture 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>Sandoval, Marisol </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>CC1002</modulecode>
+	<activity>CC1002 Managing Creative Enterprises/Lecture 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C343</room>
+	<lecturer>Sandoval, Marisol </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>CC1002</modulecode>
+	<activity>CC1002 Managing Creative Enterprises/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>D222</room>
+	<lecturer>Sandoval, Marisol </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>CC1002</modulecode>
+	<activity>CC1002 Managing Creative Enterprises/Seminar 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BLG08</room>
+	<lecturer>Sandoval, Marisol </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>CC1002</modulecode>
+	<activity>CC1002 Managing Creative Enterprises/Seminar 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C322</room>
+	<lecturer>Sandoval, Marisol </lecturer>
+	<day>Thursday </day>
+</booking>

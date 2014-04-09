@@ -1,0 +1,104 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>09/09/13, 23/09/13, 21/10/13, 04/11/13, 18/11/13</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM956 Complete Book/Group study</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D108</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13, 11/11/13, 25/11/13-16/12/13</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM956 Complete Book/Tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D108</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM956 Complete Book/Lecture 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D113</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>28/04/14-16/06/14</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM956 Complete Book/Group study</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>7</studentnos>
+	<room>D107</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>12/05/14-30/06/14</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM956 Complete Book Lecture</activity>
+	<desc> </desc>
+	<joint>JOM913;JOM956</joint>
+	<studentnos>25</studentnos>
+	<room>AG22</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>19:50</end>
+	<week>13/01/14</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM956 Complete Book/Group study</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:30</end>
+	<week>09/12/13</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM956 Complete Book/Tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>19:00</start>
+	<end>20:50</end>
+	<week>29/07/13, 12/08/13, 26/08/13</week>
+	<modulecode>JOM956</modulecode>
+	<activity>JOM940 Own Book</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM179</modulecode>
+	<activity>SMM179 Real Estate Development & Planning/Lecture 01</activity>
+	<desc>Lecture : Spring : RE</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2006</room>
+	<lecturer>Rodney, Bill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>24/02/14</week>
+	<modulecode>SMM179</modulecode>
+	<activity>SMM179 Real Estate Development & Planning/A/Computer Room 01/WK 5</activity>
+	<desc>RE: Lab - Group A : Week 5</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>1001</room>
+	<lecturer>Rodney, Bill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>SMM179</modulecode>
+	<activity>SMM179 Real Estate Development & Planning/B/Computer Room 01/WK 6</activity>
+	<desc>RE: Lab - Group B : Week 6</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>2001</room>
+	<lecturer>Rodney, Bill </lecturer>
+	<day>Friday </day>
+</booking>

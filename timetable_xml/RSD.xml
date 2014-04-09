@@ -1,0 +1,1638 @@
+<booking>
+	<start>8:00</start>
+	<end>9:30</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day -set up</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>DLG08</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:30</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>D108</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG03</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG08</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>BM02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>BG03</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - PGDip Child presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>D113</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - PGDip Adult presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D106</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BLG07</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>B104</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Child Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>BM02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>07/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Child Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>B104</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>07/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>13:50</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day -reset</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>DLG08</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>16:50</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - interviews</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG23</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG26</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG25</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>03/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS assessment day (registration 14:00-14:20)</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS assessment day (registration 14:00-14:20)</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>AG13</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:30</start>
+	<end>16:30</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>ELG18/Drysdale Seminar Room</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:30</start>
+	<end>16:30</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day (clearing)</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>140</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Child</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG24</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing only</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A111</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>AG11</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>03/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A107</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>26/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - PG Diploma Children's Nursing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>MG24</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>AG11</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - Child presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A110</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>AG03</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A110</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A107</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>26/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - PG Diploma Children's Nursing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>MG24</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A112</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>A110</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - pm</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>AG24b;A112;AG10</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - interviews</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>No room needed;No room needed;No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Child</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG24</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG13</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:30</end>
+	<week>17/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - interviews</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG27</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>EG07</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>AG03</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:50</end>
+	<week>19/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS selection day testing</activity>
+	<desc>Sharan Sumal 5796</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A110;A109</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>13:30</end>
+	<week>13/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS selection day: Midwifery PG Dip 78 week (catering)</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - interviews</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>No room needed;No room needed;No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>03/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>17/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C170</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>17/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C158</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>24/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>24/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>17/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>BLG07</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>17/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C170</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C328</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A112</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A111</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>4</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>z/SHS Selection Day: Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>4</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A112</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>The Northampton Committee Room (level 4)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>AG02</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C170</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A225</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Child Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>C345</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C300</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>The Northampton Suite - C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Child Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A109</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Child Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A107</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:30</end>
+	<week>25/11/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - breakout room</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>BG03</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>CG56</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C135</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A110</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A226</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C170</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>17/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG24</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG25</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>AG13</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG24</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG24a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG24</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG25</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Child</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C216;C215</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG27</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Adult</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG25</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/04/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day interviews: Child</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>AG02</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:30</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C312</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration (opens at 9.15am)</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Admin base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C167</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>9:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Registration</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C338</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - extra time testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - registration and main testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>BLG07</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>12/08/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day</activity>
+	<desc>Sharan Sumal</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>MG27</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Numeracy and Language Assessments Testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C338</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Numeracy and Language Assessments Testing - SA</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C158</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Numeracy and Language Assessments Testing - SA</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C150</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Numeracy and Language Assessments Testing</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C340</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - Admissions base</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>BLG08</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - breakout room</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C328</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - breakout room</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C322</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Presentation and APL process</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C338</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C164</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Mental Health presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C135</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Child presentation</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C140</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Adult Presentation</activity>
+	<desc>Gowri Jeevaratnam 5000</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BLG07</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>16:50</end>
+	<week>02/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS selection day</activity>
+	<desc>Gowri 5893</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>AG13</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: selection day results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: Lunch</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - results</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>BM03</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>14:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: CPSQ interviews</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>EG07</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day: CPSQ interviews</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>MG26;MG27;MG25</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>RSD</modulecode>
+	<activity>SHS Selection Day - CPSQ</activity>
+	<desc>Gowri Jeevaratnam 5893</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG13</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

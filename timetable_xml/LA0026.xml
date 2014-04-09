@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA0026</modulecode>
+	<activity>LA0026 Extracurricular Business Arabic Lower Intermediate Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Garoub, Abdul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-17/02/14</week>
+	<modulecode>LA0026</modulecode>
+	<activity>LA0026 Extracurricular Business Arabic Lower Intermediate Spring/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C337</room>
+	<lecturer>Garoub, Abdul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>24/02/14-31/03/14</week>
+	<modulecode>LA0026</modulecode>
+	<activity>LA0026 Extracurricular Business Arabic Lower Intermediate Spring/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>IG03</room>
+	<lecturer>Garoub, Abdul </lecturer>
+	<day>Wednesday </day>
+</booking>

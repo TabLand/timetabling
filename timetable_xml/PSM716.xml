@@ -1,0 +1,130 @@
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/01/Feb 5th</activity>
+	<desc>Week 4 earlier start</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106</room>
+	<lecturer>Strauss, Susan </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>13/01/14-17/02/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/04</activity>
+	<desc>Weeks 1-6</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D109</room>
+	<lecturer>O'Driscoll, Aylish </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>13/01/14-27/01/14, 03/03/14-10/03/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/02</activity>
+	<desc>Weeks 1-3, 8 & 9</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Gale, Nicola </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>13/01/14-17/02/14, 03/03/14-17/03/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/03</activity>
+	<desc>Weeks 1-6 & 8-10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D108</room>
+	<lecturer>Costa, Alex </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>13/01/14-27/01/14, 10/02/14-17/02/14, 03/03/14-17/03/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/01</activity>
+	<desc>Weeks 1-3, 5, 6 & 8-10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106</room>
+	<lecturer>Strauss, Susan </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>10/02/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/02/Feb 12th</activity>
+	<desc>Week 5 extended</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Gale, Nicola </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>17/02/14, 17/03/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/02/Feb 19th & Mar 19th</activity>
+	<desc>Weeks 6 & 10: Longer sessions</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Gale, Nicola </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>03/03/14, 17/03/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/04/Mar 5th & 12th</activity>
+	<desc>Weeks 8 & 10 (extended sessions)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG09</room>
+	<lecturer>O'Driscoll, Aylish </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:30</end>
+	<week>24/02/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/all/Feb 26th</activity>
+	<desc>Week 7: Different timings</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106;D107;D108;D109</room>
+	<lecturer>Costa, Alex;Gale, Nicola;Strauss, Susan;O'Driscoll, Aylish </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/03/14</week>
+	<modulecode>PSM716</modulecode>
+	<activity>PSM716 Professional Development and Supervision/Tutorial 01/01/Mar 19th</activity>
+	<desc>Week 10: Additional Hour</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106</room>
+	<lecturer>Strauss, Susan </lecturer>
+	<day>Wednesday </day>
+</booking>

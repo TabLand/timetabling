@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>FR3103</modulecode>
+	<activity>FR3103 Property Appraisal/Lecture 1/01</activity>
+	<desc>Lecture - Spring</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>I106</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>EPM602</modulecode>
+	<activity>EPM602 Clinical Instrumentation & Physiological Measurement/Lab Sems 1/03</activity>
+	<desc>Part time yr 2 students</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>CG17</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>EPM602</modulecode>
+	<activity>EPM602 Clinical Instrumentation & Physiological Measurement/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C335</room>
+	<lecturer>Philips, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>EPM602</modulecode>
+	<activity>EPM602 Clinical Instrumentation & Physiological Measurement/Lab Sems 1/02</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG17</room>
+	<lecturer>Philips, J </lecturer>
+	<day>Friday </day>
+</booking>

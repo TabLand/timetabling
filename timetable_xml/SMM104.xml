@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+	<modulecode>SMM104</modulecode>
+	<activity>SMM104 Risk Management/Lecture/WKS 1-3, 5-10</activity>
+	<desc>Spring Lecture : Weeks 1-3, 5-10</desc>
+	<joint> </joint>
+	<studentnos>74</studentnos>
+	<room>G001</room>
+	<lecturer>Beber, Alessandro Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM104</modulecode>
+	<activity>SMM104 Risk Management/Lecture/WK 3</activity>
+	<desc>Spring Lecture : Week 3 only (Replacement for wk 4 missed)</desc>
+	<joint> </joint>
+	<studentnos>74</studentnos>
+	<room>2004</room>
+	<lecturer>Beber, Alessandro Prof </lecturer>
+	<day>Wednesday </day>
+</booking>

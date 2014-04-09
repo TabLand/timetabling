@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>25/11/13-02/12/13</week>
+	<modulecode>JOM864</modulecode>
+	<activity>JOM864 Corporate Reporting/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>38</studentnos>
+	<room>D220</room>
+	<lecturer>Cole, Robert </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:30</start>
+	<end>19:30</end>
+	<week>30/09/13-18/11/13</week>
+	<modulecode>JOM864</modulecode>
+	<activity>JOM864 Corporate Reporting/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>38</studentnos>
+	<room>D221</room>
+	<lecturer>Cole, Robert </lecturer>
+	<day>Monday </day>
+</booking>

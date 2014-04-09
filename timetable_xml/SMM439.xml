@@ -1,0 +1,117 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>03/02/14, 24/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy/MKT/Lecture/WKS 2 & 5</activity>
+	<desc>MKT stream only : Lecture (Weeks 2 & 5 )</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>2005</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Tue-Wed/Syn Room 01</activity>
+	<desc>Week 3 - Syndicate room for Tue-Wed : 6hr slot: I Scopelliti</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>3011</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Practical 01/08</activity>
+	<desc>Machine Set up in Room: Week 3, 6hrs</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>3003</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Tue-Wed/Syn Room 01</activity>
+	<desc>Week 3 - Syndicate room for Tue-Wed : 6hr slot: I Scopelliti</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>3011</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Practical 02/08</activity>
+	<desc>Machine Set up in Room: Week 3, 6hrs</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>3003</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Thur-Fri/Syn Room 02</activity>
+	<desc>Week 3 - Syndicate room for Tue-Wed : 6hr slot : I Scopelliti</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>2008</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Practical 03/08</activity>
+	<desc>Machine Set up in Room: Week 3, 6hrs</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>2005</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Thur-Fri/Syn Room 02</activity>
+	<desc>Week 3 - Syndicate room for Tue-Wed : 6hr slot : I Scopelliti</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>2008</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>10/02/14</week>
+	<modulecode>SMM439</modulecode>
+	<activity>SMM439 Marketing Strategy Simulation/Practical 04/08</activity>
+	<desc>Machine Set up in Room: Week 3, 6hrs</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>2005</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Friday </day>
+</booking>

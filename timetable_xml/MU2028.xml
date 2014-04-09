@@ -1,0 +1,26 @@
+<booking>
+	<start>12:30</start>
+	<end>13:50</end>
+	<week>09/12/13</week>
+	<modulecode>MU2028</modulecode>
+	<activity>MU2109 Music Business/01 wk11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG09</room>
+	<lecturer>Carboni, Marius </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>MU2028</modulecode>
+	<activity>MU2109 Music Business/01</activity>
+	<desc> </desc>
+	<joint>MU3109;MU2028</joint>
+	<studentnos>30</studentnos>
+	<room>AG09</room>
+	<lecturer>Carboni, Marius </lecturer>
+	<day>Tuesday </day>
+</booking>

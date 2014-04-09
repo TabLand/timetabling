@@ -1,0 +1,117 @@
+<booking>
+	<start>11:00</start>
+	<end>16:50</end>
+	<week>09/12/13</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies/presentations</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A225</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies/Lecture 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>DLG02</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies/Lecture 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>ALG16</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies/Lab 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>ALG04</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>18/11/13-25/11/13</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies/seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D220</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>02/12/13</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies/seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG08</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies/Lab 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A220</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>17/02/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies Supervision</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A226</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>CC1003</modulecode>
+	<activity>CC1003 Cultural Production & Creative Technologies</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>54</studentnos>
+	<room>E212</room>
+	<lecturer>Dickinson, Deborah </lecturer>
+	<day>Tuesday </day>
+</booking>

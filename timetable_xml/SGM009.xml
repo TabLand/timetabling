@@ -1,0 +1,39 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM009</modulecode>
+	<activity>SGM009 Democratisation, Information And Communication/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG03</room>
+	<lecturer>Marcea, Dan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM009</modulecode>
+	<activity>SGM009 Democratisation, Information And Communication/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D221</room>
+	<lecturer>Marcea, Dan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM009</modulecode>
+	<activity>SGM009 Democratisation, Information And Communication/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D221</room>
+	<lecturer>Marcea, Dan </lecturer>
+	<day>Tuesday </day>
+</booking>

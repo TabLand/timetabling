@@ -1,0 +1,52 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>IF2208</modulecode>
+	<activity>IF2208 Bank Risk Management/Lecture/WK 5</activity>
+	<desc>Spring: Week 5 ONLY (replacement for wk 4 missed)</desc>
+	<joint> </joint>
+	<studentnos>81</studentnos>
+	<room>B103</room>
+	<lecturer>Fabbri, Daniela </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-10/02/14, 24/02/14-07/04/14</week>
+	<modulecode>IF2208</modulecode>
+	<activity>IF2208 Bank Risk Management/Lecture/WKS 1-3, 5-11</activity>
+	<desc>Spring: Weeks 1-3, 5-11</desc>
+	<joint> </joint>
+	<studentnos>81</studentnos>
+	<room>Geary</room>
+	<lecturer>Fabbri, Daniela </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>IF2208</modulecode>
+	<activity>IF2208 Bank Risk Management/A/Tutorial 01/02</activity>
+	<desc>Spring Tutorial : Group A : Weeks 3, 5, 7, 9</desc>
+	<joint> </joint>
+	<studentnos>41</studentnos>
+	<room>D104</room>
+	<lecturer>Fabbri, Daniela </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>IF2208</modulecode>
+	<activity>IF2208 Bank Risk Management/B/Tutorial 02/02</activity>
+	<desc>Spring Tutorial : Group B : Weeks 3,5,7,9</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D104</room>
+	<lecturer>Fabbri, Daniela </lecturer>
+	<day>Friday </day>
+</booking>

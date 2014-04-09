@@ -1,0 +1,13 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS2581</modulecode>
+	<activity>CS2581 Building MVC Web Apps in Java EE with Spring and Hibernate term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG12</room>
+	<lecturer>O'Shea, Martin </lecturer>
+	<day>Wednesday </day>
+</booking>

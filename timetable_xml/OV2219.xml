@@ -1,0 +1,39 @@
+<booking>
+	<start>13:30</start>
+	<end>15:30</end>
+	<week>24/03/14</week>
+	<modulecode>OV2219</modulecode>
+	<activity>OV2219 Visual Optics and Low Vision/Grand rounds/01</activity>
+	<desc>FD students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>Bath Street Level 6 (cubicles)</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-10/03/14, 24/03/14-31/03/14</week>
+	<modulecode>OV2219</modulecode>
+	<activity>OV2219 Visual Optics and Low Vision/Tutorial/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>CG02</room>
+	<lecturer>Harvey, William;Subramaniam, Ahalya </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>31/03/14</week>
+	<modulecode>OV2219</modulecode>
+	<activity>OV2219 Visual Optics and Low Vision/Tutorial/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>CG04</room>
+	<lecturer>Harvey, William </lecturer>
+	<day>Friday </day>
+</booking>

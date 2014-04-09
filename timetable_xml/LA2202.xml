@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA2202</modulecode>
+	<activity>LA2202 Lgp Spanish Upper Intermediate/Autumn/Joint</activity>
+	<desc>Joint with LA2406</desc>
+	<joint>LA2406;LA2202</joint>
+	<studentnos>30</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA2202</modulecode>
+	<activity>LA2202 Lgp Spanish Upper Intermediate/Spring/Joint</activity>
+	<desc>Joint with LA2406</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>PSD207</modulecode>
+	<activity>PSD207 Developing Research Skills/Lecture 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>D104</room>
+	<lecturer>Rawson, Don </lecturer>
+	<day>Friday </day>
+</booking>

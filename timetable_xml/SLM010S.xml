@@ -1,0 +1,260 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C313</room>
+	<lecturer>VL 10/3 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>IG03</room>
+	<lecturer>VL 10/10 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A112</room>
+	<lecturer>VL 10/2 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>D113</room>
+	<lecturer>Hilari, Katerina </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C135</room>
+	<lecturer>VL 10/5 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>D109</room>
+	<lecturer>VL 10/1 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 24/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/01</activity>
+	<desc>Spring Tutorial</desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>D108</room>
+	<lecturer>Lee, Mary </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14, 17/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Lecture 01/02</activity>
+	<desc>Spring: masterclass</desc>
+	<joint> </joint>
+	<studentnos>85</studentnos>
+	<room>C304</room>
+	<lecturer>Hilari, Katerina;Lee, Mary </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>10/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Lecture 01/03</activity>
+	<desc>Spring: masterclass</desc>
+	<joint> </joint>
+	<studentnos>85</studentnos>
+	<room>BG03</room>
+	<lecturer>Hilari, Katerina;Lee, Mary </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/10</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106</room>
+	<lecturer>VL 10/9 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/09</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>IG03</room>
+	<lecturer>VL 10/8 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/08</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D109</room>
+	<lecturer>VL 10/7 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>I203/I206</room>
+	<lecturer>VL 10/6 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG02</room>
+	<lecturer>VL 10/5 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG09</room>
+	<lecturer>VL 10/4 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D108</room>
+	<lecturer>VL 10/3 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A111</room>
+	<lecturer>VL 10/2 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A108</room>
+	<lecturer>VL 10/1 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>09/06/14, 23/06/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Summer/Tutorial 1/01</activity>
+	<desc>Summer tutorial 3 hours</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Lee, Mary </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>10/03/14</week>
+	<modulecode>SLM010S</modulecode>
+	<activity>SLM010 Professional Studies (b)/Spring/Tutorial 01/08</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A112;C313;D113;D108;D109;C135;IG03</room>
+	<lecturer>VL 10/3 - HACOMS - SLM010 </lecturer>
+	<day>Tuesday </day>
+</booking>

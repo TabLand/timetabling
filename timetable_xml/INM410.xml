@@ -1,0 +1,65 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>INM410</modulecode>
+	<activity>INM410 Creativity and the Creative Industries/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG09</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+	<modulecode>INM410</modulecode>
+	<activity>INM410 Creativity and the Creative Industries/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A109</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>10/03/14</week>
+	<modulecode>INM410</modulecode>
+	<activity>INM410 Group Feedback</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>10/03/14</week>
+	<modulecode>INM410</modulecode>
+	<activity>INM410 Creativity and the Creative Industries/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A109</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:30</end>
+	<week>10/03/14</week>
+	<modulecode>INM410</modulecode>
+	<activity>INM410 Group Work room</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

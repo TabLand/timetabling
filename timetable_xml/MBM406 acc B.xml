@@ -1,0 +1,52 @@
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>23/09/13, 07/10/13-14/10/13</week>
+	<modulecode>MBM406 acc B</modulecode>
+	<activity>MBM406 Mba Block 1: Accounting & Financial Reporting/B1/Lecture 01/wks 1,3-4</activity>
+	<desc>FTMBA 2013 Block 1: AFR B session 1 : Weeks 1, 3-4</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2002</room>
+	<lecturer>Kraft, Arthur </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>07/10/13</week>
+	<modulecode>MBM406 acc B</modulecode>
+	<activity>MBM406 Mba Block 1: Accounting & Financial Reporting/B1/Lecture 01/WK 3</activity>
+	<desc>FTMBA 2013 Block 1: AFR B session 1 : Week 3</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>3002</room>
+	<lecturer>Kraft, Arthur </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>23/09/13-14/10/13</week>
+	<modulecode>MBM406 acc B</modulecode>
+	<activity>MBM406 Mba Block 1: Accounting & Financial Reporting/B2/Lecture 02</activity>
+	<desc>FTMBA 2013 Block 1: AFR B session 2</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2002</room>
+	<lecturer>Kraft, Arthur </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>09/12/13</week>
+	<modulecode>MBM406 acc B</modulecode>
+	<activity>MBM406 Mba Block 1: Accounting & Financial Reporting/B/Revision (Joint)</activity>
+	<desc>(Joint) Revision</desc>
+	<joint>MBM406 acc B;MBM406 acc A</joint>
+	<studentnos>100</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

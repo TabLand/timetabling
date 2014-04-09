@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>19/05/14, 02/06/14</week>
+	<modulecode>SMM925</modulecode>
+	<activity>SMM925 Social Insurance in Emerging Markets/Lecture/wks 2 & 4</activity>
+	<desc>9 hrs per day : Weeks 2 & 4 only</desc>
+	<joint> </joint>
+	<studentnos>31</studentnos>
+	<room>2004</room>
+	<lecturer>Silver, Nick </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1834</modulecode>
+	<activity>CS1834 German Iii Autumn Term/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG10</room>
+	<lecturer>Born, Boris </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>11/11/13</week>
+	<modulecode>CS1834</modulecode>
+	<activity>CS1834 German Iii Autumn Term/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG24b</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1834</modulecode>
+	<activity>CS1834 German Year 3 term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG10</room>
+	<lecturer>Born, Boris </lecturer>
+	<day>Wednesday </day>
+</booking>

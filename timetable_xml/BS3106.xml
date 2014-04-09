@@ -1,0 +1,91 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13</week>
+	<modulecode>BS3106</modulecode>
+	<activity>BS3106 Advanced Financial Accounting/Tutorial 02/02/WK 3</activity>
+	<desc>Group 2: Week 3 (replacement)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>E212</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>14/10/13</week>
+	<modulecode>BS3106</modulecode>
+	<activity>BS3106 Advanced Financial Accounting/Lecture/WK 3</activity>
+	<desc>Autumn Lecture: Week 3 ONLY (replacement)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13-14/10/13, 28/10/13-09/12/13</week>
+	<modulecode>BS3106</modulecode>
+	<activity>BS3106 Advanced Financial Accounting/Tutorial 01/02/wks 2-3, 5-11</activity>
+	<desc>Group 1 - Weeks 2-3, 5-11</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C343</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>21/10/13</week>
+	<modulecode>BS3106</modulecode>
+	<activity>BS3106 Advanced Financial Accounting/Tutorial 01/02/wk 4</activity>
+	<desc>Group 1 - Week 4 only (replacement room)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG02</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-07/10/13, 21/10/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>BS3106</modulecode>
+	<activity>BS3106 Advanced Financial Accounting/Lecture/WKS 1-2, 4-7 & 9-11</activity>
+	<desc>Autumn Lecture: Weeks 1-2, 4-7 & 9-11</desc>
+	<joint> </joint>
+	<studentnos>37</studentnos>
+	<room>CG03</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>18/11/13</week>
+	<modulecode>BS3106</modulecode>
+	<activity>BS3106 Advanced Financial Accounting/Exam/WK 8</activity>
+	<desc>Week 8 (Mid-Term Test)</desc>
+	<joint> </joint>
+	<studentnos>37</studentnos>
+	<room>BG03</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13, 21/10/13-09/12/13</week>
+	<modulecode>BS3106</modulecode>
+	<activity>BS3106 Advanced Financial Accounting/Tutorial 02/02/WKS 2,4-11</activity>
+	<desc>Group 2: Weeks 2 , 4-11</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C337</room>
+	<lecturer>Yim, Andrew </lecturer>
+	<day>Thursday </day>
+</booking>

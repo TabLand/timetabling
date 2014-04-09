@@ -1,0 +1,91 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2015</modulecode>
+	<activity>IN2015 Professional Development in IT/Lecture Term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2015</modulecode>
+	<activity>IN2015 Professional Development in IT/Tutorial Term 1/B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG02</room>
+	<lecturer>Flack, Jess </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2015</modulecode>
+	<activity>IN2015 Professional Development in IT/Tutorial Term 1/C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D221</room>
+	<lecturer>Davie, Donna </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>13:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2015</modulecode>
+	<activity>IN2015 Professional Development in IT/Tutorial Term 1/A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG02</room>
+	<lecturer>Kogan, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>13:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2015</modulecode>
+	<activity>IN2015 Professional Development in IT/Tutorial Term 1/E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG09</room>
+	<lecturer>Khan, Mohson </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN2015</modulecode>
+	<activity>IN2015 Professional Development in IT/Tutorial Term 1/D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG07</room>
+	<lecturer>Elkins, Alex </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>IN2015</modulecode>
+	<activity>IN2015 Professional Development in IT/Placement application drop-in</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

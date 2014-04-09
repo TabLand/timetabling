@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM211</modulecode>
+	<activity>SGM211 Statistical Modelling/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG19</room>
+	<lecturer>Gash, Vanessa </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM211</modulecode>
+	<activity>SGM211 Statistical Modelling/Lab 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D518</room>
+	<lecturer>Gash, Vanessa </lecturer>
+	<day>Friday </day>
+</booking>

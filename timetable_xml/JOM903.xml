@@ -1,0 +1,52 @@
+<booking>
+	<start>18:30</start>
+	<end>20:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM903</modulecode>
+	<activity>JOM903 Own novel/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D113</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:50</end>
+	<week>27/01/14, 10/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>JOM903</modulecode>
+	<activity>JOM903 Own novel/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>JOM903</modulecode>
+	<activity>JOM903 Own novel/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D111</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:50</end>
+	<week>24/02/14</week>
+	<modulecode>JOM903</modulecode>
+	<activity>JOM903 Own novel/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D111</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

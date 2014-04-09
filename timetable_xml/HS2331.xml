@@ -1,0 +1,52 @@
+<booking>
+	<start>12:00</start>
+	<end>16:50</end>
+	<week>16/12/13</week>
+	<modulecode>HS2331</modulecode>
+	<activity>HS2331 Core Biological Principles related to Pathophysiology & therapeutics in Mental Health Nursing/Revision session</activity>
+	<desc>MHN</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>11D (WS)</room>
+	<lecturer>Blows, W </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2331</modulecode>
+	<activity>HS2331 Core Biological Principles related to Pathophysiology & therapeutics in Mental Health Nursing/Lecture/01</activity>
+	<desc>MHN</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>3G (WS)</room>
+	<lecturer>Blows, W </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>12:30</end>
+	<week>17/02/14</week>
+	<modulecode>HS2331</modulecode>
+	<activity>Exam feedback</activity>
+	<desc>William Blows</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>2H (WS)</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>23/09/13-30/09/13, 14/10/13-04/11/13</week>
+	<modulecode>HS2331</modulecode>
+	<activity>HS2331 Core Biological Principles related to Pathophysiology & therapeutics in Mental Health Nursing/Lecture/01</activity>
+	<desc>MHN</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A227</room>
+	<lecturer>Blows, W </lecturer>
+	<day>Thursday </day>
+</booking>

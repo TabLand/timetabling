@@ -1,0 +1,78 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>AS3304</modulecode>
+	<activity>AS3304 Pension Funds & Social Security/Lecture 1/WKS 1 & 2</activity>
+	<desc>Weeks 1 & 2</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Bannister, Keith </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>AS3304</modulecode>
+	<activity>AS3304 Pension Funds & Social Security/Lecture 1/WK 3</activity>
+	<desc>Week 3</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C304</room>
+	<lecturer>Bannister, Keith </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>AS3304</modulecode>
+	<activity>AS3304 Pension Funds & Social Security/Lecture 1/WK 4</activity>
+	<desc>Week 4</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C115</room>
+	<lecturer>Bannister, Keith </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>AS3304</modulecode>
+	<activity>AS3304 Pension Funds & Social Security/Lecture 1/WK 5</activity>
+	<desc>Week 5</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C300</room>
+	<lecturer>Bannister, Keith </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>04/11/13-18/11/13</week>
+	<modulecode>AS3304</modulecode>
+	<activity>AS3304 Pension Funds & Social Security/Lecture 1/WKS 6-8</activity>
+	<desc>Weeks 6-8</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG02</room>
+	<lecturer>Bannister, Keith </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>AS3304</modulecode>
+	<activity>AS3304 Pension Funds & Social Security/Lecture 1/WKS 9-11</activity>
+	<desc>Weeks 9-11</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>Bannister, Keith </lecturer>
+	<day>Monday </day>
+</booking>

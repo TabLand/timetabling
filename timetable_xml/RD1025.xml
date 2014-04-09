@@ -1,0 +1,1339 @@
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 1/01</activity>
+	<desc>Directed study (all day) Routine radiography of hand, digits and wrist</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/08</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/05</activity>
+	<desc>RD1025 WS2 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/17</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/06</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/09</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/01</activity>
+	<desc>Practical workshop 4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/09</activity>
+	<desc>Practical workshop 4 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>10/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 13/01</activity>
+	<desc>Routine Imaging of Upper GI Tract</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/04</activity>
+	<desc>RD1025 WS5 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/17</activity>
+	<desc>Practical workshop 5 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>18/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 6/01</activity>
+	<desc>Routine radiography of knee, tib/fib and femur</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>25/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 7/01</activity>
+	<desc>Routine radiography of the chest & chest pathologies</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>BLG07</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/04</activity>
+	<desc>RD1025 WS2 practical Removed DP - clash with RD3024)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/18</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/10</activity>
+	<desc>ipad activity (SW clash with other RD1023 e-learning session)</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>IG03</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/01</activity>
+	<desc>Practical workshop 3 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/13</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>17/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self study 11/01</activity>
+	<desc>Routine radiography of the cervical, thoracic and lumbar spine</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/03</activity>
+	<desc>practical workshop 4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/13</activity>
+	<desc>Practical workshop 4 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/08</activity>
+	<desc>RD1025 WS5 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/13</activity>
+	<desc>Practical workshop 5 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 6/01</activity>
+	<desc>Rd1025 practice vivas</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C213 (Radiography - U/S);C232</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;McHugh, Kevin;Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 8/01</activity>
+	<desc>Routine radiography of the abdomen</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 12/01</activity>
+	<desc>Routine radiography of the skull, facial bones & teeth</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 14/01</activity>
+	<desc>Routine Imaging of Lower GI Tract</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/01</activity>
+	<desc>Practical workshop 1</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/06</activity>
+	<desc>RD1025 WS2 practical (DW clash with RD3024)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/12</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/04</activity>
+	<desc>Practical workshop 3 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/10</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/02</activity>
+	<desc>practical workshop4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/10</activity>
+	<desc>Practical workshop 4 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/09</activity>
+	<desc>RD1025 WS5 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/10</activity>
+	<desc>Practical workshop 5 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>31/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 15/01</activity>
+	<desc>Revision /Preparation for exams</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>BLG07</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 10/01</activity>
+	<desc>Routine radiography of the pelvis and hip</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/03</activity>
+	<desc>RD1025 WS2 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/19</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/11</activity>
+	<desc>ipad activity (SW clash with other RD1023 e-learning session)</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>IG03</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/03</activity>
+	<desc>Practical workshop 3 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/14</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/04</activity>
+	<desc>practical workshop 4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/14</activity>
+	<desc>Practical workshop 4 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/03</activity>
+	<desc>RD1025 WS5 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/14</activity>
+	<desc>Practical workshop 5 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>11/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 4/01</activity>
+	<desc>Routine radiography of elbow and shoulder</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/01</activity>
+	<desc>RD1025 WS2 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/14</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/05</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/11</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/08</activity>
+	<desc>practical workshop 4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/11</activity>
+	<desc>Practical workshop 4 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/05</activity>
+	<desc>RD1025 WS5 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/11</activity>
+	<desc>Practical workshop 5 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>21/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 3/01</activity>
+	<desc>Preparation for Practical Workshop 1</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/08</activity>
+	<desc>RD1025 WS2 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/02</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/13</activity>
+	<desc>ipad activity (SW clash with other RD1023 e-learning session)</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>C312</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/08</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/15</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/06</activity>
+	<desc>practical workshop 4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/15</activity>
+	<desc>Practical workshop 4 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/06</activity>
+	<desc>RD1025 WS5 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/15</activity>
+	<desc>Practical workshop 5 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>14/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 2/01</activity>
+	<desc>Routine radiography of hand, digits and wrist</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>18/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 8/01</activity>
+	<desc>Directed study (all day) Routine radiography of knee, tib/fib and femur</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 6/01</activity>
+	<desc>Directed study (all day) Routine radiography of the chest (including mobiles)</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/07</activity>
+	<desc>RD1025 WS2 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/15</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/02</activity>
+	<desc>Practical workshop 3 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/12</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>17/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 12/01</activity>
+	<desc>Directed study (all day) Routine radiography of the spine</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/07</activity>
+	<desc>practical workshop 4</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/12</activity>
+	<desc>Practical workshop 4 (image evaluation) (no lecturer req'd)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/07</activity>
+	<desc>RD1025 WS5 practical</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/12</activity>
+	<desc>Practical workshop 5 (image evaluation) (no lecturer req'd)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 13/01</activity>
+	<desc>Directed study; Preparation for workshop 3 (SH)</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>11/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 5/01</activity>
+	<desc>Routine radiography of foot, toes and ankle</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/09</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 2/16</activity>
+	<desc>Practical workshop 2 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room);ELG07 (Radiography)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/07</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 3/16</activity>
+	<desc>Practical workshop 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 5/01</activity>
+	<desc>Directed study; Preparation for workshop 4 (no lec attached)</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 4/16</activity>
+	<desc>Practical workshop 4 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/02</activity>
+	<desc>Practical workshop 5</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Practical 5/16</activity>
+	<desc>Practical workshop 5 (image evaluation)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Lecture 01/01</activity>
+	<desc>Introduction to the module + checking requests cards/intro to image evaluation</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG04</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 9/01</activity>
+	<desc>Directed study; Routine radiography of the pelvis and hip</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>24/02/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 11/01</activity>
+	<desc>Directed study (5 hours) Routine radiography of skull, facial bones and teeth</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>12/05/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/OSCE1/01</activity>
+	<desc>RD1025 viva exams - (SH removed/PF to cover tbc)</desc>
+	<joint> </joint>
+	<studentnos>2</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S)</room>
+	<lecturer>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>11/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 2/01</activity>
+	<desc>Directed study; Routine radiography of elbow and shoulder</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 7/01</activity>
+	<desc>Directed study; Preparation for workshop 2</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Poynter, D </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>15:30</end>
+	<week>17/03/14</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 10/01</activity>
+	<desc>Directed study; Preparation for workshop 5</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>RD1025</modulecode>
+	<activity>RD1025 Principles of Imaging in Practice 1/Self Study 3/01</activity>
+	<desc>Directed study: routine radiography of foot, toes and ankle</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>

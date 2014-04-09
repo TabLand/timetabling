@@ -1,0 +1,52 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14</week>
+	<modulecode>AE3204</modulecode>
+	<activity>AE3204 Aircraft Structural Analysis/Lecture 2/02</activity>
+	<desc>Aircraft Composites</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C323</room>
+	<lecturer>Banerjee, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>17/03/14-24/03/14, 07/04/14</week>
+	<modulecode>AE3204</modulecode>
+	<activity>AE3204 Aircraft Structural Analysis/Lecture 2/02</activity>
+	<desc>Aircraft Composites</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C150</room>
+	<lecturer>Banerjee, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>31/03/14</week>
+	<modulecode>AE3204</modulecode>
+	<activity>AE3204 Aircraft Structural Analysis/Lecture 2/02/2nd April</activity>
+	<desc>Aircraft Composites</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C312</room>
+	<lecturer>Banerjee, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>AE3204</modulecode>
+	<activity>AE3204 Aircraft Structural Analysis/Lecture 1/02/LEAD</activity>
+	<desc>Structural Analysis. Joint with ME3113: total numbers 30</desc>
+	<joint>AE3204;ME3113</joint>
+	<studentnos>30</studentnos>
+	<room>A110</room>
+	<lecturer>Cheung, Chak-Wah </lecturer>
+	<day>Thursday </day>
+</booking>

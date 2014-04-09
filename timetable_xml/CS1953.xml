@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1953</modulecode>
+	<activity>CS1953 Introduction to English Law and Legal Methods term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG56</room>
+	<lecturer>O'Sullivan, Michael </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:50</end>
+	<week>10/02/14-31/03/14</week>
+	<modulecode>CS1953</modulecode>
+	<activity>CS1953 Introduction to English Law and Legal Methods term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG56</room>
+	<lecturer>Choudhury, Nazreen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+	<modulecode>CS1953</modulecode>
+	<activity>CE1953 English Law and Legal Methods term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BLG08</room>
+	<lecturer>Choudhury, Nazreen </lecturer>
+	<day>Monday </day>
+</booking>

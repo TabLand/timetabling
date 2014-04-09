@@ -1,0 +1,52 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13</week>
+	<modulecode>BS3000 YR 3</modulecode>
+	<activity>BS3000 Welcome back/BUS/WK</activity>
+	<desc>Course Director briefing: Bus year 3: Week ONLY</desc>
+	<joint> </joint>
+	<studentnos>112</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Zaleska, Joanna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>21/10/13</week>
+	<modulecode>BS3000 YR 3</modulecode>
+	<activity>BS3000 Careers service/BUS/WK 4</activity>
+	<desc>Careers service Bus year 3: Week 4 ONLY</desc>
+	<joint>BS3000 YR 3;MS3002</joint>
+	<studentnos>214</studentnos>
+	<room>Poynton</room>
+	<lecturer>Ahmad, Rashida;Hooke, Laura </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:30</end>
+	<week>25/11/13</week>
+	<modulecode>BS3000 YR 3</modulecode>
+	<activity>BS3000 Final Year Project: Dissertation/BUS/T1/Week 9</activity>
+	<desc>Final Year Project : year 3 : Autumn Week 9 only</desc>
+	<joint> </joint>
+	<studentnos>112</studentnos>
+	<room>Poynton</room>
+	<lecturer>Zaleska, Joanna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:30</end>
+	<week>07/10/13</week>
+	<modulecode>BS3000 YR 3</modulecode>
+	<activity>BS3000 Final Year Project: Dissertation/BUS/T1/Week 2</activity>
+	<desc>Final Year Project : year 3 : Autumn Week 2 only</desc>
+	<joint> </joint>
+	<studentnos>112</studentnos>
+	<room>BG02</room>
+	<lecturer>Zaleska, Joanna </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,624 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/01a</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>AG22</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>07/10/13, 21/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/01b</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>AG22</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/01a</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>18/11/13, 02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/01b</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>63</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Clinic term 1/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>VL 02 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Clinic term 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A129i</room>
+	<lecturer>Chittenden, Maurice </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Clinic term 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A226</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Clinic term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>I106</room>
+	<lecturer>VL 04 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Clinic term 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>I103</room>
+	<lecturer>Dunn, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/02/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic 2/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106</room>
+	<lecturer>VL 06 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic 2/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C170</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic 2/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C300</room>
+	<lecturer>Gill, Allan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C167</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C312</room>
+	<lecturer>Chittenden, Maurice </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>10/02/14-24/02/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic 2/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A109</room>
+	<lecturer>VL 06 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic 2/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A227</room>
+	<lecturer>VL 06 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>11/11/13-18/11/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C323</room>
+	<lecturer>Dunn, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>14:50</end>
+	<week>30/09/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Safety Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>CG04</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice (Newspaper & Interactive)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>AG37</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13-28/10/13, 25/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C313</room>
+	<lecturer>Dunn, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic term 2 week 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C300;E212;C302;C150;C357</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic term 2 week 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>D109;C300;E212;C302;C135;C150</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic term 2 week 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C340;C300;E212;C302;C357</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>17/02/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic term 2 week 4</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A111;A226;C302;C150;C357</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic term 2 week 5</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A129i;A111;C302;C150;C357</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Clinic term 2 week 6</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C300;A226;C302;C150;C357</room>
+	<lecturer>VL 01 - AAJOUR </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>63</studentnos>
+	<room>CG04</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>14/10/13-28/10/13, 02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>63</studentnos>
+	<room>BLG07</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>C302</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>25/11/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>63</studentnos>
+	<room>BLG07</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:30</end>
+	<week>03/02/14</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspaper & Interactive</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG02</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:30</end>
+	<week>30/09/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspaper and Interactive/Lecture week 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>C338</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/10/13-28/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/briefing</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A112</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 FOI tutorials</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D109</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 FOI tutorials</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D113</room>
+	<lecturer>Brooke, Heather </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspaper and Interactive</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>C161</room>
+	<lecturer>Bolding, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspaper and Interactive/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>EG07</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>07/10/13-21/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Interactive/Lab (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>A218</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Interactive/Lab (Thur)/Oct 10th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>ALG04</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13-21/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Interactive/Lab (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>AG35a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Interactive/Lab (Thur 3pm)/Oct 3rd</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A219</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Interactive/Lab (Thur 3pm)/Oct 10th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>A307&8</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/10/13-21/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Interactive/Lab (Thur 3pm)/Oct 17th & 24th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>AG35a</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Newspapers/Interactive/Lab (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG35a</room>
+	<lecturer>McFerran, Ann </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>B103</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:50</end>
+	<week>14/10/13-21/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice/Lecture term 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>63</studentnos>
+	<room>B103</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>13:30</end>
+	<week>28/10/13</week>
+	<modulecode>JOM866 (N&I)</modulecode>
+	<activity>JOM866 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A307&8</room>
+	<lecturer>Hewett, Jonathan </lecturer>
+	<day>Friday </day>
+</booking>

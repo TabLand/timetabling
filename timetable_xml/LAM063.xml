@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>18:50</end>
+	<week>17/02/14-17/03/14, 31/03/14-07/04/14</week>
+	<modulecode>LAM063</modulecode>
+	<activity>LAM063 Science Fiction/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>26/05/14</week>
+	<modulecode>LAM063</modulecode>
+	<activity>LAM063 Science Fiction/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG11</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Tuesday </day>
+</booking>

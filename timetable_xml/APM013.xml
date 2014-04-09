@@ -1,0 +1,273 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Introduction to the module & reflective practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Intro to module & reflective practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>23/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Reflective practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Reflective practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/07/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Reflective practice/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>09/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>16/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Overview of Child protection principles/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>23/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>30/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>07/07/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Theoretical frameworks within Child Protection/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>23/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/07/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>09/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Journal Group/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Barlow, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>16/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Journal group (MSc)/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Barlow, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>23/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Journal group (MSc)/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Barlow, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/06/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Journal group (MSc)/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Barlow, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/07/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Journal group (MSc)/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Barlow, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:30</end>
+	<week>07/07/14</week>
+	<modulecode>APM013</modulecode>
+	<activity>APM013 Module Evaluation/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>

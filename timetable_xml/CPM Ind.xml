@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>CPM Ind</modulecode>
+	<activity>Induction - CPM (Fri)</activity>
+	<desc>Mart Hoyle 8753</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>AG06</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

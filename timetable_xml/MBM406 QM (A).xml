@@ -1,0 +1,39 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>MBM406 QM (A)</modulecode>
+	<activity>MBM406 Mba Block 1: Quantitative Methods/(A&B) Revision Lecture (Lead)</activity>
+	<desc>FTMBA 2013 Mba Block 1: QM Revision</desc>
+	<joint>MBM406 QM (B);MBM406 QM (A)</joint>
+	<studentnos>100</studentnos>
+	<room>LG001</room>
+	<lecturer>Holland, Wayne </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>16:00</end>
+	<week>23/09/13</week>
+	<modulecode>MBM406 QM (A)</modulecode>
+	<activity>MBM406 Mba Block 1: Quantitative Methods/A/Tutorial 01/wk1</activity>
+	<desc>FTMBA 2013 Mba Block 1: QM Tutorials A : Week 1</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>G001</room>
+	<lecturer>Ribeiro, Carlos </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>16:00</end>
+	<week>30/09/13-14/10/13</week>
+	<modulecode>MBM406 QM (A)</modulecode>
+	<activity>MBM406 Mba Block 1: Quantitative Methods/A/Tutorial 01/wks 2-4</activity>
+	<desc>FTMBA 2013 Mba Block 1: QM Tutorials A : Weeks 2-4</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>LG003</room>
+	<lecturer>Ribeiro, Carlos </lecturer>
+	<day>Wednesday </day>
+</booking>

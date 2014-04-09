@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>MEM102</modulecode>
+	<activity>MEM102 Combustion Fundamentals And Applications/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>CG02</room>
+	<lecturer>Lockett, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>MEM102</modulecode>
+	<activity>MEM102 Combustion Fundamentals And Applications/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C350</room>
+	<lecturer>Lockett, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+	<modulecode>MEM102</modulecode>
+	<activity>MEM102 Combustion Fundamentals And Applications/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>CG02</room>
+	<lecturer>Lockett, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 17/03/14-07/04/14</week>
+	<modulecode>MEM102</modulecode>
+	<activity>MEM102 Combustion Fundamentals And Applications/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C350</room>
+	<lecturer>Lockett, R </lecturer>
+	<day>Friday </day>
+</booking>

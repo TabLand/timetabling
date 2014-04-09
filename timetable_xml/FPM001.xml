@@ -1,0 +1,13 @@
+<booking>
+	<start>16:00</start>
+	<end>18:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>FPM001</modulecode>
+	<activity>FPM001 Food And Public Policy/Lecture 01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG08</room>
+	<lecturer>Lang, Tim;Buffin, David </lecturer>
+	<day>Monday </day>
+</booking>

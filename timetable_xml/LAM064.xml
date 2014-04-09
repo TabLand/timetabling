@@ -1,0 +1,78 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>13/01/14</week>
+	<modulecode>LAM064</modulecode>
+	<activity>LAM064 Research Method</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>16/06/14</week>
+	<modulecode>LAM064</modulecode>
+	<activity>LAM064 Research Method 3 Option A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A111</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>14/07/14</week>
+	<modulecode>LAM064</modulecode>
+	<activity>LAM064 Research Method 4 Option A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG10</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>16/06/14</week>
+	<modulecode>LAM064</modulecode>
+	<activity>LAM064 Research Method 3 Option B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A111</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>14/07/14</week>
+	<modulecode>LAM064</modulecode>
+	<activity>LAM064 Research Method 4 Option B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG10</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>03/03/14</week>
+	<modulecode>LAM064</modulecode>
+	<activity>LAM064 Research Method</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Friday </day>
+</booking>

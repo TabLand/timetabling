@@ -1,0 +1,52 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>02/12/13</week>
+	<modulecode>CS2575</modulecode>
+	<activity>CS2575 C/C++ Part 2- Object-oriented Programming Using C++ term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>EG07</room>
+	<lecturer>Woodward, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13, 14/10/13-02/12/13</week>
+	<modulecode>CS2575</modulecode>
+	<activity>CS2575 C/C++ Part 2- Object-oriented Programming Using C++ term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>B307A</room>
+	<lecturer>Woodward, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS2575</modulecode>
+	<activity>CS2575 C/C++ Part 2- Object-orienated Programming (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>AG24a</room>
+	<lecturer>Woodward, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS2575</modulecode>
+	<activity>CE2575 C/C++ Part 2- Object-orienated Programming Using C++ term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A308</room>
+	<lecturer>Woodward, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>

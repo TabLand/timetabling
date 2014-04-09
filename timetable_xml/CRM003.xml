@@ -1,0 +1,13 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>16/06/14</week>
+	<modulecode>CRM003</modulecode>
+	<activity>CRM003 Dissertation clinic/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03</room>
+	<lecturer>Hirani, Shashi;McKeown, E </lecturer>
+	<day>Monday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CV1407</modulecode>
+	<activity>CV1407 IT Skills, Communication & CAD/Lab SEMS 2/01</activity>
+	<desc>IT Skills (50 students): CG50/1</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>VL 01 - EGCIVL </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>20/01/14, 03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>CV1407</modulecode>
+	<activity>CV1407 IT Skills, Communication & CAD/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>BG03</room>
+	<lecturer>Aylmer, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CV1407</modulecode>
+	<activity>CV1407 IT Skills, Communication & CAD/Lab SEMS 1/01</activity>
+	<desc>IT Skills (50 students): CG50/1</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>VL 03 - EGCIVL </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>20/01/14-24/03/14</week>
+	<modulecode>CV1407</modulecode>
+	<activity>CV1407 IT Skills, Communication & CAD/Lab SEMS 3/1/02</activity>
+	<desc>CAD1 (50 students): CG50/1</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>Aylmer, M </lecturer>
+	<day>Tuesday </day>
+</booking>

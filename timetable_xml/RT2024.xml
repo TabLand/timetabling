@@ -1,0 +1,793 @@
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 01/01</activity>
+	<desc>Planning Practical 1 - Grp A lab</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 02/05</activity>
+	<desc>Planning Practical 1 - Grp B</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 01/04</activity>
+	<desc>Planning Practical 1 - Grp C</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>18/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 01/05</activity>
+	<desc>Planning Practical 1 - Grp D</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 02/01</activity>
+	<desc>Planning practical 1 - Grp E</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/06</activity>
+	<desc>Supervised planning session 3 - Grp A (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/07</activity>
+	<desc>Supervised planning session 3 - Grp B (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/07</activity>
+	<desc>Supervised planning session 3 - Grp C (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/08</activity>
+	<desc>Supervised planning session 3 - Grp D (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/09</activity>
+	<desc>Supervised planning session 3 - Grp E (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>09/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 10/01</activity>
+	<desc>Radiation interactions 4: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A109</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 mock viva</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 mock viva</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>02/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 01/01</activity>
+	<desc>Introduction to module: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A109</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>02/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 15/01</activity>
+	<desc>Radiation Interactions 1: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A109</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 11/01</activity>
+	<desc>Calculations 2: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C300</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 06/02</activity>
+	<desc>Practical Application of Planning Principles: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C300</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 01/03</activity>
+	<desc>Supervised planning session 1 - Grp A</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/01</activity>
+	<desc>Supervised planning session 1 - Grp B</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/05</activity>
+	<desc>Supervised planning session 1 - Grp C</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>18/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/02</activity>
+	<desc>Supervised planning session 1 - Grp D</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/04</activity>
+	<desc>Supervised planning session 1 - Grp E</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/02</activity>
+	<desc>Supervised planning session 4 - Grp A (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/03</activity>
+	<desc>Supervised planning session 4 - Grp B (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/04</activity>
+	<desc>Supervised planning session 4 - Grp C (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/05</activity>
+	<desc>Supervised planning session 4 - Grp D (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/06</activity>
+	<desc>Supervised planning session 4 - Grp E (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 07/01</activity>
+	<desc>Producing, Assessing and Optimising Radiotherapy Plans: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>AG03</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>09/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 16/01</activity>
+	<desc>Displaying dose: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A109</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 09/01</activity>
+	<desc>Basic planning skills - Practical: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>ALG16</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>02/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 02/01</activity>
+	<desc>Radiation interactions 2: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A109</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>02/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 13/01</activity>
+	<desc>Radiation interactions 3: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A109</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Tutorial 01/01</activity>
+	<desc>Tutorial (Interactions, displaying dose & particle beams): UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C300</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 08/01</activity>
+	<desc>Review of current planning techniques: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C300</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 01/02</activity>
+	<desc>Supervised planning session 2 - Grp A lab</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/09</activity>
+	<desc>Supervised planning session 2 - Grp B</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/10</activity>
+	<desc>Supervised planning session 2 - Grp C</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>18/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/01</activity>
+	<desc>Supervised planning session 2 - Grp D</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography);ELG04 (Radiography)</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 03/08</activity>
+	<desc>Supervised planning session 2 - Grp E</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>ELG06 (Radiography)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/10</activity>
+	<desc>Supervised planning session 5 - Grp A (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/11</activity>
+	<desc>Supervised planning session 5 - Grp B (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/12</activity>
+	<desc>Supervised planning session 5 - Grp C (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/13</activity>
+	<desc>Supervised planning session 5 - Grp D (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Practical 04/14</activity>
+	<desc>Supervised planning session 5 - Grp E (was ELG04/06)</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>02/06/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Tutorial 02/02</activity>
+	<desc>Radiotherapy Planning Viva - holding room/40- change to clinic in Tait (was ELG07)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C216</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>02/06/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Tutorial 02/01</activity>
+	<desc>Radiotherapy Planning Viva (was ELG03/04/06/09)</desc>
+	<joint> </joint>
+	<studentnos>3</studentnos>
+	<room>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C235 (Radiography - VERT)</room>
+	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>16/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/FD/Lecture 01/01</activity>
+	<desc>FD students: Interactions</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C357</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 06/01</activity>
+	<desc>Radiotherapy Planning Legislation: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C300</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/03/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 mock viva</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>16/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/FD/Lecture 01/02</activity>
+	<desc>FD students: Principles of planning</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C357</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/FD/Lecture 01/03</activity>
+	<desc>FD students: Detectors and dose display</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>A112</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>13/01/14</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/Tutorial 01/01</activity>
+	<desc>Mock Viva x4 labs (plus ELG19 holding room) 40 students - rooms nearby</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>C313;C312;C339;C328;C330</room>
+	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard;Raymond-Barker, Clare </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 14/01</activity>
+	<desc>Principles of Planning 1: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C337</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Tutorial 01/02</activity>
+	<desc>Calculations Tutorial (Optional): UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C337</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 05/01</activity>
+	<desc>Particle beams: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>AG03</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 03/01</activity>
+	<desc>Principles of Planning 2: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>C337</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>30/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/FD/Lecture 01/04</activity>
+	<desc>FD students: Practical applications</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>A112</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>16/12/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/FD/Lecture 01/05</activity>
+	<desc>FD students: Calculations</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C357</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>09/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 12/01</activity>
+	<desc>Calculations 1: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>A225</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Lecture 04/01</activity>
+	<desc>Principles of Planning 3: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>AG03</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>09/09/13</week>
+	<modulecode>RT2024</modulecode>
+	<activity>RT2024 Radiotherapy Physics and Planning/UG/Self Study 1/01</activity>
+	<desc>Interaction - Directed/Self Study: UG students</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>No room needed</room>
+	<lecturer>Flinton, D </lecturer>
+	<day>Friday </day>
+</booking>

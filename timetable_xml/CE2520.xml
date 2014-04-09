@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CE2520</modulecode>
+	<activity>CS2520 Linux Network and system Administration term 1 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C345</room>
+	<lecturer>Tsontsis, Evangelos </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CE2520</modulecode>
+	<activity>CS2520 Linux Network and system Administration term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C345</room>
+	<lecturer>Tsontsis, Evangelos </lecturer>
+	<day>Tuesday </day>
+</booking>

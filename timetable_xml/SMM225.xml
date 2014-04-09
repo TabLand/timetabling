@@ -1,0 +1,13 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>19/05/14-23/06/14</week>
+	<modulecode>SMM225</modulecode>
+	<activity>SMM225 Corporate Restructuring/Lecture/WKS 2-7</activity>
+	<desc>WEEKS 2-7</desc>
+	<joint> </joint>
+	<studentnos>141</studentnos>
+	<room>LG001</room>
+	<lecturer>McCusker, Iain </lecturer>
+	<day>Wednesday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>12/05/14</week>
+	<modulecode>SMM019</modulecode>
+	<activity>SMM019 Introduction to Model Office Building in Life Insurance/Lecture/WK1</activity>
+	<desc>Week 1 ONLY - Lecture</desc>
+	<joint>SMM019;SMM019</joint>
+	<studentnos>56</studentnos>
+	<room>2006</room>
+	<lecturer>Smith, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>19/05/14-16/06/14</week>
+	<modulecode>SMM019</modulecode>
+	<activity>SMM019 Introduction to Model Office Building in Life Insurance/Computer LAB/WKS 2-6</activity>
+	<desc>Weeks 2-6 ONLY - Computer Lab</desc>
+	<joint>SMM019;SMM019</joint>
+	<studentnos>56</studentnos>
+	<room>2001</room>
+	<lecturer>Smith, David </lecturer>
+	<day>Thursday </day>
+</booking>

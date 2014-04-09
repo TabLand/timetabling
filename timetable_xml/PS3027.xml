@@ -1,0 +1,65 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>PS3027</modulecode>
+	<activity>PS3027 Psychological Illnesses, Brain Damage, & Dreams: Malfunctions of Mind/Lecture 01A/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PS3027;PS3027;PSM524;PSM524</joint>
+	<studentnos>62</studentnos>
+	<room>BLG07</room>
+	<lecturer>Haenschel, Corrina </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>10/03/14-07/04/14</week>
+	<modulecode>PS3027</modulecode>
+	<activity>PS3027 Psychological Illnesses, Brain Damage, & Dreams: Malfunctions of Mind/Lecture 01B/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PS3027;PS3027;PSM524;PSM524</joint>
+	<studentnos>62</studentnos>
+	<room>BLG07</room>
+	<lecturer>Conway, Martin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-10/02/14, 24/02/14</week>
+	<modulecode>PS3027</modulecode>
+	<activity>PS3027 Psychological Illnesses, Brain Damage, & Dreams: Malfunctions of Mind/Drop-In Clinic 01A/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PS3027;PSM524;PSM524;PS3027</joint>
+	<studentnos>5</studentnos>
+	<room>D414</room>
+	<lecturer>Haenschel, Corrina </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>17/02/14</week>
+	<modulecode>PS3027</modulecode>
+	<activity>PS3027 Psychological Illnesses, Brain Damage, & Dreams: Malfunctions of Mind/Tutorial 01A/01 LEAD/Feb 22nd</activity>
+	<desc> </desc>
+	<joint>PSM524;PS3027</joint>
+	<studentnos>55</studentnos>
+	<room>B103</room>
+	<lecturer>Haenschel, Corrina </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>10/03/14-07/04/14</week>
+	<modulecode>PS3027</modulecode>
+	<activity>PS3027 Psychological Illnesses, Brain Damage, & Dreams: Malfunctions of Mind/Drop-In Clinic 01B/01 LEAD</activity>
+	<desc> </desc>
+	<joint>PS3027;PSM524;PSM524;PS3027</joint>
+	<studentnos>5</studentnos>
+	<room>D426</room>
+	<lecturer>Conway, Martin </lecturer>
+	<day>Friday </day>
+</booking>

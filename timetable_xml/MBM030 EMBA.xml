@@ -1,0 +1,13 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>19/05/14-16/06/14</week>
+	<modulecode>MBM030 EMBA</modulecode>
+	<activity>MBM030 Strategy 2/EMBA/Lecture 01</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Ravasi, Davide </lecturer>
+	<day>Thursday </day>
+</booking>

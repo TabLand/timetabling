@@ -1,0 +1,39 @@
+<booking>
+	<start>16:00</start>
+	<end>18:50</end>
+	<week>28/04/14</week>
+	<modulecode>FPM005</modulecode>
+	<activity>FPM005 Dissertation: Food Policy/Lecture 02/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG02</room>
+	<lecturer>Caraher, Martin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>18:50</end>
+	<week>12/05/14</week>
+	<modulecode>FPM005</modulecode>
+	<activity>FPM005 Dissertation: Food Policy/Lecture 03/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG03</room>
+	<lecturer>Caraher, Martin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>18:50</end>
+	<week>03/02/14</week>
+	<modulecode>FPM005</modulecode>
+	<activity>FPM005 Dissertation: Food Policy/Lecture 01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG02</room>
+	<lecturer>Caraher, Martin </lecturer>
+	<day>Wednesday </day>
+</booking>

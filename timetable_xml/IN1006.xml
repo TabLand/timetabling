@@ -1,0 +1,104 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>Jones, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Tutorial Group F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG08</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Tutorial Group D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C345</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Tutorial Group A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>VL 03 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Tutorial Group C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C345</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Tutorial Group B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D221</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Tutorial Group E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>ALG16</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1006</modulecode>
+	<activity>IN1006 Systems Architecture/Tutorial Group G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C343</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>

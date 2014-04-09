@@ -1,0 +1,39 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>INM370 (PT)</modulecode>
+	<activity>INM370 Advanced Databases Technologies/Lecture (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C164</room>
+	<lecturer>VL 07 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>07/04/14</week>
+	<modulecode>INM370 (PT)</modulecode>
+	<activity>INM370 Advanced Databases Technologies/Lecture (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C301</room>
+	<lecturer>VL 07 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM370 (PT)</modulecode>
+	<activity>INM370 Advanced Databases Technologies/Lab (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C301</room>
+	<lecturer>VL 07 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>

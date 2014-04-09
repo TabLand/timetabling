@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA3203</modulecode>
+	<activity>LA3203 Lgp Spanish Advanced/Autumn/Joint</activity>
+	<desc>Joint with LA3403</desc>
+	<joint>LA3403;LA3203</joint>
+	<studentnos>30</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA3203</modulecode>
+	<activity>LA3203 Lgp Spanish Advanced/Spring/Joint</activity>
+	<desc>Joint with LA3403</desc>
+	<joint>LA3403;LA3203</joint>
+	<studentnos>30</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

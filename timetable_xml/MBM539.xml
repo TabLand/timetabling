@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>MBM539</modulecode>
+	<activity>MBM539 India Global Outsourcing EMBA overseas/no rooms req'd/02</activity>
+	<desc>no rooms required in Cass - runs overseas</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>MBM539</modulecode>
+	<activity>MBM539 India Global Outsourcing EMBA overseas/no rooms req'd/02</activity>
+	<desc>no rooms required in Cass - runs overseas</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>MBM539</modulecode>
+	<activity>MBM539 India Global Outsourcing EMBA overseas/no rooms req'd/02</activity>
+	<desc>no rooms required in Cass - runs overseas</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>MBM539</modulecode>
+	<activity>MBM539 India Global Outsourcing EMBA overseas/no rooms req'd/02</activity>
+	<desc>no rooms required in Cass - runs overseas</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>MBM539</modulecode>
+	<activity>MBM539 India Global Outsourcing EMBA overseas/no rooms req'd/02</activity>
+	<desc>no rooms required in Cass - runs overseas</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

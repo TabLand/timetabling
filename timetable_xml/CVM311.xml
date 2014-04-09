@@ -1,0 +1,39 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CVM311</modulecode>
+	<activity>CVM311 Engineering Analysis/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C350</room>
+	<lecturer>Taylor, R N </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>CVM311</modulecode>
+	<activity>CVM311 Engineering Analysis/Lecture 2/Oct 30th</activity>
+	<desc>Week 5 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C338</room>
+	<lecturer>Taylor, R N </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CVM311</modulecode>
+	<activity>CVM311 Engineering Analysis/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C338</room>
+	<lecturer>Taylor, R N </lecturer>
+	<day>Thursday </day>
+</booking>

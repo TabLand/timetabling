@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SG3055</modulecode>
+	<activity>SG3055 Sociology of Contemporary Europe/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>46</studentnos>
+	<room>C303</room>
+	<lecturer>Susen, Simon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SG3055</modulecode>
+	<activity>SG3055 Sociology of Contemporary Europe/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>46</studentnos>
+	<room>C303</room>
+	<lecturer>Susen, Simon </lecturer>
+	<day>Thursday </day>
+</booking>

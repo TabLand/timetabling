@@ -1,0 +1,65 @@
+<booking>
+	<start>13:00</start>
+	<end>17:50</end>
+	<week>28/10/13</week>
+	<modulecode>JO1202</modulecode>
+	<activity>JO1202 formative feedback</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>AG13</room>
+	<lecturer>Schofield, Barbara </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>JO1202</modulecode>
+	<activity>JO1202 Introduction To British Media 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>AG21</room>
+	<lecturer>Schofield, Barbara </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>25/11/13</week>
+	<modulecode>JO1202</modulecode>
+	<activity>JO1202 Introduction To British Media 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>62</studentnos>
+	<room>CG02</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>18/11/13-02/12/13</week>
+	<modulecode>JO1202</modulecode>
+	<activity>JO1202 Introduction To British Media 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG08</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>12:30</end>
+	<week>17/03/14-07/04/14</week>
+	<modulecode>JO1202</modulecode>
+	<activity>JO1202 Introduction To British Media 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C302</room>
+	<lecturer>Schofield, Barbara </lecturer>
+	<day>Thursday </day>
+</booking>

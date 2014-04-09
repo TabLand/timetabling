@@ -1,0 +1,78 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-14/10/13, 28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CV2402</modulecode>
+	<activity>CV2402 Fluid Mechanics/Lecture 1/01/JOINT</activity>
+	<desc>Joint with ME2109: total numbers 190 *</desc>
+	<joint>CV2402;ME2109</joint>
+	<studentnos>100</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>13/01/14</week>
+	<modulecode>CV2402</modulecode>
+	<activity>CV2402 (1) Test/01</activity>
+	<desc>Fluid Mechanics - joint with ME2109 (150 total)</desc>
+	<joint>CV2402;ME2109</joint>
+	<studentnos>80</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>17/02/14-24/02/14</week>
+	<modulecode>CV2402</modulecode>
+	<activity>CV2402 Fluid Mechanics/Lecture 3/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG07</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>CV2402</modulecode>
+	<activity>CV2402 Fluid Mechanics/Lecture 2/02/JOINT</activity>
+	<desc>Joint with ME2109: total numbers 190</desc>
+	<joint>CV2402;ME2109</joint>
+	<studentnos>100</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>17/03/14</week>
+	<modulecode>CV2402</modulecode>
+	<activity>CV2402 Fluid Mechanics/Revision 2/02/JOINT/Mar 21st</activity>
+	<desc>Joint with ME2109: total numbers 140</desc>
+	<joint>CV2402;ME2109</joint>
+	<studentnos>100</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>10/03/14-31/03/14</week>
+	<modulecode>CV2402</modulecode>
+	<activity>CV2402 Fluid Mechanics/Lecture 3/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>BG03</room>
+	<lecturer>Ma, Q;Yan, S </lecturer>
+	<day>Friday </day>
+</booking>

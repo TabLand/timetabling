@@ -1,0 +1,52 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1201</modulecode>
+	<activity>MA1201 Mathematics For Economists: Post GCSE 2/Lecture 1/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C302</room>
+	<lecturer>Kessar, R Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1201</modulecode>
+	<activity>MA1201 Mathematics For Economists: Post GCSE 2/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C345</room>
+	<lecturer>Arif, Gazi Mohammed </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1201</modulecode>
+	<activity>MA1201 Mathematics For Economists: Post GCSE 2/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C345</room>
+	<lecturer>Arif, Gazi Mohammed </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1201</modulecode>
+	<activity>MA1201 Mathematics For Economists: Post GCSE 2/Tutorial 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C343</room>
+	<lecturer>Arif, Gazi Mohammed </lecturer>
+	<day>Friday </day>
+</booking>

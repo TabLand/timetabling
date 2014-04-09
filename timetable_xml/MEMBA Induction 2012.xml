@@ -1,0 +1,182 @@
+<booking>
+	<start>9:00</start>
+	<end>13:00</end>
+	<week>17/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Introduction to Quantitative Methods</activity>
+	<desc>Introduction to Quantitative Methods</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Holland, Wayne </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>17:00</end>
+	<week>17/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Masterclass in Leadership</activity>
+	<desc>Masterclass in Leadership</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Silvester, Jo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:10</start>
+	<end>17:30</end>
+	<week>17/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Wrap up 01</activity>
+	<desc>Wrap up</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Dobson, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:10</start>
+	<end>18:00</end>
+	<week>24/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Virtual Team Presentations via Adobe Connect</activity>
+	<desc>Virtual Team Presentations via Adobe Connect - online session (No room required)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room> </room>
+	<lecturer>Dobson, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>21:00</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Registration/room set up/syndicate rooms</activity>
+	<desc>Registration - MEMBA14 - room set up : syndicate rooms</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212;N211;N210;N209</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>21:00</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Registration/room set up</activity>
+	<desc>set up for Registration - MEMBA14 60 students</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>9:50</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Registration/room set up</activity>
+	<desc>set up for Registration - MEMBA14 60 students</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Registration/syndicate rooms</activity>
+	<desc>Registration - MEMBA14 : syndicate rooms</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212;N211;N210;N209</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Registration</activity>
+	<desc>Registration - MEMBA14 60 students</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Registration/room set up</activity>
+	<desc>room set up for Registration - MEMBA14 60 students</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:30</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Introduction</activity>
+	<desc>Introduction : MEMBA14 - Welcome Ass Dean; Course Director, Prof Dev, Health & Safety K Yorke</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Astley, Clare;Dobson, Paul;Robinson, Sionade </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:10</start>
+	<end>18:00</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Moodle/Electronic Resources,Adobe Connect/Induction/LAB 01</activity>
+	<desc>Moodle, Electronic Resources & Adobe Connect Induction , Elearning team : MEMBA14</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Fashoyin, Kola;Griffiths, Suzanne </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>19:00</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Networking Exercise 01</activity>
+	<desc>Networking Exercise : MEMBA14 : Lecture room</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N216a/b;N201</room>
+	<lecturer>Dobson, Paul;Lampey, Paul </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>19:10</start>
+	<end>21:00</end>
+	<week>10/03/14</week>
+	<modulecode>MEMBA Induction 2012</modulecode>
+	<activity>MEMBA Induction: March 2014 Intake/Registration/room reset</activity>
+	<desc>room reset for Registration - MEMBA14 60 students</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

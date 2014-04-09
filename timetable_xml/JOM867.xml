@@ -1,0 +1,533 @@
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>18/11/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>24/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Lecture 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D112</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A225</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>03/02/14, 17/02/14-10/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C158</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>17/03/14, 31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>30/09/13-14/10/13, 28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C301</room>
+	<lecturer>McFadyean, Melanie;Waterhouse, Rosie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>21/10/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BLG08</room>
+	<lecturer>McFadyean, Melanie;Waterhouse, Rosie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>17/03/14, 31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG24a</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Tutorial 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>C167</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Tutorial 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C328</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Tutorial 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C312;D106</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Tutorial 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>D106</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Tutorial 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>A225</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-07/10/13, 28/10/13, 18/11/13-25/11/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative/Lab term 1 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG36</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>14/10/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative/Lab term 1 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>BM02</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative/Lab term 1 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A227</room>
+	<lecturer>McFadyean, Melanie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>11/11/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative/Lab term 1 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C150</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C300</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>24/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>A107</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C301</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>07/10/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Tutorial 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Brooke, Heather </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>18/11/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Tutorial 1/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A111</room>
+	<lecturer>Brooke, Heather </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-17/02/14, 10/03/14-31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG03</room>
+	<lecturer>Lloyd, David </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>25/11/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc>Guest Speaker</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>02/12/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>C328;C323</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>24/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>17/02/14-10/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice/Lab 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>EG04</room>
+	<lecturer>Duncan, Jane </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>17/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Journalism Practice - Investigative</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A214</room>
+	<lecturer>MacFadyen, Gavin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>24/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>31/03/14</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:50</end>
+	<week>28/10/13</week>
+	<modulecode>JOM867</modulecode>
+	<activity>JOM867 Investigative Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A107</room>
+	<lecturer>Waterhouse, Rosie </lecturer>
+	<day>Friday </day>
+</booking>

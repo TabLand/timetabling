@@ -1,0 +1,52 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>PS2003</modulecode>
+	<activity>PS2003 Cognitive Psychology 2/Lecture 01A/01</activity>
+	<desc> </desc>
+	<joint>PS2003;PS2003</joint>
+	<studentnos>90</studentnos>
+	<room>BG03</room>
+	<lecturer>Freeman, Elliot </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/03/14-07/04/14</week>
+	<modulecode>PS2003</modulecode>
+	<activity>PS2003 Cognitive Psychology 2/Lecture 01B/01</activity>
+	<desc> </desc>
+	<joint>PS2003;PS2003</joint>
+	<studentnos>90</studentnos>
+	<room>BG03</room>
+	<lecturer>Pothos. Emmanuel </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>PS2003</modulecode>
+	<activity>PS2003 Cognitive Psychology 2/Drop-In Clinic 01A/01</activity>
+	<desc> </desc>
+	<joint>PS2003;PS2003</joint>
+	<studentnos>5</studentnos>
+	<room>D407</room>
+	<lecturer>Freeman, Elliot </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>10/03/14-07/04/14</week>
+	<modulecode>PS2003</modulecode>
+	<activity>PS2003 Cognitive Psychology 2/Drop-In Clinic 01B/01</activity>
+	<desc> </desc>
+	<joint>PS2003;PS2003</joint>
+	<studentnos>5</studentnos>
+	<room>D439</room>
+	<lecturer>Pothos. Emmanuel </lecturer>
+	<day>Tuesday </day>
+</booking>

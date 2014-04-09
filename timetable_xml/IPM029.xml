@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>IPM029</modulecode>
+	<activity>IPM029 Human Rights and the Transformation of World Politics/Lecture 01/Nov 11th</activity>
+	<desc>Week 5 rescheduled in week 7</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Hoover, Joe </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-21/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM029</modulecode>
+	<activity>IPM029 Human Rights and the Transformation of World Politics/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>DLG09</room>
+	<lecturer>Hoover, Joe </lecturer>
+	<day>Friday </day>
+</booking>

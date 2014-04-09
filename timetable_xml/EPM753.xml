@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/02/14-07/04/14</week>
+	<modulecode>EPM753</modulecode>
+	<activity>EPM753 Digital Communications/Lab 1/02/LEAD</activity>
+	<desc>Joint with EE3447</desc>
+	<joint>EPM753;EE3447</joint>
+	<studentnos>30</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EPM753</modulecode>
+	<activity>EPM753 Digital Communications/Lecture 1/02/JOINT</activity>
+	<desc>Joint with EE3447: total numbers 50 *</desc>
+	<joint>EPM753;EE3447</joint>
+	<studentnos>45</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

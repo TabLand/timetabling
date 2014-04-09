@@ -1,0 +1,39 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>12/05/14, 26/05/14</week>
+	<modulecode>SMM883</modulecode>
+	<activity>SMM883 Global Strategy/Lecture 01 & 02/wks 1 & 3</activity>
+	<desc>Core : SM stream /mgt : Weeks 1 & 3 only</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>2004</room>
+	<lecturer>Ferriani, Simone </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>12/05/14, 26/05/14</week>
+	<modulecode>SMM883</modulecode>
+	<activity>SMM883 Global Strategy/Lecture 05 & 06/wks 1 & 3</activity>
+	<desc>Core : SM stream /mgt : Weeks 1 & 3 only</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>2006</room>
+	<lecturer>Ferriani, Simone </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>12/05/14, 26/05/14</week>
+	<modulecode>SMM883</modulecode>
+	<activity>SMM883 Global Strategy/Lecture 03 & 04/wks 1 & 3</activity>
+	<desc>Core : SM stream /mgt : Weeks 1 & 3 only</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>2004</room>
+	<lecturer>Ferriani, Simone </lecturer>
+	<day>Friday </day>
+</booking>

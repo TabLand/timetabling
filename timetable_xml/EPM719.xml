@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>06/01/14</week>
+	<modulecode>EPM719</modulecode>
+	<activity>EPM719 Structural Reliability & Risk/Tutorial 1/01</activity>
+	<desc>Revision session</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C340</room>
+	<lecturer>Micic, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>EPM719</modulecode>
+	<activity>EPM719 Structural Reliability & Risk/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B104</room>
+	<lecturer>Micic, T </lecturer>
+	<day>Friday </day>
+</booking>

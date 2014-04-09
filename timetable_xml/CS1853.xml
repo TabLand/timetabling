@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-21/10/13, 18/11/13-02/12/13</week>
+	<modulecode>CS1853</modulecode>
+	<activity>CS1853 Japanese: Year 1 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A214</room>
+	<lecturer>Ogura, Takayuki </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/10/13-11/11/13</week>
+	<modulecode>CS1853</modulecode>
+	<activity>CS1853 Japanese: Year 1 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C167</room>
+	<lecturer>Ogura, Takayuki </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>19:00</start>
+	<end>20:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1853</modulecode>
+	<activity>CE1853 Japanese - Year 1 term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D112</room>
+	<lecturer>Ogura, Takayuki </lecturer>
+	<day>Tuesday </day>
+</booking>

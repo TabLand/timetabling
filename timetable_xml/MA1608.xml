@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA1608</modulecode>
+	<activity>MA1608 Introduction to Probability & Stats/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>135</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Kyriakou, Ioannis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA1608</modulecode>
+	<activity>MA1608 Introduction to Probability & Stats/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>135</studentnos>
+	<room>Geary</room>
+	<lecturer>Kyriakou, Ioannis </lecturer>
+	<day>Thursday </day>
+</booking>

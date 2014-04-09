@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13, 14/10/13, 28/10/13</week>
+	<modulecode>SMM312</modulecode>
+	<activity>SMM312 Numerical Methods 1: Foundations/A/Computer Room/WKS 1,3,5</activity>
+	<desc>Joint QFFM Lab : Group A: Weeks 1,3,5</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>1001</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/10/13, 21/10/13</week>
+	<modulecode>SMM312</modulecode>
+	<activity>SMM312 Numerical Methods 1: Foundations/Computer Room 02/WKS 2,4</activity>
+	<desc>Joint QFFM Lab : Group B: Weeks 2,4</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>1001</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13, 14/10/13, 28/10/13</week>
+	<modulecode>SMM312</modulecode>
+	<activity>SMM312 Numerical Methods 1: Foundations/Computer Room 02/WKS 1,3,5</activity>
+	<desc>Joint QFFM Lab: Group B: Weeks 1,3,5</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>1001</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>07/10/13, 21/10/13</week>
+	<modulecode>SMM312</modulecode>
+	<activity>SMM312 Numerical Methods 1: Foundations/Computer Room 01/Weeks 2,4</activity>
+	<desc>Joint QFFM Lab : Group A: Weeks 2,4</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>1001</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>04/11/13-02/12/13</week>
+	<modulecode>SMM312</modulecode>
+	<activity>SMM312 Numerical Methods 1: Foundations/Lecture 1/01/WKS 6-10</activity>
+	<desc>Joint QFFM Lecture: Weeks 6-10</desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>2002</room>
+	<lecturer>Cerny, Ales </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>04/11/13</week>
+	<modulecode>SMM312</modulecode>
+	<activity>SMM312 Numerical Methods 1: Foundations/TEST/WK 6/Computer Room</activity>
+	<desc>Invigilated Test. Lab 55 students across 2 comp labs: Week 6 (Seats for 110 req'd)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>2001;1001</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Friday </day>
+</booking>

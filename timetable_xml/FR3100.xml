@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>FR3100</modulecode>
+	<activity>FR3100 Fixed Income Portfolio Management/IFRM,ACT/Lecture 2/2</activity>
+	<desc>Stream 2 - IFRM & ACT SCI</desc>
+	<joint> </joint>
+	<studentnos>160</studentnos>
+	<room>Geary</room>
+	<lecturer>Todorovic, Natasha </lecturer>
+	<day>Wednesday </day>
+</booking>

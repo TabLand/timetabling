@@ -1,0 +1,260 @@
+<booking>
+	<start>18:10</start>
+	<end>18:30</end>
+	<week>09/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction/WelcomeTalk/Quality & standards/Facilities</activity>
+	<desc>Induction : Welcome Dean Academic Quality & Standards(SParker) ; Facilities (THughes),</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Parker, Simon </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction/Accounting Boot Camp 01/01</activity>
+	<desc>Accounting Boot Camp</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Thomas, Dylan </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>09/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction/Moodle/IT Induction/LAB</activity>
+	<desc>Induction :Moodle (SKemp) I.T Laptop setup - Kola Fashoyin.</desc>
+	<joint> </joint>
+	<studentnos>58</studentnos>
+	<room>2001</room>
+	<lecturer>Kemp, Simon;Griffiths, Suzanne </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Set Up/EMBA Induction 2013/Registration</activity>
+	<desc>Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>N216b</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>09/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction/Alumni/Lib/stge 1Brief</activity>
+	<desc>Induction : Alumni (NKolyvani) ; Library & Elec resources: Stage 1 briefing; Careers PD</desc>
+	<joint> </joint>
+	<studentnos>58</studentnos>
+	<room>N201</room>
+	<lecturer>Griffiths, Suzanne;Thomas, Steve </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Set Up/EMBA Induction 2013/Registration</activity>
+	<desc>Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Set Up/EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>NY201/Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>8:50</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Set Up/EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>N216a/b;NY201/Foyer;N201</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>15:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Set Up/EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>NY201/Foyer;N201</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Set Up/EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>NY201/Foyer;N201</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:10</start>
+	<end>18:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>19:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>NY201/Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>19:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction/Teaching & Learning Talks</activity>
+	<desc>Induction : Welcome from Ass Dean , EMBA CD, Careers Director, Lead Mentor</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Robinson, Sionade;Thomas, Steve;Lampey, Paul;Juillet, Sarah </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA</activity>
+	<desc>Lizzie Mullier 5285</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>N205;N204;N203</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Room Reset/EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>20:00</end>
+	<week>09/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction/Welcome from Dean/Careers/Introduction to Career & Professional Development Services</activity>
+	<desc>Induction : Welcome from Dean & Introduction to Careers</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Astley, Clare;Haberman, Steve </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>19:10</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>NY201/Foyer;N201</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>19:10</start>
+	<end>21:00</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>EMBA Induction 2013/Mentor Groups/syn rooms</activity>
+	<desc>Introductory mentor group meetings Syndicate rooms</desc>
+	<joint> </joint>
+	<studentnos>8</studentnos>
+	<room>N220;N214;N213;N212;N211;N210;N209</room>
+	<lecturer>Lampey, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>11:50</end>
+	<week>02/09/13</week>
+	<modulecode>EMBASEPT</modulecode>
+	<activity>Room Reset/EMBA Induction 2013/Registration</activity>
+	<desc>Lorraine Potter 8655, Alex Jones 0977</desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>NY201/Foyer;N201</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

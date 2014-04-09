@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>MU1060</modulecode>
+	<activity>MU1060 Music, Sound and Technology/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>ALG04</room>
+	<lecturer>Campion, Rick;Goring, Will </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>MU1060</modulecode>
+	<activity>MU1060 Music, Sound and Technology/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>ALG04</room>
+	<lecturer>Campion, Rick;Goring, Will </lecturer>
+	<day>Tuesday </day>
+</booking>

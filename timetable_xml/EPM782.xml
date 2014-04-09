@@ -1,0 +1,130 @@
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>09/12/13</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>09/12/13</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>09/12/13</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>09/12/13</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>09/12/13</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>EPM782</modulecode>
+	<activity>EPM782 Maritime Operation & Management/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

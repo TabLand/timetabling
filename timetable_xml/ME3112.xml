@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME3112</modulecode>
+	<activity>ME3112 Energy Utilisation And Management/Lecture 1/01/LEAD</activity>
+	<desc>Joint with EPM870: total numbers 45</desc>
+	<joint>ME3112;EPM870</joint>
+	<studentnos>45</studentnos>
+	<room>A110</room>
+	<lecturer>Fry, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME3112</modulecode>
+	<activity>ME3112 Energy Utilisation And Management/Lecture 1/02/LEAD</activity>
+	<desc>Joint with EPM870: total numbers 45</desc>
+	<joint>EPM870;ME3112</joint>
+	<studentnos>45</studentnos>
+	<room>C343</room>
+	<lecturer>Fry, M </lecturer>
+	<day>Tuesday </day>
+</booking>

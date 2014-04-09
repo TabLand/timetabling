@@ -1,0 +1,91 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>20/01/14</week>
+	<modulecode>MBM163 MEMBA</modulecode>
+	<activity>MBM163 Investment Strategy & Practice MEMBA12/Lecture 04</activity>
+	<desc>MEMBA12</desc>
+	<joint> </joint>
+	<studentnos>53</studentnos>
+	<room>N216a/b</room>
+	<lecturer>Fraser-Sampson, Guy </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>20/01/14</week>
+	<modulecode>MBM163 MEMBA</modulecode>
+	<activity>MBM163 Investment Strategy & Practice MEMBA12/Syn Rooms 02</activity>
+	<desc>MEMBA12 - Syndicate rooms - GF Sampson</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>14:00</end>
+	<week>13/01/14</week>
+	<modulecode>MBM163 MEMBA</modulecode>
+	<activity>MBM163 Investment Strategy & Practice MEMBA12/Lecture 01</activity>
+	<desc>MEMBA12 (9-2pm only)</desc>
+	<joint> </joint>
+	<studentnos>53</studentnos>
+	<room>N216a/b</room>
+	<lecturer>Fraser-Sampson, Guy </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>13/01/14</week>
+	<modulecode>MBM163 MEMBA</modulecode>
+	<activity>MBM163 Investment Strategy & Practice MEMBA12/Syn Rooms 01</activity>
+	<desc>MEMBA12 - Syndicate rooms - GF Sampson</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>18:00</end>
+	<week>13/01/14</week>
+	<modulecode>MBM163 MEMBA</modulecode>
+	<activity>MBM163 Investment Strategy & Practice MEMBA12/BR/Lecture 01</activity>
+	<desc>MEMBA12 : Lecture : BUNHILL ROW (2-6pm only)</desc>
+	<joint> </joint>
+	<studentnos>53</studentnos>
+	<room>2006</room>
+	<lecturer>Fraser-Sampson, Guy </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>18:00</end>
+	<week>13/01/14</week>
+	<modulecode>MBM163 MEMBA</modulecode>
+	<activity>MBM163 Investment Strategy & Practice MEMBA12/BR/Bloomberg</activity>
+	<desc>MEMBA12 : Bloomberg/dealing room :GF sampson: BUNHILL ROW (2-6pm only)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>G005 Dealing/Bloomberg Room</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>18:00</end>
+	<week>13/01/14</week>
+	<modulecode>MBM163 MEMBA</modulecode>
+	<activity>MBM163 Investment Strategy & Practice MEMBA12/room set up</activity>
+	<desc>MEMBA12 Room set up for storage (2-6pm only)</desc>
+	<joint> </joint>
+	<studentnos>53</studentnos>
+	<room>N216a/b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

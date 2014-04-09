@@ -1,0 +1,39 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3040</modulecode>
+	<activity>IN3040 Project Management/Lecture (LEAD)</activity>
+	<desc> </desc>
+	<joint>IN3040;INM372 (FT)</joint>
+	<studentnos>100</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3040</modulecode>
+	<activity>IN3040 Project Management/Tutorial 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03</room>
+	<lecturer>VL 06 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3040</modulecode>
+	<activity>IN3040 Project Management/Tutorial 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>A110</room>
+	<lecturer>VL 04 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SL1001S</modulecode>
+	<activity>SL1001 Hearing & Speech Sciences (1)/Spring/Lecture 01/01</activity>
+	<desc>Hearing & Speech Sciences (1)-Spring: Audiology</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>A110</room>
+	<lecturer>Turner, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>SL1001S</modulecode>
+	<activity>SL1001 Hearing & Speech Sciences (1)/Spring/Lecture 02/01</activity>
+	<desc>Hearing & Speech Sciences (1) Ear Training Practice</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>D104</room>
+	<lecturer>Knight, R A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>SL1001S</modulecode>
+	<activity>SL1001 Hearing & Speech Sciences (1)/Tutorial 1/03</activity>
+	<desc>Audiology Labs</desc>
+	<joint> </joint>
+	<studentnos>13</studentnos>
+	<room>C244 (LCS Learning Resources Lab)</room>
+	<lecturer>Turner, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>03/02/14, 24/02/14, 10/03/14, 31/03/14</week>
+	<modulecode>SL1001S</modulecode>
+	<activity>SL1001 Hearing & Speech Sciences (1)/Spring/Tutorial 01/01</activity>
+	<desc>Hearing & Speech Sciences (1) Audiology</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C340</room>
+	<lecturer>Turner, Paul </lecturer>
+	<day>Wednesday </day>
+</booking>

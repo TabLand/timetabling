@@ -1,0 +1,910 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/13</activity>
+	<desc>Group 13</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/14</activity>
+	<desc>Group 14</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/14/Dec 9th</activity>
+	<desc>Group 14</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D112</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/15</activity>
+	<desc>Group 15</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/16</activity>
+	<desc>Group 16</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/16/Dec 9th</activity>
+	<desc>Group 16</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D112</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Lecture 02/01</activity>
+	<desc>Weeks 2-4 & 6-11</desc>
+	<joint> </joint>
+	<studentnos>325</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/11</activity>
+	<desc>Group 11</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D113</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/17</activity>
+	<desc>Group 17</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/18</activity>
+	<desc>Group 18</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/12</activity>
+	<desc>Group 12</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D113</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/18/Dec 9th</activity>
+	<desc>Group 18</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D221</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/04</activity>
+	<desc>Group 4</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A108</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/11</activity>
+	<desc>Group 11</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/03</activity>
+	<desc>Group 3</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A108</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/12</activity>
+	<desc>Group 12</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/19</activity>
+	<desc>Group 19</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/20</activity>
+	<desc>Group 20</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/20/Dec 9th</activity>
+	<desc>Group 20</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D221</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/06</activity>
+	<desc>Group 6</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/05</activity>
+	<desc>Group 5</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/18/Mar 3rd</activity>
+	<desc>Group 18</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D113</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/03</activity>
+	<desc>Group 3</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C135</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/04</activity>
+	<desc>Group 4</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C135</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/01</activity>
+	<desc>Group 1</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C167</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/02</activity>
+	<desc>Group 2</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C167</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/02</activity>
+	<desc>Group 2</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/16</activity>
+	<desc>Group 16</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/01</activity>
+	<desc>Group 1</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/15</activity>
+	<desc>Group 15</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Lecture 02/Jan 28th</activity>
+	<desc>Week 1 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>325</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Herling, David </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/20</activity>
+	<desc>Group 20</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/19</activity>
+	<desc>Group 19</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/14</activity>
+	<desc>Group 14</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A111</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/13</activity>
+	<desc>Group 13</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A111</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>07/07/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Revision Lecture/Jul 10th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D220</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/12/Feb 20th</activity>
+	<desc>Rescheduled session</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A107</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>10/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/18</activity>
+	<desc>Group 18</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C135</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/08</activity>
+	<desc>Group 8</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D112</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/17</activity>
+	<desc>Group 17</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C135</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/07</activity>
+	<desc>Group 7</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D112</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/05&07</activity>
+	<desc>Groups 5 & 7</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>BLG08</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/06&08</activity>
+	<desc>Groups 6 & 8</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>BLG08</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/10</activity>
+	<desc>Group 10</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C140</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 02/09</activity>
+	<desc>Group 9</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C140</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/07</activity>
+	<desc>Group 7</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D111</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/08</activity>
+	<desc>Group 8</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D111</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/09&11</activity>
+	<desc>Groups 9 & 11</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>C345</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/10&12</activity>
+	<desc>Groups 10 & 12</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>AG11</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/05</activity>
+	<desc>Group 5</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/06</activity>
+	<desc>Group 6</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D106</room>
+	<lecturer>Kalpouzos, Iaonnis </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/17&19</activity>
+	<desc>Groups 17 & 19</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>AG11</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/18&20</activity>
+	<desc>Groups 18 & 20</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>AG11</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/09</activity>
+	<desc>Group 9</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D113</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Tutorial 01/10</activity>
+	<desc>Group 10</desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>D113</room>
+	<lecturer>Costa, Marios </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/13&15</activity>
+	<desc>Groups 13 & 15</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>AG03</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/01&03</activity>
+	<desc>Groups 1 & 3</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>AG08</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/14&16</activity>
+	<desc>Groups 14 & 16</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>AG03</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 01/02&04</activity>
+	<desc>Groups 2 & 4</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>AG08</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/01&03</activity>
+	<desc>Groups 1 & 3</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/17&19</activity>
+	<desc>Groups 17 & 19</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG07</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/02&04</activity>
+	<desc>Groups 2 & 4</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/18&20</activity>
+	<desc>Groups 18 & 20</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG07</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/09&11</activity>
+	<desc>Groups 9 & 11</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/13&15</activity>
+	<desc>Groups 13 & 15</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG07</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/10&12</activity>
+	<desc>Groups 10 & 12</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG07</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>325</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Stanton, John </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/05&07</activity>
+	<desc>Groups 5 & 7</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/06&08</activity>
+	<desc>Groups 6 & 8</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>Labedzka, Anna </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU1003</modulecode>
+	<activity>LU1003 Constitutional and Administrative Law/Support 02/14&16</activity>
+	<desc>Groups 14 & 16</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG07</room>
+	<lecturer>Ben Slimane, Mariem </lecturer>
+	<day>Friday </day>
+</booking>

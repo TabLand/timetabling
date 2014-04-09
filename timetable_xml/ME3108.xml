@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME3108</modulecode>
+	<activity>ME3108 Systems Reliability & Introduction to Sustainable Engineering/Lecture 1/01/JOINT</activity>
+	<desc>Systems Reliability. Joint with AE3211: total numbers 55</desc>
+	<joint>AE3211;ME3108</joint>
+	<studentnos>40</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME3108</modulecode>
+	<activity>ME3108 Systems Reliability & Introduction to Sustainable Engineering/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C348</room>
+	<lecturer>Godoy, S </lecturer>
+	<day>Monday </day>
+</booking>

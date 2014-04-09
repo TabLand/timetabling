@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA0024</modulecode>
+	<activity>LA0024 Extracurricular Business Russian Beginner Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C337</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>LA0024</modulecode>
+	<activity>LA0024 Extracurricular Business Russian Beginner Spring/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG02</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

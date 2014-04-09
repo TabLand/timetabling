@@ -1,0 +1,260 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/A&F/Tutorial 8/14</activity>
+	<desc>Group 8 A&F</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>07/10/13-18/11/13, 02/12/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/Econ/Tutorial 12/14</activity>
+	<desc>Group 12 ECON</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>25/11/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/Econ/Tutorial 12/14/WK 9</activity>
+	<desc>Group 12 ECON: Re-Route</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D112</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/10/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/BIF/Tutorial 1/14/wk 2</activity>
+	<desc>Group 1 BIF: Week 2 ONLY (replacement room)</desc>
+	<joint> </joint>
+	<studentnos>26</studentnos>
+	<room>C115</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/A&F/Tutorial 13/14</activity>
+	<desc>Group 13 A&F + exchange students</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG11</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>14/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/BIF/Tutorial 1/14/wks 3-11</activity>
+	<desc>Group 1 BIF: Weeks 3-11</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/IFRM/Tutorial 4/14</activity>
+	<desc>Group 4 IFRM</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C150</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/BIF/Tutorial 2/14</activity>
+	<desc>Group 2 BIF</desc>
+	<joint> </joint>
+	<studentnos>26</studentnos>
+	<room>D220</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/IFRM/Tutorial 5/14</activity>
+	<desc>Group 5 IFRM</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/IFRM/Tutorial 6/14</activity>
+	<desc>Group 6 IFRM</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C161</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/IFRM/Tutorial 7/14</activity>
+	<desc>Group 7 IFRM</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C343</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/Econ/Tutorial 11/14</activity>
+	<desc>Group 11 ECON</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>ALG16</room>
+	<lecturer>Potton, Michael </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/BIF/Tutorial 3/14</activity>
+	<desc>Group 3 BIF</desc>
+	<joint> </joint>
+	<studentnos>26</studentnos>
+	<room>C343</room>
+	<lecturer>Leiwy, Danny </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13, 14/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/BIF & ECON/Lecture 1/2/wks 1,3-11</activity>
+	<desc>Stream 1 - BIF & ECON : Weeks 1, 3-11</desc>
+	<joint> </joint>
+	<studentnos>159</studentnos>
+	<room>Oakden</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/A&F/Tutorial 9/14</activity>
+	<desc>Group 9 A&F</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C118</room>
+	<lecturer>Iqbal, Mohammad </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/A&F/Tutorial 10/14</activity>
+	<desc>Group 10 A&F</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C118</room>
+	<lecturer>Iqbal, Mohammad </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/A&F & IFRM/Lecture 2/2</activity>
+	<desc>Stream 2 - A&F & IFRM & Exchange (10)</desc>
+	<joint> </joint>
+	<studentnos>219</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/BIF & ECON/Drop in surgeries/01</activity>
+	<desc>Stream 1 - BIF & ECON Drop in surgeries: Weeks 3-11</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG04</room>
+	<lecturer>Iqbal, Mohammad </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>07/10/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/BIF & ECON/Lecture 1/2/wk 2</activity>
+	<desc>Stream 1 - BIF & ECON : Week 2 only (replacement for wk 2 missed)</desc>
+	<joint> </joint>
+	<studentnos>159</studentnos>
+	<room>Birley</room>
+	<lecturer>Lyssimachou, Danielle </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>14/10/13-09/12/13</week>
+	<modulecode>AF1101</modulecode>
+	<activity>AF1101 Introduction to Financial Accounting/A&F & IFRM/Drop in surgeries/02</activity>
+	<desc>Stream 2 - A&F & IFRM Drop in surgeries: Weeks 3-11</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>CG04</room>
+	<lecturer>Iqbal, Mohammad </lecturer>
+	<day>Friday </day>
+</booking>

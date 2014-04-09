@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1613</modulecode>
+	<activity>MA1613 Ciphers & Number Theory/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C343</room>
+	<lecturer>Castro Alvaredo, O </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1613</modulecode>
+	<activity>MA1613 Ciphers & Number Theory/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>CG03</room>
+	<lecturer>Castro Alvaredo, O </lecturer>
+	<day>Wednesday </day>
+</booking>

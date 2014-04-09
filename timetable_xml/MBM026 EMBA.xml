@@ -1,0 +1,52 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>02/12/13-09/12/13</week>
+	<modulecode>MBM026 EMBA</modulecode>
+	<activity>MBM026 Quantitative Methods/EMBA/Lecture 01</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Smith, David </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>06/01/14-13/01/14</week>
+	<modulecode>MBM026 EMBA</modulecode>
+	<activity>MBM026 Quantitative Methods/EMBA/Lecture 02</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Smith, David </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>20/01/14</week>
+	<modulecode>MBM026 EMBA</modulecode>
+	<activity>MBM026 Quantitative Methods/EMBA/Lecture 02</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Smith, David </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>14/10/13</week>
+	<modulecode>MBM026 EMBA</modulecode>
+	<activity>MBM026 Quantitative Methods EMBA/Intro Pt 1/Lecture 01</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1 - QM Introduction Pt 1</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Smith, David </lecturer>
+	<day>Wednesday </day>
+</booking>

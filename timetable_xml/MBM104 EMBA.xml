@@ -1,0 +1,26 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>02/09/13-07/10/13, 21/10/13-11/11/13</week>
+	<modulecode>MBM104 EMBA</modulecode>
+	<activity>MBM104 Applied Corporate Finance 1/EMBA/Lecture 01</activity>
+	<desc>ACF1: EMBA - except 16 Oct</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>N201</room>
+	<lecturer>Williams, Matt </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>14/10/13</week>
+	<modulecode>MBM104 EMBA</modulecode>
+	<activity>MBM104 Applied Corporate Finance 1/EMBA/Lecture 01/16 Oct</activity>
+	<desc>ACF1: EMBA - Wed 16 Oct only - Flat room</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>N216b</room>
+	<lecturer>Williams, Matt </lecturer>
+	<day>Wednesday </day>
+</booking>

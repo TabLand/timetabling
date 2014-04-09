@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>PS1009</modulecode>
+	<activity>PS1009 Psychology at City/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>130</studentnos>
+	<room>Birley</room>
+	<lecturer>Conway, Martin;Cooke, Richard;Haenschel, Corrina;Filippopoulos, Pavlos;Hampton, James;Gaigg, Sebastian;Calvo-Merino Beatriz;Freeman, Elliot;Reimars, Stian </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>PS1009</modulecode>
+	<activity>PS1009 Psychology at City/Drop-In Clinic 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D429</room>
+	<lecturer>Cooke, Richard </lecturer>
+	<day>Wednesday </day>
+</booking>

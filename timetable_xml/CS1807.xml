@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1807</modulecode>
+	<activity>CS1807 French: Year 3 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>A112</room>
+	<lecturer>Taylor, Lucinda </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1807</modulecode>
+	<activity>CS1807 French - Year 3 term 2 (Tues)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D222</room>
+	<lecturer>Taylor, Lucinda </lecturer>
+	<day>Tuesday </day>
+</booking>

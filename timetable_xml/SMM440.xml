@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/02/14-31/03/14</week>
+	<modulecode>SMM440</modulecode>
+	<activity>SMM440 Consumer Behaviour/MKT/Lecture 1/WKS 4-10</activity>
+	<desc>MKT stream : Weeks 4-10</desc>
+	<joint> </joint>
+	<studentnos>11</studentnos>
+	<room>3002</room>
+	<lecturer>Bardhi, Fleura Prof. </lecturer>
+	<day>Wednesday </day>
+</booking>

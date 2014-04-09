@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IP3016</modulecode>
+	<activity>IP3016 Advanced Topics in Global Political Economy: The Offshore World/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>ALG16</room>
+	<lecturer>Palan, Ronen </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IP3016</modulecode>
+	<activity>IP3016 Advanced Topics in Global Political Economy: The Offshore World/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C158</room>
+	<lecturer>Palan, Ronen </lecturer>
+	<day>Tuesday </day>
+</booking>

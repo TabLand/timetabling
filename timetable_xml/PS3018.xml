@@ -1,0 +1,39 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS3018</modulecode>
+	<activity>PS3018 Abnormal and Clinical Psychology/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>110</studentnos>
+	<room>Geary</room>
+	<lecturer>Challenor, Julianna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13, 21/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PS3018</modulecode>
+	<activity>PS3018 Abnormal and Clinical Psychology/Drop-In Clinic 01/02</activity>
+	<desc>Weeks 1, 2, 4, 5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D108</room>
+	<lecturer>Challenor, Julianna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>PS3018</modulecode>
+	<activity>PS3018 Abnormal and Clinical Psychology/Seminar/Oct 17th</activity>
+	<desc>Week 3</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D104</room>
+	<lecturer>Challenor, Julianna </lecturer>
+	<day>Thursday </day>
+</booking>

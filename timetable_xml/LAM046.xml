@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>LAM046</modulecode>
+	<activity>LAM046 Setting up as a Professional Translator/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>LAM046</modulecode>
+	<activity>LAM046 Setting up as a Professional Translator/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>07/04/14</week>
+	<modulecode>LAM046</modulecode>
+	<activity>LAM046 Computer Assisted Translation</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

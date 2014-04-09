@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>16:30</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>PS3501</modulecode>
+	<activity>PS3501 Understanding Mental Health/Lecture 01/WKS 1&2</activity>
+	<desc>Weeks 1&2 (Different Location)</desc>
+	<joint>PS3501;PS3501</joint>
+	<studentnos>22</studentnos>
+	<room>A111</room>
+	<lecturer>Chaudry, Sara </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:30</end>
+	<week>27/01/14-17/03/14</week>
+	<modulecode>PS3501</modulecode>
+	<activity>PS3501 Understanding Mental Health/Lecture 01/WKS 3-10</activity>
+	<desc>Weeks 3-10</desc>
+	<joint>PS3501;PS3501</joint>
+	<studentnos>23</studentnos>
+	<room>D220</room>
+	<lecturer>Chaudry, Sara </lecturer>
+	<day>Wednesday </day>
+</booking>

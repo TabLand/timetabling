@@ -1,0 +1,143 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Lecture 1/01</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>Poynton</room>
+	<lecturer>Nankoo, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Tutorial 1/01</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>Birley</room>
+	<lecturer>Nankoo, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>11/11/13</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Extra session/01</activity>
+	<desc>Biomed & EME</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C337</room>
+	<lecturer>Nankoo, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Lab Sems 1/01 A</activity>
+	<desc>Biomedical</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CG17</room>
+	<lecturer>Nankoo, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Lab Sems 1/01 B</activity>
+	<desc>Eng Man</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>CG17</room>
+	<lecturer>Nankoo, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Lecture 1/02</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>Triantis, I Dr </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Tutorial 2/02</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>C304</room>
+	<lecturer>Triantis, I Dr </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Lab Sems 1/01 C</activity>
+	<desc>Elec, Comp Sys, & Tel</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>CG17</room>
+	<lecturer>Nankoo, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>18/11/13</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Extra session/02</activity>
+	<desc>Elec, Comp Sys, & Tel</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C350</room>
+	<lecturer>Nankoo, D </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Lab Sems 2/02 B</activity>
+	<desc>Elec, Comp Sys, & Tel</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>CG17</room>
+	<lecturer>Triantis, I Dr </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE1502</modulecode>
+	<activity>EE1502 Electronic Circuit Design 1/Lab Sems 2/02 A</activity>
+	<desc>Biomedical & Eng Man</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>CG17</room>
+	<lecturer>Triantis, I Dr </lecturer>
+	<day>Friday </day>
+</booking>

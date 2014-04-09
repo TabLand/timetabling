@@ -1,0 +1,169 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>25/11/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/Tutorial/Presentation/wk 9</activity>
+	<desc>Autumn Tutorial: Student Presentation to client : Week 9 ONLY (3 HRS)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A226</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/Lecture 01/02/wk 1</activity>
+	<desc>Autumn Lecture : Week 1 only</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>BG03</room>
+	<lecturer>Hutchinson, Rachel;Daniell, Ian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/Lecture 01/02/wk 3</activity>
+	<desc>Autumn Lecture : Week 3 only</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>BG02</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13, 21/10/13-11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/Lecture 01/02/wks 2,4-7,9-10</activity>
+	<desc>Autumn Lecture : Weeks 2, 4-7, 9-10</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>BG02</room>
+	<lecturer>Hutchinson, Rachel;Daniell, Ian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/A/Lecture 02/02/wk 8</activity>
+	<desc>Autumn Lecture : Breakout session: Group A : Week 8 ONLY (2 HRS)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C303</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/B/Lecture 02/02/wk 8</activity>
+	<desc>Autumn Lecture : Breakout session: Group B : Week 8 ONLY (2 HRS)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG08</room>
+	<lecturer>O'Kane, Brendan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/C/Lecture 02/02/wk 8</activity>
+	<desc>Autumn Lecture : Breakout session: Group C : Week 8 ONLY (2 HRS)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C337</room>
+	<lecturer>Chapman, Simon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/D/Lecture 02/02/wk 8</activity>
+	<desc>Autumn Lecture : Breakout session: Group D: Week 8 ONLY (2 HRS)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C323</room>
+	<lecturer>Hutchinson, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/Lecture 01/02/wk 11</activity>
+	<desc>Autumn Lecture : Week 11 only</desc>
+	<joint> </joint>
+	<studentnos>98</studentnos>
+	<room>AG07</room>
+	<lecturer>Hutchinson, Rachel;Daniell, Ian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/C/Lecture 02/02/Wks 1-7, 9-10</activity>
+	<desc>Autumn Lecture : Breakout session: Group C : Weeks 1-7, 9-10</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C338</room>
+	<lecturer>Chapman, Simon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/B/Lecture 02/02/Wks 1-7, 9-10</activity>
+	<desc>Autumn Lecture : Breakout session: Group B : Weeks 1-7, 9-10</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG08</room>
+	<lecturer>O'Kane, Brendan </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/D/Lecture 02/02/Wks 1-7, 9-10</activity>
+	<desc>Autumn Lecture : Breakout session: Group D : Weeks 1-7, 9-10</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C323</room>
+	<lecturer>Hutchinson, Rachel </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-11/11/13, 25/11/13-02/12/13</week>
+	<modulecode>MS3109</modulecode>
+	<activity>MS3109 Applied Systems Thinking/A/Lecture 02/02/Wks 1-7, 9-10</activity>
+	<desc>Autumn Lecture : Breakout session: Group A: Weeks 1-7, 9-10</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C300</room>
+	<lecturer>Daniell, Ian </lecturer>
+	<day>Thursday </day>
+</booking>

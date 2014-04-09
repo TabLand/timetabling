@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>PSM707</modulecode>
+	<activity>PSM707 Research, Design and Analysis (1)/Lecture 01/WKS 1&2</activity>
+	<desc>Weeks 1 & 2</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>E212</room>
+	<lecturer>Jones Neilsen, Jessica;Filippopoulos, Pavlos </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-17/03/14</week>
+	<modulecode>PSM707</modulecode>
+	<activity>PSM707 Research, Design and Analysis (1)/Lecture 01/WKS 3-10</activity>
+	<desc>Weeks 3-10</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>Jones Neilsen, Jessica;Filippopoulos, Pavlos </lecturer>
+	<day>Wednesday </day>
+</booking>

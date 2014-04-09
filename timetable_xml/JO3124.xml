@@ -1,0 +1,78 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>JO3124</modulecode>
+	<activity>JO3124 Reporting Conflict/Lecture</activity>
+	<desc> </desc>
+	<joint>JO2209;JO3124</joint>
+	<studentnos>40</studentnos>
+	<room>ALG16</room>
+	<lecturer>Rodgers, James </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+	<modulecode>JO3124</modulecode>
+	<activity>JO3124 Reporting Conflict/Study Abroad</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>IG03</room>
+	<lecturer>Johnston, Lisette </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/03/14-07/04/14</week>
+	<modulecode>JO3124</modulecode>
+	<activity>JO3124 Reporting Conflict/Seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BM03</room>
+	<lecturer>Rodgers, James </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>31/03/14</week>
+	<modulecode>JO3124</modulecode>
+	<activity>JO3124 Reporting Conflict/Study Abroad</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A111</room>
+	<lecturer>Johnston, Lisette </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>JO3124</modulecode>
+	<activity>JO3124 Reporting Conflict/Seminar</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>C323</room>
+	<lecturer>Rodgers, James </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/03/14</week>
+	<modulecode>JO3124</modulecode>
+	<activity>JO3124 Reporting Conflict/Study Abroad</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>IG03</room>
+	<lecturer>Johnston, Lisette </lecturer>
+	<day>Thursday </day>
+</booking>

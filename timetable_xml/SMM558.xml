@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>18/11/13</week>
+	<modulecode>SMM558</modulecode>
+	<activity>SMM558 Shipping Economics/Lecture/WK 8 only</activity>
+	<desc>SE Lecture - STF only - Week 8 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>G001</room>
+	<lecturer>Tamvakis, Michael Prof. </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13-28/10/13, 11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>SMM558</modulecode>
+	<activity>SMM558 Shipping Economics/Lecture/WKS 1-5, 7, 9-11</activity>
+	<desc>SE Lecture - STF only - Weeks 1-5, 7, 9-11</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>3002</room>
+	<lecturer>Tamvakis, Michael Prof. </lecturer>
+	<day>Wednesday </day>
+</booking>

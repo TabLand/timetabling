@@ -1,0 +1,39 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM312 (PT)</modulecode>
+	<activity>INM312 Systems Specification 1/Lecture (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Gacek, Cristina </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>04/11/13</week>
+	<modulecode>INM312 (PT)</modulecode>
+	<activity>INM312 Systems Specification 1/Lecture (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C170</room>
+	<lecturer>Gacek, Cristina </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>INM312 (PT)</modulecode>
+	<activity>INM312 Systems Specification 1/Laboratory (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG07</room>
+	<lecturer>Gacek, Cristina </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>#SPLUS89DD70</modulecode>
+	<activity>CS2590 Advanced Database Concepts with SQL Server/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Robbins, Mark </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,65 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>07/04/14</week>
+	<modulecode>CS1801</modulecode>
+	<activity>CS1801 French - Year 1 term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A107</room>
+	<lecturer>Shepherd, Agnes </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1801</modulecode>
+	<activity>CS1801 French - Year 1 (Tue) 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A108</room>
+	<lecturer>Fournier, Frederic </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1801</modulecode>
+	<activity>CS1801 French - Year 1 term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D111</room>
+	<lecturer>Fournier, Frederic </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1801</modulecode>
+	<activity>CS1801 French - Year 1 term 1 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A111</room>
+	<lecturer>Shepherd, Agnes </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>03/02/14-31/03/14</week>
+	<modulecode>CS1801</modulecode>
+	<activity>CS1801 French - Year 1 term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A111</room>
+	<lecturer>Shepherd, Agnes </lecturer>
+	<day>Wednesday </day>
+</booking>

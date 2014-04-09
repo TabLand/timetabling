@@ -1,0 +1,1729 @@
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Risk assessment/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>D222</room>
+	<lecturer>Saunder, L;Eales, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark;McLeod, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 1/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C348</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CBT fundamentals 1/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A226</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Developing tissue viability skills 1/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C216</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>04/11/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: OSCE/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</room>
+	<lecturer>Gelbart, M;Jones, Mark;Anderson, D;Grant, R;Hunter, J;Howard, C;Manning, A;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:30</end>
+	<week>19/05/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Life experience introduction/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CPR in all settings/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V;Francis, K </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 1/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Klufio, A;Lanlehin, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/Introduction to your care home placement/01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Cooper, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:30</end>
+	<week>09/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/OSCE review/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>3A (WS)</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Risk management/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BLG07</room>
+	<lecturer>Saunder, L;Eales, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark;Grant, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 2/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C300</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A225</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CBT fundamentals 2/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Boswell, G;Apau, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Manual handling & update/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Saunder, L;Lindsay, T;Francis, K </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Prep for OSCE/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Jones, Mark;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>04/11/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: OSCE/02</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</room>
+	<lecturer>Jones, Mark;Anderson, D;Grant, R;Hunter, J;Howard, C;Manning, A;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>28/04/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/Introduction to part two practice/01</activity>
+	<desc>CN only</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Guided study - making sense of patient care, linking theory to practice/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>B307A</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 2/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>Skills lab 3.1</room>
+	<lecturer>Klufio, A;Lanlehin, R </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>16/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/OSCE Resit Preparation/02</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C215</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Urinary catheterisation & elimination skills/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Treacy, C;Jones, Mark </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/01</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hunter, J;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Assessment & creative engagement/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A227</room>
+	<lecturer>Simpson, A;Howard, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2C/2D (WS)</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/02</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Jones, Mark;Hunter, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 1/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Developing tissue viability skills 1/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2F (WS)</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Boswell, G;Apau, D </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Peri-operative care (pre-op)/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Ellis, M;Lanlehin, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Prep for OSCE/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>Skills lab 3.2</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Compassion, dignity & communication (conflict resolution)/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2C/2D (WS)</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: MDT/interprofessional working/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Simpson, A;Howard, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CPR: Introduction to ALS - rhythms and drugs/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Bowden, T;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Handover & discharge planning/01</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A225</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 2/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Campbell, S;Howard, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Handover & discharge planning/02</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J;Bowden, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Review & presentation of community & service user profiling/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2F (WS)</room>
+	<lecturer>Simpson, A;Lindsay, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Peri-operative care (post-op)/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Patient care simulation 1/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>Skills room G5/G6</room>
+	<lecturer>Anderson, D;Hughes, V;Mahoney, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/04/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in practice 3/Introduction to part two practice</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>48</studentnos>
+	<room>A130</room>
+	<lecturer>Chamney, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/04</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 1/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C216</room>
+	<lecturer>Francis, A;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>McLeod, A;Chamney, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: MDT/Interprofessional Working/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Howard, C;O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/03</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hunter, J;McLeod, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 1/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Francis, A;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Care frameworks & planning/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>30/09/13-14/10/13, 11/11/13-09/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C167</room>
+	<lecturer>Abbott, S;O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>03/02/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/02/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C164</room>
+	<lecturer>O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>10/02/14-17/02/14, 10/03/14-07/04/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/02/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C164</room>
+	<lecturer>Abbott, S;O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: "Behind closed doors"/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C301</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Manual handling & update/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Anderson, D;Hughes, V;Mahoney, P </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/Tutorial/01/01</activity>
+	<desc>Mid-placement review: AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Chamney, M;Boswell, G </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Community & service user profiling/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C167</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Compassion, dignity & communication (conflict resolution)/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Handover & discharge planning/07</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM02</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Handover & discharge planning/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Prep for OSCE/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Francis, A;Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Manual handling & update/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Hunter, J;Manning, A;Boswell, G </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Handover & discharge planning/06</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A107</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/Tutorial/01/02</activity>
+	<desc>Mid-placement review: AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Chamney, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Handover & discharge planning/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Ellis, M;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Care frameworks & planning/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>Ellis, M;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:50</end>
+	<week>05/05/14-21/07/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/03/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>D106</room>
+	<lecturer>Abbott, S;O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Assessment and Creative Engagement/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Community & service user profiling/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Patient care simulation 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>Boswell, G;Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Developing tissue viability skills 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Jones, Mark;Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CBT fundamentals 1/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>BM03</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Urinary catheterisation & elimination skills/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;Jones, Mark </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>41</studentnos>
+	<room>BLG07</room>
+	<lecturer>Cooper, J;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>16/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 OSCE resit/01</activity>
+	<desc>S12 all groups</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</room>
+	<lecturer>Jones, Mark;Hunter, J;Lindsay, T;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:30</end>
+	<week>31/03/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201/NMM959 OSCE resit/01</activity>
+	<desc>S11 & S12</desc>
+	<joint> </joint>
+	<studentnos>4</studentnos>
+	<room>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</room>
+	<lecturer>Ellis, M;Eales, S;Hunter, J;Manning, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Compassion, dignity & communication (child protection)/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C301</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: NG/NJ tube insertion, care & hydration/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>16/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/Evaluation of your care home placement/01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A214</room>
+	<lecturer>Cooper, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Prep for OSCE/03</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Manual handling & update/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Lindsay, T;Boswell, G;Francis, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Developing tissue viability skills 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Jones, Mark;Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>17:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Patient care simulation 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>McLeod, A;Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CBT fundamentals 2/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>A109</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>41</studentnos>
+	<room>C118</room>
+	<lecturer>Cooper, J;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CPR: Introduction to ALS - rhythms and drugs/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Bowden, T;Apau, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Compassion, dignity & communication (consent & confidentiality)/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Hydration - nutritional assessment (STAMP)/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Lanlehin, R </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 OSCE revision for S12/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C215</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:30</start>
+	<end>18:30</end>
+	<week>18/11/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Moving & handling</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>03/03/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/Prep for Placement/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Cooper, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Care frameworks & planning/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3C (WS)</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 1/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C215</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Risk assessment/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>I203/I206</room>
+	<lecturer>Eales, S;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Review & presentation of community & service user profiling/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>D222</room>
+	<lecturer>Simpson, A;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Developing tissue viability skills 1/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Patient care simulation 1/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CBT fundamentals 3/02</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C164</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:30</end>
+	<week>19/05/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Life experience reflection/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/OSCE Resit Preparation/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C215</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>26/05/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Life experience presentation/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG24b</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Wound assessment/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 1/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>14/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>11/11/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>18/11/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Lindsay, T;Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Lindsay, T;Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>16/12/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/01/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C322</room>
+	<lecturer>Lindsay, T;Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>20/01/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/02/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C135</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>27/01/14, 17/03/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/02/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>03/02/14-17/02/14, 10/03/14, 24/03/14-07/04/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/02/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Lindsay, T;Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:50</end>
+	<week>05/05/14-21/07/14</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Engaging in Practice 2/PPD Tutorial/03/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG10</room>
+	<lecturer>Lindsay, T;Flood, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Prep for OSCE/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;Rawlings-Anderson, K </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Manual handling & update/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Hunter, J;Manning, A;Boswell, G </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Medicines management 2/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>C216</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Risk management/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Eales, S;Outside speaker </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Handover & discharge planning/04</activity>
+	<desc>MHN/02B & 03</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24b</room>
+	<lecturer>Simpson, A;Campbell, S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Developing tissue viability skills 2/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J;Boswell, G </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Patient care simulation 2/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C208/210</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: CBT fundamentals 3/01</activity>
+	<desc>MHN/01 & 02A</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG24a</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>21/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Pressure ulcer prevention & tissue viability/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Anderson, D </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>17:30</end>
+	<week>28/10/13</week>
+	<modulecode>HSM201</modulecode>
+	<activity>HSM201 Simulating Practice: Clinical skills review 2/03</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>

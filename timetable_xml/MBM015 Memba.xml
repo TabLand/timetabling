@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>16/12/13</week>
+	<modulecode>MBM015 Memba</modulecode>
+	<activity>MBM015 Marketing 2/MEMBA/Syn Rooms 02</activity>
+	<desc>MEMBA - Syndicate Room - R. Mac Donnell</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>16/12/13</week>
+	<modulecode>MBM015 Memba</modulecode>
+	<activity>MBM015 Marketing 2/MEMBA/Lecture 02</activity>
+	<desc>Marketing 2 (MEMBA)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N216a/b</room>
+	<lecturer>MacDonnell, Rhiannon </lecturer>
+	<day>Monday </day>
+</booking>

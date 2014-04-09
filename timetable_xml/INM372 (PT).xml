@@ -1,0 +1,13 @@
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM372 (PT)</modulecode>
+	<activity>INM372 Project Management/Lecture (PT)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>

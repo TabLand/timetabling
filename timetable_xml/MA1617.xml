@@ -1,0 +1,104 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/06/14</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lecture 3/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>09/06/14-16/06/14</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lab Sems 3/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A220</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>A110</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>09/06/14-16/06/14</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lab Sems 4/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A220</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lab Sems 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lab Sems 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C340</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA1617</modulecode>
+	<activity>MA1617 Computational Mathematics/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>ALG16</room>
+	<lecturer>Kerr, O S </lecturer>
+	<day>Friday </day>
+</booking>

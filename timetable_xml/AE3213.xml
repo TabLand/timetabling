@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>AE3213</modulecode>
+	<activity>AE3213 Computational Fluid Dynamics/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG56</room>
+	<lecturer>Pinelli, Prof A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>AE3213</modulecode>
+	<activity>AE3213 Computational Fluid Dynamics/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG04</room>
+	<lecturer>Pinelli, Prof A </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,117 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Lecture 1/02/LEAD</activity>
+	<desc>Joint with EEM507: total numbers 30</desc>
+	<joint>EE3500;EE3500;EE3500</joint>
+	<studentnos>30</studentnos>
+	<room>C335</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14-10/02/14, 24/02/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Lecture 1/02/LEAD</activity>
+	<desc>Joint with EEM507: total numbers 30</desc>
+	<joint>EE3500;EE3500;EE3500</joint>
+	<studentnos>15</studentnos>
+	<room>A111</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/03/14-07/04/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Lecture 1/02/LEAD</activity>
+	<desc>Joint with EEM507: total numbers 30</desc>
+	<joint>EE3500;EE3500;EE3500</joint>
+	<studentnos>15</studentnos>
+	<room>CG03</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14, 10/02/14-24/02/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Tutorial 1/02/LEAD</activity>
+	<desc>Joint with EEM507: total numbers 30</desc>
+	<joint>EEM507;EE3500;EE3500;EE3500</joint>
+	<studentnos>30</studentnos>
+	<room>C335</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Tutorial 1/02/LEAD</activity>
+	<desc>Joint with EEM507: total numbers 30</desc>
+	<joint>EEM507;EE3500;EE3500;EE3500</joint>
+	<studentnos>15</studentnos>
+	<room>A111</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/03/14-07/04/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Tutorial 1/02/LEAD</activity>
+	<desc>Joint with EEM507: total numbers 30</desc>
+	<joint>EEM507;EE3500;EE3500;EE3500</joint>
+	<studentnos>30</studentnos>
+	<room>CG03</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Tutorial 1/02/LEAD/26th March</activity>
+	<desc>Extra tutorial</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C135</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>24/03/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Tutorial 1/02/LEAD/26th March</activity>
+	<desc>Extra tutorial</desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C135</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>17/03/14-07/04/14</week>
+	<modulecode>EE3500</modulecode>
+	<activity>EE3500 Engineering Systems/Lab 1/02/LEAD</activity>
+	<desc>Joint with EEM507: total numbers 30</desc>
+	<joint>EE3500;EEM507</joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Khan, S </lecturer>
+	<day>Friday </day>
+</booking>

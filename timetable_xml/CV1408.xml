@@ -1,0 +1,78 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-04/11/13, 18/11/13-25/11/13, 09/12/13</week>
+	<modulecode>CV1408</modulecode>
+	<activity>CV1408 Civil Engineering Practice & Surveying/Lecture 1/01</activity>
+	<desc>Practice</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>C304</room>
+	<lecturer>McNamara, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>02/12/13</week>
+	<modulecode>CV1408</modulecode>
+	<activity>CV1408 Civil Engineering Practice & Surveying/Lecture 1/01</activity>
+	<desc>Practice</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>C304</room>
+	<lecturer>McNamara, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>20/01/14</week>
+	<modulecode>CV1408</modulecode>
+	<activity>CV1408 Civil Engineering Practice & Surveying/Lecture 1/02</activity>
+	<desc>Practice</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG21</room>
+	<lecturer>McNamara, A;Stupples, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>CV1408</modulecode>
+	<activity>CV1408 Civil Engineering Practice & Surveying/Lecture 1/02</activity>
+	<desc>Practice</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG07</room>
+	<lecturer>McNamara, A;Stupples, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>CV1408</modulecode>
+	<activity>CV1408 Civil Engineering Practice & Surveying/Lecture 2/01</activity>
+	<desc>Surveying</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>Birley</room>
+	<lecturer>Stirling, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>18/11/13</week>
+	<modulecode>CV1408</modulecode>
+	<activity>CV1408 Civil Engineering Practice & Surveying/Lecture 1/01</activity>
+	<desc>Practice</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>BG03</room>
+	<lecturer>McNamara, A </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>20/01/14-10/02/14</week>
+	<modulecode>JOM610</modulecode>
+	<activity>JOM610 Dissertation and Masterclass term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>BLG07</room>
+	<lecturer>Kernan, Mary-Ann </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>12/05/14-02/06/14</week>
+	<modulecode>JOM610</modulecode>
+	<activity>JOM610 Dissertation and Masterclass term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>AG03</room>
+	<lecturer>Brienza, Casey </lecturer>
+	<day>Tuesday </day>
+</booking>

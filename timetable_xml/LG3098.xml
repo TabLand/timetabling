@@ -1,0 +1,39 @@
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LG3098</modulecode>
+	<activity>LG3098 International Economic Law/Tutorial 1/2/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3098;LU3098</joint>
+	<studentnos>5</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LG3098</modulecode>
+	<activity>LG3098 International Economic Law/Tutorial 1/1/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3098;LU3098</joint>
+	<studentnos>5</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LG3098</modulecode>
+	<activity>LG3098 International Economic Law/Lecture 1/1/JOINT</activity>
+	<desc> </desc>
+	<joint>LU3098;LG3098</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1587</modulecode>
+	<activity>CS1587 Advanced Autocad - 3D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG24a</room>
+	<lecturer>Liapis, Petros </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1587</modulecode>
+	<activity>CS1587 Advanced Autocad term 2 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A308</room>
+	<lecturer>Liapis, Petros </lecturer>
+	<day>Thursday </day>
+</booking>

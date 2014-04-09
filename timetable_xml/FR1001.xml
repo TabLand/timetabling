@@ -1,0 +1,65 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>FR1001</modulecode>
+	<activity>FR1001 Financial Markets Institutions & Instruments/T2/Lecture 03/WKS 1-6</activity>
+	<desc>Term 2: Weeks 1-6 (2H lect, 1H tutorial)</desc>
+	<joint> </joint>
+	<studentnos>134</studentnos>
+	<room>Poynton</room>
+	<lecturer>Hayley, Simon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>10/03/14-31/03/14</week>
+	<modulecode>FR1001</modulecode>
+	<activity>FR1001 Financial Markets Institutions & Instruments/T2/Lecture 04/WKS 7-10</activity>
+	<desc>Term 2: Weeks 7-10 (2H lect, 1H tutorial)</desc>
+	<joint> </joint>
+	<studentnos>134</studentnos>
+	<room>Poynton</room>
+	<lecturer>Chen, Cherie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>FR1001</modulecode>
+	<activity>FR1001 Financial Markets Institutions & Instruments/T2/Lecture 04/WK 11</activity>
+	<desc>Term 2: Week 11 revision (2H lect, 1H tutorial)</desc>
+	<joint> </joint>
+	<studentnos>134</studentnos>
+	<room>Poynton</room>
+	<lecturer>Hayley, Simon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>30/09/13-04/11/13</week>
+	<modulecode>FR1001</modulecode>
+	<activity>FR1001 Financial Markets Institutions & Instruments/T1/Lecture 01/WKS 1-6</activity>
+	<desc>Term 1: Weeks 1-6 (2H lect, 1H tutorial)</desc>
+	<joint> </joint>
+	<studentnos>134</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Hayley, Simon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>11/11/13-02/12/13</week>
+	<modulecode>FR1001</modulecode>
+	<activity>FR1001 Financial Markets Institutions & Instruments/T1/Lecture 02/WKS 7-10</activity>
+	<desc>Term 2: Weeks 7-10 (2H lect, 1H tutorial)</desc>
+	<joint> </joint>
+	<studentnos>134</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Key Tony </lecturer>
+	<day>Thursday </day>
+</booking>

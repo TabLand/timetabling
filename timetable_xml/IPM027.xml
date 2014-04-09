@@ -1,0 +1,39 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM027</modulecode>
+	<activity>IPM027 Global Political Economy: Contemporary Approaches/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D220</room>
+	<lecturer>Palan, Ronen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM027</modulecode>
+	<activity>IPM027 Global Political Economy: Contemporary Approaches/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D220</room>
+	<lecturer>Palan, Ronen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IPM027</modulecode>
+	<activity>IPM027 Global Political Economy: Contemporary Approaches/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D220</room>
+	<lecturer>Palan, Ronen </lecturer>
+	<day>Monday </day>
+</booking>

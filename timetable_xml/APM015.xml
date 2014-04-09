@@ -1,0 +1,13 @@
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>12/05/14-23/06/14</week>
+	<modulecode>APM015</modulecode>
+	<activity>APM015 Self care management/Lecture/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>E212</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Tuesday </day>
+</booking>

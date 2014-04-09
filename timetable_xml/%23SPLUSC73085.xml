@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>21/10/13</week>
+	<modulecode>#SPLUSC73085</modulecode>
+	<activity>How to make the most of the Career & Skills Development Service/BIF, IFRM, AS/WK 4</activity>
+	<desc>Careers Talk for Year 1 students: BIF, IFRM, AS : WEEK 4 ONLY</desc>
+	<joint> </joint>
+	<studentnos>350</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Ahmad, Rashida;Hooke, Laura </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>28/10/13</week>
+	<modulecode>#SPLUSC73085</modulecode>
+	<activity>How to make the most of the Career & Skills Development Service/BUS, MGT, A & F/WK 5</activity>
+	<desc>Careers Talk for Year 1 students: BUS, MGT, A & F: WEEK 5 ONLY</desc>
+	<joint> </joint>
+	<studentnos>350</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Ahmad, Rashida;Hooke, Laura </lecturer>
+	<day>Wednesday </day>
+</booking>

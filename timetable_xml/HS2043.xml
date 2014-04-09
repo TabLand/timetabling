@@ -1,0 +1,572 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 User/carer talks</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>B103</room>
+	<lecturer>Treacy, C;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 User/carer talks</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>AG22</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 User/carer talks</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG21</room>
+	<lecturer>Chamney, M;Outside speaker;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 User/carer talks</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>B103</room>
+	<lecturer>Treacy, C;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 User/carer talks</activity>
+	<desc>AN only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>B103</room>
+	<lecturer>McLeod, A;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>178</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Treacy, C;Curtis Tyler, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>03/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>178</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Treacy, C;Simpson, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>10/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>178</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>178</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Treacy, C;O'Carroll, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>24/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>178</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Burls, A;Treacy, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Lecture/01</activity>
+	<desc>All groups</desc>
+	<joint> </joint>
+	<studentnos>178</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Treacy, C;Outside speaker </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A214</room>
+	<lecturer>Bliss, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>27/01/14, 03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A109</room>
+	<lecturer>Attenborough, J;O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BM03</room>
+	<lecturer>Chamney, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BM02</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>03/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A109</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>03/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A214</room>
+	<lecturer>Bliss, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>10/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A214</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>10/02/14, 24/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A109</room>
+	<lecturer>O'Carroll, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/08</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A109</room>
+	<lecturer>Attenborough, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A214</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>24/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A214</room>
+	<lecturer>Bliss, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:30</end>
+	<week>03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A214</room>
+	<lecturer>Bliss, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Smith, U;Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Craig, G;Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Ellis, M;Trust representative </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>BM03</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>27/01/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C150</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>03/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C150</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>10/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C150</room>
+	<lecturer>Smith, U;Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C150</room>
+	<lecturer>Craig, G </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>24/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C150</room>
+	<lecturer>Ellis, M;Trust representative </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:30</end>
+	<week>03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C150</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/02/14-17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>BLG08</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:30</end>
+	<week>27/01/14, 17/02/14-03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>BM03</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:30</end>
+	<week>10/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>0</studentnos>
+	<room>A107</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Smith, U;Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Craig, G </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Ellis, M;Trust representative </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2043</modulecode>
+	<activity>HS2043 Experiencing Long-term Care, Rehabilitation & Recovery/Tutorial/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Curtis Tyler, K </lecturer>
+	<day>Thursday </day>
+</booking>

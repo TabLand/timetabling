@@ -1,0 +1,117 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Tutorial 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C343</room>
+	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Lab/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C262 (Physical Sciences lab)</room>
+	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:30</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Tutorial 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C343</room>
+	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:30</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Lab/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C203 (Refraction 1);C202 (Clinical Skills Room)</room>
+	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>14:50</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Tutorial 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CG02</room>
+	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Lab/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C203 (Refraction 1)</room>
+	<lecturer>Suttle, Catherine;Constable, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Tutorial 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>Suttle, Catherine </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Tutorial 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C328</room>
+	<lecturer>Constable, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>17:30</end>
+	<week>13/01/14</week>
+	<modulecode>OVM054</modulecode>
+	<activity>OVM054 Ophthalmic Examination/Exam/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Constable, Paul </lecturer>
+	<day>Wednesday </day>
+</booking>

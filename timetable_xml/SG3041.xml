@@ -1,0 +1,39 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3041</modulecode>
+	<activity>SG3041 Global Migration Processes/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>D104</room>
+	<lecturer>Karamanidou, Lena </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3041</modulecode>
+	<activity>SG3041 Global Migration Processes/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>Karamanidou, Lena </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SG3041</modulecode>
+	<activity>SG3041 Global Migration Processes/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D111</room>
+	<lecturer>Karamanidou, Lena </lecturer>
+	<day>Wednesday </day>
+</booking>

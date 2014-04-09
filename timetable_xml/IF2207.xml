@@ -1,0 +1,65 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-10/02/14, 24/02/14-10/03/14, 24/03/14-07/04/14</week>
+	<modulecode>IF2207</modulecode>
+	<activity>IF2207 Financial Markets/Lecture/wks 1-3, 5-7, 9-11</activity>
+	<desc>Spring : Weeks 1-3, 5-7, 9-11</desc>
+	<joint> </joint>
+	<studentnos>114</studentnos>
+	<room>BG02</room>
+	<lecturer>Beber, Alessandro Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>17/03/14</week>
+	<modulecode>IF2207</modulecode>
+	<activity>IF2207 Financial Markets/TEST/wk 8</activity>
+	<desc>Test : Week 8 only : 228 seats for 114 students</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>C304;BG02</room>
+	<lecturer>Beber, Alessandro Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>IF2207</modulecode>
+	<activity>IF2207 Financial Markets/Lecture/wk 6</activity>
+	<desc>Spring : Week 6 only (replacement for wk 4 missed)</desc>
+	<joint> </joint>
+	<studentnos>114</studentnos>
+	<room>Geary</room>
+	<lecturer>Beber, Alessandro Prof </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>IF2207</modulecode>
+	<activity>IF2207 Financial Markets/BUS/Tutorial 1</activity>
+	<desc>BUS</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>DLG20</room>
+	<lecturer>Saka, Orkun </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>IF2207</modulecode>
+	<activity>IF2207 Financial Markets/A&F/Tutorial 2</activity>
+	<desc>A&F</desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>C338</room>
+	<lecturer>Saka, Orkun </lecturer>
+	<day>Friday </day>
+</booking>

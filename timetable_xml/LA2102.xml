@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA2102</modulecode>
+	<activity>LA2102 German (Upper Intermediate) Autumn/Joint</activity>
+	<desc>Joint with LA2404</desc>
+	<joint>LA2404;LA2404;LA2102</joint>
+	<studentnos>30</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA2102</modulecode>
+	<activity>LA2102 German (Upper Intermediate) Spring/Joint</activity>
+	<desc>Joint with LA2404</desc>
+	<joint>LA2404;LA2102</joint>
+	<studentnos>30</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

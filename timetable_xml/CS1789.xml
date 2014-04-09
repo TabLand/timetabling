@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1789</modulecode>
+	<activity>CS1789 Coaching for Business term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A108</room>
+	<lecturer>McKenzie, Cerri </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-24/03/14</week>
+	<modulecode>CS1789</modulecode>
+	<activity>CS1789 Coaching for Business term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A225</room>
+	<lecturer>Biggins, Fiona </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>31/03/14</week>
+	<modulecode>CS1789</modulecode>
+	<activity>CS1789 Coaching for Business term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A108</room>
+	<lecturer>Biggins, Fiona </lecturer>
+	<day>Wednesday </day>
+</booking>

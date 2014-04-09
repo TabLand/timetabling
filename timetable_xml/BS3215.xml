@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>10/02/14</week>
+	<modulecode>BS3215</modulecode>
+	<activity>BS3215 Corporate Governance/Lecture/wk 3</activity>
+	<desc>Spring Lecture: Week 3 only (replacement for wk 1 missed)</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>C304</room>
+	<lecturer>Melville, Rob </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>BS3215</modulecode>
+	<activity>BS3215 Corporate Governance/Lecture/wks 2-11</activity>
+	<desc>Spring Lecture: Weeks 2-11</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>CG03</room>
+	<lecturer>Melville, Rob </lecturer>
+	<day>Thursday </day>
+</booking>

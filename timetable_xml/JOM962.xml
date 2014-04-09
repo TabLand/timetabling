@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-03/02/14, 17/02/14-24/03/14</week>
+	<modulecode>JOM962</modulecode>
+	<activity>JOM962 Journalism And Society Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>180</studentnos>
+	<room>A130</room>
+	<lecturer>Greenslade, Roy </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM962</modulecode>
+	<activity>JOM962 Journalism And Society Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>300</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Greenslade, Roy </lecturer>
+	<day>Monday </day>
+</booking>

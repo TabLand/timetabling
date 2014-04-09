@@ -1,0 +1,156 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 17/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Lecture 01/02</activity>
+	<desc>Intervention lecture</desc>
+	<joint> </joint>
+	<studentnos>44</studentnos>
+	<room>CG02</room>
+	<lecturer>Levin, Abigail;Herman, Ros;Williams, Roberta;VL 01 - HACOMS </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>03/02/14, 17/02/14, 10/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Tutorial 01/01</activity>
+	<desc>Spring Tutorial</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D222</room>
+	<lecturer>Herman, Ros </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>03/02/14, 17/02/14, 10/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>26</studentnos>
+	<room>A214</room>
+	<lecturer>VL 01 - HACOMS </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>24/03/14-31/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Tutorial 1/01</activity>
+	<desc>Joint tutorials</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C167</room>
+	<lecturer>Herman, Ros;VL 01 - HACOMS </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>24/03/14-31/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Tutorial 2/01</activity>
+	<desc>Joint tutorials</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C135</room>
+	<lecturer>VL 02 - HACOMS </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>17/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Clinic 02/01</activity>
+	<desc>Clinical Skills - wk 8 - Wed pm</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Levin, Abigail </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14-17/03/14, 31/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Clinic 01/02</activity>
+	<desc>Clinical Preparation: wks 7-10 - 1x full grp, 1x half grp (room near to breakout) (removed RH/AL)</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Harding, Celia;Williams, Roberta;Camilleri, Bernard </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Clinic 01/02 28/3/14</activity>
+	<desc>Clinical Preparation: wks 9</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C161</room>
+	<lecturer>Harding, Celia;Williams, Roberta;Camilleri, Bernard </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>24/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Clinic 01/03 28/3/14</activity>
+	<desc>Clinical Preparation: wks 9</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C328;C330</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>24/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Clinic 01/01 28/3/14</activity>
+	<desc>Clinical Preparation:</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>D113;D108;D109</room>
+	<lecturer>Lee, Mary </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>10/03/14-17/03/14, 31/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Clinic 01/01</activity>
+	<desc>Clinical Preparation: 2 rooms nearby (1 for whole grp & 1 for breakout) (removed RH/AL/MC)</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C339</room>
+	<lecturer>Lee, Mary </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>24/03/14</week>
+	<modulecode>SL1006S</modulecode>
+	<activity>SL1006 Professional Studies (1)/Spring/Clinic 01/04 28/3/14</activity>
+	<desc>Clinical Preparation:</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A112</room>
+	<lecturer>Lee, Mary </lecturer>
+	<day>Friday </day>
+</booking>

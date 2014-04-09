@@ -1,0 +1,26 @@
+<booking>
+	<start>17:30</start>
+	<end>20:30</end>
+	<week>17/03/14, 31/03/14</week>
+	<modulecode>ECM107</modulecode>
+	<activity>ECM107 Sectoral Competition & Regulation/Lecture 1/Mar 18th & Apr 1st</activity>
+	<desc>Additional sessions</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>DLG20</room>
+	<lecturer>Dassiou, Xeni </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:30</start>
+	<end>20:50</end>
+	<week>27/01/14-03/02/14, 17/02/14-31/03/14</week>
+	<modulecode>ECM107</modulecode>
+	<activity>ECM107 Sectoral Competition & Regulation/Lecture 1/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG08</room>
+	<lecturer>Dassiou, Xeni </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1002</modulecode>
+	<activity>CS1002 Chinese Mandarin: Year 2 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG10</room>
+	<lecturer>Huang, Yinghong </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1002</modulecode>
+	<activity>CS1002 Chinese Mandarin: Year 2 term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG10</room>
+	<lecturer>Huang, Yinghong </lecturer>
+	<day>Tuesday </day>
+</booking>

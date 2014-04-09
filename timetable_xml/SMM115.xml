@@ -1,0 +1,13 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>SMM115</modulecode>
+	<activity>SMM115 Financial Statements Analysis/BIF/Lecture 01</activity>
+	<desc>Autumn Term - Evening Slot</desc>
+	<joint> </joint>
+	<studentnos>74</studentnos>
+	<room>2003</room>
+	<lecturer>De Cesaris, Stephano </lecturer>
+	<day>Wednesday </day>
+</booking>

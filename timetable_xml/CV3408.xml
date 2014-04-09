@@ -1,0 +1,52 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>CV3408</modulecode>
+	<activity>CV3408 Engineering Management & Civil Engineering Paper/Lecture 1/01</activity>
+	<desc>For Civil Engineers</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>AG07</room>
+	<lecturer>Manu, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>09/12/13</week>
+	<modulecode>CV3408</modulecode>
+	<activity>CV3408 Engineering Management & Civil Engineering Paper/Lecture 1/01 wk 11</activity>
+	<desc>Online test</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>EG07;EG12;EG03</room>
+	<lecturer>Manu, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CV3408</modulecode>
+	<activity>CV3408 Engineering Management & Civil Engineering Paper/Lecture 2/01/JOINT</activity>
+	<desc>Financial Analysis. Joint with ET3051/ME3100: total numbers 230</desc>
+	<joint>CV3408;ET3051;ME3100</joint>
+	<studentnos>90</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>CV3408</modulecode>
+	<activity>CV3408 Engineering Management & Civil Engineering Paper/Lecture 2/02/JOINT</activity>
+	<desc>Investment Appraisal. Joint with ET3051/ME3100: total numbers 230</desc>
+	<joint>CV3408;ET3051;ME3100</joint>
+	<studentnos>90</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SL3006</modulecode>
+	<activity>SL3006 Normal And Disordered Word Processing/Lecture 01/01 (joint)</activity>
+	<desc>10 students for SL3006 - jnt with SL3002/SLM008</desc>
+	<joint>SLM008;SL3002;SL3006;SLM008</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

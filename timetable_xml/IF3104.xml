@@ -1,0 +1,78 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>IF3104</modulecode>
+	<activity>IF3104 Bank Strategy & Management/BIF,IFRM, REFI/QUIZ/wk 6</activity>
+	<desc>Autumn Quiz: BIF, IFRM, REFI: Week 6 ONLY : 160 Seats for 79 double spaced</desc>
+	<joint> </joint>
+	<studentnos>160</studentnos>
+	<room>A130</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>IF3104</modulecode>
+	<activity>IF3104 Bank Strategy & Management/BIF,IFRM, REFI/QUIZ/wk 6/(joint)</activity>
+	<desc>(Joint) Autumn Quiz: BUS, BIF, IFRM, REFI: Week 6 ONLY : 214 Seats for 118 students</desc>
+	<joint>IF3104;IF3104</joint>
+	<studentnos>214</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>IF3104</modulecode>
+	<activity>IF3104 Bank Strategy & Management/BS,BIF,IFRM, REFI/QUIZ/wk 6 (Lead)</activity>
+	<desc>(Lead) Autumn Quiz : Autumn Quiz: BUS, BIF, IFRM, REFI: Week 6 ONLY : 214 Seats for 118 students</desc>
+	<joint>IF3104;IF3104</joint>
+	<studentnos>214</studentnos>
+	<room>Poynton</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>IF3104</modulecode>
+	<activity>IF3104 Bank Strategy & Management/BIF,IFRM, REFI/Lecture 01/wk 1</activity>
+	<desc>Autumn Lecture BIF, IFRM, REFI: wk 1only</desc>
+	<joint>IF3104;IF3104</joint>
+	<studentnos>79</studentnos>
+	<room>Oakden</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>07/10/13-09/12/13</week>
+	<modulecode>IF3104</modulecode>
+	<activity>IF3104 Bank Strategy & Management/BIF,IFRM, REFI/Lecture 01/wks 2-11</activity>
+	<desc>Autumn Lecture BIF, IFRM, REFI: wks 2-11</desc>
+	<joint>IF3104;IF3104</joint>
+	<studentnos>79</studentnos>
+	<room>C304</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>IF3104</modulecode>
+	<activity>IF3104 Bank Strategy & Management/BUS/Lecture 01</activity>
+	<desc>Autumn Lecture : BUS</desc>
+	<joint> </joint>
+	<studentnos>38</studentnos>
+	<room>BG03</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Friday </day>
+</booking>

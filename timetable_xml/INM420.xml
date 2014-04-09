@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM420</modulecode>
+	<activity>INM420 Advanced Programming: Concurrency/Lecture</activity>
+	<desc> </desc>
+	<joint>INM420;IN3042</joint>
+	<studentnos>40</studentnos>
+	<room>AG08</room>
+	<lecturer>Kloukinas, Christos </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM420</modulecode>
+	<activity>INM420 Advanced Programming: Concurrency/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A218</room>
+	<lecturer>Kloukinas, Christos </lecturer>
+	<day>Thursday </day>
+</booking>

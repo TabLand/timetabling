@@ -1,0 +1,26 @@
+<booking>
+	<start>17:30</start>
+	<end>20:30</end>
+	<week>03/03/14-07/04/14</week>
+	<modulecode>ECM024</modulecode>
+	<activity>ECM024 Economics of Micro-Finance/Lecture 01/Wks 6-11</activity>
+	<desc>Weeks 6-11</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>DLG02</room>
+	<lecturer>Vento, Gianfranco </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14</week>
+	<modulecode>ECM024</modulecode>
+	<activity>ECM024 Economics of Micro-Finance/Lecture 01/Wks 1-5</activity>
+	<desc>Weeks 1-5</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D222</room>
+	<lecturer>Jain, Sanjay </lecturer>
+	<day>Thursday </day>
+</booking>

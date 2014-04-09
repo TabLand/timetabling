@@ -1,0 +1,91 @@
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
+	<modulecode>JOM909</modulecode>
+	<activity>JOM909 Writing workshop/Lecture term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D106</room>
+	<lecturer>Norden, Barbara </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>13/01/14-03/02/14, 17/02/14-24/03/14</week>
+	<modulecode>JOM909</modulecode>
+	<activity>JOM909 Writing workshop/Lecture term 2 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D106</room>
+	<lecturer>O'Shea, Phil </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>10/02/14</week>
+	<modulecode>JOM909</modulecode>
+	<activity>JOM909 Writing workshop/Lecture term 2 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>O'Shea, Phil </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-23/06/14</week>
+	<modulecode>JOM909</modulecode>
+	<activity>JOM909 Writing workshop/Lecture term 3 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D106</room>
+	<lecturer>O'Shea, Phil </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>30/06/14</week>
+	<modulecode>JOM909</modulecode>
+	<activity>JOM909 Writing workshop</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG09</room>
+	<lecturer>O'Shea, Phil </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>28/04/14-26/05/14, 09/06/14-30/06/14</week>
+	<modulecode>JOM909</modulecode>
+	<activity>JOM909 Writing workshop/Lecture term 3 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>D108</room>
+	<lecturer>O'Shea, Phil </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>20:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM909</modulecode>
+	<activity>JOM909 Writing workshop/Lecture term 3 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>D109</room>
+	<lecturer>O'Shea, Phil </lecturer>
+	<day>Wednesday </day>
+</booking>

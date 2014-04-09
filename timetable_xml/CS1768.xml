@@ -1,0 +1,117 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-18/11/13, 02/12/13-09/12/13</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 1 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A225</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>25/11/13</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 1 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>EG07</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-17/03/14, 31/03/14</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 2 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A225</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>24/03/14</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 2 (Mon)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG24a</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG04</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-18/11/13, 02/12/13</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 1 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A226</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>25/11/13</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 1 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A307</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-17/03/14, 31/03/14</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A226</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>24/03/14</week>
+	<modulecode>CS1768</modulecode>
+	<activity>CS1768 Project Management - an introduction term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A308</room>
+	<lecturer>Doyle, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM301</modulecode>
+	<activity>INM301 Library and Information Science Foundation/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>AG22</room>
+	<lecturer>Robinson, Lyn </lecturer>
+	<day>Monday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS3209</modulecode>
+	<activity>CS3209 Writer's Workshop term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A111</room>
+	<lecturer>Darby, Katy </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS3209</modulecode>
+	<activity>CS3209 Writer's Workshop term 2 (Fri)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A111</room>
+	<lecturer>Darby, Katy </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS3209</modulecode>
+	<activity>CS3209 Writer's Workshop term 3 (Fri)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Darby, Katy </lecturer>
+	<day>Friday </day>
+</booking>

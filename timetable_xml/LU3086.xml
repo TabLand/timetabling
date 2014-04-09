@@ -1,0 +1,117 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Tutorial 2/3/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Tutorial 1/1/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Tutorial 1/2/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Tutorial 2/1/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Tutorial 2/2/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Tutorial 1/3/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>30</studentnos>
+	<room>C300</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Tutorial 2/1&3/LEAD/Apr 10th</activity>
+	<desc> </desc>
+	<joint>LU3086;LG3086</joint>
+	<studentnos>40</studentnos>
+	<room>C340</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Lecture 1/2/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>70</studentnos>
+	<room>C303</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LU3086</modulecode>
+	<activity>LU3086 Family & Child Law/Lecture 2/2/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3086;LU3086</joint>
+	<studentnos>70</studentnos>
+	<room>C303</room>
+	<lecturer>Draghici, Carmen </lecturer>
+	<day>Friday </day>
+</booking>

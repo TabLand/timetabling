@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>CS2606</modulecode>
+	<activity>CS2606 JavaScript: An Introduction to JavaScript Programming and DOM Scripting/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>EG12</room>
+	<lecturer>Guegan, Gilles </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS2606</modulecode>
+	<activity>CS2606 JavaScript: An Introduction to JavaScript Programming and DOM Scripting term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A220</room>
+	<lecturer>Guegan, Gilles </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS2606</modulecode>
+	<activity>CS2606 JavaScript: An Introduction to JavaScript Programming and DOM Scripting term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>B307A</room>
+	<lecturer>Guegan, Gilles </lecturer>
+	<day>Wednesday </day>
+</booking>

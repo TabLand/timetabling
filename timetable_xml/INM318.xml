@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM318</modulecode>
+	<activity>INM318 Gi Technologies And Applications/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C135</room>
+	<lecturer>Mountain, David </lecturer>
+	<day>Monday </day>
+</booking>

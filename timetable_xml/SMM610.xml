@@ -1,0 +1,65 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>17/03/14</week>
+	<modulecode>SMM610</modulecode>
+	<activity>SMM610 Structured Equity & Energy Derivatives/Lecture 1/1/WK 8</activity>
+	<desc>Spring : FT/PT 2/Kaist : Week 8 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>51</studentnos>
+	<room>G001</room>
+	<lecturer>Nomikos, Nikos Prof. </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>27/01/14-03/02/14, 17/02/14-24/02/14</week>
+	<modulecode>SMM610</modulecode>
+	<activity>SMM610 Structured Equity & Energy Derivatives/Lecture 1/1/WKS 1-2,4-5</activity>
+	<desc>Spring : FT/PT 2/Kaist: Weeks 1-2, 4-5</desc>
+	<joint> </joint>
+	<studentnos>51</studentnos>
+	<room>G001</room>
+	<lecturer>Hatgioannides, John </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>03/03/14, 24/03/14-31/03/14</week>
+	<modulecode>SMM610</modulecode>
+	<activity>SMM610 Structured Equity & Energy Derivatives/Lecture 1/1/WKS 6,9-10</activity>
+	<desc>Spring : FT/PT 2/Kaist : Weeks 6, 9-10</desc>
+	<joint> </joint>
+	<studentnos>51</studentnos>
+	<room>G001</room>
+	<lecturer>Nomikos, Nikos Prof. </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM610</modulecode>
+	<activity>SMM610 Structured Equity & Energy Derivatives/Lecture 1/1/WK 5</activity>
+	<desc>Spring : FT/PT 2/Kaist: Week 5 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>51</studentnos>
+	<room>2006</room>
+	<lecturer>Hatgioannides, John </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>10/03/14</week>
+	<modulecode>SMM610</modulecode>
+	<activity>SMM610 Structured Equity & Energy Derivatives/Lecture 1/1/WK 7</activity>
+	<desc>Spring : FT/PT 2/Kaist : Week 7 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>51</studentnos>
+	<room>2005</room>
+	<lecturer>Nomikos, Nikos Prof. </lecturer>
+	<day>Wednesday </day>
+</booking>

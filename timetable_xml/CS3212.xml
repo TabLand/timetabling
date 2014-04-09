@@ -1,0 +1,26 @@
+<booking>
+	<start>12:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>CS3212</modulecode>
+	<activity>CS3212 Ideas, Stories, Plots: How to Construct the Framework of Your Novel/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A214</room>
+	<lecturer>Rudge, Penny </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>15:50</end>
+	<week>13/01/14</week>
+	<modulecode>CS3212</modulecode>
+	<activity>CS3212 Ideas, Stories, Plots: How to Construct the Framework of Your Novel</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A111</room>
+	<lecturer>Rudge, Penny </lecturer>
+	<day>Friday </day>
+</booking>

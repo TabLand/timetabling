@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MAM614</modulecode>
+	<activity>MAM614 Topology/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>IG03</room>
+	<lecturer>Kessar, R Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MAM614</modulecode>
+	<activity>MAM614 Topology/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C322</room>
+	<lecturer>Kessar, R Prof </lecturer>
+	<day>Tuesday </day>
+</booking>

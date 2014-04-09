@@ -1,0 +1,52 @@
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>03/03/14-10/03/14</week>
+	<modulecode>MBM409 CF (A)</modulecode>
+	<activity>MBM409 Mba Block 4: Corporate Finance/A1/Lecture 01-02/wks 1-2</activity>
+	<desc>FTMBA 2013 Block 4: Corporate Finance A session 1: Weeks 1 & 2 only</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2002</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>17/03/14-24/03/14</week>
+	<modulecode>MBM409 CF (A)</modulecode>
+	<activity>MBM409 Mba Block 4: Corporate Finance/A2/Lecture 03-04/wks 3-4</activity>
+	<desc>FTMBA 2013 Block 4: Corporate Finance A session 2: Week 3 -4 only</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2004</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>03/03/14-24/03/14</week>
+	<modulecode>MBM409 CF (A)</modulecode>
+	<activity>MBM409 Mba Block 4: Corporate Finance/A1/Lecture 01-04/wks 1-4</activity>
+	<desc>FTMBA 2013 Block 4: Corporate Finance A session 1: Weeks 1-4</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2002</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>03/03/14-10/03/14</week>
+	<modulecode>MBM409 CF (A)</modulecode>
+	<activity>MBM409 Mba Block 4: Corporate Finance/A2/Lecture 01-02/wks 1-2</activity>
+	<desc>FTMBA 2013 Block 4: Corporate Finance A session 2: Weeks 1 & 2</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2006</room>
+	<lecturer>Hahn, Peter </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+	<modulecode>CS2566</modulecode>
+	<activity>CS2566 VBA in Excel Part 3 term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Dimakopoulos, Dionisios </lecturer>
+	<day>Monday </day>
+</booking>

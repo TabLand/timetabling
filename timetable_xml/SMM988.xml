@@ -1,0 +1,104 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WK 01</activity>
+	<desc>PhD: MGT stream: Spring: Week 1 only</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>MacDonnell, Rhiannon </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>03/02/14, 24/02/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WKS 02&05</activity>
+	<desc>PhD: MGT stream: Spring: Weeks 2 & 5</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>17/02/14, 03/03/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WKS 04&06</activity>
+	<desc>PhD: MGT stream: Autumn: Weeks 4 & 6</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Feiereisen, Stephanie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>31/03/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WK 10</activity>
+	<desc>PhD: MGT stream: Spring: Week 10 only</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Luedicke, Marius </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WK 03</activity>
+	<desc>PhD: MGT stream: Spring: Week 3</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Scopelliti, Irene </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WK 07</activity>
+	<desc>PhD: MGT stream: Spring: Week 7 only</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Wiertz, Caroline </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>17/03/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WK 08</activity>
+	<desc>PhD: MGT stream: Spring: Week 8 only</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>2007</room>
+	<lecturer>Bardhi, Fleura Prof. </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>24/03/14</week>
+	<modulecode>SMM988</modulecode>
+	<activity>SMM988 Readings in Management 2 (Marketing): MGT/Lecture 1/WK 09</activity>
+	<desc>PhD: MGT stream: Spring: Week 9 only</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>CS2&3</room>
+	<lecturer>Wiertz, Caroline </lecturer>
+	<day>Friday </day>
+</booking>

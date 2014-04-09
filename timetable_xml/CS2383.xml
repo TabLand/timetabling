@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS2383</modulecode>
+	<activity>CS2383 Screenwriting: First Steps term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A111</room>
+	<lecturer>Hood, Dictynna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS2383</modulecode>
+	<activity>CS2383 Screenwriting term 2 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A111</room>
+	<lecturer>Hood, Dictynna </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14-30/06/14</week>
+	<modulecode>CS2383</modulecode>
+	<activity>CS2383 Screenwriting: first steps term 3 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Hood, Dictynna </lecturer>
+	<day>Thursday </day>
+</booking>

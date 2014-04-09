@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+	<modulecode>SMM066</modulecode>
+	<activity>SMM066 Statistical Methods (Ct6)/Lecture 01/02/WKS 1-3, 5-10</activity>
+	<desc>(Ct6) Spring: Weeks 1-3, 5-10</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2004</room>
+	<lecturer>Asimit, Vali Dr </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+	<modulecode>SMM066</modulecode>
+	<activity>SMM066 Statistical Methods (Ct6)/Lecture 02/02/WKS 1-3, 5-10</activity>
+	<desc>(Ct6) Spring : Weeks 1-3, 5-10</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>G001</room>
+	<lecturer>Asimit, Vali Dr </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>SMM066</modulecode>
+	<activity>SMM066 Statistical Methods (Ct6)/Lecture 01/02/WK 7</activity>
+	<desc>(Ct6) Spring: Week 7 ONLY (replacement for wk 4 missed)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2004</room>
+	<lecturer>Asimit, Vali Dr </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>10/03/14</week>
+	<modulecode>SMM066</modulecode>
+	<activity>SMM066 Statistical Methods (Ct6)/Lecture 02/02/WK 7</activity>
+	<desc>(Ct6) Spring : Week 7 ONLY (replacement for wk 4 missed)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2004</room>
+	<lecturer>Asimit, Vali Dr </lecturer>
+	<day>Friday </day>
+</booking>

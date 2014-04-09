@@ -1,0 +1,104 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-17/02/14, 10/03/14, 07/04/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/Lecture/wks 1-4,7,11</activity>
+	<desc>Spring Lecture : A&F: Weeks 1-4,7,11</desc>
+	<joint>AF2203;AF2203</joint>
+	<studentnos>62</studentnos>
+	<room>CG05</room>
+	<lecturer>Herdan, Agnieszka </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>24/02/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/Lecture/wks 5-6,8-10</activity>
+	<desc>Spring Lecture : A&F: Weeks 5-6, 8-10</desc>
+	<joint>AF2203;AF2203</joint>
+	<studentnos>62</studentnos>
+	<room>CG05</room>
+	<lecturer>Stevenson, Jamie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>03/02/14-17/02/14, 10/03/14, 07/04/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/Tutorial 01/02/wks 2-4,7,11</activity>
+	<desc>Group 01: Weeks 2-4,7,11</desc>
+	<joint>AF2203;AF2203</joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Herdan, Agnieszka </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>24/02/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/Tutorial 01/02/wks 5-6, 8-10</activity>
+	<desc>Group 01: Weeks 5-6, 8-10</desc>
+	<joint>AF2203;AF2203</joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Stevenson, Jamie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>03/02/14-17/02/14, 10/03/14, 07/04/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/Tutorial 02/02/wks 2-4,7,11</activity>
+	<desc>Group 02 : Weeks 2-4,7,11</desc>
+	<joint>AF2203;AF2203</joint>
+	<studentnos>33</studentnos>
+	<room>DLG19</room>
+	<lecturer>Herdan, Agnieszka </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>24/02/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/Tutorial 02/02/wks 5-6, 8-10</activity>
+	<desc>Group 02 : Weeks 5-6, 8-10</desc>
+	<joint>AF2203;AF2203</joint>
+	<studentnos>33</studentnos>
+	<room>DLG19</room>
+	<lecturer>Stevenson, Jamie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>03/03/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/TEST/wk 6</activity>
+	<desc>Spring Test : A&F: Week 6 only</desc>
+	<joint> </joint>
+	<studentnos>130</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>31/03/14</week>
+	<modulecode>AF2203</modulecode>
+	<activity>AF2203 Financial Accounting 2/A&F/TEST/wk 10</activity>
+	<desc>Spring Test : A&F: 63 students require 130 seats: Week 10 only</desc>
+	<joint> </joint>
+	<studentnos>130</studentnos>
+	<room>Oakden</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

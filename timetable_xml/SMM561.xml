@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM561</modulecode>
+	<activity>SMM586 Corporate Finance/B/Lecture 1/01</activity>
+	<desc>CF (B)</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>G001</room>
+	<lecturer>Cespa, Giovanni </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM561</modulecode>
+	<activity>SMM586 Corporate Finance/A/Lecture 1/02</activity>
+	<desc>CF (A)</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2002</room>
+	<lecturer>Cespa, Giovanni </lecturer>
+	<day>Wednesday </day>
+</booking>

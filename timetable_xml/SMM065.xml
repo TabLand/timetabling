@@ -1,0 +1,52 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>SMM065</modulecode>
+	<activity>SMM065 Contingencies (Ct5)/Lecture 01/02/WKS 1-6</activity>
+	<desc>(Ct5) WEEKS 1-6</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>3002</room>
+	<lecturer>Rickayzen, Ben </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>10/03/14-31/03/14</week>
+	<modulecode>SMM065</modulecode>
+	<activity>SMM065 Contingencies (Ct5)/Lecture 01/02/WKS 7-10</activity>
+	<desc>(Ct5) WEEKS 7-10</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>3002</room>
+	<lecturer>Millossovich, Pietro </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>27/01/14-03/03/14</week>
+	<modulecode>SMM065</modulecode>
+	<activity>SMM065 Contingencies (Ct5)/Lecture 02/02/WKS 1-6</activity>
+	<desc>(Ct5) WEEKS 1-6</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>3002</room>
+	<lecturer>Rickayzen, Ben </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>10/03/14-31/03/14</week>
+	<modulecode>SMM065</modulecode>
+	<activity>SMM065 Contingencies (Ct5)/Lecture 02/02/WKS 7-10</activity>
+	<desc>(Ct5) WEEKS 7-10</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>3002</room>
+	<lecturer>Millossovich, Pietro </lecturer>
+	<day>Tuesday </day>
+</booking>

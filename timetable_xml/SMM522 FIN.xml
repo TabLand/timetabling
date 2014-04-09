@@ -1,0 +1,39 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>21/10/13, 04/11/13, 18/11/13</week>
+	<modulecode>SMM522 FIN</modulecode>
+	<activity>SMM522 Research Methods for Finance Professionals (MSc Fin)/A1/LAB 01/02</activity>
+	<desc>MSc Fin : LAB : Group 01 of 02 : Weeks 4, 6, 8</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2001</room>
+	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>10/03/14</week>
+	<modulecode>SMM522 FIN</modulecode>
+	<activity>SMM522 Research Project Management Skills (MSc Fin)/T2/Lecture/WK 7</activity>
+	<desc>MSc Finance ONLY : Spring Lecture : Week 7 ONLY</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>3002</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>21/10/13, 04/11/13, 18/11/13</week>
+	<modulecode>SMM522 FIN</modulecode>
+	<activity>SMM522 Research Methods for Finance Professionals (MSc Fin)/A2/LAB 02/02</activity>
+	<desc>MSc Fin: LAB : Group 02 of 02 : Weeks 4, 6, 8</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>2001</room>
+	<lecturer>VL 02 -Adkins Matchett & Toy </lecturer>
+	<day>Friday </day>
+</booking>

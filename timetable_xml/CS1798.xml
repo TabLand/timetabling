@@ -1,0 +1,26 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
+	<modulecode>CS1798</modulecode>
+	<activity>CS1798 Practical Financial Managment for the Small Business 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C337</room>
+	<lecturer>Robinson, Hugh </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-10/02/14, 24/02/14-07/04/14</week>
+	<modulecode>CS1798</modulecode>
+	<activity>CS1798 Practical Financial Managment for the Small Business term 2 (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C337</room>
+	<lecturer>Robinson, Hugh </lecturer>
+	<day>Tuesday </day>
+</booking>

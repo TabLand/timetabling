@@ -1,0 +1,13 @@
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+	<modulecode>ECM235</modulecode>
+	<activity>ECM235 Development Economics/Lecture 01/01</activity>
+	<desc>Weeks 1-4 & 6-11</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D107</room>
+	<lecturer>Mesnard, Alice </lecturer>
+	<day>Tuesday </day>
+</booking>

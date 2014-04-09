@@ -1,0 +1,39 @@
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>SMM500</modulecode>
+	<activity>SMM500 Ethics, Society & the Finance Sector/Block/Lecture 01/wk 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>111</studentnos>
+	<room>LG002/3</room>
+	<lecturer>Hailey, John Prof. </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>SMM500</modulecode>
+	<activity>SMM500 Ethics, Society & the Finance Sector/Block/Lecture 01/wk 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>111</studentnos>
+	<room>LG002/3</room>
+	<lecturer>Hailey, John Prof. </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>18:00</end>
+	<week>19/05/14</week>
+	<modulecode>SMM500</modulecode>
+	<activity>SMM500 Ethics, Society & the Finance Sector/Block/Lecture 01/wk 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>111</studentnos>
+	<room>LG002/3</room>
+	<lecturer>Hailey, John Prof. </lecturer>
+	<day>Wednesday </day>
+</booking>

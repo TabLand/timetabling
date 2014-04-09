@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13-07/10/13, 21/10/13-02/12/13</week>
+	<modulecode>SMM515</modulecode>
+	<activity>SMM515 Equity Analysis/IM/Lecture/WKS 1-2, 4-11</activity>
+	<desc>IM: Autumn Lecture: Weeks 1-2, 4-11</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Staikouras, Sotiris </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13</week>
+	<modulecode>SMM515</modulecode>
+	<activity>SMM515 Equity Analysis/IM/Extra Lecture/WK 1</activity>
+	<desc>IM: Autumn Lecture: Extra lecture week 1 only</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Staikouras, Sotiris </lecturer>
+	<day>Friday </day>
+</booking>

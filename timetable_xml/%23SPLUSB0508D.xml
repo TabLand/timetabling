@@ -1,0 +1,39 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>30/09/13-28/10/13, 18/11/13-09/12/13</week>
+	<modulecode>#SPLUSB0508D</modulecode>
+	<activity>Extracurricular Spanish for Business 3 Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>04/11/13-11/11/13</week>
+	<modulecode>#SPLUSB0508D</modulecode>
+	<activity>Extracurricular German for Business Advanced Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>ALG16</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>#SPLUSB0508D</modulecode>
+	<activity>Extracurricular Spanish for Business 3 Spring/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

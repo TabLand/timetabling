@@ -1,0 +1,13 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>17/02/14-31/03/14</week>
+	<modulecode>SMM881</modulecode>
+	<activity>SMM881 Advanced Strategy Analysis/Lecture 1/WKS 4-10</activity>
+	<desc>Weeks 4-10</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>2006</room>
+	<lecturer>Aversa, Paolo;Haefliger, Stefan </lecturer>
+	<day>Tuesday </day>
+</booking>

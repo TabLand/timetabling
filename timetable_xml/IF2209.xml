@@ -1,0 +1,143 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>07/04/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/B/Tutorial 02/03/wk 11</activity>
+	<desc>Spring : Group B : Week 11 ONLY (Replacement slot for wk 10 missed)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C339</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/C/Tutorial 03/03/wk 11</activity>
+	<desc>Spring : Group C : Week 11 ONLY (Replacement slot for wk 10 missed)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C339</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/04/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/A/Tutorial 01/01/wk 11</activity>
+	<desc>Spring : Group A : Week 11 ONLY (Replacement slot for wk 10 missed)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C339</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/Lecture 01</activity>
+	<desc>Spring</desc>
+	<joint> </joint>
+	<studentnos>81</studentnos>
+	<room>AG21</room>
+	<lecturer>Kyriakou, Ioannis </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/B/Tutorial 02/03/wk 6</activity>
+	<desc>Spring : Group B : Week 6 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C339</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/C/Tutorial 03/03/wk 6</activity>
+	<desc>Spring : Group C : Week 6 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C339</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/A/Tutorial 01/01/wk 6</activity>
+	<desc>Spring : Group A : Week 6 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C339</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/C/Tutorial 03/03/wks 1-5, 7-9,11</activity>
+	<desc>Spring : Group C : Weeks 1-5,7-9, 11</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>D220</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/A/Tutorial 01/01/wks 1-5,7-9,11</activity>
+	<desc>Spring : Group A : Weeks 1-5, 7-9, 11</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>AG03</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/B/Tutorial 02/03/wks 1-5,7-9</activity>
+	<desc>Spring : Group B : Weeks 1-5, 7-9</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C161</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>07/04/14</week>
+	<modulecode>IF2209</modulecode>
+	<activity>IF2209 Derivatives/BIF/B/Tutorial 02/03/wk 11</activity>
+	<desc>Spring : Group B : Week 11 ONLY (replacement room)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C350</room>
+	<lecturer>Vitkova, Valeriya </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM335</modulecode>
+	<activity>INM335 Multimedia Design and Development/Lecture 1/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A219</room>
+	<lecturer>Bird, Jon </lecturer>
+	<day>Wednesday </day>
+</booking>

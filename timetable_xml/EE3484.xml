@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE3484</modulecode>
+	<activity>EE3484 Computer Systems/Lecture 1/02/JOINT</activity>
+	<desc>Joint with EE3505: total numbers 30</desc>
+	<joint>EE3484;EE3505</joint>
+	<studentnos>15</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE3484</modulecode>
+	<activity>EE3484 Computer Systems/Lab Sems 1/02/JOINT</activity>
+	<desc>Joint with EE3505: total numbers 30</desc>
+	<joint>EE3484;EE3505</joint>
+	<studentnos>15</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE3484</modulecode>
+	<activity>EE3484 Computer Systems/Tutorial 1/02/JOINT</activity>
+	<desc>Joint with EE3505: total numbers 30</desc>
+	<joint>EE3484;EE3505</joint>
+	<studentnos>15</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

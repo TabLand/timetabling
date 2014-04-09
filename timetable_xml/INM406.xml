@@ -1,0 +1,13 @@
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM406</modulecode>
+	<activity>INM406 Creative Writing/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>O'Shea, Phil </lecturer>
+	<day>Friday </day>
+</booking>

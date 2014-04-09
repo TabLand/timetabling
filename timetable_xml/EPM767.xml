@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>EPM767</modulecode>
+	<activity>EPM767 Mathematical Modelling In Computer Aided Design Of Screw Compressors/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C339</room>
+	<lecturer>Stosic, N </lecturer>
+	<day>Wednesday </day>
+</booking>

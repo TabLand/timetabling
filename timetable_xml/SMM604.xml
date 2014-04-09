@@ -1,0 +1,26 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>SMM604</modulecode>
+	<activity>SMM604 Mathematical Finance/Lecture 01/01</activity>
+	<desc>Autumn: jnt ft/pt1</desc>
+	<joint> </joint>
+	<studentnos>46</studentnos>
+	<room>3002</room>
+	<lecturer>Ballotta, Laura </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>07/10/13-21/10/13, 11/11/13-25/11/13</week>
+	<modulecode>SMM604</modulecode>
+	<activity>SMM604 Mathematical Finance/Tutorial 01/01</activity>
+	<desc>Autumn: jnt ft/pt1 : Tutorial : Weeks 2-4, 7-9</desc>
+	<joint> </joint>
+	<studentnos>46</studentnos>
+	<room>2006</room>
+	<lecturer>Ballotta, Laura </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,481 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 16/01</activity>
+	<desc>Oncology of the Female Reproductive System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C161</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:30</end>
+	<week>09/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 8/01</activity>
+	<desc>Tutorial on Female Reproductive System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C161</room>
+	<lecturer>Cherry, Pam;Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>14/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 1/01</activity>
+	<desc>Module Introduction</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C161</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 11/01</activity>
+	<desc>Oncology of the Haematological System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>AG03</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>18/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 8/01</activity>
+	<desc>Oncology of the Lymphatic System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>AG03</room>
+	<lecturer>Raymond-Barker, Clare </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>02/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 14/01</activity>
+	<desc>Oncology of the Male Reproductive System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>AG03</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 2/01</activity>
+	<desc>Introduction to Anatomy & Physiology</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>AG03</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>21/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 1/01</activity>
+	<desc>Tutorial on Cells & Tissues</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 6/01</activity>
+	<desc>Oncology of primary bone tumours</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 12/01</activity>
+	<desc>Oncology of the Endocrine System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Khine, Ricardo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 3/01</activity>
+	<desc>Planes Regions & Surface Anatomy</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>AG03</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:30</end>
+	<week>18/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 10/01</activity>
+	<desc>Overview of Endocrine System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>AG03</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:30</start>
+	<end>16:30</end>
+	<week>21/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 9/01</activity>
+	<desc>Overview of the Haematological System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>CG05</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 2/01</activity>
+	<desc>Tutorial on musculo-skeletal system</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>DLG09</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>02/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 6/01</activity>
+	<desc>Tutorial on Male Reproductive System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 7/01</activity>
+	<desc>Drop in Tutorial for RT1024 Module</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 4/01</activity>
+	<desc>Tutorial on Haematological System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>18/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 3/01</activity>
+	<desc>Tutorial on Lymphatics System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Tutorial 5/01</activity>
+	<desc>Tutorial on Endocrine System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 5/01</activity>
+	<desc>Overview of the musculo-skeletal system</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 7/01</activity>
+	<desc>Overview of the Lymphatic System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 13/01</activity>
+	<desc>Overview of the Male Reproductive System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Lecture 15/01</activity>
+	<desc>Overview of the Female Reproductive System</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>C339</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/03</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/05</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/06</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>18/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/11</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/08</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>14:50</end>
+	<week>02/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/12</activity>
+	<desc>RT1024 Directed Study (All day - 8hrs)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>02/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/12a</activity>
+	<desc>RT1024 Directed Study (All day - 8hrs)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/01</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/02</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/03</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/07</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>18/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/09</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>25/11/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/10</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Thorne, Richard </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>17:50</end>
+	<week>02/12/13</week>
+	<modulecode>RT1024</modulecode>
+	<activity>RT1024 Anatomy, Physiology & Oncology 1/Self Study 1/13</activity>
+	<desc>RT1024 Directed Study (All day)</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>No room needed</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Friday </day>
+</booking>

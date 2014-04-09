@@ -1,0 +1,13 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM609</modulecode>
+	<activity>SMM609 Risk Analysis & Modelling/Lecture 01/1</activity>
+	<desc>Spring : FT/PT 2/Kaist</desc>
+	<joint> </joint>
+	<studentnos>51</studentnos>
+	<room>G001</room>
+	<lecturer>Fusai, Gianluca </lecturer>
+	<day>Thursday </day>
+</booking>

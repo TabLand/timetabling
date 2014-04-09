@@ -1,0 +1,78 @@
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>28/10/13</week>
+	<modulecode>LAM061</modulecode>
+	<activity>LAM061 Translating Multimodal Texts/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BLG07</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>20/01/14</week>
+	<modulecode>LAM061</modulecode>
+	<activity>LAM061 Translating Multimodal Texts/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BLG08</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>LAM061</modulecode>
+	<activity>LAM061 Translating Multimodal Texts/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG02</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>14/10/13-21/10/13, 04/11/13</week>
+	<modulecode>LAM061</modulecode>
+	<activity>LAM061 Translating Multimodal Texts/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BLG08</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>11/11/13</week>
+	<modulecode>LAM061</modulecode>
+	<activity>LAM061 Translating Multimodal Texts/01/Nov 14th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C303</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>25/11/13</week>
+	<modulecode>LAM061</modulecode>
+	<activity>LAM061 Translating Multimodal Texts/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C150</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Thursday </day>
+</booking>

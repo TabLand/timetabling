@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+	<modulecode>ECM011</modulecode>
+	<activity>ECM011 International Money & Finance/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>D112</room>
+	<lecturer>Pearlman, Joseph </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>17/02/14, 07/04/14</week>
+	<modulecode>ECM011</modulecode>
+	<activity>ECM011 International Money & Finance/Lecture 01/Wks 4&11</activity>
+	<desc>Weeks 4 & 11: Different Location</desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>C345</room>
+	<lecturer>Pearlman, Joseph </lecturer>
+	<day>Wednesday </day>
+</booking>

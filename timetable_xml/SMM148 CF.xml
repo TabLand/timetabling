@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-02/12/13</week>
+	<modulecode>SMM148 CF</modulecode>
+	<activity>SMM148 Theory of Finance (MSc CF)/T1/Lecture/WKS 1-4, 6-10</activity>
+	<desc>MSc CF: Weeks 1-4, 6-10</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>G001</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>28/10/13</week>
+	<modulecode>SMM148 CF</modulecode>
+	<activity>SMM148 Theory of Finance (MSc CF)/T1/Lecture/WK 5</activity>
+	<desc>MSc CF: Week 5 ONLY (Replacement)</desc>
+	<joint> </joint>
+	<studentnos>77</studentnos>
+	<room>2004</room>
+	<lecturer>Nitzsche, Dirk </lecturer>
+	<day>Thursday </day>
+</booking>

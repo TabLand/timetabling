@@ -1,0 +1,26 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14, 10/02/14, 24/02/14, 10/03/14, 24/03/14</week>
+	<modulecode>SMM034</modulecode>
+	<activity>SMM034 Finance & Investment A/ST5/Lecture 01</activity>
+	<desc>ST5 -Spring : Weeks 1, 3, 5, 7, 9</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2006</room>
+	<lecturer>Booth, Philip </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>SMM034</modulecode>
+	<activity>SMM034 Finance & Investment A/ST5/Lecture 02</activity>
+	<desc>ST5 -Spring : Weeks 2, 4, 6, 8, 10</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2006</room>
+	<lecturer>Khorasanee, Zaki </lecturer>
+	<day>Monday </day>
+</booking>

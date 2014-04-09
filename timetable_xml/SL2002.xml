@@ -1,0 +1,39 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13</week>
+	<modulecode>SL2002</modulecode>
+	<activity>SL2002 Bio-medical Sciences (2)/Lecture 1/01 (joint) wk1</activity>
+	<desc>Joint with SLM002</desc>
+	<joint>SL2002;SLM002</joint>
+	<studentnos>43</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SL2002</modulecode>
+	<activity>SL2002 Bio-medical Sciences (2)/Lecture 1/01 (joint) wks 2-11</activity>
+	<desc>Joint with SLM002</desc>
+	<joint>SLM002;SL2002</joint>
+	<studentnos>43</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14</week>
+	<modulecode>SL2002</modulecode>
+	<activity>SL2002 Bio-medical Sciences (2)/MCT 2/01</activity>
+	<desc>Bio-medical Sciences (2) class test (50 UGs only in rm) same time as SLM002</desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG21</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

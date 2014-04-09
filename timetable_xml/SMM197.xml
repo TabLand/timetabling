@@ -1,0 +1,39 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>04/11/13, 18/11/13</week>
+	<modulecode>SMM197</modulecode>
+	<activity>SMM197 Real Estate Investment & Financial Analysis/Computer Lab/WKS 6,8</activity>
+	<desc>REI GROUP : Computer Lab : Weeks 6 & 8</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2001</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>30/09/13, 14/10/13-02/12/13</week>
+	<modulecode>SMM197</modulecode>
+	<activity>SMM197 Real Estate Investment & Financial Analysis/Lecture/WKS 1,3-10</activity>
+	<desc>Autumn lecture REI - Weeks 1, 3-10</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3003</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>07/10/13</week>
+	<modulecode>SMM197</modulecode>
+	<activity>SMM197 Real Estate Investment & Financial Analysis/Lecture/WK 2</activity>
+	<desc>Autumn lecture REI - Week 2 ONLY (replacement)</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>3003</room>
+	<lecturer>Lee, Stephen </lecturer>
+	<day>Tuesday </day>
+</booking>

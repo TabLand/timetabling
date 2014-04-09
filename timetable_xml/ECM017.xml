@@ -1,0 +1,13 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>ECM017</modulecode>
+	<activity>ECM017 Macroeconomics/Lecture 01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D221</room>
+	<lecturer>Kara, Engin </lecturer>
+	<day>Friday </day>
+</booking>

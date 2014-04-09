@@ -1,0 +1,13 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-14/10/13, 28/10/13-09/12/13</week>
+	<modulecode>MUM115</modulecode>
+	<activity>MUM115 Urban Musicology</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG09</room>
+	<lecturer>Nooshin, Laudan </lecturer>
+	<day>Wednesday </day>
+</booking>

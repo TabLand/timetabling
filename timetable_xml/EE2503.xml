@@ -1,0 +1,26 @@
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE2503</modulecode>
+	<activity>EE2503 Biomedical Optics 1/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>CG03</room>
+	<lecturer>Philips, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE2503</modulecode>
+	<activity>EE2503 Biomedical Optics 1/Tutorial 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG08</room>
+	<lecturer>Philips, J </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>30/09/13, 14/10/13-02/12/13</week>
+	<modulecode>SMM356</modulecode>
+	<activity>SMM356 Risk Management/Lecture 01/wks 1,3-10</activity>
+	<desc>FT & PT YR 2 : Weeks 1, 3-10</desc>
+	<joint> </joint>
+	<studentnos>67</studentnos>
+	<room>G001</room>
+	<lecturer>Hutcheson, Hugh-David </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>14/10/13</week>
+	<modulecode>SMM356</modulecode>
+	<activity>SMM356 Risk Management/Lecture/wk 3</activity>
+	<desc>FT & PT YR 2 : Week 3 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>67</studentnos>
+	<room>2004</room>
+	<lecturer>Hutcheson, Hugh-David </lecturer>
+	<day>Wednesday </day>
+</booking>

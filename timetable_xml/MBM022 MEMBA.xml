@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>07/04/14</week>
+	<modulecode>MBM022 MEMBA</modulecode>
+	<activity>MBM022 Strategy 1/MEMBA14/syn rooms 01</activity>
+	<desc>MEMBA 14 Intake : Syndicate rooms - G. Lanzolla</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>07/04/14</week>
+	<modulecode>MBM022 MEMBA</modulecode>
+	<activity>MBM022 Strategy 1/MEMBA14/Lecture 01</activity>
+	<desc>MEMBA 14 Intake</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Lanzolla, Gianvito Prof </lecturer>
+	<day>Friday </day>
+</booking>

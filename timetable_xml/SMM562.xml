@@ -1,0 +1,26 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM562</modulecode>
+	<activity>SMM562 International Business & Financial Markets/A/Lecture 1/01</activity>
+	<desc>IBFM (A)</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>G001</room>
+	<lecturer>Papapostolou, Nikolaos </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM562</modulecode>
+	<activity>SMM562 International Business & Financial Markets/B/Lecture 2/02</activity>
+	<desc>IBFM (B)</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Pouliasis, Panagiotis </lecturer>
+	<day>Friday </day>
+</booking>

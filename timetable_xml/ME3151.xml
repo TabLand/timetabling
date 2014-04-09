@@ -1,0 +1,39 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME3151</modulecode>
+	<activity>ME3151 Internal Combustion Engines & Vehicle Powertrain/Lecture 2/01/LEAD</activity>
+	<desc>Vehicle Powertrain: Joint with EPM766: total numbers 45</desc>
+	<joint>ME3151;EPM766</joint>
+	<studentnos>45</studentnos>
+	<room>A110</room>
+	<lecturer>Pullen, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>13/01/14</week>
+	<modulecode>ME3151</modulecode>
+	<activity>ME3151 Internal Combustion Engines & Vehicle Powertrain/Revision session</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>C350</room>
+	<lecturer>Pullen, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME3151</modulecode>
+	<activity>ME3151 Internal Combustion Engines & Vehicle Powertrain/Lecture 1/01/LEAD</activity>
+	<desc>ICE: Joint with EPM766: total numbers 45</desc>
+	<joint>ME3151;EPM766</joint>
+	<studentnos>45</studentnos>
+	<room>A110</room>
+	<lecturer>Pullen, K </lecturer>
+	<day>Thursday </day>
+</booking>

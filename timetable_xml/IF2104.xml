@@ -1,0 +1,117 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>09/12/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/Revision Lecture/BIF, BUS, IFRM, MGT/WK 11</activity>
+	<desc>Revision Lecture : BIF, BUS, IFRM, MGT: Week 11 only</desc>
+	<joint> </joint>
+	<studentnos>94</studentnos>
+	<room>Poynton</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/BIF,BUS/T1/Stream 01/Computer LAB 01/wks 1-10</activity>
+	<desc>Autumn : Computer Lab: BIF & BUS : Stream 01: Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>37</studentnos>
+	<room>EG07</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/MGT/T1/Stream 02/Computer LAB/TEST/wk 11</activity>
+	<desc>Autumn : Computer Lab: MGT : Stream 02: WEEK 11 only: TEST</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>A220</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/IFRM/T1/Stream 03/Computer LAB/TEST/WK 11</activity>
+	<desc>Autumn : Computer Lab: IFRM : Stream 03 : Week 11 TEST</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A307&8</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/BIF,BUS/T1/Stream 01/Computer LAB/TEST/wk 11</activity>
+	<desc>Autumn : Computer Lab: BIF & BUS : Stream 01: Week 11 only: TEST</desc>
+	<joint> </joint>
+	<studentnos>37</studentnos>
+	<room>EG07</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>14/10/13-02/12/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/MGT/T1/Stream 02/Computer LAB 02/wks 1-10</activity>
+	<desc>Autumn : Computer Lab: MGT : Stream 02: Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>A307&8</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>21/10/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/IFRM/T1/Stream 03/Computer LAB 03/WK 4</activity>
+	<desc>Autumn : Computer Lab: IFRM : Stream 03 : Week 4 only (replacment slot for wk 3 missed)</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A220</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>21/10/13-18/11/13, 02/12/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/IFRM/T1/Stream 03/Computer LAB 03/WKS 4-8, 10</activity>
+	<desc>Autumn : Computer Lab: IFRM : Stream 03 : Weeks 4-8, 10</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A307&8</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>25/11/13</week>
+	<modulecode>IF2104</modulecode>
+	<activity>IF2104 Introduction to Python/IFRM/T1/Stream 03/Computer LAB 03/WK 9</activity>
+	<desc>Autumn : Computer Lab: IFRM : Stream 03 : Week 9 only</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A220</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Wednesday </day>
+</booking>

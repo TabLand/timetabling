@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>11:30</end>
+	<week>21/10/13</week>
+	<modulecode>RCM120</modulecode>
+	<activity>RCM120 Work-based Learning In Practice/Tutorial 01/01</activity>
+	<desc>Work Based Learning - Ultrasound tutorial</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A109</room>
+	<lecturer>Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RCM120</modulecode>
+	<activity>RCM120 Work-based Learning In Practice/Lecture 1/01</activity>
+	<desc>Oral Presentations</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>D113</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/02/14</week>
+	<modulecode>RCM120</modulecode>
+	<activity>RCM120 Work-based Learning In Practice/Lecture 1/02</activity>
+	<desc>Oral Presentations</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>D113</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS633C05</modulecode>
+	<activity>Induction - Erasmus Mundus (Wed)</activity>
+	<desc>Steve Schifferes 3522</desc>
+	<joint>#SPLUS633C05;Fin Ind</joint>
+	<studentnos>35</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>10/02/14, 03/03/14, 17/03/14, 31/03/14</week>
+	<modulecode>LU3076</modulecode>
+	<activity>LU3076 Intellectual Property Law/Tutorial 1/2</activity>
+	<desc>LLB3 students only</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG03</room>
+	<lecturer>Bonadio, Enrico </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LU3076</modulecode>
+	<activity>LU3076 Intellectual Property Law/Tutorial 1/1</activity>
+	<desc>LLB3 students only</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG03</room>
+	<lecturer>Bonadio, Enrico </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>LU3076</modulecode>
+	<activity>LU3076 Intellectual Property Law/Lecture 1/1/LEAD</activity>
+	<desc> </desc>
+	<joint>LU3076;LG3076</joint>
+	<studentnos>78</studentnos>
+	<room>B103</room>
+	<lecturer>Bonadio, Enrico </lecturer>
+	<day>Tuesday </day>
+</booking>

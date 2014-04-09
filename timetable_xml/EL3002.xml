@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EL3002</modulecode>
+	<activity>EL3002 Professional Project in the Cultural Industries/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>C339</room>
+	<lecturer>Sandoval, Marisol </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EL3002</modulecode>
+	<activity>EL3002 Professional Project in the Cultural Industries/Tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>D221</room>
+	<lecturer>Sandoval, Marisol </lecturer>
+	<day>Wednesday </day>
+</booking>

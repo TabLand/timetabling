@@ -1,0 +1,299 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14-09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG27 (TV Studio);AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14-09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG27 (TV Studio);AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>05/05/14-12/05/14, 26/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice TV</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>B307A;A218</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>05/05/14-26/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice Radio</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>19/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice TV</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice Radio</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14-09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG27 (TV Studio);AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>05/05/14-19/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG27 (TV Studio);AG34b;AG34a;AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG27 (TV Studio);AG34b;AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14-09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG27 (TV Studio);AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice Radio</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>02/06/14-09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG27 (TV Studio);AG29b;AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>09/06/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b;AG34a</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>JOM882</modulecode>
+	<activity>JOM882 Journalism Practice Radio</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>1</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>AS3015</modulecode>
+	<activity>AS3015 Extreme Event Statistics/Lecture 01/01</activity>
+	<desc>REST OF MATHS STU SETS TO BE ATTACHED</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG03</room>
+	<lecturer>Millossovich, Pietro </lecturer>
+	<day>Thursday </day>
+</booking>

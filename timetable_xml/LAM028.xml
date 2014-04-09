@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>19/05/14</week>
+	<modulecode>LAM028</modulecode>
+	<activity>LAM028 Audiovisual Project Management</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>9</studentnos>
+	<room>B307A</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>LAM028</modulecode>
+	<activity>LAM028 Audiovisual Project Management</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>IF1201 IFRM</modulecode>
+	<activity>IF1201 Introduction to Visual Basic/IFRM/T1/Computer Room 01</activity>
+	<desc>Autumn Lecture : IFRM : Computer lab</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>EG12</room>
+	<lecturer>Kadam, Ashay </lecturer>
+	<day>Monday </day>
+</booking>

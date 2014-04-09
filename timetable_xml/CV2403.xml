@@ -1,0 +1,78 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>13/01/14</week>
+	<modulecode>CV2403</modulecode>
+	<activity>CV2403 Structural Analysis/Lecture 2/03</activity>
+	<desc>In-class test</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Poynton</room>
+	<lecturer>Micic, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>20/01/14-10/02/14, 24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>CV2403</modulecode>
+	<activity>CV2403 Structural Analysis/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>B103</room>
+	<lecturer>Micic, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>24/02/14, 10/03/14-17/03/14</week>
+	<modulecode>CV2403</modulecode>
+	<activity>CV2403 Structural Analysis/Lab SEMS 1/02</activity>
+	<desc>50 students</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>Micic, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>24/02/14, 10/03/14</week>
+	<modulecode>CV2403</modulecode>
+	<activity>CV2403 Structural Analysis/Lab SEMS 2/02</activity>
+	<desc>50 students</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG50;CG51</room>
+	<lecturer>Micic, T </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>CV2403</modulecode>
+	<activity>CV2403 Structural Analysis/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>AG21</room>
+	<lecturer>Giaralis, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>03/02/14</week>
+	<modulecode>CV2403</modulecode>
+	<activity>CV2403 Structural Analysis/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>BG02</room>
+	<lecturer>Micic, T </lecturer>
+	<day>Thursday </day>
+</booking>

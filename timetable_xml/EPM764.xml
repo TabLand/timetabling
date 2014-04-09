@@ -1,0 +1,52 @@
+<booking>
+	<start>13:30</start>
+	<end>14:50</end>
+	<week>31/03/14</week>
+	<modulecode>EPM764</modulecode>
+	<activity>EPM764 Engineering Applications Of Computational Fluid Dynamics</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A217</room>
+	<lecturer>Ghobadian, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>EPM764</modulecode>
+	<activity>EPM764 Engineering Applications Of Computational Fluid Dynamics/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Ghobadian, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:30</end>
+	<week>07/04/14</week>
+	<modulecode>EPM764</modulecode>
+	<activity>EPM764 Engineering Applications Of Computational Fluid Dynamics/Lecture 1/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>C323</room>
+	<lecturer>Ghobadian, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>EPM764</modulecode>
+	<activity>EPM764 Engineering Applications Of Computational Fluid Dynamics/01</activity>
+	<desc>Prof Ghobadian Ali</desc>
+	<joint> </joint>
+	<studentnos>12</studentnos>
+	<room>A217</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

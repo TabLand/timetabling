@@ -1,0 +1,78 @@
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14, 24/03/14-07/04/14</week>
+	<modulecode>INM316</modulecode>
+	<activity>INM316 Web Applications Development Lecture1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A111</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>INM316</modulecode>
+	<activity>INM316 Web Applications Development Lecture1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C164</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14</week>
+	<modulecode>INM316</modulecode>
+	<activity>INM316 Web Applications Development Lab1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>EG03</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>24/03/14-07/04/14</week>
+	<modulecode>INM316</modulecode>
+	<activity>INM316 Web Applications Development Lab1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG13</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM316</modulecode>
+	<activity>INM316 Web Applications Development Lecture2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A111</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM316</modulecode>
+	<activity>INM316 Web Applications Development Lab2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A220</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Friday </day>
+</booking>

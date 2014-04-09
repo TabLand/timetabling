@@ -1,0 +1,91 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EC1012</modulecode>
+	<activity>EC1012 Introduction to Law/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>C338</room>
+	<lecturer>Krishnan, Vick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>EC1012</modulecode>
+	<activity>EC1012 Introduction to Law/Tutorial 01/01/Wks 1&2</activity>
+	<desc>Weeks 1&2: Different Location</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>Krishnan, Vick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>EC1012</modulecode>
+	<activity>EC1012 Introduction to Law/Tutorial 01/01Wk 3</activity>
+	<desc>Week 3</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>E212</room>
+	<lecturer>Krishnan, Vick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>21/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EC1012</modulecode>
+	<activity>EC1012 Introduction to Law/Tutorial 01/01</activity>
+	<desc>Weeks 4, 5 & 6-11</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BM03</room>
+	<lecturer>Krishnan, Vick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>EC1012</modulecode>
+	<activity>EC1012 Introduction to Law/Tutorial 01/02/Wks 1&2</activity>
+	<desc>Weeks 1&2: Different Location</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A227</room>
+	<lecturer>Krishnan, Vick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>14/10/13</week>
+	<modulecode>EC1012</modulecode>
+	<activity>EC1012 Introduction to Law/Tutorial 01/02/Wk 3</activity>
+	<desc>Week 3</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>E212</room>
+	<lecturer>Krishnan, Vick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>21/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EC1012</modulecode>
+	<activity>EC1012 Introduction to Law/Tutorial 01/02</activity>
+	<desc>Weeks 4, 5 & 6-11</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>BM03</room>
+	<lecturer>Krishnan, Vick </lecturer>
+	<day>Monday </day>
+</booking>

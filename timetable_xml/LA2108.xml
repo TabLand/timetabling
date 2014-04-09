@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA2108</modulecode>
+	<activity>LA2108 French For Media (lower Intermediate)/Group 1/Autumn</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C312</room>
+	<lecturer>Jezequel, Valerie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA2108</modulecode>
+	<activity>LA2108 French For Media (lower Intermediate)/Group 1/Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C328</room>
+	<lecturer>Jezequel, Valerie </lecturer>
+	<day>Tuesday </day>
+</booking>

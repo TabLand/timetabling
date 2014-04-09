@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>25/11/13</week>
+	<modulecode>SMMxxx BP</modulecode>
+	<activity>SMMxxx Business Plan/STF/T1/WK</activity>
+	<desc>STF : Week 9 only</desc>
+	<joint> </joint>
+	<studentnos>82</studentnos>
+	<room>G001</room>
+	<lecturer>Tamvakis, Michael Prof. </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>25/11/13</week>
+	<modulecode>SMMxxx BP</modulecode>
+	<activity>SMMxxx Business Plan/ETF/T1/WK 9</activity>
+	<desc>Autumn : ETF : Week 9 only</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>3002</room>
+	<lecturer>Tamvakis, Michael Prof. </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,65 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2009</modulecode>
+	<activity>IN2009 Language Processors/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>CG04</room>
+	<lecturer>Howe, Jacob;Hunt, Sebastian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2009</modulecode>
+	<activity>IN2009 Language Processors/Lab 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A217</room>
+	<lecturer>Hunt, Sebastian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2009</modulecode>
+	<activity>IN2009 Language Processors/Lab 4</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A217</room>
+	<lecturer>Hunt, Sebastian </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2009</modulecode>
+	<activity>IN2009 Language Processors/Lab 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A217</room>
+	<lecturer>Howe, Jacob </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN2009</modulecode>
+	<activity>IN2009 Language Processors/Lab 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A217</room>
+	<lecturer>Howe, Jacob </lecturer>
+	<day>Friday </day>
+</booking>

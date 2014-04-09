@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+	<modulecode>LG2005</modulecode>
+	<activity>LG2005 Equity and Trust/Seminar/Wednesday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>CG04</room>
+	<lecturer>de Than, Claire </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+	<modulecode>LG2005</modulecode>
+	<activity>LG2005 Equity and Trust/Seminar/Thursday</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>ALG16</room>
+	<lecturer>de Than, Claire </lecturer>
+	<day>Thursday </day>
+</booking>

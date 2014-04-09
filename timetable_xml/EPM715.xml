@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>EPM715</modulecode>
+	<activity>EPM715 Bridge Engineering/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C302</room>
+	<lecturer>Micic, T;Kappos, A Prof </lecturer>
+	<day>Friday </day>
+</booking>

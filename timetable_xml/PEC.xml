@@ -1,0 +1,26 @@
+<booking>
+	<start>8:00</start>
+	<end>18:00</end>
+	<week>09/09/13</week>
+	<modulecode>PEC</modulecode>
+	<activity>Prof. Empson's Colloquium 2013/Mon</activity>
+	<desc>Durston, Debbie x 8741 - 90 delegates</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>2002</room>
+	<lecturer>Empson, Laura </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>8:00</start>
+	<end>18:00</end>
+	<week>09/09/13</week>
+	<modulecode>PEC</modulecode>
+	<activity>Prof. Empson's Colloquium 2013/Tue</activity>
+	<desc>Durston, Debbie x 8741 - 90 delegates</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2002;2003</room>
+	<lecturer>Empson, Laura </lecturer>
+	<day>Tuesday </day>
+</booking>

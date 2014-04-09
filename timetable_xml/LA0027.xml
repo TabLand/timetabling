@@ -1,0 +1,52 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-07/10/13</week>
+	<modulecode>LA0027</modulecode>
+	<activity>LA0027 Extracurricular Business French Lower Intermediate Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C158</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>LA0027</modulecode>
+	<activity>LA0027 Extracurricular Business French Lower Intermediate Autumn/01/14th oct</activity>
+	<desc>replacement room 14th oct only</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>E212</room>
+	<lecturer>Jezequel, Valerie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>21/10/13-09/12/13</week>
+	<modulecode>LA0027</modulecode>
+	<activity>LA0027 Extracurricular Business French Lower Intermediate Autumn/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG08</room>
+	<lecturer>Jezequel, Valerie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>LA0027</modulecode>
+	<activity>LA0027 Extracurricular Business French Lower Intermediate Spring/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG08</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SL1003</modulecode>
+	<activity>SL1003 Life Span Studies/Autumn/Lecture 01/01 (joint)</activity>
+	<desc>Life Span Studies - joint with SLM003 - 88 (Dev Psy part)</desc>
+	<joint>SLM003;SL1003</joint>
+	<studentnos>44</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13, 02/12/13</week>
+	<modulecode>LG3100</modulecode>
+	<activity>LG3100 Criminal Justice/Tutorial 1/1/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3100;LU3100</joint>
+	<studentnos>5</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13, 09/12/13</week>
+	<modulecode>LG3100</modulecode>
+	<activity>LG3100 Criminal Justice/Tutorial 1/2/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3100;LU3100</joint>
+	<studentnos>5</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+	<modulecode>LG3100</modulecode>
+	<activity>LG3100 Criminal Justice/Lecture 1/1 JOINT</activity>
+	<desc> </desc>
+	<joint>LG3100;LU3100</joint>
+	<studentnos>5</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

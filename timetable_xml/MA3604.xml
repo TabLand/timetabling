@@ -1,0 +1,39 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>MA3604</modulecode>
+	<activity>MA3604 Discrete Maths/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C338</room>
+	<lecturer>Alvarez, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-24/03/14, 07/04/14</week>
+	<modulecode>MA3604</modulecode>
+	<activity>MA3604 Discrete Maths/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>B104</room>
+	<lecturer>Alvarez, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>31/03/14</week>
+	<modulecode>MA3604</modulecode>
+	<activity>MA3604 Discrete Maths/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>100</studentnos>
+	<room>BG02</room>
+	<lecturer>Alvarez, M </lecturer>
+	<day>Wednesday </day>
+</booking>

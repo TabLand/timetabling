@@ -1,0 +1,208 @@
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Lecture 2/01</activity>
+	<desc>Computing *</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>Yan, Y </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14, 17/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Lecture 2/02</activity>
+	<desc>Computing *</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>BG02</room>
+	<lecturer>Yan, Y </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Practical 1/02</activity>
+	<desc>Computing Gp C 1st hour; Gp D 2nd hour</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>Yan, Y;VL 04 - EFAEME </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>07/04/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Test/02</activity>
+	<desc>Computing</desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>A130</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Lecture 2/01</activity>
+	<desc>Computing *</desc>
+	<joint> </joint>
+	<studentnos>115</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Yan, Y </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Lecture 1/01/LEAD</activity>
+	<desc>Mathematics (Joint with EX1002)</desc>
+	<joint>EX1002;ME1111</joint>
+	<studentnos>130</studentnos>
+	<room>A130</room>
+	<lecturer>Kaparias, I </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Tutorial 1/02</activity>
+	<desc>Groups C&D together</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>C302</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>13/01/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Test/01</activity>
+	<desc> </desc>
+	<joint>ME1111;EX1002;EX1001</joint>
+	<studentnos>220</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Lecture 1/02/LEAD</activity>
+	<desc>Mathematics (joint with EX1001 & EX1002)</desc>
+	<joint>EX1002;ME1111</joint>
+	<studentnos>180</studentnos>
+	<room>Oakden</room>
+	<lecturer>Kaparias, I </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/03/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Test/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>220</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Practical 2/01</activity>
+	<desc>Computing Gp C 1st hour; Gp D 2nd hour</desc>
+	<joint>ME1111;ME1111</joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>Yan, Y;VL 04 - EFAEME </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Tutorial 2/01</activity>
+	<desc>Maths Gp D 1st hour; Gp C 2nd hour</desc>
+	<joint>ME1111;ME1111</joint>
+	<studentnos>30</studentnos>
+	<room>D112</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Practical 2/02</activity>
+	<desc>Computing Gp A 1st hour; Gp B 2nd hour</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>Yan, Y;VL 04 - EFAEME </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Practical 1/01</activity>
+	<desc>Computing Gp A 1st hour; Gp B 2nd hour</desc>
+	<joint>ME1111;ME1111</joint>
+	<studentnos>25</studentnos>
+	<room>CG51</room>
+	<lecturer>Yan, Y;VL 04 - EFAEME </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Tutorial 1/01</activity>
+	<desc>Maths Gp B 1st hour; Gp A 2nd hour</desc>
+	<joint>ME1111;ME1111</joint>
+	<studentnos>30</studentnos>
+	<room>C115</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ME1111</modulecode>
+	<activity>ME1111 Mathematics & Computation 1/Tutorial 2/02</activity>
+	<desc>Groups A&B together</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>C302</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

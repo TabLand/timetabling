@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>09/09/13</week>
+	<modulecode>MBM016</modulecode>
+	<activity>MBM016 Emerging Economy Consultancy Week/MEMBA12/No rooms req'd/02</activity>
+	<desc>MEMBA12: Emerging Economy Consultancy Week: No Rooms required.</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room> </room>
+	<lecturer>Logan, Julie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>09/09/13</week>
+	<modulecode>MBM016</modulecode>
+	<activity>MBM016 Emerging Economy Consultancy Week/MEMBA12/No rooms req'd/02</activity>
+	<desc>MEMBA12: Emerging Economy Consultancy Week: No Rooms required.</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room> </room>
+	<lecturer>Logan, Julie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>09/09/13</week>
+	<modulecode>MBM016</modulecode>
+	<activity>MBM016 Emerging Economy Consultancy Week/MEMBA12/No rooms req'd/02</activity>
+	<desc>MEMBA12: Emerging Economy Consultancy Week: No Rooms required.</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room> </room>
+	<lecturer>Logan, Julie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>09/09/13</week>
+	<modulecode>MBM016</modulecode>
+	<activity>MBM016 Emerging Economy Consultancy Week/MEMBA12/No rooms req'd/02</activity>
+	<desc>MEMBA12: Emerging Economy Consultancy Week: No Rooms required.</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room> </room>
+	<lecturer>Logan, Julie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>09/09/13</week>
+	<modulecode>MBM016</modulecode>
+	<activity>MBM016 Emerging Economy Consultancy Week/MEMBA12/No rooms req'd/02</activity>
+	<desc>MEMBA12: Emerging Economy Consultancy Week: No Rooms required.</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room> </room>
+	<lecturer>Logan, Julie </lecturer>
+	<day>Friday </day>
+</booking>

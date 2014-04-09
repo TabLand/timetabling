@@ -1,0 +1,13 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM356</modulecode>
+	<activity>INM356 Research Evaluation and Communication Skills</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>75</studentnos>
+	<room>B103</room>
+	<lecturer>Robinson, Lyn </lecturer>
+	<day>Friday </day>
+</booking>

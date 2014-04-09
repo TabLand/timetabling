@@ -1,0 +1,52 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-14/10/13</week>
+	<modulecode>CS1813</modulecode>
+	<activity>CS1813 Spanish: Year 2 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C135</room>
+	<lecturer>Lozano, Esteban </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>21/10/13-02/12/13</week>
+	<modulecode>CS1813</modulecode>
+	<activity>CS1813 Spanish: Year 2 term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG11</room>
+	<lecturer>Lozano, Esteban </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-03/02/14, 17/02/14-07/04/14</week>
+	<modulecode>CS1813</modulecode>
+	<activity>CS1813 Spanish - Year 2 (Mon) term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG11</room>
+	<lecturer>Termenon, Cristina </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+	<modulecode>CS1813</modulecode>
+	<activity>CS1813 Spanish - Year 2 (Mon) term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG10</room>
+	<lecturer>Termenon, Cristina </lecturer>
+	<day>Monday </day>
+</booking>

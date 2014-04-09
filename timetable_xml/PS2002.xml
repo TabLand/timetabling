@@ -1,0 +1,65 @@
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>11/11/13-02/12/13</week>
+	<modulecode>PS2002</modulecode>
+	<activity>PS2002 Cognitive Psychology 1/Drop-In Clinic 01B/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D433c</room>
+	<lecturer>Calvo-Merino Beatriz </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>PS2002</modulecode>
+	<activity>PS2002 Cognitive Psychology 1/Lecture 01B/Dec 10th</activity>
+	<desc>Week 8 rescheduled in week 11</desc>
+	<joint> </joint>
+	<studentnos>140</studentnos>
+	<room>Geary</room>
+	<lecturer>Calvo-Merino Beatriz </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13</week>
+	<modulecode>PS2002</modulecode>
+	<activity>PS2002 Cognitive Psychology 1/Lecture 01A/01</activity>
+	<desc> </desc>
+	<joint>PS2002;PS2002</joint>
+	<studentnos>140</studentnos>
+	<room>Geary</room>
+	<lecturer>Tan, Lydia </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>11/11/13, 25/11/13-09/12/13</week>
+	<modulecode>PS2002</modulecode>
+	<activity>PS2002 Cognitive Psychology 1/Lecture 01B/01</activity>
+	<desc>Weeks 7 & 9-11</desc>
+	<joint>PS2002;PS2002</joint>
+	<studentnos>140</studentnos>
+	<room>Geary</room>
+	<lecturer>Calvo-Merino Beatriz </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13-28/10/13</week>
+	<modulecode>PS2002</modulecode>
+	<activity>PS2002 Cognitive Psychology 1/Drop-In Clinic 01A/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D409</room>
+	<lecturer>Tan, Lydia </lecturer>
+	<day>Wednesday </day>
+</booking>

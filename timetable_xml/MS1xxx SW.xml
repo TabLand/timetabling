@@ -1,0 +1,13 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14</week>
+	<modulecode>MS1xxx SW</modulecode>
+	<activity>SmartWisdom/MGT yr 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>176</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Kemp, Jonathan </lecturer>
+	<day>Wednesday </day>
+</booking>

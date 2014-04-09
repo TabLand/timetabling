@@ -1,0 +1,364 @@
+<booking>
+	<start>9:00</start>
+	<end>13:50</end>
+	<week>23/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography students: Induction/Welcome week</activity>
+	<desc>Freshers/welcome week (no teaching)</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 01/01/a</activity>
+	<desc>Early arrivals (Gowri)</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG08</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 01/01</activity>
+	<desc>Welcome and Introduction</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>AG07</room>
+	<lecturer>Morgan, J;Flinton, D;Cherry, Pam;Thorne, Richard </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>07/10/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 04/01</activity>
+	<desc>Student Support Services</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 02/01</activity>
+	<desc>Health and Safety Issues</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>AG07</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 03/01</activity>
+	<desc>Introduction to Learning Resources</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>AG21</room>
+	<lecturer>Scanlon, Endang </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>23/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography students: Induction/Welcome address by the VC, Dean of SHS & SU</activity>
+	<desc>Students to go the Great Hall, College Building - all required to attend and arrive promptly</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography students: Induction/Welcome week</activity>
+	<desc>Freshers/welcome week (no teaching)</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography students: Induction/Welcome week</activity>
+	<desc>Freshers/welcome week (no teaching)</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 05/01</activity>
+	<desc>Meet and Greet (removed DF)</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>AG21</room>
+	<lecturer>Bland, Paul;Cherry, Pam;Humphries, Sue;Khine, Ricardo;Morgan, J;Thorne, Richard;Walls, Darren </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 05/05/Break Out/1</activity>
+	<desc>Meet and Greet (removed JM)</desc>
+	<joint> </joint>
+	<studentnos>67</studentnos>
+	<room>CG04</room>
+	<lecturer>Walls, Darren;Bland, Paul;Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 05/05/Break Out/2</activity>
+	<desc>Meet and Greet</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03</room>
+	<lecturer>Khine, Ricardo;Flinton, D;Cherry, Pam;Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 07/07</activity>
+	<desc>Society of Radiographers</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>AG21</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>28/04/14</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 13/02</activity>
+	<desc>Uniform & Portfolio Distribution (Diagnostic)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>D104</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 06/06</activity>
+	<desc>Web based learning</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>AG07</room>
+	<lecturer>Morgan, J;Thorne, Richard </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 08/08</activity>
+	<desc>Administrative Issues (Charlotte Eghiz)</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>AG21</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography students: Induction/Welcome week</activity>
+	<desc>Freshers/welcome week (no teaching)</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:30</end>
+	<week>17/03/14</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography induction - Uniform sizing</activity>
+	<desc>Diagnostics only: A-I 1pm / J-S 1.40pm / T- Z 2.20pm</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>15:30</end>
+	<week>17/03/14</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography induction - Uniform sizing</activity>
+	<desc>Therapy only: A-J 2.20pm / K - Z 3.00pm</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>Convocation Suite</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography students: Induction/Welcome week</activity>
+	<desc>Freshers/welcome week (no teaching)</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 10/01</activity>
+	<desc>Introduction to Clinical (Therapy)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>C161</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 09/01</activity>
+	<desc>Introduction to Clinical placements (Diagnostic)</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>C303</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 11/01</activity>
+	<desc>Assessment Regulations</desc>
+	<joint> </joint>
+	<studentnos>101</studentnos>
+	<room>AG21</room>
+	<lecturer>Thorne, Richard;Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>28/04/14</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Lecture 13/01</activity>
+	<desc>Uniform & Portfolio Distribution (Therapy)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Cherry, Pam </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Tutorial 1/01</activity>
+	<desc>Study Skills 1 (Academic Writing)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>Townsend, Nick </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Tutorial 1/02</activity>
+	<desc>Study Skills 4 (Exam Techniques)</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:30</end>
+	<week>16/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography Induction/Tutorial 1/03</activity>
+	<desc>Study Skills 2 (Note Taking) Richard Knott</desc>
+	<joint> </joint>
+	<studentnos>90</studentnos>
+	<room>C304</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>RadiInduction</modulecode>
+	<activity>Radiography students: Induction/Welcome week</activity>
+	<desc>Freshers/welcome week (no teaching)</desc>
+	<joint> </joint>
+	<studentnos>99</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

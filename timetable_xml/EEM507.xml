@@ -1,0 +1,26 @@
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EEM507</modulecode>
+	<activity>EEM507 Engineering Systems/Tutorial 1/02/JOINT</activity>
+	<desc>Joint with EE3500: total numbers 30</desc>
+	<joint>EEM507;EE3500;EE3500;EE3500</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>17/03/14-07/04/14</week>
+	<modulecode>EEM507</modulecode>
+	<activity>EEM507 Engineering Systems/Lab 1/02/JOINT</activity>
+	<desc>*Joint with EE3500: total numbers 30</desc>
+	<joint>EE3500;EEM507</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

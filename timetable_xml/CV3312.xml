@@ -1,0 +1,26 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CV3312</modulecode>
+	<activity>CV3312 Environmental Control & Public Health/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG09</room>
+	<lecturer>Jefferis, S;Yan, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>CV3312</modulecode>
+	<activity>CV3312 Environmental Control & Public Health/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>CG02</room>
+	<lecturer>Jefferis, S;Yan, S </lecturer>
+	<day>Thursday </day>
+</booking>

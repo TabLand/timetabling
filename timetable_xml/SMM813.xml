@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>21:00</end>
+	<week>05/05/14</week>
+	<modulecode>SMM813</modulecode>
+	<activity>SMM813 Advanced Charity Accounting, Audit & Taxation/Lecture 03/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2005</room>
+	<lecturer>Dawes, Greyham </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>21:00</end>
+	<week>07/04/14</week>
+	<modulecode>SMM813</modulecode>
+	<activity>SMM813 Advanced Charity Accounting, Audit & Taxation/Lecture 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>2005</room>
+	<lecturer>Dawes, Greyham </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>18:00</end>
+	<week>02/06/14</week>
+	<modulecode>SMM813</modulecode>
+	<activity>SMM813 Advanced Charity Accounting, Audit & Taxation/EXAM/LEAD</activity>
+	<desc>LEAD: SMM813/814/816 Exam (65 Students : room for 120 exam stye)</desc>
+	<joint>SMM813;SMM816;SMM814</joint>
+	<studentnos>120</studentnos>
+	<room>LG002/3</room>
+	<lecturer>Lee, Stephen Prof;Palmer, Paul Prof.;Grant, Peter </lecturer>
+	<day>Friday </day>
+</booking>

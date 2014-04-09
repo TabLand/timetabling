@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>03/02/14-03/03/14, 24/03/14-31/03/14</week>
+	<modulecode>BS2213</modulecode>
+	<activity>BS2213 Branding & Advertising/Lecture/WKS 2-6, 9-10</activity>
+	<desc>Lecture plus exchange : WEEKS 2-6, 9-10</desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>B103</room>
+	<lecturer>Luedicke, Marius </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>14:50</end>
+	<week>07/04/14</week>
+	<modulecode>BS2213</modulecode>
+	<activity>BS2213 Branding & Advertising/Presentations/WK 11</activity>
+	<desc>Student coursework presentations to Panel of Marketers : Week 11 ONLY</desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C304</room>
+	<lecturer>Luedicke, Marius </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14, 10/03/14-17/03/14</week>
+	<modulecode>BS2213</modulecode>
+	<activity>BS2213 Branding & Advertising/Lecture/wks 1,7-8 (Joint)</activity>
+	<desc>(Joint) Guest speakers : Unilever, Interbrand, Brand Logic : Weeks 1,7-8 ONLY</desc>
+	<joint>BS3110;BS2213</joint>
+	<studentnos>76</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

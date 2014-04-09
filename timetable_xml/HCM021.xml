@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/02/14, 17/02/14-31/03/14</week>
+	<modulecode>HCM021</modulecode>
+	<activity>HCM021 Case Based Clinical Management/02</activity>
+	<desc>Group 2 - Student Led sessions</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D108</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>HCM021</modulecode>
+	<activity>HCM021 Case Based Clinical Management/03</activity>
+	<desc>Group 2 - Student Led sessions</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D108</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

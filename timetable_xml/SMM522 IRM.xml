@@ -1,0 +1,78 @@
+<booking>
+	<start>12:10</start>
+	<end>13:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM522 IRM</modulecode>
+	<activity>SMM522 Research Project Management Skills/IRM/Lecture 02/WK 5</activity>
+	<desc>IRM FT PT2 ONLY - Week 5 ONLY (1 hour)</desc>
+	<joint> </joint>
+	<studentnos>69</studentnos>
+	<room>2006</room>
+	<lecturer>Chen, Cherie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>03/03/14</week>
+	<modulecode>SMM522 IRM</modulecode>
+	<activity>SMM522 Research Project Management Skills/IRM/Lecture 03/WK 6</activity>
+	<desc>IRM FT PT2 ONLY - Week 6 ONLY</desc>
+	<joint> </joint>
+	<studentnos>69</studentnos>
+	<room>2006</room>
+	<lecturer>Chen, Cherie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>10/03/14</week>
+	<modulecode>SMM522 IRM</modulecode>
+	<activity>SMM522 Research Project Management Skills/IRM/Lecture 01/WK 7</activity>
+	<desc>IRM FT PT2 ONLY - Week 7 ONLY</desc>
+	<joint> </joint>
+	<studentnos>71</studentnos>
+	<room>2006</room>
+	<lecturer>Parsons, Chris </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>14:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM522 IRM</modulecode>
+	<activity>SMM522 Research Project Management Skills/IRM/A/Computer Lab/WK 5</activity>
+	<desc>IRM FT PT2 : GROUP A : Week 5 ONLY (1 hour)</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>1001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM522 IRM</modulecode>
+	<activity>SMM522 Research Project Management Skills/IRM/Lecture 02/Breakout/WK 5</activity>
+	<desc>IRM FT PT2 ONLY - Week 5 ONLY (Breakout 2 hours)</desc>
+	<joint> </joint>
+	<studentnos>69</studentnos>
+	<room>2006</room>
+	<lecturer>Chen, Cherie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:10</start>
+	<end>15:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM522 IRM</modulecode>
+	<activity>SMM522 Research Project Management Skills/IRM/B/Computer Lab/WK 5</activity>
+	<desc>IRM FT PT2 : GROUP B : Week 5 ONLY (1 hour)</desc>
+	<joint> </joint>
+	<studentnos>34</studentnos>
+	<room>1001</room>
+	<lecturer>Griffiths, Suzanne </lecturer>
+	<day>Thursday </day>
+</booking>

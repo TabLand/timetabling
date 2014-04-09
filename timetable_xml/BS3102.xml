@@ -1,0 +1,13 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>BS3102</modulecode>
+	<activity>BS3102 Financial Management/Lecture 01</activity>
+	<desc>Autumn Lecture</desc>
+	<joint> </joint>
+	<studentnos>113</studentnos>
+	<room>AG07</room>
+	<lecturer>Tran, Anh </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>14:00</start>
+	<end>15:30</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>ECM003a</modulecode>
+	<activity>ECM003a Quantitative Methods - Health/ERC/Lab 02/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>B307A</room>
+	<lecturer>Ipatova, Ekaterina </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:30</start>
+	<end>18:50</end>
+	<week>04/11/13</week>
+	<modulecode>ECM003a</modulecode>
+	<activity>ECM003a Quantitative Methods - Health/ERC/Exam/Nov 7th</activity>
+	<desc>Week 6</desc>
+	<joint> </joint>
+	<studentnos>45</studentnos>
+	<room>D104</room>
+	<lecturer>Serra-Sastre, Victoria </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>18:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ECM003a</modulecode>
+	<activity>ECM003a Quantitative Methods - Health/ERC/Lecture 01/01</activity>
+	<desc>Weeks 1-5 & 7-11</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG03</room>
+	<lecturer>Serra-Sastre, Victoria </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>19:00</start>
+	<end>20:30</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>ECM003a</modulecode>
+	<activity>ECM003a Quantitative Methods - Health/ERC/Lab 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D518</room>
+	<lecturer>Ipatova, Ekaterina </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>ECM106</modulecode>
+	<activity>ECM106 Quantitative Techniques For Regulation In Practice/Lecture 01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D222</room>
+	<lecturer>Metcalfe, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>ECM106</modulecode>
+	<activity>ECM106 Quantitative Techniques For Regulation In Practice/Lab 01/1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>D518</room>
+	<lecturer>Metcalfe, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>07/04/14</week>
+	<modulecode>ECM106</modulecode>
+	<activity>ECM106 Quantitative Techniques For Regulation In Practice/Revision/</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>7</studentnos>
+	<room>D108</room>
+	<lecturer>Metcalfe, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>20/01/14-24/02/14</week>
+	<modulecode>JOM606</modulecode>
+	<activity>JOM606 Project Acquisition and List Management/Lecture term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>C348</room>
+	<lecturer>Stones, Brenda </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>12/05/14-02/06/14</week>
+	<modulecode>JOM606</modulecode>
+	<activity>JOM606 Project Acquisition and List Management/Lecture term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>AG08</room>
+	<lecturer>Stones, Brenda </lecturer>
+	<day>Wednesday </day>
+</booking>

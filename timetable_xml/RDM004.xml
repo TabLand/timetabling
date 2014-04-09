@@ -1,0 +1,182 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/04/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/OSCE1/01</activity>
+	<desc>Fundamental Principles Of Ultrasound - OSE</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A307&8</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>07/10/13</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 1/02</activity>
+	<desc>Term 1 (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13-30/09/13, 14/10/13-09/12/13</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 1/01</activity>
+	<desc>Term 1 (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>07/10/13</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Tutorial 1/02</activity>
+	<desc>Clinical Skills Suite session (AM) shared with Gynaecology & Obstetric Ultrasound (room under RDM030)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>20/01/14-27/01/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/01</activity>
+	<desc>Term 2 (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C158</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14, 24/02/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/02</activity>
+	<desc>Term 2 (see Moodle timetable for details)</desc>
+	<joint> </joint>
+	<studentnos>27</studentnos>
+	<room>A227</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/02/ wk6</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>27</studentnos>
+	<room>A227</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/03/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/02/ wk7</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>27</studentnos>
+	<room>A227</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>24/03/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/02/ wk9</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>A225</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>31/03/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/02/ wk10</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>D221</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>07/04/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/02/ wk11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C158</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:30</end>
+	<week>24/02/14</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Lecture 2/02/a</activity>
+	<desc>Extra time</desc>
+	<joint> </joint>
+	<studentnos>27</studentnos>
+	<room>A227</room>
+	<lecturer>Harris, Allison;Edie, Jennifer;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/Tutorial 1/01</activity>
+	<desc>Clinical Skills Suite session (PM) shared with Gynaecology & Obstetric Ultrasound (room under RDM030)</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>ELG14 (Radiography)</room>
+	<lecturer>New staff 1 - radiotherapy modules </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>RDM004</modulecode>
+	<activity>RDM004 Fundamental Principles Of Ultrasound/MCT 1/01</activity>
+	<desc>Fundamental Principles Of Ultrasound - MCT 1</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C301</room>
+	<lecturer>Harris, Allison;Harrison, Gill </lecturer>
+	<day>Thursday </day>
+</booking>

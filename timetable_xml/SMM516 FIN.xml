@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-10/02/14, 24/02/14-31/03/14</week>
+	<modulecode>SMM516 FIN</modulecode>
+	<activity>SMM516 Fixed Income (MSc Fin) Lecture/WKS 1-3, 5-10</activity>
+	<desc>MSc Fin: Weeks 1-3, 5-10</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>LG001</room>
+	<lecturer>Beber, Alessandro Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>24/02/14</week>
+	<modulecode>SMM516 FIN</modulecode>
+	<activity>SMM516 Fixed Income (MSc Fin) Lecture/WK 5</activity>
+	<desc>MSc Fin: Week 5 only (Replacement for wk 4 missed) + Guest speaker</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>3002</room>
+	<lecturer>Beber, Alessandro Prof </lecturer>
+	<day>Wednesday </day>
+</booking>

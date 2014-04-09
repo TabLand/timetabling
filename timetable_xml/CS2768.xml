@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>CS2768</modulecode>
+	<activity>CS2768 Advanced Digital Marketing term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A227</room>
+	<lecturer>Deal, Martin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS2768</modulecode>
+	<activity>CS2768 Advanced Digital Marketing term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A110</room>
+	<lecturer>Deal, Martin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>03/03/14</week>
+	<modulecode>CS2768</modulecode>
+	<activity>CS2768 Advanced Digital Marketing term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A110</room>
+	<lecturer>Deal, Martin </lecturer>
+	<day>Thursday </day>
+</booking>

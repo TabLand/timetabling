@@ -1,0 +1,13 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>11/11/13-09/12/13</week>
+	<modulecode>MBM141 EMBA</modulecode>
+	<activity>MBM141 Strategic Fast Track Venturing/EMBA/Lecture 01/02</activity>
+	<desc>EMBA stage 2</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>N201</room>
+	<lecturer>Kamuriwo, Sam </lecturer>
+	<day>Monday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14-10/03/14</week>
+	<modulecode>SMM475</modulecode>
+	<activity>SMM475 International Finance/SM/Lecture 01/WKS 1-7</activity>
+	<desc>Core : SM : Weeks 1-7</desc>
+	<joint> </joint>
+	<studentnos>33</studentnos>
+	<room>2003</room>
+	<lecturer>Schmeling, Maik </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>27/01/14-03/02/14, 17/02/14-10/03/14</week>
+	<modulecode>SMM475</modulecode>
+	<activity>SMM475 International Finance/ENT,MKT/Lecture 01/WKS 1-2,4-7</activity>
+	<desc>Core : ENT, MKT : Weeks 1-2, 4-7</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>2004</room>
+	<lecturer>Schmeling, Maik </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>SMM475</modulecode>
+	<activity>SMM475 International Finance/ENT,MKT/Lecture 01/WK 3</activity>
+	<desc>Core : ENT, MKT : Week 3 only (replacement)</desc>
+	<joint> </joint>
+	<studentnos>39</studentnos>
+	<room>2006</room>
+	<lecturer>Schmeling, Maik </lecturer>
+	<day>Thursday </day>
+</booking>

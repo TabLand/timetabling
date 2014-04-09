@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>11/11/13</week>
+	<modulecode>HC3001</modulecode>
+	<activity>HC3001 Research project/Lecture 01/02 (joint)</activity>
+	<desc>Writing workshop</desc>
+	<joint>HC3001;SL3007</joint>
+	<studentnos>6</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>HC3001</modulecode>
+	<activity>HC3001 Research project/Lecture 01/03 (joint)</activity>
+	<desc>Qualitative Research Session</desc>
+	<joint>SL3007;HC3001</joint>
+	<studentnos>6</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>HC3001</modulecode>
+	<activity>HC3001 Research project/Lecture 01/01 (joint)</activity>
+	<desc>Project Session</desc>
+	<joint>HC3001;SL3007</joint>
+	<studentnos>6</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>09/12/13</week>
+	<modulecode>HC3001</modulecode>
+	<activity>HC3001 Research project/Lecture 01/04 (joint)</activity>
+	<desc>R&EBP project on PCs - half group - joint SLT&HC</desc>
+	<joint>SL3007;HC3001</joint>
+	<studentnos>6</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>31/03/14</week>
+	<modulecode>HC3001</modulecode>
+	<activity>HC3001 Research project/Lecture 02/01 (joint)</activity>
+	<desc>Results and discussion writing workshop</desc>
+	<joint>HC3001;SL3007</joint>
+	<studentnos>6</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

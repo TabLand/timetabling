@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>EPM750</modulecode>
+	<activity>EPM750 Linear & Non-linear Systems/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C322</room>
+	<lecturer>Tomas-Rodriguez, M;Karcanias, N </lecturer>
+	<day>Friday </day>
+</booking>

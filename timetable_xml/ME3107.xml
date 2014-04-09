@@ -1,0 +1,26 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME3107</modulecode>
+	<activity>ME3107 Heat Transfer and Turbo Machinery/Lecture 2/01/LEAD</activity>
+	<desc>Heat Transfer. Joint with EPM400: total numbers 70</desc>
+	<joint>ME3107;EPM400</joint>
+	<studentnos>70</studentnos>
+	<room>CG04</room>
+	<lecturer>Yan, Y </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ME3107</modulecode>
+	<activity>ME3107 Heat Transfer and Turbo Machinery/Lecture 1/01/LEAD</activity>
+	<desc>Turbo Machinery. Joint with AE3244: total numbers 60</desc>
+	<joint>ME3107;AE3244</joint>
+	<studentnos>60</studentnos>
+	<room>AG22</room>
+	<lecturer>Sayma, A </lecturer>
+	<day>Friday </day>
+</booking>

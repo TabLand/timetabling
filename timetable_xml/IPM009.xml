@@ -1,0 +1,91 @@
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>IPM009</modulecode>
+	<activity>IPM009 Development & International Politics/Tutorial 01/Mar 10th</activity>
+	<desc>Replacement : March 10th only</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D104</room>
+	<lecturer>Samman, Amin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>17/02/14-24/02/14</week>
+	<modulecode>IPM009</modulecode>
+	<activity>IPM009 Development & International Politics/Tutorial 01/Feb 21st & 28th</activity>
+	<desc>Weeks 7 & 9 rescheduled and merged</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>DLG03</room>
+	<lecturer>Samman, Amin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/03/14-17/03/14</week>
+	<modulecode>IPM009</modulecode>
+	<activity>IPM009 Development & International Politics/Lecture 01/Mar 11th & 18th</activity>
+	<desc>Weeks 7 & 9 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D220</room>
+	<lecturer>Samman, Amin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>17/03/14</week>
+	<modulecode>IPM009</modulecode>
+	<activity>IPM009 Development & International Politics/Tutorial 01/Mar 19th</activity>
+	<desc>Replacement : March 19th only</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D112</room>
+	<lecturer>Samman, Amin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 17/03/14, 31/03/14-07/04/14</week>
+	<modulecode>IPM009</modulecode>
+	<activity>IPM009 Development & International Politics/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>DLG03</room>
+	<lecturer>Samman, Amin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 17/03/14, 31/03/14-07/04/14</week>
+	<modulecode>IPM009</modulecode>
+	<activity>IPM009 Development & International Politics/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D112</room>
+	<lecturer>Samman, Amin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 17/03/14, 31/03/14-07/04/14</week>
+	<modulecode>IPM009</modulecode>
+	<activity>IPM009 Development & International Politics/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>D112</room>
+	<lecturer>Samman, Amin </lecturer>
+	<day>Friday </day>
+</booking>

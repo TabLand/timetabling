@@ -1,0 +1,26 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>27/01/14-10/03/14</week>
+	<modulecode>SMM040</modulecode>
+	<activity>SMM040 Model Documentation, Analysis & Reporting (CA2)/Computer LAB/02</activity>
+	<desc>AM: Spring Term 2 - Computer lab: Weeks 1-7</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>2001</room>
+	<lecturer>Gerrard, Russell </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>17/03/14-31/03/14</week>
+	<modulecode>SMM040</modulecode>
+	<activity>SMM040 Model Documentation, Analysis & Reporting (CA2)/Computer LAB/01</activity>
+	<desc>AM: Spring Term 2 - Computer lab - Weeks 8-10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>2001</room>
+	<lecturer>Smith, David </lecturer>
+	<day>Monday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 07/04/14</week>
+	<modulecode>FR3104</modulecode>
+	<activity>FR3104 Valuation & Taxation/Lecture 1/WKS 1-5, 11</activity>
+	<desc>Weeks 1- 5 & 11 : P. Bond</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C164</room>
+	<lecturer>Bond, Patrick </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>03/03/14-31/03/14</week>
+	<modulecode>FR3104</modulecode>
+	<activity>FR3104 Valuation & Taxation/Lecture 01/01/WKS 6-10</activity>
+	<desc>Weeks 6-10 : G. Scheers</desc>
+	<joint> </joint>
+	<studentnos>6</studentnos>
+	<room>C164</room>
+	<lecturer>Scheers, Geoff </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>FR3104</modulecode>
+	<activity>FR3104 Valuation & Taxation/Lecture/wk 7</activity>
+	<desc>Week 7 ONLY (Replacement) P. Bond</desc>
+	<joint> </joint>
+	<studentnos>7</studentnos>
+	<room>C337</room>
+	<lecturer>Bond, Patrick </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM352</modulecode>
+	<activity>INM352 E-commerce/Lecture 1 (JOINT)</activity>
+	<desc> </desc>
+	<joint>INM352;IN3008</joint>
+	<studentnos>20</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM352</modulecode>
+	<activity>INM352 E-commerce/Lab 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>B307A</room>
+	<lecturer>VL 04 - IISOIN </lecturer>
+	<day>Thursday </day>
+</booking>

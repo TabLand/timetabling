@@ -1,0 +1,39 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>SL3002</modulecode>
+	<activity>SL3002 Language Sciences (3)/Lecture 1/02 (joint)</activity>
+	<desc>Joint with SLM008</desc>
+	<joint>SLM008;SL3002</joint>
+	<studentnos>41</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SL3002</modulecode>
+	<activity>SL3002 Language Sciences (3)/Lecture 1/01 (joint)</activity>
+	<desc>With SLM008 (and in autumn, 10 x SL3006 students)</desc>
+	<joint>SLM008;SL3002;SL3006;SLM008</joint>
+	<studentnos>41</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14</week>
+	<modulecode>SL3002</modulecode>
+	<activity>SL3002 Language Sciences (3)/Lecture 2/02 (joint)</activity>
+	<desc>Joint with SLM008</desc>
+	<joint>SLM008;SL3002</joint>
+	<studentnos>41</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

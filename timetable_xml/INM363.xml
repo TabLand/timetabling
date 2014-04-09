@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>10/02/14-17/02/14</week>
+	<modulecode>INM363</modulecode>
+	<activity>INM363 Individual Project/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Strigini, Lorenzo </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>24/02/14</week>
+	<modulecode>INM363</modulecode>
+	<activity>INM363 Individual Project/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>120</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Strigini, Lorenzo </lecturer>
+	<day>Monday </day>
+</booking>

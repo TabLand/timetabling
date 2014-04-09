@@ -1,0 +1,65 @@
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EPM973</modulecode>
+	<activity>EPM973 Risk Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EPM973</modulecode>
+	<activity>EPM973 Risk Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>23/09/13</week>
+	<modulecode>EPM973</modulecode>
+	<activity>EPM973 Risk Management/01/Thurs & Fri</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>26/05/14</week>
+	<modulecode>EPM973</modulecode>
+	<activity>EPM973 Risk Management/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>B307B/C</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:50</end>
+	<week>23/09/13</week>
+	<modulecode>EPM973</modulecode>
+	<activity>EPM973 Risk Management/01/Thurs & Fri</activity>
+	<desc>*</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C118</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

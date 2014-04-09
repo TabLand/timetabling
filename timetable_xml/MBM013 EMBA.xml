@@ -1,0 +1,65 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM013 EMBA</modulecode>
+	<activity>MBM013 Corporate Social Responsibility/EMBA/Lecture 01-05</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Spicer, Andre Prof;Gond, Jean-Pascale Prof.;Mena, Sebastian;Fleming, Peter;Banerjee, Bobby </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM013 EMBA</modulecode>
+	<activity>MBM013 Corporate Social Responsibility/EMBA/Lecture 01-05</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Spicer, Andre Prof;Gond, Jean-Pascale Prof.;Mena, Sebastian;Fleming, Peter;Banerjee, Bobby </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM013 EMBA</modulecode>
+	<activity>MBM013 Corporate Social Responsibility/EMBA/Lecture 01-05</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Spicer, Andre Prof;Gond, Jean-Pascale Prof.;Mena, Sebastian;Fleming, Peter;Banerjee, Bobby </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM013 EMBA</modulecode>
+	<activity>MBM013 Corporate Social Responsibility/EMBA/Lecture 01-05</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Spicer, Andre Prof;Gond, Jean-Pascale Prof.;Mena, Sebastian;Fleming, Peter;Banerjee, Bobby </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM013 EMBA</modulecode>
+	<activity>MBM013 Corporate Social Responsibility/EMBA/Lecture 01-05</activity>
+	<desc>EMBA Sept 2013 Intake - Stage 1 - Class 1-5</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Spicer, Andre Prof;Gond, Jean-Pascale Prof.;Mena, Sebastian;Fleming, Peter;Banerjee, Bobby </lecturer>
+	<day>Friday </day>
+</booking>

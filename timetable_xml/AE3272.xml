@@ -1,0 +1,39 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>24/02/14</week>
+	<modulecode>AE3272</modulecode>
+	<activity>AE3272 Accounting And Business Finance/Lecture 1/02</activity>
+	<desc>Rescheduled session</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C322</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-03/02/14, 17/02/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>AE3272</modulecode>
+	<activity>AE3272 Accounting And Business Finance/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C322</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>AE3272</modulecode>
+	<activity>AE3272 Accounting And Business Finance/Tutorial 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C335</room>
+	<lecturer>O'Connor, Charles </lecturer>
+	<day>Friday </day>
+</booking>

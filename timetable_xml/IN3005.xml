@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3005</modulecode>
+	<activity>IN3005 Computer Graphics/Lecture (JOINT)</activity>
+	<desc> </desc>
+	<joint>INM376;IN3005</joint>
+	<studentnos>36</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>IN3005</modulecode>
+	<activity>IN3005 Computer Graphics/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>27</studentnos>
+	<room>EG12</room>
+	<lecturer>Slabaugh, Gregory </lecturer>
+	<day>Tuesday </day>
+</booking>

@@ -1,0 +1,728 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>11/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 9/01</activity>
+	<desc>Digital Imaging Basics</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>18/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 11/01</activity>
+	<desc>Image Manipulation and Storage 1</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 12/01</activity>
+	<desc>Image Manipulation and Storage 2</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 14/01</activity>
+	<desc>Revision 1</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>C303</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>17/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 19/01</activity>
+	<desc>Mobile X-ray equipment</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 1/07</activity>
+	<desc>Year 1/Term 1 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C357</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 1/03</activity>
+	<desc>Year 1/Term 1 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D109</room>
+	<lecturer>Poynter, D </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 1/02</activity>
+	<desc>Year 1/Term 1 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C313</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 1/06</activity>
+	<desc>Year 1/Term 1 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C328</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 1/08</activity>
+	<desc>Year 1/Term 1 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A112</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 1/05</activity>
+	<desc>Year 1/Term 1 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D108</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 1/01</activity>
+	<desc>Year 1/Term 1 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D107</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 22/01</activity>
+	<desc>Dental X-ray equipment</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 24/01</activity>
+	<desc>Application of IRR99 & IRMER 2000</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>31/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 26/01</activity>
+	<desc>Revision 4 (check correct wk)</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J;McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 1/01</activity>
+	<desc>Introduction to Science for Medical Imaging 1</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>11/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 8/01</activity>
+	<desc>Introduction to CR, DR and PACS</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>24/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 25/01</activity>
+	<desc>Revision 3</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>C304</room>
+	<lecturer>Morgan, J;McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 2/02</activity>
+	<desc>X-ray circuit</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>B307B/C</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>18/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 13/01</activity>
+	<desc>Scatter Control</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 2/05</activity>
+	<desc>Year 1/Term 2 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C313</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 2/04</activity>
+	<desc>Year 1/Term 2 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D109</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 2/07</activity>
+	<desc>Year 1/Term 2 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C357</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 2/08</activity>
+	<desc>Year 1/Term 2 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C330</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 2/02</activity>
+	<desc>Year 1/Term 2 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>A107</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 2/03</activity>
+	<desc>Year 1/Term 2 Personal tutor meetings</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C328</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>17/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 20/01</activity>
+	<desc>Dosimetry</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:30</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 15/01</activity>
+	<desc>Revision 2</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 16/01</activity>
+	<desc>General X-ray equipment</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 5/01</activity>
+	<desc>Attenuation</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 23/01</activity>
+	<desc>Factors affecting image quality</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>17/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 3/01</activity>
+	<desc>F/U Tutorial 1</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>E212</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>14/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 3/01</activity>
+	<desc>X-ray tube</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BG03</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 24/27</activity>
+	<desc>Term1 Exam Feedback (Optional but those resitting are expected to attend)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D111</room>
+	<lecturer>Morgan, J;McHugh, Kevin </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 27/01</activity>
+	<desc>Term 1 exam feedback - addtional</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>AG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 2/03</activity>
+	<desc>Additional Revision Session - Follow-up to MCT</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 21/01</activity>
+	<desc>Monitors</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>12:30</end>
+	<week>09/12/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 2/03</activity>
+	<desc>Additional Revision Session - Follow-up to MCT</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C161</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>11/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 10/01</activity>
+	<desc>CR and DR</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/10</activity>
+	<desc>Directed Self Study 12 - IRR99 & IR(ME)R2000</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 17/01</activity>
+	<desc>Fluoroscopy Equipment 1</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>14/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 4/01</activity>
+	<desc>X-ray Production</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>17/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/11</activity>
+	<desc>Directed Self Study 13 - Factors affecting image quality</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 18/01</activity>
+	<desc>Fluoroscopy Equipment 2</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>21/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 7/01</activity>
+	<desc>Quality and Intensity of the X-ray Beam</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/01</activity>
+	<desc>Directed Self Study - X-ray Circuit, X-ray tube and X-ray production - attentuation/interactions</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>16:50</end>
+	<week>18/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/02</activity>
+	<desc>Directed Self Study - Digital Imaging</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>25/11/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/04</activity>
+	<desc>Directed Self Study - Scatter Control</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/05</activity>
+	<desc>Directed Self Study 6 - AEDs</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/07</activity>
+	<desc>Directed Self Study 8 - Mobile Equipment</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Lecture 2/04</activity>
+	<desc>Tutorial</desc>
+	<joint> </joint>
+	<studentnos>65</studentnos>
+	<room>BLG07</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/08</activity>
+	<desc>Directed Self Study 9 - Dosimetry</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>03/03/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Tutorial 3/02</activity>
+	<desc>F/U Tutorial 2</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>DLG19</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>13:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/06</activity>
+	<desc>Directed Self Study 7 - Fluoroscopy Equipment</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/09</activity>
+	<desc>Directed Self Study 10 - Monitors</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>24/02/14</week>
+	<modulecode>RD1024</modulecode>
+	<activity>RD1024 Science for Medical Imaging 1/Self Study 1/03</activity>
+	<desc>Directed Self Study 11 - Dental X-ray equipment</desc>
+	<joint> </joint>
+	<studentnos>64</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Friday </day>
+</booking>

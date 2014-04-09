@@ -1,0 +1,78 @@
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>LAM030</modulecode>
+	<activity>LAM030 Principles and Practice of Translation Theory/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG11</room>
+	<lecturer>Reisinger, Evelyn </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>30/09/13-07/10/13, 21/10/13-02/12/13</week>
+	<modulecode>LAM030</modulecode>
+	<activity>LAM030 Principles and Practice of Translation Theory/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG11</room>
+	<lecturer>Reisinger, Evelyn </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>14/10/13</week>
+	<modulecode>LAM030</modulecode>
+	<activity>LAM030 Principles and Practice of Translation Theory/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>B307A</room>
+	<lecturer>Reisinger, Evelyn </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>11:30</end>
+	<week>13/01/14-20/01/14</week>
+	<modulecode>LAM030</modulecode>
+	<activity>LAM030 Principles and Practice of Translation Theory/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>AG11</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>10/02/14</week>
+	<modulecode>LAM030</modulecode>
+	<activity>LAM030 Principles and Practice of Translation Theory/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>17/02/14</week>
+	<modulecode>LAM030</modulecode>
+	<activity>LAM030 Feedback</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

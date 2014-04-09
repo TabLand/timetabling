@@ -1,0 +1,52 @@
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>14/10/13, 04/11/13, 18/11/13</week>
+	<modulecode>LU3078</modulecode>
+	<activity>LU3078 Commercial Property Law/Tutorial 1/2/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3078;LU3078</joint>
+	<studentnos>17</studentnos>
+	<room>C322</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>21/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>LU3078</modulecode>
+	<activity>LU3078 Commercial Property Law/Tutorial 1/1/LEAD</activity>
+	<desc> </desc>
+	<joint>LU3078;LG3078;LU3078</joint>
+	<studentnos>17</studentnos>
+	<room>C322</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>09/12/13</week>
+	<modulecode>LU3078</modulecode>
+	<activity>LU3078 Commercial Property Law/Tutorial 1/1&2/LEAD/Dec 10th</activity>
+	<desc>Groups 1 & 2</desc>
+	<joint>LG3078;LU3078</joint>
+	<studentnos>40</studentnos>
+	<room>C303</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-21/10/13, 04/11/13-09/12/13</week>
+	<modulecode>LU3078</modulecode>
+	<activity>LU3078 Commercial Property Law/Lecture 1/1/LEAD</activity>
+	<desc> </desc>
+	<joint>LG3078;LU3078</joint>
+	<studentnos>32</studentnos>
+	<room>A109</room>
+	<lecturer>Goulding, Simon </lecturer>
+	<day>Wednesday </day>
+</booking>

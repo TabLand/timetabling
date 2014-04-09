@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>EE3462</modulecode>
+	<activity>EE3462 Corporate Social Responsibility/Lecture 1/01/JOINT</activity>
+	<desc>Joint with BS3214: total numbers 132</desc>
+	<joint>EE3462;BS3214</joint>
+	<studentnos>12</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>

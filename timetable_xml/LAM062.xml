@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/02/14-24/02/14, 10/03/14-24/03/14</week>
+	<modulecode>LAM062</modulecode>
+	<activity>LAM062 Translating Crime Fiction/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C150</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>12/05/14</week>
+	<modulecode>LAM062</modulecode>
+	<activity>LAM062 Feedback</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG10</room>
+	<lecturer>Seago, Karen </lecturer>
+	<day>Wednesday </day>
+</booking>

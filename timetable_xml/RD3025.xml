@@ -1,0 +1,377 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 1/01</activity>
+	<desc>Module Introduction (RD3025) and assessment overview</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 16/01</activity>
+	<desc>The impact of current legislation and screening protocols on service provision within the diagnostic imaging department</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>D104</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 2/01</activity>
+	<desc>Paediatrics, elderly and imaging implications of the aging process</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 8/02</activity>
+	<desc>Effective team working</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 9/01</activity>
+	<desc>Job design and role extension</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Willis, Sophie;VL 01 - HARADI </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 7/01</activity>
+	<desc>Feedback and peer assessment of Audit task [two rooms to run two parallel sessions]</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>D104;DLG03</room>
+	<lecturer>Walls, Darren;Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 3/01</activity>
+	<desc>NHS policy and the impact of social status on access to healthcare</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 10/01</activity>
+	<desc>Grievance and disciplinary procedures</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>BLG07</room>
+	<lecturer>Bentley, P </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/01</activity>
+	<desc>Special considerations for service users with metal health problems</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 4/01</activity>
+	<desc>Implications for the diagnostic imaging department of current NHS policies including NICE</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Bentley, P </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>05/05/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 17/01</activity>
+	<desc>Policies and protocols: who influences them? (including NICE, NAI, elder abuse, paediatrics, forensic)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 6/01</activity>
+	<desc>The role audit and evidence based practice within the diagnostic imaging department</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/02</activity>
+	<desc>Equality and diversity within the NHS</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 8/01</activity>
+	<desc>Dealing with stress: identifying stressors and coping mechanisms</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>05/05/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 14/01</activity>
+	<desc>What is clinical governance? And how is it monitored?</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 19/01</activity>
+	<desc>Paediatrics, elderly and imaging implications of the aging process</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 20/01</activity>
+	<desc>NHS policy and the impact of social status on access to healthcare</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>05/05/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 18/01</activity>
+	<desc>Module summary and review of mock assessment</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>E212</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 12/01</activity>
+	<desc>Fitness to practice: the role of induction and appraisal</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>BLG07</room>
+	<lecturer>VL 01 - HARADI </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 13/01</activity>
+	<desc>The role of the PACS manager: networking training consideration and archiving</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>BLG07</room>
+	<lecturer>VL 01 - HARADI </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/03</activity>
+	<desc>The role of MHRA</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>SJW_RD3025 tutorial</activity>
+	<desc>Sophie Willis 3156</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>BLG07</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/06</activity>
+	<desc>Competence and negligence</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie;VL 01 - HARADI </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/04</activity>
+	<desc>Effective time management</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Lecture 15/01</activity>
+	<desc>Data protection: PACS and the impact of new technologies</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>BLG07</room>
+	<lecturer>VL 01 - HARADI </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/08</activity>
+	<desc>Mock Assessment</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/self study 11/01</activity>
+	<desc>Module review and assessment consideration</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/05</activity>
+	<desc>Management, motivation and leadership</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>RD3025</modulecode>
+	<activity>RD3025 Management and Radiographic Practice/Self Study 1/07</activity>
+	<desc>Data Protection: Legislative requirements and quiz</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,26 @@
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>JOM845TB</modulecode>
+	<activity>JOM845 Online Journalism/TV/Broadcast/Lab 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>29</studentnos>
+	<room>B307A</room>
+	<lecturer>Wood, Alex </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>JOM845TB</modulecode>
+	<activity>JOM845 Online Journalism/TV/Broadcast/Lab 2/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>EG04</room>
+	<lecturer>Wood, Alex </lecturer>
+	<day>Friday </day>
+</booking>

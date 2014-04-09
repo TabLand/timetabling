@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>PSI</modulecode>
+	<activity>Induction - Publishing Studies (Mon)</activity>
+	<desc>Mary Ann Kernan 0100</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

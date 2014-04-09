@@ -1,0 +1,78 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>SLM003</modulecode>
+	<activity>SLM003 Developmental Studies/Lecture 1/01 (lead)</activity>
+	<desc>Psychology strand - PG1s 88</desc>
+	<joint>SLM003;SL1003</joint>
+	<studentnos>132</studentnos>
+	<room>A130</room>
+	<lecturer>Morgan, Gary;Botting, Nikki </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-18/11/13</week>
+	<modulecode>SLM003</modulecode>
+	<activity>SLM003 Developmental Studies/Lecture 1/03 (lead)</activity>
+	<desc>Speech & language strand (PG1s 88 + (UG2 & HC2s 43)</desc>
+	<joint>SL2004;SLM003</joint>
+	<studentnos>131</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Knight, R A;Camilleri, Bernard </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>25/11/13-09/12/13</week>
+	<modulecode>SLM003</modulecode>
+	<activity>SLM003 Developmental Studies/Lecture 1/03a (lead)</activity>
+	<desc>Speech & language strand (PG1s 88 + (UG2 & HC2s 43)</desc>
+	<joint>SL2004;SLM003</joint>
+	<studentnos>131</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Dipper, Lucy </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-10/02/14, 24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SLM003</modulecode>
+	<activity>SLM003 Developmental Studies/Lecture 2/02 (lead)</activity>
+	<desc>Language strand - PG1s - 88 + BSc2/HC2=43 (remove wk37 for BSc2 exam?</desc>
+	<joint>SLM003;SL2004</joint>
+	<studentnos>131</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Dipper, Lucy </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>17/02/14</week>
+	<modulecode>SLM003</modulecode>
+	<activity>SLM003 Developmental Studies/Lecture 2/02 wk4 (lead)</activity>
+	<desc>Language strand/LARSP - PG1s - 88 + BSc2/HC2=43</desc>
+	<joint> </joint>
+	<studentnos>131</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Hasson, Natalie;Dipper, Lucy </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SLM003</modulecode>
+	<activity>SLM003 Developmental Studies/Lecture 2/01 (lead)</activity>
+	<desc>Psychology strand - PG1s X 88</desc>
+	<joint>SLM003;SL1003S</joint>
+	<studentnos>138</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>Morgan, Gary;Botting, Nikki;Williams, Roberta </lecturer>
+	<day>Thursday </day>
+</booking>

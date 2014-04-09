@@ -1,0 +1,143 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Lecture 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>150</studentnos>
+	<room>A130</room>
+	<lecturer>James, Malcolm;Friedman, Samuel </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>DLG02</room>
+	<lecturer>Hadjigeorgiou, Demetris </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/06</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D222</room>
+	<lecturer>James, Malcolm </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/10</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D221</room>
+	<lecturer>Karamanidou, Lena </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/07</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D222</room>
+	<lecturer>James, Malcolm </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D108</room>
+	<lecturer>Hadjigeorgiou, Demetris </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D108</room>
+	<lecturer>Hadjigeorgiou, Demetris </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/08</activity>
+	<desc>Weeks 1-4 & 6-11</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D112</room>
+	<lecturer>Iosifidis, Petros </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D222</room>
+	<lecturer>Hadjigeorgiou, Demetris </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-17/02/14, 03/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/09</activity>
+	<desc>Weeks 1-4 & 6-11</desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D112</room>
+	<lecturer>Iosifidis, Petros </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>SGM222</modulecode>
+	<activity>SGM222 Approaches to Social Research/Tutorial 01/05</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>14</studentnos>
+	<room>D113</room>
+	<lecturer>Hadjigeorgiou, Demetris </lecturer>
+	<day>Thursday </day>
+</booking>

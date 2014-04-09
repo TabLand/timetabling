@@ -1,0 +1,156 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-18/11/13, 02/12/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Oakden</room>
+	<lecturer>Smith, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>14/10/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>CLG36</room>
+	<lecturer>VL 06 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial G</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C150</room>
+	<lecturer>VL 05 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial C</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG19</room>
+	<lecturer>VL 04 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>21/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial B</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BM03</room>
+	<lecturer>VL 06 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>06/01/14</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Revision session</activity>
+	<desc>Peter Smith 8437</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 18/11/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A214</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial D</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C300</room>
+	<lecturer>VL 01 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial F</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG11</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial A</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>DLG09</room>
+	<lecturer>VL 02 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>14/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Tutorial E</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>C343</room>
+	<lecturer>VL 06 - IISOIN </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>IN1004</modulecode>
+	<activity>IN1004 Mathematics For Computing/Lecture/Dec 13th</activity>
+	<desc>Replacement lecture</desc>
+	<joint> </joint>
+	<studentnos>200</studentnos>
+	<room>Great Hall & Foyer</room>
+	<lecturer>Smith, Peter </lecturer>
+	<day>Friday </day>
+</booking>

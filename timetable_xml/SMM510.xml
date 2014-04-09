@@ -1,0 +1,13 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM510</modulecode>
+	<activity>SMM510 Portfolio Management/IM/Lecture 01</activity>
+	<desc>IM: Spring weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>128</studentnos>
+	<room>LG001</room>
+	<lecturer>Todorovic, Natasha </lecturer>
+	<day>Wednesday </day>
+</booking>

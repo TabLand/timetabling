@@ -1,0 +1,195 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>07/10/13-14/10/13, 11/11/13, 02/12/13-09/12/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 1/2/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>27/01/14-17/02/14, 10/03/14-07/04/14</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 2/2/JOINT</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>18:50</end>
+	<week>30/09/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 1/2/JOINT/Sep 30th</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>18:50</end>
+	<week>21/10/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 1/2/JOINT/Oct 21st</activity>
+	<desc>Week 4: 1 hour later</desc>
+	<joint>LU3087;LG3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>14/10/13, 02/12/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Tutorial 1/1 JOINT</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>11/11/13, 09/12/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Tutorial 1/2 JOINT</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>10/02/14, 17/03/14, 31/03/14</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Tutorial 2/1 JOINT</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>17/02/14, 10/03/14, 24/03/14, 07/04/14</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Tutorial 2/2 JOINT</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>07/04/14</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 2/2/JOINT/Apr 9th</activity>
+	<desc> </desc>
+	<joint>LG3087;LU3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>02/12/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 1/2/JOINT/wk 10</activity>
+	<desc>Week 10</desc>
+	<joint>LU3087;LG3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>02/12/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Tutorial 1/1/JOINT/wk 10</activity>
+	<desc>Week 10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 1/2/JOINT/wk 6</activity>
+	<desc>Week 6</desc>
+	<joint>LU3087;LG3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>25/11/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Lecture 1/2/JOINT/wk 9</activity>
+	<desc>Week 9</desc>
+	<joint>LU3087;LG3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>04/11/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Tutorial 1/1/JOINT/wk 6</activity>
+	<desc>Week 6</desc>
+	<joint>LU3087;LG3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:00</start>
+	<end>18:50</end>
+	<week>25/11/13</week>
+	<modulecode>LG3087</modulecode>
+	<activity>LG3087 Employment Law/Tutorial 1/1/JOINT/wk 9</activity>
+	<desc>Week 9</desc>
+	<joint>LU3087;LG3087</joint>
+	<studentnos>10</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

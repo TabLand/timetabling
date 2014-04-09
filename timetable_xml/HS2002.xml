@@ -1,0 +1,2145 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre-op)/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (post-op)/Practical/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Ellis, M;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/AM/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>D111</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Saunder, L;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/AM/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/01</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Treacy, C;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>McLeod, A;Chamney, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: 'Everybody Matters' - Compassion, Dignity and Communication/Tutorial/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BM02</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hunter, J;McLeod, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>BM02</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG24b</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Discharge planning/Tutorial 1/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C161</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: catch up day 2/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Hill, Marie;Trust representative </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Wound assessment/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study - making sense of patient care: linking theory to practice/Tutorial/PM/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: hydration & nutritional assessment (STAMP)/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Trust representative </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: "Behind closed doors"/Lab/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG24a</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>07/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/06</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C232</room>
+	<lecturer>Klufio, A;Trust representative </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>20/01/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: compassion, dignity & communication (child protection)/Tutorial/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/PM/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Saunder, L;Howard, C;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/PM/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Lucktung, P;Hunter, J </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>McLeod, A;Chamney, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/01</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>A107</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hunter, J;McLeod, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Grant, R;Mahoney, P </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C167</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG24b</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: CBT fundamentals/Tutorial 2/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C150</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>07/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: CPR (all settings)/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: compassion, dignity & communication (child protection)/Tutorial/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A227</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre-op)/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Ellis, M </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (post-op)/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/06</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: pressure ulcer prevention & tissue viability/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: hydration & nutritional assessment (STAMP)/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V;Trust representative </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Discharge planning/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: "Behind closed doors"/Lab/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>AG24a</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Wound assessment/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C216</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/07</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C232</room>
+	<lecturer>Klufio, A;Trust representative </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;Grant, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>BM03</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C232</room>
+	<lecturer>Hunter, J;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/03</activity>
+	<desc>AN/03 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: care frameworks & care planning/Tutorial/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;Grant, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/05</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Bliss, M;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: care frameworks & care planning/Tutorial/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>AG24b</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/03</activity>
+	<desc>AN/03 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>CG56</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;Chamney, M </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>A108</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hunter, J;Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/02</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>A108</room>
+	<lecturer>Olson, K </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;McLeod, A </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Francis, A;Hunter, J;Boswell, G </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>14/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: compassion, dignity & communication (consent & confidentiality)/Tutorial/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>AG24a</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>28/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre-op)/Practical/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Lanlehin, R </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>07/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/08</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: urinary catheterisation/Practical/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/02</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BM02</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: elimination skills/Practical/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/06</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: care frameworks & care planning/Tutorial/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: 'Everybody Matters' - Compassion, Dignity and Communication/Tutorial/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>BLG08</room>
+	<lecturer>Grant, R </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Bliss, M;McLeod, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: review & presentation of community & service user profiling/Tutoria//01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A107</room>
+	<lecturer>Eales, S;Howard, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management 1/Practical/07</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Ellis, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management 1/Practical/06</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>17/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management 1/Practical/08</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: catch up day 2/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Ellis, M;Trust representative </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>16:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: catch up day 1/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Benato, R;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: care frameworks & care planning/Tutorial/06</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>BM02</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study - making sense of patient care: linking theory to practice/Tutorial/PM/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: hydration & nutritional assessment (STAMP)/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C232</room>
+	<lecturer>Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Wound assessment/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C215</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>15:30</end>
+	<week>21/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: compassion, dignity & communication (child protection)/Tutorial/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>A107</room>
+	<lecturer>MacKenzie, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: CPR (all settings)/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: compassion, dignity & communication (consent & confidentiality)/Tutorial/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>CG56</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: catch up day 2/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Hill, Marie;Trust representative </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: urinary catheterisation/Practical/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study workshop - Dementia Awareness /Tutorial/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C140</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: elimination skills/Practical/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/05</activity>
+	<desc>AN/01 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>AG10</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hunter, J;Chamney, M </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Francis, A;Manning, A;Boswell, G </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/06</activity>
+	<desc>AN/02 (half group)</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>A107</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Bliss, M;McLeod, A </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: CBT fundamentals/Tutorial 3/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A111</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management 2/Practical/07</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>3D (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management 2/Practical/06</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>16:30</end>
+	<week>17/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management 2/Practical/08</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (post-op)/Practical/05</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Anderson, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/06</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Klufio, A;Anderson, D;Hughes, V </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: assessment & creative engagement/Tutorial/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24a</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: MDT/interprofessional working/Tutorial/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>D221</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: risk assessment/Tutorial/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A227</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/04</activity>
+	<desc>AN/03 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/AM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: urinary catheterisation/Practical/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Rawlings-Anderson, K;Bliss, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/07</activity>
+	<desc>AN/04 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>McLeod, A;Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: elimination skills/Practical/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Gelbart, M;Jones, Mark </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/AM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: 'Everybody Matters' - Compassion, Dignity and Communication/Tutorial/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>11:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 OSCE Prep/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>16:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: catch up day 1/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Patient care simulation 1/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>Skills room G5/G6</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: care frameworks & care planning/Tutorial/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>BM02</room>
+	<lecturer>Ellis, M </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: pressure ulcer prevention & tissue viability/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C216</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Discharge planning/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:30</start>
+	<end>13:30</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/07</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:30</start>
+	<end>13:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 OSCE Prep/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>07/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: CPR (all settings)/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C208/210</room>
+	<lecturer>Klufio, A;Mahoney, P </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>14/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: compassion, dignity & communication (consent & confidentiality)/Tutorial/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG24b</room>
+	<lecturer>Klufio, A </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>27/01/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: pressure ulcer prevention & tissue viability/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: community & service users profiling/Tutorial/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A107</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: CBT fundamentals/Tutorial 1/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A225</room>
+	<lecturer>Howard, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: risk management/Tutorial/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>A227</room>
+	<lecturer>Eales, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/PM/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>McLeod, A;Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark;Rawlings-Anderson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/07</activity>
+	<desc>AN/03 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C337</room>
+	<lecturer>Treacy, C </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: urinary catheterisation/Practical/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: elimination skills/Practical/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C232</room>
+	<lecturer>Gelbart, M;Bowden, T </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/PM/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/04</activity>
+	<desc>AN/04 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A107</room>
+	<lecturer>Olson, K </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: compassion, dignity & communication (conflict resolution)/Tutorial/01</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>AG24b</room>
+	<lecturer>Phillips, L </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:30</end>
+	<week>28/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling catch-up/Practical/08</activity>
+	<desc>AN & MHN</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Boswell, G </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Patient care simulation 1/Practical/02</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>Skills room G5/G6</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/07</activity>
+	<desc>CN/02</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Klufio, A;Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: guided study - making sense of patient care: linking theory to practice/Tutorial/PM/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>No room needed</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>24/02/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Discharge planning/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>C208/210</room>
+	<lecturer>Hughes, V </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>03/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: "Behind closed doors"/Lab/07</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>AG24a</room>
+	<lecturer>Self-directed </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: care frameworks & care planning/Tutorial/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C216</room>
+	<lecturer>Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Manning, A;Boswell, G;Mahoney, P </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C215</room>
+	<lecturer>Rawlings-Anderson, K;Bliss, M </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C216</room>
+	<lecturer>Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: 'Everybody Matters' - Compassion, Dignity and Communication/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C323</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/AM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/AM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C232</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>12:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Peri-operative Care (pre- & post-op)/Practical/08</activity>
+	<desc>AN/04 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C208/210</room>
+	<lecturer>Bliss, M;McLeod, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>16:50</end>
+	<week>04/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: catch up day 1/Practical/01</activity>
+	<desc>CN/01</desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Ellis, M;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>21/10/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Patient care simulation 1/Practical/03</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>Skills room G5/G6</room>
+	<lecturer>Anderson, D;Hughes, V </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: clinical skills review/Practical/08</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>McGraw, C;Anderson, D </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:30</start>
+	<end>14:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 OSCE Prep/03</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: care frameworks & care planning/Tutorial/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>11B (WS)</room>
+	<lecturer>McLeod, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: 'Everybody Matters' - Compassion, Dignity and Communication/Tutorial/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C300</room>
+	<lecturer>Jones, Mark </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: developing tissue viability skills/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C216</room>
+	<lecturer>Rawlings-Anderson, K;Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>10/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/04</activity>
+	<desc>AN/04</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Manning, A;Boswell, G;Mahoney, P </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/05</activity>
+	<desc>MHN/01</desc>
+	<joint> </joint>
+	<studentnos>24</studentnos>
+	<room>C232</room>
+	<lecturer>Howard, C;Lindsay, T </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: Handover & discharge planning/Tutorial/08</activity>
+	<desc>AN/04 (half group)</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C135</room>
+	<lecturer>Manning, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: medicines management/Practical/PM/03</activity>
+	<desc>AN/03</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C215</room>
+	<lecturer>Gelbart, M;McLeod, A </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: patient care simulation/Practical/PM/01</activity>
+	<desc>AN/01</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C208/210</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>16:50</end>
+	<week>17/03/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: prep for OSCE/Practical/02</activity>
+	<desc>AN/02</desc>
+	<joint> </joint>
+	<studentnos>21</studentnos>
+	<room>C216</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>11/11/13</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 Simulating Practice: moving & handling update/Practical/08</activity>
+	<desc>CN/03</desc>
+	<joint> </joint>
+	<studentnos>23</studentnos>
+	<room>2G (WS)</room>
+	<lecturer>Francis, A;Anderson, D;Hunter, J </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:30</start>
+	<end>16:30</end>
+	<week>07/04/14</week>
+	<modulecode>HS2002</modulecode>
+	<activity>HS2002 OSCE Prep/04</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>C215</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

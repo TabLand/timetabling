@@ -1,0 +1,143 @@
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Mon)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG01</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Mon)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG27 (TV Studio)</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Mon)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Mon)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Tue)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Tue)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C301</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Wed)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A227</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Wed)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>A218</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>12:30</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Thur)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>17</studentnos>
+	<room>AG29a</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:30</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Fri)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>23/09/13</week>
+	<modulecode>SJ Ind</modulecode>
+	<activity>Induction - Science Journalism (Fri)</activity>
+	<desc>Connie St Louis 3321</desc>
+	<joint> </joint>
+	<studentnos>16</studentnos>
+	<room>AG34b</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

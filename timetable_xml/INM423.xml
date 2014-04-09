@@ -1,0 +1,39 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13</week>
+	<modulecode>INM423</modulecode>
+	<activity>INM423 Readings in Computer Science/Lecture 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG11</room>
+	<lecturer>Weyde, Tillman </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM423</modulecode>
+	<activity>INM423 Readings in Computer Science/Lecture 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>C164</room>
+	<lecturer>Weyde, Tillman </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>14/10/13-21/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>INM423</modulecode>
+	<activity>INM423 Readings in Computer Science/Lecture 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>I103</room>
+	<lecturer>Weyde, Tillman </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,260 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>19/05/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Exam 1/01</activity>
+	<desc>Image evaluation exam (49 students)</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>D518;A218</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Workshop 01/01</activity>
+	<desc>image evaluation group 1</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>McHugh, Kevin </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Workshop 01/03</activity>
+	<desc>image evaluation group 3</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>28/04/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Lecture 6/01</activity>
+	<desc>OSCE revision</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG03</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Workshop 01/02</activity>
+	<desc>image evaluation group 2</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>03/02/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Lecture 4/01</activity>
+	<desc>Plain Film Image Evaluation - Group 2 - taught by Nick Woznitza</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>AG03</room>
+	<lecturer>Humphries, Sue;VL 02 - HARADI </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Lecture 8/01</activity>
+	<desc>Plain Film Image Evaluation - Group 1 - Nick Woznitza from Homerton Hospital</desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>BLG07</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Workshop 01/04</activity>
+	<desc>image evaluation group 4</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Lecture 01/01</activity>
+	<desc>Introduction to the module</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Lecture 2/02</activity>
+	<desc>Developing a systematic approach to image evaluation (1)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 3/01</activity>
+	<desc>Directed study; on-line learning</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Workshop 01/05</activity>
+	<desc>image evaluation group 5</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>C239 (Radiography - computer room)</room>
+	<lecturer>Humphries, Sue </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 6/01</activity>
+	<desc>Directed study; Musculoskeletal imaging (non-trauma)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 5/01</activity>
+	<desc>Directed study; Medical imaging of the abdomen and pelvis</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Morgan, J </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>15:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 2/01</activity>
+	<desc>Directed study; Musculoskeletal imaging (non-trauma)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Walls, Darren </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Lecture 3/03</activity>
+	<desc>Developing a systematic approach to image evaluation (2)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG03</room>
+	<lecturer>Bland, Paul </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/09/13</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 1/01</activity>
+	<desc>Directed study; on-line learning</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 7/01</activity>
+	<desc>Directed study; Musculoskeletal imaging (trauma) (SH)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>14:50</end>
+	<week>20/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 4/01</activity>
+	<desc>Directed study; Musculoskeletal imaging (trauma) (SH)</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14</week>
+	<modulecode>RD3023</modulecode>
+	<activity>RD3023 Image Interpretation/Evaluation/Self Study 9/01</activity>
+	<desc>Directed study: medical imaging of the chest</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>No room needed</room>
+	<lecturer>Willis, Sophie </lecturer>
+	<day>Friday </day>
+</booking>

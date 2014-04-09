@@ -1,0 +1,65 @@
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA1308</modulecode>
+	<activity>LA1308 Spanish For Media (beginners)/Group 2 Autumn</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>A107</room>
+	<lecturer>Iwulski, Sonia </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>LA1308</modulecode>
+	<activity>LA1308 Spanish For Media (beginners)/Group 1 Autumn</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>D222</room>
+	<lecturer>Rivas, Ana </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA1308</modulecode>
+	<activity>LA1308 Spanish For Media (beginners)/Group 2 Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C323</room>
+	<lecturer>Iwulski, Sonia </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>27/01/14-07/04/14</week>
+	<modulecode>LA1308</modulecode>
+	<activity>LA1308 Spanish For Media (beginners)/Group 1 Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Belen-Rivas, Ana </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>31/03/14-07/04/14</week>
+	<modulecode>LA1308</modulecode>
+	<activity>LA1308 Spanish For Media (beginners)/Group 1 Spring</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C140</room>
+	<lecturer>Belen-Rivas, Ana </lecturer>
+	<day>Tuesday </day>
+</booking>

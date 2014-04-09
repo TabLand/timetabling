@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE3505</modulecode>
+	<activity>EE3505 Computer Systems & Networks/Lecture 1/02/LEAD</activity>
+	<desc>Joint with EE3484: total numbers 30</desc>
+	<joint>EE3484;EE3505</joint>
+	<studentnos>30</studentnos>
+	<room>C335</room>
+	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE3505</modulecode>
+	<activity>EE3505 Computer Systems & Networks/Tutorial 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>D107</room>
+	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>14:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>EE3505</modulecode>
+	<activity>EE3505 Computer Systems & Networks/Lab Sems 1/01/LEAD</activity>
+	<desc>Joint with EE3484: total numbers 30</desc>
+	<joint>EE3484;EE3505</joint>
+	<studentnos>30</studentnos>
+	<room>CG17</room>
+	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-18/11/13, 02/12/13-09/12/13</week>
+	<modulecode>EE3505</modulecode>
+	<activity>EE3505 Computer Systems & Networks/Lecture 1/01</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>A226</room>
+	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>25/11/13</week>
+	<modulecode>EE3505</modulecode>
+	<activity>EE3505 Computer Systems & Networks/Lecture 1/Nov 26th</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>18</studentnos>
+	<room>AG24b</room>
+	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>EE3505</modulecode>
+	<activity>EE3505 Computer Systems & Networks/Tutorial 1/02/LEAD</activity>
+	<desc>Joint with EE3484: total numbers 30</desc>
+	<joint>EE3484;EE3505</joint>
+	<studentnos>30</studentnos>
+	<room>C335</room>
+	<lecturer>Reyes-Aldasoro, Dr C </lecturer>
+	<day>Wednesday </day>
+</booking>

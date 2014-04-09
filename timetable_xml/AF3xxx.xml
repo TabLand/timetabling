@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13</week>
+	<modulecode>AF3xxx</modulecode>
+	<activity>A&F BSc. Part 3 meeting.</activity>
+	<desc>Rui Barros Silva 3019</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>C170</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

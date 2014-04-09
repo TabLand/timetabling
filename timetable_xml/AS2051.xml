@@ -1,0 +1,78 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>AS2051</modulecode>
+	<activity>AS2051 Calculus & Linear Algebra (maths 2)/Lecture 1/1/JOINT</activity>
+	<desc>Joint with MA2602: total numbers 220</desc>
+	<joint>MA2602;AS2051</joint>
+	<studentnos>210</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>AS2051</modulecode>
+	<activity>AS2051 Calculus/Lecture 01/02</activity>
+	<desc>weeks 1-5, 7-11</desc>
+	<joint> </joint>
+	<studentnos>88</studentnos>
+	<room>A130</room>
+	<lecturer>Stefanski, B </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>14/10/13-09/12/13</week>
+	<modulecode>AS2051</modulecode>
+	<activity>AS2051 Linear Algebra/AS/Tutorial</activity>
+	<desc>Surgery Hour - Act Sci students only : Weeks 3-11 only</desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>ELG19/Drysdale Lecture Theatre & Foyer</room>
+	<lecturer>King, Oliver </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>AS2051</modulecode>
+	<activity>AS2051 Calculus/Tutorial 01/01</activity>
+	<desc>Weeks 2-5, 7-11</desc>
+	<joint> </joint>
+	<studentnos>88</studentnos>
+	<room>AG22</room>
+	<lecturer>Stefanski, B </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>AS2051</modulecode>
+	<activity>AS2051 Calculus/Lecture 02/02</activity>
+	<desc>weeks 1-5, 7-11</desc>
+	<joint> </joint>
+	<studentnos>88</studentnos>
+	<room>AG07</room>
+	<lecturer>Stefanski, B </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>AS2051</modulecode>
+	<activity>AS2051 Calculus & Linear Algebra (maths 2)/Lecture 2/1/JOINT</activity>
+	<desc>Joint with MA2602: total numbers 220</desc>
+	<joint>MA2602;AS2051</joint>
+	<studentnos>210</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

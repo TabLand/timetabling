@@ -1,0 +1,13 @@
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>17/02/14-31/03/14</week>
+	<modulecode>SMM478</modulecode>
+	<activity>SMM478 Entrepreneurial Management/ENT/Computer Lab 01/WKS 4-10</activity>
+	<desc>ENTstream : Computer LAB : Weeks 4 -10</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>1001</room>
+	<lecturer>Zerbinati, Stefani </lecturer>
+	<day>Tuesday </day>
+</booking>

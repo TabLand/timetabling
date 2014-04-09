@@ -1,0 +1,26 @@
+<booking>
+	<start>18:00</start>
+	<end>19:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM343 (PT)</modulecode>
+	<activity>INM343 Databases PT/Lecture</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>AG04</room>
+	<lecturer>Turkay, Cagatay </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>20:00</start>
+	<end>20:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM343 (PT)</modulecode>
+	<activity>INM343 Databases PT/Laboratory</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A307</room>
+	<lecturer>Turkay, Cagatay </lecturer>
+	<day>Thursday </day>
+</booking>

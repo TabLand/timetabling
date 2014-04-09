@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ET3051</modulecode>
+	<activity>ET3051 Engineering Management 3/Lecture 2/1/LEAD</activity>
+	<desc>Financial Analysis. Joint with ME3100/CV3408: total numbers 230</desc>
+	<joint>CV3408;ET3051;ME3100</joint>
+	<studentnos>230</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Stupples, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>9:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ET3051</modulecode>
+	<activity>ET3051 Engineering Management 3/Lecture 2/2/LEAD</activity>
+	<desc>Investment Appraisal. Joint with CV3308/ME3100: total numbers 240</desc>
+	<joint>CV3408;ET3051;ME3100</joint>
+	<studentnos>230</studentnos>
+	<room>OTLT & Foyer</room>
+	<lecturer>Stupples, D </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>07/10/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>ET3051</modulecode>
+	<activity>ET3051 Engineering Management 3/Lecture 1/1/LEAD</activity>
+	<desc>Management Science. Joint with ME3100: total numbers 130</desc>
+	<joint>ME3100;ET3051</joint>
+	<studentnos>130</studentnos>
+	<room>BG03</room>
+	<lecturer>Stupples, D </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>ET3051</modulecode>
+	<activity>ET3051 Engineering Management 3/Lecture 1/2/LEAD</activity>
+	<desc>Behavioural Science. Joint with AE3268/ME3100: total numbers 160 *</desc>
+	<joint>ME3100;AE3268;ET3051</joint>
+	<studentnos>160</studentnos>
+	<room>Oakden</room>
+	<lecturer>Taylor, D </lecturer>
+	<day>Friday </day>
+</booking>

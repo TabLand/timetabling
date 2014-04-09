@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>AEM203</modulecode>
+	<activity>AEM203 Aerodynamics of Wings and Bodies/Lecture 2/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C340</room>
+	<lecturer>Prince, S </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>AEM203</modulecode>
+	<activity>AEM203 Aerodynamics of Wings and Bodies/Lecture 1/02</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C357</room>
+	<lecturer>Prince, S;Fulker, J </lecturer>
+	<day>Friday </day>
+</booking>

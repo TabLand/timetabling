@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1996</modulecode>
+	<activity>CS1996 International Finance term 1 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>AG11</room>
+	<lecturer>Singh, Permjit </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>CS1996</modulecode>
+	<activity>CS1996 International Finance term 2 (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>22</studentnos>
+	<room>C143</room>
+	<lecturer>Singh, Permjit </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>CS1996</modulecode>
+	<activity>CS1996 International Finance term 1 (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>A110</room>
+	<lecturer>Singh, Permjit </lecturer>
+	<day>Thursday </day>
+</booking>

@@ -1,0 +1,39 @@
+<booking>
+	<start>13:10</start>
+	<end>15:00</end>
+	<week>23/09/13-14/10/13</week>
+	<modulecode>MBM406 org (A)</modulecode>
+	<activity>MBM406 Mba Block 1: Organisational Behaviour/A1/Lecture 01</activity>
+	<desc>FTMBA 2013 Block 1 - OB A session 1</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>2004</room>
+	<lecturer>Silvester, Jo;Spicer, Andre Prof;Oswick, Cliff;Fleming, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>MBM406 org (A)</modulecode>
+	<activity>MBM406 Mba Block 1: Organisational Behaviour/A&B/Lecture (Lead)</activity>
+	<desc>(Lead) OB A&B Revision</desc>
+	<joint>MBM406 org (B);MBM406 org (A)</joint>
+	<studentnos>100</studentnos>
+	<room>LG001</room>
+	<lecturer>Fleming, Peter </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>11:50</end>
+	<week>23/09/13-14/10/13</week>
+	<modulecode>MBM406 org (A)</modulecode>
+	<activity>MBM406 Mba Block 1: Organisational Behaviour/A2/Lecture 02</activity>
+	<desc>FTMBA 2013 Block 1: OB A session 2:</desc>
+	<joint> </joint>
+	<studentnos>50</studentnos>
+	<room>3002</room>
+	<lecturer>Silvester, Jo;Spicer, Andre Prof;Oswick, Cliff;Fleming, Peter </lecturer>
+	<day>Friday </day>
+</booking>

@@ -1,0 +1,52 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/06/14</week>
+	<modulecode>SMM450</modulecode>
+	<activity>SMM450 International Financial Reporting Standards /Lecture 01/03/wk 6</activity>
+	<desc>Guest speaker tbc: week 6</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>2006</room>
+	<lecturer>Kraft, Arthur </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>19/05/14, 02/06/14-23/06/14</week>
+	<modulecode>SMM450</modulecode>
+	<activity>SMM450 International Financial Reporting Standards /Lecture 01/03/wks 2, 4-7</activity>
+	<desc>Guest speaker tbc: weeks 2, 4-7</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>3002</room>
+	<lecturer>Kraft, Arthur </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>12/05/14-09/06/14, 23/06/14</week>
+	<modulecode>SMM450</modulecode>
+	<activity>SMM450 International Financial Reporting Standards /Lecture 02/03/wks 1-5,7</activity>
+	<desc>Guest speaker tbc : Weeks 1-5,7</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>3002</room>
+	<lecturer>Kraft, Arthur </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>12/05/14-09/06/14, 23/06/14</week>
+	<modulecode>SMM450</modulecode>
+	<activity>SMM450 International Financial Reporting Standards /Lecture 03/03/wks 1-5,7</activity>
+	<desc>Guest speaker tbc : Weeks 1-5,7</desc>
+	<joint> </joint>
+	<studentnos>55</studentnos>
+	<room>3002</room>
+	<lecturer>Kraft, Arthur </lecturer>
+	<day>Friday </day>
+</booking>

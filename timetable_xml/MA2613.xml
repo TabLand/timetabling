@@ -1,0 +1,13 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>MA2613</modulecode>
+	<activity>MA2613 Finance & Financial Reporting B/Lecture 1/02/JOINT</activity>
+	<desc>Joint with AS2108: total numbers 150 *</desc>
+	<joint>AS2108 CT2;MA2613</joint>
+	<studentnos>50</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>

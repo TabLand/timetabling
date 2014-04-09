@@ -1,0 +1,52 @@
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>30/09/13-21/10/13, 18/11/13-02/12/13</week>
+	<modulecode>BS3200 Study Abroad</modulecode>
+	<activity>BS3200 International Financial Management/Study Abroad/Lecture 01</activity>
+	<desc>Study Abroad only - Autumn Lecture</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A214</room>
+	<lecturer>Edelshain, David </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>28/10/13</week>
+	<modulecode>BS3200 Study Abroad</modulecode>
+	<activity>BS3200 International Financial Management/Study Abroad/Lecture 01/Oct 28th</activity>
+	<desc>Study Abroad only - Autumn Lecture</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A225</room>
+	<lecturer>Edelshain, David </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>04/11/13</week>
+	<modulecode>BS3200 Study Abroad</modulecode>
+	<activity>BS3200 International Financial Management/Study Abroad/Lecture 01</activity>
+	<desc>Study Abroad only - Autumn Lecture</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A225</room>
+	<lecturer>Edelshain, David </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>11/11/13</week>
+	<modulecode>BS3200 Study Abroad</modulecode>
+	<activity>BS3200 International Financial Management/Study Abroad/Lecture 01</activity>
+	<desc>Study Abroad only - Autumn Lecture</desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A108</room>
+	<lecturer>Edelshain, David </lecturer>
+	<day>Monday </day>
+</booking>

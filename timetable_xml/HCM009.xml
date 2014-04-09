@@ -1,0 +1,13 @@
+<booking>
+	<start>10:00</start>
+	<end>12:50</end>
+	<week>14/10/13-02/12/13</week>
+	<modulecode>HCM009</modulecode>
+	<activity>HCM009 Habilitative Audiology/01</activity>
+	<desc>Habilitative Audiology</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>C330</room>
+	<lecturer>Turner, Paul </lecturer>
+	<day>Friday </day>
+</booking>

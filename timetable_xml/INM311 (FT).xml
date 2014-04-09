@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM311 (FT)</modulecode>
+	<activity>INM311 Requirements Engineering/Lecture (LEAD)</activity>
+	<desc> </desc>
+	<joint>INM311 (FT);IN3015</joint>
+	<studentnos>110</studentnos>
+	<room>Geary</room>
+	<lecturer>Maiden, Neil </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>INM311 (FT)</modulecode>
+	<activity>INM311 Requirements Engineering/Tutorial</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG03</room>
+	<lecturer>Maiden, Neil </lecturer>
+	<day>Friday </day>
+</booking>

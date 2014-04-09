@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>02/12/13</week>
+	<modulecode>SMM466</modulecode>
+	<activity>SMM466 Applied Empirical Accounting/Lecture/WK 10</activity>
+	<desc>Lecture: Autumn : Week 10 ONLY</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2002</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>30/09/13-07/10/13, 21/10/13, 04/11/13, 18/11/13</week>
+	<modulecode>SMM466</modulecode>
+	<activity>SMM466 Applied Empirical Accounting/Lecture/WKS 1,2,4,6,8</activity>
+	<desc>Lecture: Autumn : Weeks 1,2,4,6,8 ONLY</desc>
+	<joint> </joint>
+	<studentnos>72</studentnos>
+	<room>2002</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SMM466</modulecode>
+	<activity>SMM466 Applied Empirical Accounting/Computer Room/A/WKS 3, 5, 7, 9</activity>
+	<desc>LAB - Autumn Term : Group A : Weeks 3, 5, 7, 9 ONLY</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>2001</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>14/10/13, 28/10/13, 11/11/13, 25/11/13</week>
+	<modulecode>SMM466</modulecode>
+	<activity>SMM466 Applied Empirical Accounting/Computer Room/B/WKS 3, 5, 7, 9</activity>
+	<desc>LAB - Autumn Term : Group B : Weeks 3, 5, 7, 9 ONLY</desc>
+	<joint> </joint>
+	<studentnos>36</studentnos>
+	<room>1001</room>
+	<lecturer>Payne, Richard Prof </lecturer>
+	<day>Wednesday </day>
+</booking>

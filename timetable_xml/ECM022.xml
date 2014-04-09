@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>09/12/13</week>
+	<modulecode>ECM022</modulecode>
+	<activity>ECM022 Microeconomics/Lecture 01/Dec 11th</activity>
+	<desc>Week 11 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D220</room>
+	<lecturer>Montes Rojas, Gabriel </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>09/12/13</week>
+	<modulecode>ECM022</modulecode>
+	<activity>ECM022 Microeconomics/Tutorial 01/Dec 11th</activity>
+	<desc>Week 11 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>D220</room>
+	<lecturer>Montes Rojas, Gabriel </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>16:50</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>ECM022</modulecode>
+	<activity>ECM022 Microeconomics/Lecture 01/01</activity>
+	<desc>Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG19</room>
+	<lecturer>Montes Rojas, Gabriel </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>18:30</end>
+	<week>30/09/13-02/12/13</week>
+	<modulecode>ECM022</modulecode>
+	<activity>ECM022 Microeconomics/Tutorial 01/01</activity>
+	<desc>Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>DLG19</room>
+	<lecturer>Temizsoy, Asena </lecturer>
+	<day>Friday </day>
+</booking>

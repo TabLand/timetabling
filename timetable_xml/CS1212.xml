@@ -1,0 +1,26 @@
+<booking>
+	<start>10:00</start>
+	<end>16:50</end>
+	<week>13/01/14</week>
+	<modulecode>CS1212</modulecode>
+	<activity>CS1212 Travel Writing</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C150</room>
+	<lecturer>Rubin, Gareth </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>16:50</end>
+	<week>28/04/14</week>
+	<modulecode>CS1212</modulecode>
+	<activity>CS1212 Travel Writing</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>25</studentnos>
+	<room>A111</room>
+	<lecturer>Rubin, Gareth </lecturer>
+	<day>Friday </day>
+</booking>

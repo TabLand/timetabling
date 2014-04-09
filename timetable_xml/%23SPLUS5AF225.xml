@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS5AF225</modulecode>
+	<activity>Induction - PG Shorthand (Tue)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C336</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS5AF225</modulecode>
+	<activity>Induction - PG Shorthand (Wed)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C303</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS5AF225</modulecode>
+	<activity>Induction - PG Shorthand (Thur)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>80</studentnos>
+	<room>C336</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS5AF225</modulecode>
+	<activity>Induction - PG Shorthand (Fri)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C303</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

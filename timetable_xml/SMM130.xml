@@ -1,0 +1,39 @@
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>19/05/14</week>
+	<modulecode>SMM130</modulecode>
+	<activity>SMM130 Private Equity in Emerging Markets (Advanced)/Lecture/wk 2</activity>
+	<desc>Week 2 ONLY</desc>
+	<joint> </joint>
+	<studentnos>43</studentnos>
+	<room>2006</room>
+	<lecturer>Miller, Edgar </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>30/06/14</week>
+	<modulecode>SMM130</modulecode>
+	<activity>SMM130 Private Equity in Emerging Markets (Advanced)/Presentations/wk 8</activity>
+	<desc>Week 8 only : student presentations</desc>
+	<joint> </joint>
+	<studentnos>42</studentnos>
+	<room>G001</room>
+	<lecturer>Miller, Edgar </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>26/05/14-23/06/14</week>
+	<modulecode>SMM130</modulecode>
+	<activity>SMM130 Private Equity in Emerging Markets (Advanced)/Lecture/wks 3-7</activity>
+	<desc>Weeks 3-7</desc>
+	<joint> </joint>
+	<studentnos>43</studentnos>
+	<room>G001</room>
+	<lecturer>Miller, Edgar </lecturer>
+	<day>Tuesday </day>
+</booking>

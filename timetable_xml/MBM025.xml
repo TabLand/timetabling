@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/04/14</week>
+	<modulecode>MBM025</modulecode>
+	<activity>MBM025 Organisational Behaviour (MEMBA14)/Lecture 02</activity>
+	<desc>MEMBA 14 intake</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>N201</room>
+	<lecturer>Fleming, Peter </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/04/14</week>
+	<modulecode>MBM025</modulecode>
+	<activity>MBM025 Organisational Behaviour (MEMBA14/syn rooms 02</activity>
+	<desc>MEMBA 14 intake : Syndicate rooms P. Fleming</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N220;N214;N213;N212</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

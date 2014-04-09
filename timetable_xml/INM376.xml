@@ -1,0 +1,26 @@
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM376</modulecode>
+	<activity>INM376 Computer Graphics/Lecture (LEAD)</activity>
+	<desc> </desc>
+	<joint>INM376;IN3005</joint>
+	<studentnos>50</studentnos>
+	<room>CG02</room>
+	<lecturer>Slabaugh, Gregory </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-07/04/14</week>
+	<modulecode>INM376</modulecode>
+	<activity>INM376 Computer Graphics/Lab</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>9</studentnos>
+	<room>EG12</room>
+	<lecturer>Slabaugh, Gregory </lecturer>
+	<day>Tuesday </day>
+</booking>

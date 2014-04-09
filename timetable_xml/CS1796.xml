@@ -1,0 +1,39 @@
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>CS1796</modulecode>
+	<activity>CS1796 Marketing term 1</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>15</studentnos>
+	<room>C300</room>
+	<lecturer>Ahmed, Saud </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>03/02/14-07/04/14</week>
+	<modulecode>CS1796</modulecode>
+	<activity>CS1796 Marketing: An introduction term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>A214</room>
+	<lecturer>Ahmed, Saud </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:30</start>
+	<end>20:30</end>
+	<week>28/04/14, 12/05/14-19/05/14, 02/06/14-14/07/14</week>
+	<modulecode>CS1796</modulecode>
+	<activity>CE1796 Marketing an Introduction term 3</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>20</studentnos>
+	<room>AG01</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>

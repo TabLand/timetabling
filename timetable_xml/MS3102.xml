@@ -1,0 +1,13 @@
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>30/09/13-09/12/13</week>
+	<modulecode>MS3102</modulecode>
+	<activity>MS3102 Virtual Organisations/Lecture 01/02</activity>
+	<desc>Autumn Lecture</desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>DLG08</room>
+	<lecturer>Rich, Martin </lecturer>
+	<day>Friday </day>
+</booking>

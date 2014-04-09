@@ -1,0 +1,91 @@
+<booking>
+	<start>14:00</start>
+	<end>17:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM777</modulecode>
+	<activity>JOM777 Final Project documentaries</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM777</modulecode>
+	<activity>JOM777 Final Project documentaries</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>16:50</end>
+	<week>02/06/14</week>
+	<modulecode>JOM777</modulecode>
+	<activity>JOM777 Final Project documentaries</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>Birley</room>
+	<lecturer>  </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>13:50</end>
+	<week>17/02/14</week>
+	<modulecode>JOM777</modulecode>
+	<activity>JOM777 Final Project</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A109</room>
+	<lecturer>Warr, Sandy </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>JOM777</modulecode>
+	<activity>JOM777 Final Project (TV documentary)</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>D220</room>
+	<lecturer>Lloyd, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>27/01/14-24/03/14</week>
+	<modulecode>JOM777</modulecode>
+	<activity>JOM777 Final Project/term 2</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>AG03</room>
+	<lecturer>Lloyd, David </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>13:30</start>
+	<end>15:30</end>
+	<week>31/03/14</week>
+	<modulecode>JOM777</modulecode>
+	<activity>JOM777</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>30</studentnos>
+	<room>A110</room>
+	<lecturer>Lloyd, David </lecturer>
+	<day>Friday </day>
+</booking>

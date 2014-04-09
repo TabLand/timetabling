@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>27/01/14-24/03/14, 07/04/14</week>
+	<modulecode>AS3301</modulecode>
+	<activity>AS3301 Investment/Lecture 1/02/wks 1-9,11</activity>
+	<desc>Weeks 1-9, 11</desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>B104</room>
+	<lecturer>Owadally, Iqbal </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>17:00</start>
+	<end>17:50</end>
+	<week>27/01/14-24/03/14, 07/04/14</week>
+	<modulecode>AS3301</modulecode>
+	<activity>AS3301 Investment/Lecture 2/02/wks 1-9,11</activity>
+	<desc>Weeks 1-9, 11</desc>
+	<joint> </joint>
+	<studentnos>76</studentnos>
+	<room>C303</room>
+	<lecturer>Owadally, Iqbal </lecturer>
+	<day>Thursday </day>
+</booking>

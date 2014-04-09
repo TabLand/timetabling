@@ -1,0 +1,13 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>27/01/14-31/03/14</week>
+	<modulecode>SMM175</modulecode>
+	<activity>SMM175 Landlord & Tenant Law/Lecture 1</activity>
+	<desc>Lecture: Spring RE : Weeks 1-10</desc>
+	<joint> </joint>
+	<studentnos>32</studentnos>
+	<room>2002</room>
+	<lecturer>Schatzberger, Elliott </lecturer>
+	<day>Tuesday </day>
+</booking>

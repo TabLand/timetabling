@@ -1,0 +1,234 @@
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/3-7,19</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/8,9</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/10</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/12,13</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/14</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/13</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/3-7,19</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/8,9</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>15:10</start>
+	<end>18:00</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/10</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/15,16</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>11:50</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/11</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/12,13</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:10</start>
+	<end>15:00</end>
+	<week>23/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Advanced)/14</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>16/09/13</week>
+	<modulecode>#SPLUS48BEDB</modulecode>
+	<activity>MSc Inductions: Excel (Intermediate)/20,21</activity>
+	<desc> </desc>
+	<joint> </joint>
+	<studentnos>60</studentnos>
+	<room>2001</room>
+	<lecturer>Manyemba, Oliver </lecturer>
+	<day>Friday </day>
+</booking>

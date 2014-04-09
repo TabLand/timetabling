@@ -1,0 +1,52 @@
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/04/14</week>
+	<modulecode>MBM559 MEMBA</modulecode>
+	<activity>MBM559 Digital Marketing MEMBA/Syn rooms 02</activity>
+	<desc>MEMBA : Syndicate rooms - Paul Smith</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N211;N210;N209;N208</room>
+	<lecturer>  </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>14/04/14</week>
+	<modulecode>MBM559 MEMBA</modulecode>
+	<activity>MBM559 Digital Marketing MEMBA/Lecture 02</activity>
+	<desc>MEMBA 13 elective</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>N216a/b</room>
+	<lecturer>Smith, Paul </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>07/04/14</week>
+	<modulecode>MBM559 MEMBA</modulecode>
+	<activity>MBM559 Digital Marketing MEMBA/Syn rooms 01</activity>
+	<desc>MEMBA : Syndicate rooms - Paul Smith</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>N208;N207;N205;N204</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>18:00</end>
+	<week>07/04/14</week>
+	<modulecode>MBM559 MEMBA</modulecode>
+	<activity>MBM559 Digital Marketing MEMBA/Lecture 01</activity>
+	<desc>MEMBA 13 elective</desc>
+	<joint> </joint>
+	<studentnos>35</studentnos>
+	<room>N216a/b</room>
+	<lecturer>Smith, Paul </lecturer>
+	<day>Friday </day>
+</booking>

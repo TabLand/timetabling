@@ -1,0 +1,104 @@
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>23/06/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Lecture 01 & 02</activity>
+	<desc>FTMBA Term 3</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Beck, Thorsten Prof </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>23/06/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Syn Rooms 01 & 02</activity>
+	<desc>FTMBA Term 3 : Syndicate Rooms : T. Beck</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>6010;6021;6020;6009;6008;6003</room>
+	<lecturer>  </lecturer>
+	<day>Tuesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Syn Rooms 03 & 04</activity>
+	<desc>FTMBA Term 3 : Syndicate Rooms : T. Beck</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>6010;6021;6020;6009;6008;6003</room>
+	<lecturer>  </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Lecture 03 & 04</activity>
+	<desc>FTMBA Term 3</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Beck, Thorsten Prof </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>23/06/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Lecture 01 & 02</activity>
+	<desc>FTMBA Term 3</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Beck, Thorsten Prof </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>23/06/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Syn Rooms 01 & 02</activity>
+	<desc>FTMBA Term 3 : Syndicate Rooms : T. Beck</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>6010;6021;6020;6009;6008;6003</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Syn Rooms 03 & 04</activity>
+	<desc>FTMBA Term 3 : Syndicate Rooms : T. Beck</desc>
+	<joint> </joint>
+	<studentnos>5</studentnos>
+	<room>6010;6021;6020;6009;6008;6003</room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>17:00</end>
+	<week>07/07/14</week>
+	<modulecode>MBM518</modulecode>
+	<activity>MBM518 International Financial Management FTMBA/Lecture 03 & 04</activity>
+	<desc>FTMBA Term 3</desc>
+	<joint> </joint>
+	<studentnos>70</studentnos>
+	<room>2006</room>
+	<lecturer>Beck, Thorsten Prof </lecturer>
+	<day>Friday </day>
+</booking>

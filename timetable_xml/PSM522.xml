@@ -1,0 +1,26 @@
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PSM522</modulecode>
+	<activity>PSM522 Programming Tools for Psychologists/Lecture 01/01 JOINT</activity>
+	<desc> </desc>
+	<joint>PS3025;PSM522</joint>
+	<studentnos>2</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>11:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-09/12/13</week>
+	<modulecode>PSM522</modulecode>
+	<activity>PSM522 Programming Tools for Psychologists/Clinic 01/01 JOINT</activity>
+	<desc> </desc>
+	<joint>PSM522;PS3025</joint>
+	<studentnos>2</studentnos>
+	<room> </room>
+	<lecturer>  </lecturer>
+	<day>Friday </day>
+</booking>

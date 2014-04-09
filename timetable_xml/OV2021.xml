@@ -1,0 +1,182 @@
+<booking>
+	<start>14:00</start>
+	<end>14:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Tutorial 1/01</activity>
+	<desc>Tutorial T2</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>15:00</start>
+	<end>15:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Tutorial 1/02</activity>
+	<desc>Tutorial T2</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Monday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 1/01</activity>
+	<desc>02A</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>11:00</start>
+	<end>12:50</end>
+	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 2/01</activity>
+	<desc>02A</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>16:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Tutorial 1/03</activity>
+	<desc>Tutorial T2</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 1/03</activity>
+	<desc>02C</desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>16:00</start>
+	<end>17:50</end>
+	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 2/03</activity>
+	<desc>02C</desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Wednesday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 1/04</activity>
+	<desc>02D</desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>9:00</start>
+	<end>10:50</end>
+	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 2/04</activity>
+	<desc>02D</desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>10:00</start>
+	<end>10:50</end>
+	<week>30/09/13, 14/10/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Tutorial 1/04</activity>
+	<desc>Tutorial T2</desc>
+	<joint> </joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>30/09/13-28/10/13, 11/11/13-02/12/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Lecture 1/01</activity>
+	<desc>OLD 2 Lecture</desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>112</studentnos>
+	<room>Geary</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>12:00</start>
+	<end>12:50</end>
+	<week>27/01/14-03/03/14, 17/03/14-31/03/14</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Lecture 2/01</activity>
+	<desc> </desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>112</studentnos>
+	<room>Poynton</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/10/13, 21/10/13, 18/11/13, 02/12/13</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 1/02</activity>
+	<desc>02B</desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Friday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>03/02/14, 17/02/14, 03/03/14, 17/03/14</week>
+	<modulecode>OV2021</modulecode>
+	<activity>OV2021 Ophthalmic Lenses & Dispensing II/Laboratory 2/02</activity>
+	<desc>02B</desc>
+	<joint>OV2021;OV2021</joint>
+	<studentnos>28</studentnos>
+	<room>BS705</room>
+	<lecturer>West, Stephanie </lecturer>
+	<day>Friday </day>
+</booking>

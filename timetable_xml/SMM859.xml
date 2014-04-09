@@ -1,0 +1,13 @@
+<booking>
+	<start>18:10</start>
+	<end>21:00</end>
+	<week>12/05/14-19/05/14, 02/06/14-23/06/14</week>
+	<modulecode>SMM859</modulecode>
+	<activity>SMM859 Pension Finance/Lecture/WKS 1-2, 4-7</activity>
+	<desc>Weeks 1-2, 4-7</desc>
+	<joint> </joint>
+	<studentnos>40</studentnos>
+	<room>2006</room>
+	<lecturer>Blake, David </lecturer>
+	<day>Monday </day>
+</booking>

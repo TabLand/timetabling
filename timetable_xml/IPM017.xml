@@ -1,0 +1,26 @@
+<booking>
+	<start>12:00</start>
+	<end>13:50</end>
+	<week>27/01/14-24/02/14, 10/03/14-31/03/14</week>
+	<modulecode>IPM017</modulecode>
+	<activity>IPM017 Global Governance/Lecture 01/01</activity>
+	<desc>Weeks 1-5 & 7-10</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>DLG19</room>
+	<lecturer>Davies, Tom </lecturer>
+	<day>Thursday </day>
+</booking>
+<booking>
+	<start>14:00</start>
+	<end>15:50</end>
+	<week>07/04/14</week>
+	<modulecode>IPM017</modulecode>
+	<activity>IPM017 Global Governance/Lecture 01/April 11th</activity>
+	<desc>Week 11 rescheduled</desc>
+	<joint> </joint>
+	<studentnos>10</studentnos>
+	<room>D106</room>
+	<lecturer>Davies, Tom </lecturer>
+	<day>Friday </day>
+</booking>
