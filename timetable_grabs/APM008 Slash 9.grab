@@ -1,0 +1,1414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>APM008/9 Physical Assessment Across the Lifespan</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>16/12/13</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G3;Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Ellis, M;Bickerton, J;Novak, B;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>28/04/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G3;Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Ellis, M;Outside speaker;Outside speaker;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>16/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Introduction to Module, Review of Coursework and Assessments/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>13/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Introduction to Module, Review of Coursework and Assessments/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>28/04/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Introduction to Module, Review of Coursework and Assessments/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>21/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Cranial Nerves/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Baker, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>28/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Musculoskeletal System /01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Baker, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>11/11/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Female Genitalia/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>18/11/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Diagnostic Reasoning and Risk Assessment in Advanced Practice/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>17/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Cranial Nerves/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>24/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Musculoskeletal System/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Female Genitalia/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>17/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Diagnostic Reasoning and Risk Assessment in Advanced Practice/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Cranial Nerves/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>09/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Musculoskeletal System/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C232</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>23/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Female Genitalia/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>30/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Diagnostic Reasoning and Risk Assessment in Advanced Practice/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>23/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Head, Ears, Nose, Mouth and Neck/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>30/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Respiratory System/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Cockram, E</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>14/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Abdominal and Genitourinary systems /01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Hicks, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>20/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Head, Ears, Nose, Mouth and Neck/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>27/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Respiratory System/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>10/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Abdominal and Genitourinary systems/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>05/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Head, Ears, Nose, Mouth and Neck/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>12/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Respiratory System/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:30</td>
+<td>26/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Abdominal and Genitourinary systems/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>07/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Cardiovascular System/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>03/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Cardiovascular System/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>19/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Cardiovascular System/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>04/11/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision All Systems: Child and Adult /01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>02/12/13</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 2/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>09/12/13</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 3/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>03/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision All Systems: Child and Adult/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>24/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 2/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>31/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 3/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>14/04/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 4/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>16/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision All Systems: Child and Adult/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>07/07/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 2/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>14/07/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 3/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>16/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 History taking, Interview techniques, communication and documentation strategies/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Hicks, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>13/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 History taking, Interview techniques, communication and documentation strategies/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>28/04/14</td>
+<td>APM008/9</td>
+<td>APM008/9 History taking, Interview techniques, communication and documentation strategies/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Bickerton, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>11/11/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Male Genitalia/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>10/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Male Genitalia/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>23/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Male Genitalia/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:30</td>
+<td>23/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of Eyes/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Weddell, Lynne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:30</td>
+<td>20/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of Eyes/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Weddell, Lynne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:30</td>
+<td>05/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of Eyes/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Weddell, Lynne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>21/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Neurological System /01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Baker, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>28/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Integumentary System /01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>17/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Neurological System/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>24/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Integumentary System/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Neurological System/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>09/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Examination of the Integumentary System/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C232</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 1/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>17/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 1/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>30/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 1/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>15:30</td>
+<td>12/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Principles of Chest X ray/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>15:50</td>
+<td>14/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Mental Health Assessment/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Mental Health Assessment/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>15:50</td>
+<td>26/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Mental Health Assessment/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>16:50</td>
+<td>30/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of HEENT, Eyes and Respiratory system: Child and Adult/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>16:50</td>
+<td>27/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of HEENT, Eyes and Respiratory system: Child and Adult/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:30</td>
+<td>16/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Critical thinking and decision making in Advanced Practice/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:30</td>
+<td>13/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Critical thinking and decision making in Advanced Practice/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:30</td>
+<td>28/04/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Critical thinking and decision making in Advanced Practice/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>16:50</td>
+<td>07/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of Cardiovascular, Respiratory, HEENT, Eyes (Child and Adult)/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Outside speaker;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>16:50</td>
+<td>03/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of Cardiovascular, Respiratory, HEENT, Eyes (Child and Adult)/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>16:50</td>
+<td>19/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of Cardiovascular, Respiratory, HEENT, Eyes (Child and Adult)/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>16/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Practice Seminar: Child and Adult 1/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Akamo, A;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>23/09/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Practice Seminar: Child and Adult 2/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>13/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Practice Seminar: Child and Adult 1/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.4;Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>20/01/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Practice Seminar: Child and Adult 2/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>28/04/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Practice Seminar: Child and Adult 1/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>05/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Tutorials/Seminar: Child and Adult/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>12/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of HEENT, Eyes and Respiratory system: Child and Adult/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>14/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Tutorials/Practice/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Tutorials/Seminar: Child and Adult/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of MSK and Integumentary system: Child and Adult /01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision: Child and Adult/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Bickerton, J;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>10/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Tutorials/Practice/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>17/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Tutorials/Seminar: Child and Adult/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>24/02/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of MSK and Integumentary system: Child and Adult/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>10/03/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision: Child and Adult/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>26/05/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Tutorials/Practice/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>02/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Practice Seminar: Child and Adult 2/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS);3D (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>09/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision of MSK and Integumentary system: Child and Adult/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C232</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>23/06/14</td>
+<td>APM008/9</td>
+<td>APM008/9 Revision: Child and Adult/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills room G2;Skills room G1</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>21/04/14</td>
+<td>APM008/9</td>
+<td>APM008/9 OSCE Revision: Child and Adult 4/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:28</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>

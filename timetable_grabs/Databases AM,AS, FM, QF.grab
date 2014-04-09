@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<h1>Timetable unavailable</h1>It is not possible to display a timetable.  This may be caused by you not selecting items from the pick list, or if using the Facilities Management page the selected building has no rooms.
+
+</body>
+</HTML>

@@ -1,0 +1,2128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>Cass MSc Induction</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Registration 02</td>
+<td>Caroline Bulmer 5246  - Rooms for Registration</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2012;2001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Economics/02</td>
+<td>Re & REI *</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Key Tony</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>11:30</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Talk 02/AM</td>
+<td>Act Man</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>2002</td>
+<td>&nbsp;</td>
+<td>Wright, Douglas</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >10:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Talk/01/AS</td>
+<td>Act Sci :</td>
+<td>&nbsp;</td>
+<td>75</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Owadally, Iqbal</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >11:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: English Language Test/01/room set up</td>
+<td>Act Sci</td>
+<td>&nbsp;</td>
+<td>70</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:30</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, Milling area/2</td>
+<td>AM:  Milling area  no room required</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>14:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/8/FIN</td>
+<td>Finance</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Payne, Richard Prof</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, Milling area/1</td>
+<td>AS:  Milling area  no room required</td>
+<td>&nbsp;</td>
+<td>75</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>14:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Stats & Maths/10 &11</td>
+<td>IAF & BIF - Introduction to Stats & Maths</td>
+<td>&nbsp;</td>
+<td>170</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Payne, Richard Prof</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>14:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: English Language Test/01</td>
+<td>Act Sci</td>
+<td>&nbsp;</td>
+<td>70</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >13:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/9/CF</td>
+<td>Corporate Finance</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>2002</td>
+<td>&nbsp;</td>
+<td>Falconieri, Sonia</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>15:30</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Talk 20-23/MGT</td>
+<td>MGT A&B</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Banerjee, Bobby</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >14:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: English Language Test/01/room reset</td>
+<td>Act Sci</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >14:10</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>Careers Fair MSc 01</td>
+<td>Charlie Statham  5214- optional for 1300 students in 200 Aldersgate St (etc Venues tbc)</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>External</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>17:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/17,18/RE,REI</td>
+<td>MSc RE, REI</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Herd, George;Key Tony;Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, External Venue/9</td>
+<td>CF -  External Venue :  no room required</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, External Venue/20-23</td>
+<td>MGT -  External Venue :  no room required</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>External</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, External Venue/8</td>
+<td>FIN -  External Venue :  no room required</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >17:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, External Venue/17,18</td>
+<td>RE & REI -  External Venue : Corney & Barrow :  no room required</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Economics/14,15</td>
+<td>STF, ETF</td>
+<td>&nbsp;</td>
+<td>155</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Hayley, Simon</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced maths/05 & 06</td>
+<td>MTF FT & PT1</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Registration 02</td>
+<td>Caroline Bulmer 5246  - Rooms for Registration</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2012;2001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Admissions Office/Late Registration 2013</td>
+<td>Caroline Bulmer 5246  - Room set up for Registration</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>3010</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>10:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/13</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>125</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Maths/04</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Papastamos, Dimitrios</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: SMM063 Prob & Mathematical Stats (Ct3)</td>
+<td>Act Sci</td>
+<td>&nbsp;</td>
+<td>82</td>
+<td>2002</td>
+<td>&nbsp;</td>
+<td>Cowell, Robert</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: SMM063 Prob & Mathematical Stats (Ct3)</td>
+<td>Act Sci</td>
+<td>&nbsp;</td>
+<td>70</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>Cowell, Robert</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>13:30</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 3/A/20 -21</td>
+<td>MGT A</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Simpson, Hugo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>11:30</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/14,15/STF,ETF</td>
+<td>STF, ETF</td>
+<td>&nbsp;</td>
+<td>155</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Sodhi, Mohan Prof.;Tamvakis, Michael Prof.;Nomikos, Nikos Prof.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >11:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/13</td>
+<td>IM</td>
+<td>MSc Induction;Databases INV</td>
+<td>125</td>
+<td>LG001</td>
+<td>LG001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>14:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/11/IAF</td>
+<td>IAF</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>2002</td>
+<td>&nbsp;</td>
+<td>Kraft, Arthur;Cestone, Giacinta</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>14:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/10,11</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>170</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Principles of Finance/01</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Statistics/01</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Andrew, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:30</td>
+<td>14:30</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/10/BIF</td>
+<td>BIF</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Casu Lukac, Barbara</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 3/B/22 -23</td>
+<td>MGT B</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Simpson, Hugo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >14:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/10,11</td>
+<td>BIF IAF</td>
+<td>MSc Induction;Databases BIF/IAF</td>
+<td>170</td>
+<td>LG001</td>
+<td>LG001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>16:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Talk/Extra/AS</td>
+<td>Act Sci : Course details, Exemptions</td>
+<td>&nbsp;</td>
+<td>75</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>Owadally, Iqbal</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>17:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/13/IM</td>
+<td>IM</td>
+<td>&nbsp;</td>
+<td>125</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Staikouras, Sotiris</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>17:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Stats & Maths/8,9</td>
+<td>MSc Fin & MSc CF (joint)  : Introduction to Stats & Maths</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Payne, Richard Prof</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Valuation/17</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Herd, George</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced Quantitative Methods/3&4</td>
+<td>FM & QF</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>17:30</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/3,4/FM,QF</td>
+<td>FM & QF</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Nitzsche, Dirk</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, External Venue/10</td>
+<td>BIF-  External Venue :  no room required</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, External Venue/11</td>
+<td>IAF-  External Venue :  no room required</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >16:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/5,6,7/MTF</td>
+<td>MTF , MTF pt yr 1, MTF pt yr 2</td>
+<td>&nbsp;</td>
+<td>72</td>
+<td>2002</td>
+<td>&nbsp;</td>
+<td>Hatgioannides, John</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >17:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/8,9</td>
+<td>FIN CF</td>
+<td>MSc Induction;SMMxxx FIN & CF</td>
+<td>180</td>
+<td>LG001</td>
+<td>LG001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >17:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception/EC2Y 9HT/13</td>
+<td>IM: Corney & Barrow, CityPoint, 1 Ropemaker Street EC2Y 9HT; no room required</td>
+<td>&nbsp;</td>
+<td>125</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>17:30</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception, External Venue/3,4</td>
+<td>QF & FM -  External Venue :  Corney & Barrow :  no room required</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>19:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Networking Exercise/A&B/20-23</td>
+<td>MGT A&B</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Dobson, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Quants/19</td>
+<td>FI</td>
+<td>&nbsp;</td>
+<td>50</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Kalotychou, Elena;Payne, Richard Prof</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception/5,6,7/MTF</td>
+<td>MTF , MTF pt yr 1, MTF pt yr 2: Welcome reception Milling area  (no room required)</td>
+<td>&nbsp;</td>
+<td>72</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Valuation/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>3002</td>
+<td>&nbsp;</td>
+<td>Herd, George</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial valuation/02</td>
+<td>RE & REI *</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced Stats/05 & 07</td>
+<td>MTF FT & PT2</td>
+<td>&nbsp;</td>
+<td>57</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >19:10</td>
+<td>20:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Briefing on Assignment 1/A&B/20-23</td>
+<td>MGT A&B</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Palmer, Paul Prof.</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>02/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Registration/Reset Room</td>
+<td>Caroline Bulmer 5246  - Room reset up after Registration</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2001;2012</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Admissions Office/Late Registration 2013</td>
+<td>Caroline Bulmer 5246  - Room set up for Registration</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>3010</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>10:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/8,9</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Principles of Finance/04</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>13:30</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 5/B/22 -23</td>
+<td>MGT B</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Kintish, Will</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >10:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Talk/Extra/AM</td>
+<td>Act Man : course handbook , assessment, professional exemptions etc.</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>Wright, Douglas</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >11:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/1-4</td>
+<td>AS, AM, FM, QF</td>
+<td>Databases AM,AS, FM, QF;MSc Induction</td>
+<td>180</td>
+<td>LG001</td>
+<td>LG001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >11:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Practical insight to Actuarial Work/AS</td>
+<td>Act Sci</td>
+<td>&nbsp;</td>
+<td>75</td>
+<td>2002</td>
+<td>&nbsp;</td>
+<td>VL 01 -Careers Consultant MSc 01;Fairbank, Michelle (formerly Cowdrey);Rickayzen, Ben</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Talk/RE/REI</td>
+<td>RE & REI *</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/RE/(MSc group C)/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>1001</td>
+<td>&nbsp;</td>
+<td>Key Tony</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >13:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/5,6,12,19</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >13:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: English language test/AM</td>
+<td>Act Man : Test - Computer LAB required</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>2001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 5/A/20 -21</td>
+<td>MGT A</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Kintish, Will</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced Quantitative Methods/3&4</td>
+<td>FM & QF</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Real Estate Markets/01</td>
+<td>REI & RE</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Key Tony</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>16:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/17,18</td>
+<td>REI RE</td>
+<td>Databases RE/REI;MSc Induction</td>
+<td>110</td>
+<td>LG001</td>
+<td>LG001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced Quantitative Methods/3&4</td>
+<td>FM & QF</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >16:10</td>
+<td>17:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/5,6,7,12</td>
+<td>IRM, MTF ( FT, PT1, PT2)</td>
+<td>MSc Induction;Databases IRM,FI, WM,MTF</td>
+<td>142</td>
+<td>LG001</td>
+<td>LG001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial valuation/01</td>
+<td>RE & REI *</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced Stats/05 & 07</td>
+<td>MTF FT & PT2</td>
+<td>&nbsp;</td>
+<td>57</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>19:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/19</td>
+<td>FI</td>
+<td>MSc Induction;Databases IRM,FI, WM,MTF</td>
+<td>35</td>
+<td>2006</td>
+<td>2006</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Economics/14,15</td>
+<td>STF, ETF</td>
+<td>&nbsp;</td>
+<td>155</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Hayley, Simon</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced maths/05 & 06</td>
+<td>MTF FT & PT1</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>2004</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>02/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Admissions Office/Late Registration 2013</td>
+<td>Caroline Bulmer 5246  - Room set up for Registration</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>3010</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>10:30</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Assignment presentation (feedback + prize)/A/20-21</td>
+<td>MGT A</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Palmer, Paul Prof.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Services Overview/11</td>
+<td>IAF</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>3002</td>
+<td>&nbsp;</td>
+<td>Van Drimmelen, Corjanne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Statistics/02</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>Andrew, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/REI/01</td>
+<td>REI</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>2001</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Services Overview/3-6</td>
+<td>FM, QF, MTF ft, pt yr1</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Van Drimmelen, Corjanne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Assignment presentation (feedback + prize)/B/22-23</td>
+<td>MGT B</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Palmer, Paul Prof.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Registration/set up</td>
+<td>Caroline Bulmer 5246  - Room set up for Registration</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2012;2001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 1/A/20 -21</td>
+<td>MGT A</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Roberts, Louisa</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>13:30</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 6/A/20-21</td>
+<td>MGT A</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Goudge, Mary</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/REI/02</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>2001</td>
+<td>&nbsp;</td>
+<td>Key Tony</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >13:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/17,18</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >13:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/1-4</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 7/B/22-23</td>
+<td>MGT B</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Goudge, Mary</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 2/B/20 -21</td>
+<td>MGT B</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Roberts, Louisa</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Services Overview/12,13</td>
+<td>IRM, IM</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Van Drimmelen, Corjanne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Maths/05</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Papastamos, Dimitrios</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/RE/(MSc group B)/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>1001</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced Quantitative Methods/3&4</td>
+<td>FM & QF</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/RE/(MSc group B)/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>1001</td>
+<td>&nbsp;</td>
+<td>Key Tony</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Services Overview/14-17</td>
+<td>STF, ETF , REI</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Van Drimmelen, Corjanne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Economics/01</td>
+<td>Re & REI</td>
+<td>&nbsp;</td>
+<td>110</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Key Tony</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced maths/05 & 06</td>
+<td>MTF FT & PT1</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Corporate Finance/19</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>50</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Lasfer, Meziane</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Economics/FI</td>
+<td>FI</td>
+<td>&nbsp;</td>
+<td>35</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Clare, Andrew</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Advanced Stats/05 & 07</td>
+<td>MTF FT & PT2</td>
+<td>&nbsp;</td>
+<td>57</td>
+<td>3002</td>
+<td>&nbsp;</td>
+<td>Trapani, Lorenzo</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>02/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Bag Packing & Storage</td>
+<td>Lenka Havlikova 5294</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Admissions Office/Late Registration 2013</td>
+<td>Caroline Bulmer 5246  - Room set up for Registration</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>3010</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >8:00</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>Induction MSc/Registration 01</td>
+<td>Caroline Bulmer 5246  -  Registration</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2012;2001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 1/B/22 -23</td>
+<td>MGT B</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>Kissen, Steph</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Introduction to Investment/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Maths/02</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>Papastamos, Dimitrios</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/RE/(MSc group C)/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>1001</td>
+<td>&nbsp;</td>
+<td>Key Tony</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>11:50</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Services Overview/8,9</td>
+<td>FIN, CF</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Van Drimmelen, Corjanne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Careers Boot Camp 2/A/20-21</td>
+<td>MGTA</td>
+<td>&nbsp;</td>
+<td>45</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>Kissen, Steph</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>15:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/RE/(MSc group A)/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>1001</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>14:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/20-23</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>90</td>
+<td>G001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>14:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: CV & Application Form/14-15</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>155</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >14:10</td>
+<td>15:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/20-23</td>
+<td>MGT A & B</td>
+<td>MSc Induction;Databases MGT</td>
+<td>90</td>
+<td>G001</td>
+<td>G001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Excel/RE/(MSc group A)/18</td>
+<td>RE *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>1001</td>
+<td>&nbsp;</td>
+<td>Lee, Stephen</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Maths/03</td>
+<td>REI *</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>2006</td>
+<td>&nbsp;</td>
+<td>Papastamos, Dimitrios</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >15:10</td>
+<td>18:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Financial Services Overview/1,2,10</td>
+<td>BIF, AS, AM</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Van Drimmelen, Corjanne</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >17:10</td>
+<td>18:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Database/14-15</td>
+<td>STF ETF</td>
+<td>MSc Induction;Databases STF,ETF</td>
+<td>155</td>
+<td>LG001</td>
+<td>LG001</td>
+<td>Griffiths, Suzanne</td>
+<td>Griffiths, Suzanne</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>20:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/12/IRM</td>
+<td>IRM</td>
+<td>&nbsp;</td>
+<td>70</td>
+<td>2002</td>
+<td>&nbsp;</td>
+<td>Parsons, Chris</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>20:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome talk/19/FI</td>
+<td>FI pt</td>
+<td>&nbsp;</td>
+<td>40</td>
+<td>2003</td>
+<td>&nbsp;</td>
+<td>Motson, Nick</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Economics/14,15</td>
+<td>STF, ETF</td>
+<td>&nbsp;</td>
+<td>155</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Hayley, Simon</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>23/09/13</td>
+<td>MSc Induction</td>
+<td>Welcome Reception - All MSc students</td>
+<td>External Venue: Brewery, Chiswell Street, 6.00pm</td>
+<td>&nbsp;</td>
+<td>200</td>
+<td>External</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >20:10</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception/EC2Y 9HT/12</td>
+<td>IRM : Corney & Barrow, CityPoint, 1 Ropemaker Street EC2Y 9HT; no room required</td>
+<td>&nbsp;</td>
+<td>70</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >20:10</td>
+<td>21:00</td>
+<td>09/09/13</td>
+<td>MSc Induction</td>
+<td>MSc Inductions: Welcome Reception/EC2Y 9HT/19</td>
+<td>FI : Corney & Barrow, CityPoint, 1 Ropemaker Street EC2Y 9HT; no room required</td>
+<td>&nbsp;</td>
+<td>35</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:28</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>

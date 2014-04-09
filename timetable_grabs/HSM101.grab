@@ -1,0 +1,2380 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>HSM101 Engaging in Practice 1: Introducing Clinical Practice</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/03</td>
+<td>AN/02 A&B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>11B (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/02</td>
+<td>AN/02A&B</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Treacy, C;Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Eales, S;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Hardy, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>3G (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>D112</td>
+<td>&nbsp;</td>
+<td>Jones, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Reynolds, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Grant, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>14:50</td>
+<td>02/12/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in practice 1: Tower Hamlets Induction <19></td>
+<td>Tower Hamlets students only</td>
+<td>&nbsp;</td>
+<td>40</td>
+<td>LT (WS)</td>
+<td>&nbsp;</td>
+<td>Waddington, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/04</td>
+<td>AN/02 A&B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>11B (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/02</td>
+<td>AN/02A&B</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Treacy, C;Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Bowden, T;McLeod, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/02</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>3G (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>D112</td>
+<td>&nbsp;</td>
+<td>Treacy, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Eales, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Grant, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/03</td>
+<td>AN/02 A&B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>11B (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/02</td>
+<td>AN/02A&B</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Treacy, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>A227</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Shareville/Lab/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Eales, S;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Treacy, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Anderson, D;Ellis, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2 Guided study activities/04</td>
+<td>AN/02 A&B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>11B (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/02</td>
+<td>AN/02A&B</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Shareville/Lab/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Grant, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Phillips, L;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Shareville/Lab/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Saunder, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Hughes, V;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Anderson, D;Ellis, M</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>17/03/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in practice 1/Review</td>
+<td>AN only</td>
+<td>&nbsp;</td>
+<td>62</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Chamney, M;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>McLeod, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Howard, C;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A107</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Campbell, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Eales, S;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>07/10/13-21/10/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02 <11-13></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>IG03</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>28/10/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02 <14></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>IG03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>25/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02 <18></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>02/12/13-09/12/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/02 <19-20></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>IG03</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>13/01/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <25></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>20/01/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <26></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>27/01/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <27></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>03/02/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <28></td>
+<td>MHN/02</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>10/02/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <29></td>
+<td>MHN/02</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>17/02/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <30></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>17/03/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <34></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>24/03/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <35></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>31/03/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <36></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>07/04/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/02 <37></td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>26/05/14-21/07/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/02</td>
+<td>MHN/02A & 02B</td>
+<td>&nbsp;</td>
+<td>14</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Roberts, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Klufio, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>13/01/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in practice 1/Tutorial/02</td>
+<td>Mid-placement review:AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C322</td>
+<td>&nbsp;</td>
+<td>Chamney, M;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>13/01/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in practice 1/Tutorial/01</td>
+<td>Mid-placement review:</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Smith, U</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>13/01/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in practice 1/Tutorial/03</td>
+<td>Mid-placement review:AN/02A & B</td>
+<td>&nbsp;</td>
+<td>38</td>
+<td>C339</td>
+<td>&nbsp;</td>
+<td>Chamney, M;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Howard, C;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Bliss, M;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A107</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Phillips, L;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>McGraw, C;Trust representative</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:30</td>
+<td>07/10/13-28/10/13, 02/12/13-09/12/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/03</td>
+<td>MHN/03</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>C330</td>
+<td>&nbsp;</td>
+<td>Reynolds, L;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:30</td>
+<td>06/01/14-17/02/14, 17/03/14, 07/04/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03 <24-30, 34, 37></td>
+<td>MHN/03</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>A111</td>
+<td>&nbsp;</td>
+<td>Reynolds, L;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:30</td>
+<td>26/05/14-21/07/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/03</td>
+<td>MHN/03</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>D106</td>
+<td>&nbsp;</td>
+<td>Reynolds, L;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Haddad, M;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Hunter, J;McLeod, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Mahoney, P;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Chamney, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Jones, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Treacy, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>13:30</td>
+<td>25/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in practice 1/Infection control OSCE</td>
+<td>All groups</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</td>
+<td>&nbsp;</td>
+<td>Anderson, D;Eales, S;Hill, Marie;Hunter, J;Manning, A;Lindsay, T;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>24/03/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03 <35></td>
+<td>MHN/03</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>A111</td>
+<td>&nbsp;</td>
+<td>Reynolds, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>31/03/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/03 <36></td>
+<td>MHN/03</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>A111</td>
+<td>&nbsp;</td>
+<td>Reynolds, L;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>HSM101</td>
+<td>HSM101 Moving and handling catch-up session</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Anderson, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>02/12/13</td>
+<td>HSM101</td>
+<td>HSM101 OSCE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Shareville/Lab/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Mahoney, P;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Clinical skills review/Practical/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Gelbart, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/First aid/Practical/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>11C (WS)</td>
+<td>&nbsp;</td>
+<td>Francis, A;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Treacy, C;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Bliss, M;Bowden, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:30</td>
+<td>15:50</td>
+<td>19/05/14-21/07/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/03/01</td>
+<td>MHN/01</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>AG10</td>
+<td>&nbsp;</td>
+<td>Campbell, S;Davies, Jacqueline</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>3G (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C345</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: EWS & SBAR/Practical/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Jones, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/AM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/AM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Eales, S;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/AM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Jones, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/AM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>AG10</td>
+<td>&nbsp;</td>
+<td>Bliss, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/AM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>07/10/13-04/11/13, 02/12/13-16/12/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/01/01</td>
+<td>MHN/01</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>C313</td>
+<td>&nbsp;</td>
+<td>Campbell, S;Davies, Jacqueline</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>06/01/14-17/02/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/01</td>
+<td>MHN/01</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>C357</td>
+<td>&nbsp;</td>
+<td>Campbell, S;Davies, Jacqueline</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>17/03/14-07/04/14</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/PPD Tutorial/02/01</td>
+<td>MHN/01</td>
+<td>&nbsp;</td>
+<td>15</td>
+<td>IG03</td>
+<td>&nbsp;</td>
+<td>Campbell, S;Davies, Jacqueline</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: PEWS & SBAR/Practical/AM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1 Guided study activities/02</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>3G (WS)</td>
+<td>&nbsp;</td>
+<td>Self-directed</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 1/Practical/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Shareville/Lab/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Jones, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Infection control/Practical/PM/06</td>
+<td>AN/02B</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Ward shift 2/Practical/PM/05</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 2/Practical/PM/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Guided study workshop/Tutorial/PM/02</td>
+<td>AN/02A</td>
+<td>&nbsp;</td>
+<td>19</td>
+<td>BM03</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Compassion, dignity & communication/Tutorial/PM/04</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>11/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Introducing Clinical Practice/Medicines Management 1/Practical/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>18/11/13</td>
+<td>HSM101</td>
+<td>HSM101 Engaging in Practice 1: Shareville/Lab/PM/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:28</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>

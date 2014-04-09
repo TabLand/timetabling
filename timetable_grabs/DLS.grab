@@ -1,0 +1,616 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>Dean's Lecture Series</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>18:00</td>
+<td>14/07/14</td>
+<td>DLS</td>
+<td>R in Insurance Conference 2014</td>
+<td>Andreas Tsanakas 5166</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Tsanakas, Andreas;Haberman, Steve</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>20:00</td>
+<td>14/07/14</td>
+<td>DLS</td>
+<td>R in Insurance Conference 2014/Bookable teaching only</td>
+<td>Andreas Tsanakas 5166 - LG002/3 not in use ,booked due to noise in LG milling area</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>Tsanakas, Andreas</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>18:00</td>
+<td>29/07/13</td>
+<td>DLS</td>
+<td>NUS Change Leadership Day 1</td>
+<td>Matthew Guest 0901</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>18:00</td>
+<td>17/03/14</td>
+<td>DLS</td>
+<td>Mais Lecture/SET UP</td>
+<td>Mariam Marinescu 0909 - ROOM SET UP only</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >12:10</td>
+<td>21:00</td>
+<td>17/03/14</td>
+<td>DLS</td>
+<td>Mais Lecture/ROOM SET UP</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>17/03/14</td>
+<td>DLS</td>
+<td>Mais Lecture</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>18:00</td>
+<td>29/07/13</td>
+<td>DLS</td>
+<td>NUS Change Leadership Day 2</td>
+<td>Matthew Guest 0901</td>
+<td>&nbsp;</td>
+<td>22</td>
+<td>3003</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >17:10</td>
+<td>21:00</td>
+<td>16/12/13, 06/01/14-20/01/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/After Term 1</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >17:10</td>
+<td>21:00</td>
+<td>14/04/14-05/05/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/After Term 2/</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >17:10</td>
+<td>21:00</td>
+<td>30/06/14-21/07/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/After Term 3/</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>30/09/13, 25/11/13</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 1</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>30/09/13-07/10/13, 21/10/13-09/12/13</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 1/Breakout/Weeks 1-2, 4-11</td>
+<td>Mariam Marinescu 0909 : Weeks 1-2, 4-11</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>07/10/13, 11/11/13-18/11/13</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 1</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>14/10/13</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 1</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>21/10/13</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 1</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>28/10/13, 02/12/13</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 1</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>04/11/13, 09/12/13</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 1</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>16/12/13, 06/01/14-20/01/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/After Term 1/Breakout</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>03/02/14-24/02/14, 10/03/14, 31/03/14-07/04/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 2/Breakout/Weeks 2-5, 7,10-11</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>03/02/14-24/02/14, 10/03/14, 31/03/14-07/04/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 2/Weeks 2-5, 7, 10-11</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>24/03/14</td>
+<td>DLS</td>
+<td>Annual Address by Lord Turner/Dean's Lecture Series/Term 2/Breakout/Week 9</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>24/03/14</td>
+<td>DLS</td>
+<td>Annual Address by Lord Turner/Dean's Lecture Series/Term 2/Week 9</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>14/04/14-05/05/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/After Term 2/Breakout</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>12/05/14-19/05/14, 09/06/14-16/06/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/Term 3/Weeks 1-2, 5-6</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>150</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >18:10</td>
+<td>21:00</td>
+<td>30/06/14-21/07/14</td>
+<td>DLS</td>
+<td>Dean's Lecture Series/After Term 3/Breakout</td>
+<td>Mariam Marinescu 0909</td>
+<td>&nbsp;</td>
+<td>120</td>
+<td>LG002/3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>16:00</td>
+<td>05/05/14</td>
+<td>DLS</td>
+<td>EMG Workshop/KPhylaktis</td>
+<td>Kate Phylaktis 8735, Lucy Green 0928</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>2002;2003;2004</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:30</td>
+<td>13:30</td>
+<td>21/10/13</td>
+<td>DLS</td>
+<td>Morgan Stanley Presentation</td>
+<td>Charles Statham 5214</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >16:10</td>
+<td>18:00</td>
+<td>05/05/14</td>
+<td>DLS</td>
+<td>EMG Workshop/KPhylaktis</td>
+<td>Kate Phylaktis 8735, Lucy Green 0928</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Phylaktis, Kate</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td >9:00</td>
+<td>16:00</td>
+<td>05/05/14</td>
+<td>DLS</td>
+<td>EMG Workshop/KPhylaktis</td>
+<td>Kate Phylaktis 8735, Lucy Green 0928</td>
+<td>&nbsp;</td>
+<td>80</td>
+<td>2002;2003;2004</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td >16:10</td>
+<td>18:00</td>
+<td>05/05/14</td>
+<td>DLS</td>
+<td>EMG Workshop/KPhylaktis</td>
+<td>Kate Phylaktis 8735, Lucy Green 0928</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>LG001</td>
+<td>&nbsp;</td>
+<td>Phylaktis, Kate</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:30</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>

@@ -1,0 +1,2058 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>HSM201 Engaging in practice 2</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Risk assessment/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>D222</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Eales, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 1/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;McLeod, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 1/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C348</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CBT fundamentals 1/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>A226</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 1/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Developing tissue viability skills 1/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>04/11/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: OSCE/01</td>
+<td>All groups</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Jones, Mark;Anderson, D;Grant, R;Hunter, J;Howard, C;Manning, A;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:30</td>
+<td>19/05/14</td>
+<td>HSM201</td>
+<td>HSM201 Life experience introduction/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Curtis Tyler, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CPR in all settings/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Hughes, V;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 1/05</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/Introduction to your care home placement/01/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Cooper, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:30</td>
+<td>09/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/OSCE review/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>3A (WS)</td>
+<td>&nbsp;</td>
+<td>Anderson, D;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Risk management/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Eales, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 2/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Grant, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 2/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C300</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 2/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A225</td>
+<td>&nbsp;</td>
+<td>Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CBT fundamentals 2/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 2/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Boswell, G;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Manual handling & update/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Saunder, L;Lindsay, T;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Prep for OSCE/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>04/11/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: OSCE/02</td>
+<td>All groups</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Anderson, D;Grant, R;Hunter, J;Howard, C;Manning, A;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>28/04/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/Introduction to part two practice/01</td>
+<td>CN only</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>A111</td>
+<td>&nbsp;</td>
+<td>Ellis, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Guided study - making sense of patient care, linking theory to practice/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>B307A</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 2/05</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>Skills lab 3.1</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>16/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/OSCE Resit Preparation/02</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Urinary catheterisation & elimination skills/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Treacy, C;Jones, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/01</td>
+<td>AN/01 (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Assessment & creative engagement/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>A227</td>
+<td>&nbsp;</td>
+<td>Simpson, A;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>2C/2D (WS)</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/02</td>
+<td>AN/02 (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 1/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Developing tissue viability skills 1/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>2F (WS)</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 1/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Boswell, G;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Peri-operative care (pre-op)/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Ellis, M;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Prep for OSCE/05</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>Skills lab 3.2</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Compassion, dignity & communication (conflict resolution)/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>2C/2D (WS)</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: MDT/interprofessional working/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Simpson, A;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CPR: Introduction to ALS - rhythms and drugs/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Bowden, T;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Handover & discharge planning/01</td>
+<td>AN/01 (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A225</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 2/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Campbell, S;Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Handover & discharge planning/02</td>
+<td>AN/02  (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A227</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 2/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Bowden, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Review & presentation of community & service user profiling/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>2F (WS)</td>
+<td>&nbsp;</td>
+<td>Simpson, A;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Peri-operative care (post-op)/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Ellis, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Patient care simulation 1/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>Skills room G5/G6</td>
+<td>&nbsp;</td>
+<td>Anderson, D;Hughes, V;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>14:50</td>
+<td>21/04/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in practice 3/Introduction to part two practice</td>
+<td>AN only</td>
+<td>&nbsp;</td>
+<td>48</td>
+<td>A130</td>
+<td>&nbsp;</td>
+<td>Chamney, M</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/04</td>
+<td>AN/01 (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 1/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Francis, A;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 1/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>McLeod, A;Chamney, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: MDT/Interprofessional Working/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Howard, C;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Peri-operative care (pre- & post-op)/03</td>
+<td>AN/02 (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Hunter, J;McLeod, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 1/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Francis, A;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Care frameworks & planning/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>11B (WS)</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>30/09/13-14/10/13, 11/11/13-09/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C167</td>
+<td>&nbsp;</td>
+<td>Abbott, S;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>03/02/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/02/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C164</td>
+<td>&nbsp;</td>
+<td>O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>10/02/14-17/02/14, 10/03/14-07/04/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/02/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C164</td>
+<td>&nbsp;</td>
+<td>Abbott, S;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: "Behind closed doors"/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C301</td>
+<td>&nbsp;</td>
+<td>Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Manual handling & update/05</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Anderson, D;Hughes, V;Mahoney, P</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>02/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/Tutorial/01/01</td>
+<td>Mid-placement review: AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A111</td>
+<td>&nbsp;</td>
+<td>Chamney, M;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Community & service user profiling/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C167</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 2/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Compassion, dignity & communication (conflict resolution)/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Phillips, L</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Handover & discharge planning/07</td>
+<td>AN/01 (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>BM02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Handover & discharge planning/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Prep for OSCE/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Francis, A;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Manual handling & update/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Manning, A;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Handover & discharge planning/06</td>
+<td>AN/02  (half group)</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A107</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/Tutorial/01/02</td>
+<td>Mid-placement review: AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>A111</td>
+<td>&nbsp;</td>
+<td>Chamney, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Handover & discharge planning/05</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Ellis, M;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Care frameworks & planning/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>11B (WS)</td>
+<td>&nbsp;</td>
+<td>Ellis, M;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>16:50</td>
+<td>05/05/14-21/07/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/03/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>D106</td>
+<td>&nbsp;</td>
+<td>Abbott, S;O'Carroll, M</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Assessment and Creative Engagement/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>11B (WS)</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Community & service user profiling/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Patient care simulation 1/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Boswell, G;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Developing tissue viability skills 1/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CBT fundamentals 1/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>BM03</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Urinary catheterisation & elimination skills/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Jones, Mark</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 1/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>41</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Cooper, J;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>16/12/13</td>
+<td>HSM201</td>
+<td>HSM201 OSCE resit/01</td>
+<td>S12 all groups</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Hunter, J;Lindsay, T;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:30</td>
+<td>31/03/14</td>
+<td>HSM201</td>
+<td>HSM201/NMM959 OSCE resit/01</td>
+<td>S11 & S12</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>Skills lab 3.4;Skills lab 3.1;Skills lab 3.5</td>
+<td>&nbsp;</td>
+<td>Ellis, M;Eales, S;Hunter, J;Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Compassion, dignity & communication (child protection)/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C301</td>
+<td>&nbsp;</td>
+<td>Anderson, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: NG/NJ tube insertion, care & hydration/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>16/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/Evaluation of your care home placement/01/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>A214</td>
+<td>&nbsp;</td>
+<td>Cooper, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Prep for OSCE/03</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Manual handling & update/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Boswell, G;Francis, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Developing tissue viability skills 2/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Jones, Mark;Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>17:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Patient care simulation 2/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>McLeod, A;Olson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CBT fundamentals 2/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>A109</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Guided study workshop - Dementia Awareness 2/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>41</td>
+<td>C118</td>
+<td>&nbsp;</td>
+<td>Cooper, J;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CPR: Introduction to ALS - rhythms and drugs/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Bowden, T;Apau, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Compassion, dignity & communication (consent & confidentiality)/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Ellis, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Hydration - nutritional assessment (STAMP)/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>3D (WS)</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Lanlehin, R</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>24/03/14</td>
+<td>HSM201</td>
+<td>HSM201 OSCE revision for S12/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:30</td>
+<td>18:30</td>
+<td>18/11/13</td>
+<td>HSM201</td>
+<td>HSM201 Moving & handling</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Manning, A</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>03/03/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/Prep for Placement/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Ellis, M</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: "Everybody Matters" - Compassion, dignity & communication/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Cooper, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Care frameworks & planning/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>3C (WS)</td>
+<td>&nbsp;</td>
+<td>Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 1/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Howard, C;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Risk assessment/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>I203/I206</td>
+<td>&nbsp;</td>
+<td>Eales, S;Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Review & presentation of community & service user profiling/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>D222</td>
+<td>&nbsp;</td>
+<td>Simpson, A;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Developing tissue viability skills 1/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Hunter, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Patient care simulation 1/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CBT fundamentals 3/02</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C164</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:30</td>
+<td>19/05/14</td>
+<td>HSM201</td>
+<td>HSM201 Life experience reflection/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Curtis Tyler, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>10:50</td>
+<td>09/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/OSCE Resit Preparation/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>11:30</td>
+<td>26/05/14</td>
+<td>HSM201</td>
+<td>HSM201 Life experience presentation/01</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>25</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Curtis Tyler, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Wound assessment/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Klufio, A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>12:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 1/05</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>30/09/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <10></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>07/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <11></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>14/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <12></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>11/11/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <16></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>18/11/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <17></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>25/11/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <18></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <19></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>09/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <20></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C323</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>16/12/13</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/01/01 <21></td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>C322</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>20/01/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/02/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C135</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>27/01/14, 17/03/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/02/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>03/02/14-17/02/14, 10/03/14, 24/03/14-07/04/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/02/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:30</td>
+<td>11:50</td>
+<td>05/05/14-21/07/14</td>
+<td>HSM201</td>
+<td>HSM201 Engaging in Practice 2/PPD Tutorial/03/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG10</td>
+<td>&nbsp;</td>
+<td>Lindsay, T;Flood, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Prep for OSCE/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Gelbart, M;Rawlings-Anderson, K</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Manual handling & update/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>2G (WS)</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Manning, A;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Medicines management 2/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Howard, C;Lindsay, T</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Risk management/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Eales, S;Outside speaker</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Handover & discharge planning/04</td>
+<td>MHN/02B & 03</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24b</td>
+<td>&nbsp;</td>
+<td>Simpson, A;Campbell, S</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Developing tissue viability skills 2/02</td>
+<td>AN/02</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C216</td>
+<td>&nbsp;</td>
+<td>Hunter, J;Boswell, G</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Patient care simulation 2/01</td>
+<td>AN/01</td>
+<td>&nbsp;</td>
+<td>24</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: CBT fundamentals 3/01</td>
+<td>MHN/01 & 02A</td>
+<td>&nbsp;</td>
+<td>17</td>
+<td>AG24a</td>
+<td>&nbsp;</td>
+<td>Howard, C</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>21/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Pressure ulcer prevention & tissue viability/01</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C208/210</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Anderson, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>17:30</td>
+<td>28/10/13</td>
+<td>HSM201</td>
+<td>HSM201 Simulating Practice: Clinical skills review 2/03</td>
+<td>CN/01</td>
+<td>&nbsp;</td>
+<td>20</td>
+<td>C215</td>
+<td>&nbsp;</td>
+<td>Klufio, A;Hughes, V</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:28</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>

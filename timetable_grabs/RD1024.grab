@@ -1,0 +1,980 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>RD1024 Science for Medical Imaging 1</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>11/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 9/01</td>
+<td>Digital Imaging Basics</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>18/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 11/01</td>
+<td>Image Manipulation and Storage 1</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>25/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 12/01</td>
+<td>Image Manipulation and Storage 2</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 14/01</td>
+<td>Revision 1</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>C303</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>17/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 19/01</td>
+<td>Mobile X-ray equipment</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>11:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 1/07</td>
+<td>Year 1/Term 1 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C357</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 1/03</td>
+<td>Year 1/Term 1 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>D109</td>
+<td>&nbsp;</td>
+<td>Poynter, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 1/02</td>
+<td>Year 1/Term 1 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C313</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 1/06</td>
+<td>Year 1/Term 1 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C328</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 1/08</td>
+<td>Year 1/Term 1 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>A112</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 1/05</td>
+<td>Year 1/Term 1 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>D108</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 1/01</td>
+<td>Year 1/Term 1 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>D107</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>24/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 22/01</td>
+<td>Dental X-ray equipment</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 24/01</td>
+<td>Application of IRR99 & IRMER 2000</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>31/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 26/01</td>
+<td>Revision 4 (check correct wk)</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J;McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>14:50</td>
+<td>14/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 1/01</td>
+<td>Introduction to Science for Medical Imaging 1</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>B307B/C</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>11/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 8/01</td>
+<td>Introduction to CR, DR and PACS</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>16:50</td>
+<td>24/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 25/01</td>
+<td>Revision 3</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>C304</td>
+<td>&nbsp;</td>
+<td>Morgan, J;McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>14/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 2/02</td>
+<td>X-ray circuit</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>B307B/C</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 13/01</td>
+<td>Scatter Control</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>15:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 2/05</td>
+<td>Year 1/Term 2 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C313</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 2/04</td>
+<td>Year 1/Term 2 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>D109</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 2/07</td>
+<td>Year 1/Term 2 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C357</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 2/08</td>
+<td>Year 1/Term 2 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C330</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 2/02</td>
+<td>Year 1/Term 2 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>A107</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 2/03</td>
+<td>Year 1/Term 2 Personal tutor meetings</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C328</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>17/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 20/01</td>
+<td>Dosimetry</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:30</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 15/01</td>
+<td>Revision 2</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>27/01/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 16/01</td>
+<td>General X-ray equipment</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 5/01</td>
+<td>Attenuation</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 23/01</td>
+<td>Factors affecting image quality</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>17/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 3/01</td>
+<td>F/U Tutorial 1</td>
+<td>&nbsp;</td>
+<td>50</td>
+<td>E212</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>14/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 3/01</td>
+<td>X-ray tube</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BG03</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>10/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 24/27</td>
+<td>Term1 Exam Feedback (Optional but those resitting are expected to attend)</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>D111</td>
+<td>&nbsp;</td>
+<td>Morgan, J;McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>16:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 27/01</td>
+<td>Term 1 exam feedback - addtional</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>AG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 2/03</td>
+<td>Additional Revision Session - Follow-up to MCT</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>03/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 21/01</td>
+<td>Monitors</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:30</td>
+<td>12:30</td>
+<td>09/12/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 2/03</td>
+<td>Additional Revision Session - Follow-up to MCT</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C161</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>11/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 10/01</td>
+<td>CR and DR</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/10</td>
+<td>Directed Self Study 12 - IRR99 & IR(ME)R2000</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>27/01/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 17/01</td>
+<td>Fluoroscopy Equipment 1</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>14/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 4/01</td>
+<td>X-ray Production</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>13:50</td>
+<td>17/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/11</td>
+<td>Directed Self Study 13 - Factors affecting image quality</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>27/01/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 18/01</td>
+<td>Fluoroscopy Equipment 2</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>21/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 7/01</td>
+<td>Quality and Intensity of the X-ray Beam</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>21/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/01</td>
+<td>Directed Self Study - X-ray Circuit, X-ray tube and X-ray production - attentuation/interactions</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/02</td>
+<td>Directed Self Study - Digital Imaging</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>25/11/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/04</td>
+<td>Directed Self Study - Scatter Control</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>27/01/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/05</td>
+<td>Directed Self Study 6 - AEDs</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>03/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/07</td>
+<td>Directed Self Study 8 - Mobile Equipment</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>28/10/13</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Lecture 2/04</td>
+<td>Tutorial</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>03/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/08</td>
+<td>Directed Self Study 9 - Dosimetry</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Tutorial 3/02</td>
+<td>F/U Tutorial 2</td>
+<td>&nbsp;</td>
+<td>50</td>
+<td>DLG19</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>13:50</td>
+<td>27/01/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/06</td>
+<td>Directed Self Study 7 - Fluoroscopy Equipment</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>13:50</td>
+<td>03/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/09</td>
+<td>Directed Self Study 10 - Monitors</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>14:50</td>
+<td>24/02/14</td>
+<td>RD1024</td>
+<td>RD1024 Science for Medical Imaging 1/Self Study 1/03</td>
+<td>Directed Self Study 11 - Dental X-ray equipment</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:29</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>

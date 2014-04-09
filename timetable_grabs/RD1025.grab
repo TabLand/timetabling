@@ -1,0 +1,1638 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>RD1025 Principles of Imaging in Practice 1</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>21/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 1/01</td>
+<td>Directed study (all day) Routine radiography of hand, digits and wrist</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/08</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/05</td>
+<td>RD1025 WS2 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/17</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/06</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/09</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/01</td>
+<td>Practical workshop 4</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/09</td>
+<td>Practical workshop 4 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>10/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 13/01</td>
+<td>Routine Imaging of Upper GI Tract</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>E212</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/04</td>
+<td>RD1025 WS5 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/17</td>
+<td>Practical workshop 5 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 6/01</td>
+<td>Routine radiography of knee, tib/fib and femur</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>CG02</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>14:30</td>
+<td>25/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 7/01</td>
+<td>Routine radiography of the chest & chest pathologies</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/04</td>
+<td>RD1025 WS2 practical Removed  DP - clash with RD3024)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/18</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/10</td>
+<td>ipad activity (SW clash with other RD1023 e-learning session)</td>
+<td>&nbsp;</td>
+<td>16</td>
+<td>IG03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/01</td>
+<td>Practical workshop 3 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/13</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>17/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self study 11/01</td>
+<td>Routine radiography of the cervical, thoracic and lumbar spine</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/03</td>
+<td>practical workshop 4</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/13</td>
+<td>Practical workshop 4 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/08</td>
+<td>RD1025 WS5 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/13</td>
+<td>Practical workshop 5 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>28/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 6/01</td>
+<td>Rd1025 practice vivas</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C213 (Radiography - U/S);C232</td>
+<td>&nbsp;</td>
+<td>Walls, Darren;Willis, Sophie;Morgan, J;McHugh, Kevin;Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>03/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 8/01</td>
+<td>Routine radiography of the abdomen</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>E212</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>24/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 12/01</td>
+<td>Routine radiography of the skull, facial bones & teeth</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>E212</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>10/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 14/01</td>
+<td>Routine Imaging of Lower GI Tract</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/01</td>
+<td>Practical workshop 1</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/06</td>
+<td>RD1025 WS2 practical (DW clash with RD3024)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/12</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/04</td>
+<td>Practical workshop 3 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/10</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/02</td>
+<td>practical workshop4</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/10</td>
+<td>Practical workshop 4 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/09</td>
+<td>RD1025 WS5 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/10</td>
+<td>Practical workshop 5 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>31/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 15/01</td>
+<td>Revision /Preparation for exams</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>24/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 10/01</td>
+<td>Routine radiography of the pelvis and hip</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>E212</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/05</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/03</td>
+<td>RD1025 WS2 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/19</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/11</td>
+<td>ipad activity (SW clash with other RD1023 e-learning session)</td>
+<td>&nbsp;</td>
+<td>16</td>
+<td>IG03</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/03</td>
+<td>Practical workshop 3 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/14</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/04</td>
+<td>practical workshop 4</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/14</td>
+<td>Practical workshop 4 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/03</td>
+<td>RD1025 WS5 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/14</td>
+<td>Practical workshop 5 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>11/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 4/01</td>
+<td>Routine radiography of elbow and shoulder</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>CG02</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/07</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/01</td>
+<td>RD1025 WS2 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/14</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/05</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/11</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/08</td>
+<td>practical workshop 4</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/11</td>
+<td>Practical workshop 4 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/05</td>
+<td>RD1025 WS5 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/11</td>
+<td>Practical workshop 5 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>11:50</td>
+<td>21/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 3/01</td>
+<td>Preparation for Practical Workshop 1</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/06</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/08</td>
+<td>RD1025 WS2 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/02</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/13</td>
+<td>ipad activity (SW clash with other RD1023 e-learning session)</td>
+<td>&nbsp;</td>
+<td>16</td>
+<td>C312</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/08</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/15</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/06</td>
+<td>practical workshop 4</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/15</td>
+<td>Practical workshop 4 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/06</td>
+<td>RD1025 WS5 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/15</td>
+<td>Practical workshop 5 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>14/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 2/01</td>
+<td>Routine radiography of hand, digits and wrist</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>CG02</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/04</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>18/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 8/01</td>
+<td>Directed study (all day) Routine radiography of knee, tib/fib and femur</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>25/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 6/01</td>
+<td>Directed study (all day) Routine radiography of the chest (including mobiles)</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/07</td>
+<td>RD1025 WS2 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/15</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/02</td>
+<td>Practical workshop 3 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/12</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>17/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 12/01</td>
+<td>Directed study (all day) Routine radiography of the spine</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/07</td>
+<td>practical workshop 4</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/12</td>
+<td>Practical workshop 4 (image evaluation) (no lecturer req'd)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/07</td>
+<td>RD1025 WS5 practical</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/12</td>
+<td>Practical workshop 5 (image evaluation) (no lecturer req'd)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>13:50</td>
+<td>03/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 13/01</td>
+<td>Directed study; Preparation for workshop 3 (SH)</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>28/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 1/02</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>ELG14 (Radiography);ELG09 (Radiography);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>11/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 5/01</td>
+<td>Routine radiography of foot, toes and ankle</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>CG02</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/09</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>12</td>
+<td>ELG14 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 2/16</td>
+<td>Practical workshop 2 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room);ELG07 (Radiography)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/07</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 3/16</td>
+<td>Practical workshop 3</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>24/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 5/01</td>
+<td>Directed study; Preparation for workshop 4 (no lec attached)</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/05</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 4/16</td>
+<td>Practical workshop 4 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/02</td>
+<td>Practical workshop 5</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C239 (Radiography - computer room)</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>07/04/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Practical 5/16</td>
+<td>Practical workshop 5 (image evaluation)</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1)</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>07/10/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Lecture 01/01</td>
+<td>Introduction to the module + checking requests cards/intro to image evaluation</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>CG04</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>17/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 9/01</td>
+<td>Directed study; Routine radiography of the pelvis and hip</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>13:50</td>
+<td>24/02/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 11/01</td>
+<td>Directed study (5 hours) Routine radiography of skull, facial bones and teeth</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>16:50</td>
+<td>12/05/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/OSCE1/01</td>
+<td>RD1025 viva exams - (SH removed/PF to cover tbc)</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>C253 (Radiography - X-ray 2);C256 (Radiography - X-ray 1);C239 (Radiography - computer room);C235 (Radiography - VERT);C213 (Radiography - U/S)</td>
+<td>&nbsp;</td>
+<td>Walls, Darren;Willis, Sophie;Morgan, J;Bland, Paul;McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>13:50</td>
+<td>11/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 2/01</td>
+<td>Directed study; Routine radiography of elbow and shoulder</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>13:50</td>
+<td>25/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 7/01</td>
+<td>Directed study; Preparation for workshop 2</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Poynter, D</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:30</td>
+<td>17/03/14</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 10/01</td>
+<td>Directed study; Preparation for workshop 5</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>16:50</td>
+<td>11/11/13</td>
+<td>RD1025</td>
+<td>RD1025 Principles of Imaging in Practice 1/Self Study 3/01</td>
+<td>Directed study: routine radiography of foot, toes and ankle</td>
+<td>&nbsp;</td>
+<td>55</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:29</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>

@@ -1,0 +1,1050 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+	<HEAD>
+		<title>Web Timetables</title>
+	</HEAD>
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>TextSpreadsheet Object</title>
+<style type="text/css">
+body{font: 10pt "Times New Roman",serif; }
+span.scientia-footer { font: bold 150% "Times New Roman", serif;  color: rgb(255,0,0); }
+div.scientia-footer-message { text-align: center }
+table.header-0-args{text-align: center;vertical-align: middle;font: bold 18pt "MS Sans Serif",sans-serif; }
+table.header-border-args{}
+span.header-0-0-0{}
+span.header-0-0-1{}
+span.header-0-0-2{}
+span.header-0-0-3{text-align: center;vertical-align: middle;}
+table.footer-0-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-1-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-2-args{text-align: center;vertical-align: middle;font: 9pt "Arial",sans-serif; }
+table.footer-border-args{}
+span.footer-0-0-0{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-1{text-align: center;vertical-align: middle;}
+span.footer-0-0-2{text-align: center;vertical-align: middle;font: bold 9pt "MS Sans Serif",sans-serif; }
+span.footer-0-0-3{}
+span.footer-1-0-0{}
+span.footer-2-0-0{text-align: center;vertical-align: middle;color: rgb(255,255,255); }
+table.spreadsheet {text-align: center;vertical-align: middle;color: rgb(0,0,0); font: 7pt "MS Sans Serif",sans-serif; }
+tr.columnTitles {text-align: center;vertical-align: middle;color: rgb(255,255,255); background-color: rgb(0,128,0); font: bold 10pt "MS Sans Serif",sans-serif; }
+col.column0 {}
+col.column1 {}
+col.column2 {}
+col.column3 {}
+col.column4 {}
+col.column5 {}
+col.column6 {text-align: center;vertical-align: middle;}
+col.column7 {}
+col.column8 {text-align: center;vertical-align: middle;}
+col.column9 {text-align: center;vertical-align: middle;}
+col.column10 {text-align: center;vertical-align: middle;}
+col.column11 {text-align: center;vertical-align: middle;}
+
+span.labelone{text-align: center;vertical-align: middle;font: bold 10pt "MS Sans Serif",sans-serif; }
+span.labeltwo{}
+
+</style>
+</head>
+
+<body>
+<table class='header-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='header-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='header-0-0-0'>Event Sheet For </span><span class='header-0-0-1'>RD1023 Radiographic Anatomy, Physiology and Pathology</span><span class='header-0-0-2'> for week commencing Mon </span><span class='header-0-0-3'>29 Jul 2013-27 Jul 2014</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Monday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 01/01</td>
+<td>Introduction to Module</td>
+<td>&nbsp;</td>
+<td>67</td>
+<td>B104</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>03/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 20/01</td>
+<td>Tutorial - Male and Female Reproductive System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>10:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 02/01</td>
+<td>Cells and Tissues</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>B307B/C</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 03/01</td>
+<td>Body Planes, Regions & Terminology</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>B307B/C</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>11/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 14/01</td>
+<td>Digestive System - Anatomy</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/01</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C158</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 2/01</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C161</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/01</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C158</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>27/01/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 18/01</td>
+<td>Urinary System - Anatomy of KUB</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>14:50</td>
+<td>18/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 15/01</td>
+<td>Digestive System - Mechanical and chemical digestion</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>14:50</td>
+<td>10/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 25/01</td>
+<td>Introduction to Lymphatic System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Cherry, Pam</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>15:50</td>
+<td>25/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 17/01</td>
+<td>Tutorial - digestive system</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>16:50</td>
+<td>27/01/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 19/01</td>
+<td>Urinary System - Physiology and Pathology</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Tuesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>18/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 16/01</td>
+<td>Directed self study - digestive System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>03/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 26/01</td>
+<td>Skull / Facial Bones & Joints - Radiographic Anatomy</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>24/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 28/01</td>
+<td>Cardiovascular System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>10/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 29/01</td>
+<td>Tutorial - CVS</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>17/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 31/02</td>
+<td>Nervous System - Pathology (check correct week)</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>24/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 33/01</td>
+<td>Endocrine System - Lecture / Tutorial</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 04/01</td>
+<td>Basic Osteology</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>10:50</td>
+<td>21/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 07/01</td>
+<td>Tutorial - skeleton</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>10/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 31/01</td>
+<td>Ventricles, Meninges BBB & Spinal Cord</td>
+<td>&nbsp;</td>
+<td>60</td>
+<td>D104</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>10:50</td>
+<td>17/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Tutorial 1/03</td>
+<td>Tutorial - Lymphatic System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Cherry, Pam</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>11:50</td>
+<td>03/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 22/01</td>
+<td>Sectional anatomy of the abdomen and pelvis</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>14:30</td>
+<td>25/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 17/02</td>
+<td>Revision 1</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>C303</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin;Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/02</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C340</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>13:50</td>
+<td>09/12/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 15/01</td>
+<td>Revision 2</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/02</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C158</td>
+<td>&nbsp;</td>
+<td>Walls, Darren;Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>14:50</td>
+<td>24/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 34/01</td>
+<td>Revision 3</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 05/01</td>
+<td>Overview of Skeleton</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>28/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/OSCE4/01</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>B307B/C</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 2/02</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>C150</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>15:50</td>
+<td>24/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 30/01</td>
+<td>Introduction to Nervous System / Brain 1</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>A130</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Wednesday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 06/01</td>
+<td>Overview of The Joints</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>9:50</td>
+<td>11/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 11/01</td>
+<td>Abdominopelvic Cavity 1 - Contents / Divisions / Boundaries</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>18/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 10/02</td>
+<td>CT & MRI Cross-sectional anatomy of the Thoracic Cavity</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>25/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 13/01</td>
+<td>Directed Self Study - Cross-sectional Anatomy of the Thorax</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Morgan, J</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>17/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 5/01</td>
+<td>Directed Self Study - Dentition Radiographic Anatomy</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>14:50</td>
+<td>24/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 13/01</td>
+<td>Directed Self Study - Cardiovascular System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>10/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 7/01</td>
+<td>Directed Self Study - Lymphatic System</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Cherry, Pam</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>24/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 35/01</td>
+<td>Revision 4</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>Bland, Paul;Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>11:50</td>
+<td>11/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 12/01</td>
+<td>Abdominopelvic Cavity 2 - Contents / Divisions / Boundaries</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>12:50</td>
+<td>17/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 36/01</td>
+<td>Review semester 1 exams</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>AG07</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>14:50</td>
+<td>21/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 14/01</td>
+<td>Thoracic Cavity - Content / Boundaries and Divisions</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>02/12/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 1/03</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C158</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>14:50</td>
+<td>27/01/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 11/01</td>
+<td>Directed Self Study - Female Reproductive System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>13:50</td>
+<td>03/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 23/01</td>
+<td>Directed Self Study Pelvis & Joints - Radiographic Anatomy</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>10/02/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 2/03</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>16</td>
+<td>C313</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>15:50</td>
+<td>03/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 3/03</td>
+<td>E-Learning Anatomy Revision Session [to run in parallel with RD1025 session]</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>C158</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>28/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Practical 4/01</td>
+<td>Radiographic Anatomy, Physiology and Pathology</td>
+<td>&nbsp;</td>
+<td>30</td>
+<td>AG03</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Thursday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>21/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 08/01</td>
+<td>Respiratory System - Anatomy</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>10/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 6/01</td>
+<td>Directed Self Study - Cardiovascular System</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>11:50</td>
+<td>21/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Lecture 09/01</td>
+<td>Respiratory System - Physiology and Pathology</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>BLG07</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>13:50</td>
+<td>24/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 8/01</td>
+<td>Directed Self Study - Endocrine System (Anatomy, Physiology & Pathology)</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Walls, Darren</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<p><span class='labelone'>Friday</span></p>
+<table class='spreadsheet' cellspacing='0' cellpadding='2%' border='t'>
+<col class='column0' /><col class='column1' /><col class='column2' /><col class='column3' /><col class='column4' /><col class='column5' /><col class='column6' /><col class='column7' /><col class='column8' /><col class='column9' /><col class='column10' /><col class='column11' />
+<tr class='columnTitles'>
+<td>Start Time</td>
+<td>Finish Time</td>
+<td>Week Commencing</td>
+<td>          Module Code          </td>
+<td>                   Activity                   </td>
+<td>Description</td>
+<td>Joint between...</td>
+<td>No.of Students</td>
+<td>            Room            </td>
+<td></td>
+<td>Lecturer</td>
+<td></td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>12:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 1/01</td>
+<td>Directed Self Study - Appendicular Skeleton - Upper Limb</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>10:50</td>
+<td>11/11/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 4/02</td>
+<td>Directed Self Study - Abdomen & Pelvis (On-line Quiz)</td>
+<td>&nbsp;</td>
+<td>69</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>McHugh, Kevin</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>11:50</td>
+<td>24/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 9/01</td>
+<td>Directed Self Study - Nervous System Physiology</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>16:50</td>
+<td>14/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 2/01</td>
+<td>Directed Self Study - Appendicular Skeleton - Lower Limb</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Humphries, Sue</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>14:50</td>
+<td>21/10/13</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 3/01</td>
+<td>Directed Self Study - Breast (Anatomy, Physiology & Pathology)</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>15:50</td>
+<td>24/03/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self Study 10/01</td>
+<td>Directed Self Study - Cranial Nerves / ANS</td>
+<td>&nbsp;</td>
+<td>64</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Bland, Paul</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>16:50</td>
+<td>27/01/14</td>
+<td>RD1023</td>
+<td>RD1023 Radiographic Anatomy, Physiology and Pathology/Self study 12/02</td>
+<td>Directed Self Study - Male Reproductive System</td>
+<td>&nbsp;</td>
+<td>65</td>
+<td>No room needed</td>
+<td>&nbsp;</td>
+<td>Willis, Sophie</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table class='footer-border-args'  border='0' cellspacing='0' width='100%'><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-0-0-0'>Date: </span><span class='footer-0-0-1'>9 Apr 2014</span><span class='footer-0-0-2'> Time: </span><span class='footer-0-0-3'>15:30</span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-1-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-1-0-0'><A HREF='javascript:window.print()'>Print Timetable</A></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr><tr>
+<td>
+<table cellspacing='0' border='0' width='100%' class='footer-2-args'>
+<col align='left' /><col align='center' /><col align='right' />
+  <tr>
+    <td><span class='footer-2-0-0'></span></td><td></td><td></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</HTML>
