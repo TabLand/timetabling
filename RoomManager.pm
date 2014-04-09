@@ -14,6 +14,10 @@ sub add{
 	my ($self, $room) = @_;
 	$self->{_rooms}{$room->get_code()} = $room;
 }
+sub remove{
+	my ($self, $room) = @_;
+	delete $self->{_rooms}{$room->get_code()};
+}
 sub contains{
 	my ($self, $room_code) = @_;
 	if(defined $self->{_rooms}{$room_code}){
