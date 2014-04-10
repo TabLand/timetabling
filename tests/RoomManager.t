@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 use Test::More qw(no_plan);
-use lib "..";
+use lib "../src";
+use lib "../src/Manager";
 use RoomManager;
 use strict;
 use warnings;
