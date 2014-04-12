@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="lib/jquery/css/custom-theme/jquery-ui-1.10.4.custom.min.css">
+		<script type="text/javascript" src="lib/jquery/js/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="sliders.js"></script>
+		<script src="lib/jquery/js/jquery-ui-1.10.4.custom.min.js"></script>
+	</head>
+	<body onload="initialise_sliders()">
+		<h1>THE SCHEDULER</h1>
+		<h2>Staff Lunch Penalty:
+			<span class="penalty_indicator" id="staff_lunch_penalty">0</span>
+		</h2>
+		<div class="slider" id="staff_lunch"></div>
+		<h2>Student Lunch Penalty:
+			<span class="penalty_indicator" id="student_lunch_penalty">0</span>
+		</h2>
+		<div class="slider" id="student_lunch"></div>
+		<h2>Room Over Capacity Penalty:
+			<span class="penalty_indicator" id="capacity_penalty">0</span>
+		</h2>
+		<div class="slider" id="capacity"></div>
+		<h2>Room Double Booking Penalty:
+			<span class="penalty_indicator" id="room_overbooking_penalty">0</span>
+		</h2>
+		<div class="slider" id="room_overbooking"></div>
+		<h2>Student Double Booking Penalty:
+			<span class="penalty_indicator" id="student_overbooking_penalty">0</span>
+		</h2>
+		<div class="slider" id="student_overbooking"></div>
+		<h2>Staff Double Booking Penalty:
+			<span class="penalty_indicator" id="staff_overbooking_penalty">0</span>
+		</h2>
+		<div class="slider" id="staff_overbooking"></div>
+	</body>
+</html>
