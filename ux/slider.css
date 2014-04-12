@@ -1,0 +1,22 @@
+@font-face{
+	font-family: Caviar;
+	src: url('Caviar_Dreams_Bold.ttf');
+}
+body{
+	font-family: Caviar;
+	color: #f00;
+	width: auto;
+	height: auto;
+	text-align:center;
+}
+h1{
+	margin-top:1%;
+}
+div.slider{
+	width:50%;
+	margin-left:25%;
+	margin-top:2%;
+}
+span.penalty_indicator{
+	color: #000;
+}
