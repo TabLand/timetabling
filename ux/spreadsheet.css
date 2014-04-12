@@ -1,0 +1,15 @@
+#entry{
+	height: 500px;
+	width: 500px;
+}
+body {
+	height: 100%;
+	width: 100%;
+}
+.editor-text{
+	height:100%;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	border:0px;
+}
