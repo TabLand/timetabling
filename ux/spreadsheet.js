@@ -9,7 +9,8 @@ var options = {
     editable: true,
     enableCellNavigation: true,
     enableColumnReorder: false,
-    autoEdit: true
+    autoEdit: false,
+    enableAddRow: true,
 };
 
 var data = [];
@@ -79,3 +80,21 @@ function key_up(e,args){
         pressed["paste"] = false;
     }
 }
+function get_selection(){
+    rows = grid.getSelectedRows().sort(lowest_first);
+    
+    selection = "";
+    for(key in rows){
+        row = rows[key];
+        item = data[row];
+        selection += item.room + "\t" + item.capacity + "\n";
+    }
+    clipboard = $("textarea#clipboard")[0];
+    clipboard.value = selection;
+    clipboard.select();
+    grid.select();
+}
+function lowest_first(a,b){
+    return a-b;
+}
+
