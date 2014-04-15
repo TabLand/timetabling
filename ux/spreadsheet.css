@@ -3,8 +3,12 @@
 	width: 500px;
 }
 body {
-	height: 100%;
-	width: 100%;
+	height: auto;
+	width: auto;
+}
+.selected.active{
+    background-color: #ff0000;
+    color: #ffffff;
 }
 .editor-text{
 	height:100%;
@@ -12,4 +16,10 @@ body {
 	padding:0px;
 	margin:0px;
 	border:0px;
+    background-color: #ff0000;
+    color: #ffffff;
+}
+.selected{
+    background-color: #ffd9d9;
+    color: #000000;
 }
