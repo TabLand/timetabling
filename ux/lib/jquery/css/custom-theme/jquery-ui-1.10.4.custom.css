@@ -780,10 +780,15 @@ body .ui-tooltip {
 	border-width: 2px;
 }
 
+@font-face{
+	font-family: Caviar;
+	src: url('font/Caviar_Dreams_Bold.ttf');
+}
+
 /* Component containers
 ----------------------------------*/
 .ui-widget {
-	font-family: Verdana,Arial,sans-serif;
+	font-family: Caviar;
 	font-size: 1.1em;
 }
 .ui-widget .ui-widget {
@@ -793,7 +798,7 @@ body .ui-tooltip {
 .ui-widget select,
 .ui-widget textarea,
 .ui-widget button {
-	font-family: Verdana,Arial,sans-serif;
+	font-family: Caviar;
 	font-size: 1em;
 }
 .ui-widget-content {

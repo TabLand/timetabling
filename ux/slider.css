@@ -1,9 +1,5 @@
-@font-face{
-	font-family: Caviar;
-	src: url('Caviar_Dreams_Bold.ttf');
-}
 body{
-	font-family: Caviar;
+    font-family: Caviar;
 	color: #f00;
 	width: auto;
 	height: auto;
