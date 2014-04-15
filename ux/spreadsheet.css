@@ -1,11 +1,18 @@
 #entry{
 	height: 500px;
+    margin: 0px auto 0px auto;
 	width: 500px;
 }
 body {
     font-family: Caviar;
+	color: #f00;
 	height: auto;
 	width: auto;
+    background-color: white;
+    text-align: center;
+}
+.slick-cell{
+    color: #000000;
 }
 .selected.active{
     background-color: #ff0000;
@@ -19,8 +26,21 @@ body {
 	border:0px;
     background-color: #ff0000;
     color: #ffffff;
+    text-align: center;
 }
 .selected{
     background-color: #ffd9d9;
     color: #000000;
+}
+textarea#clipboard{
+    background-color: white;
+    color: white;
+    height: 0px;
+    width: 0px;
+    resize: none;
+    overflow: scroll;
+    border: none;
+}
+.ui-state-default .slick-header-column{
+    color: #ff0000;
 }
