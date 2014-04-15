@@ -1,4 +1,5 @@
 var grid;
+var pressed = {};
 
 function formatter(row, cell, value, columnDef, dataContext) {
     return value;
@@ -46,23 +47,35 @@ function remove_row(){
     grid.updateRowCount()
     grid.render();
 }
+function key_down(e,args){
+    //ctrl key
+    if(e.keyCode == 17) pressed["ctrl"] = true;
+    pressed["c"] = e.keyCode == 67;
+    pressed["v"] = e.keyCode == 86;
 
-    this.handleGridClick = function(e, args) {
-        var cell = self._grid.getCellFromEvent(e);
-        if (!cell || !self._grid.canCellBeSelected(cell.row, cell.cell)) {
-            return;
-        }
-        self.onSelectedRangesChanged.notify([new Slick.Range(cell.row, cell.cell, cell.row, cell.cell)]);
-    };
+    if(pressed["c"] && pressed["ctrl"] && !pressed["copy"]){
+        pressed["copy"] = true;
+        get_selection();
+    }
 
-    this.handleKeyPress = function(e, args){
-    	if(e.keyCode == 38) console.log("up");
-    	else if(e.keyCode == 37) console.log("left");
-    	else if(e.keyCode == 39) console.log("right");
-    	else if(e.keyCode == 40) console.log("down");
-    	console.log(args);
-    	var cell = self._grid.getCellFromEvent(e);
-    	console.log(cell);
-        self.handleGridClick(e,args);
+    if(pressed["v"] && pressed["ctrl"] && !pressed["paste"]){
+        pressed["paste"] = true;
+        clipboard = $("textarea#clipboard")[0];
+        clipboard.select();
+        set_timeout
+        pasted_text = $("textarea#clipboard")[0].value;
+        console.log("just pasted" + pasted_text);
+    }
+}
+function key_up(e,args){
+    if(e.keyCode == 17){
+        pressed["ctrl"] = false;
+        pressed["copy"] = false;
+    }
+    else if(e.keyCode == 67){
+        pressed["copy"] = false;
+    }
+    else if(e.keyCode == 86){
+        pressed["paste"] = false;
     }
 }
