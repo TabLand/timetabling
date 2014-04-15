@@ -19,7 +19,10 @@ for (var i = 0; i < 5; i++) {
 function initialise_grid(){
 	var columns = get_columns();
 	grid = new Slick.Grid("#entry", data, columns, options);
-	grid.setSelectionModel(new SingleCellSelectionModel());
+    grid.setSelectionModel(new Slick.RowSelectionModel());
+    grid.onAddNewRow.subscribe(add_row);
+    grid.onKeyDown.subscribe(key_down);
+    grid.onKeyUp.subscribe(key_up);
 }
 
 function get_columns(){
@@ -27,26 +30,22 @@ function get_columns(){
 		{id: "capacity", name: "Capacity", field: "capacity", editor: Slick.Editors.Integer , width: 250}];
 }
 
-function add_new_row(){
-    row = {room: "", capacity: ""};
+function add_row(e,args){
+    new_room = args.item.room || "";
+    new_capacity = args.item.capacity || 0;
+    row = {room: new_room, capacity: new_capacity};
+    console.log(row);
     data.push(row);
+    grid.updateRowCount();
+    grid.invalidate();
     grid.render();
 }
 
-function SingleCellSelectionModel() {
-    var self = this;
-
-    this.init = function(grid) {
-    self._grid = grid;
-    self._grid.onClick.subscribe(self.handleGridClick);
-      	self._grid.onKeyDown.subscribe(self.handleKeyPress);
-    };
-
-    this.destroy = function() {
-        self._grid.onClick.unsubscribe(self.handleGridClick);
-    };
-
-    this.onSelectedRangesChanged = new Slick.Event();
+function remove_row(){
+    data.pop();
+    grid.updateRowCount()
+    grid.render();
+}
 
     this.handleGridClick = function(e, args) {
         var cell = self._grid.getCellFromEvent(e);
