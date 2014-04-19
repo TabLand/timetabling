@@ -1,6 +1,7 @@
 var grid;
 var held = Array;
 var clipboard;
+var data_view;
 
 function formatter(row, cell, value, columnDef, dataContext) {
     return value;
@@ -12,28 +13,55 @@ var options = {
     enableColumnReorder: false,
     autoEdit: false,
     enableAddRow: true,
-    forceFitColumns: true
+    forceFitColumns: true,
+    showHeaderRow: true,
+    explicitInitialization: true,
 };
 
 function initialise_grid(){
-    var columns = get_columns();
-	grid = new Slick.Grid("#entry", data, columns, options);
-    grid.setSelectionModel(new Slick.RowSelectionModel());
-    grid.onAddNewRow.subscribe(add_row);
-    grid.onKeyDown.subscribe(key_down);
-    grid.onKeyUp.subscribe(key_up);
+    setup_dataview();
+    setup_grid();
+    setup_clipboard();
+    $(grid.getHeaderRow()).delegate(":input", "change keyup", capture_filter_entries);
+    grid.onHeaderRowCellRendered.subscribe(append_input_fields);
+    grid.init();
+    setup_dataview_subscriptions();
+    populate();
+}
+
+function setup_clipboard(){
     clipboard = $("#clipboard");
     clipboard.bind("keyup",key_up);
     clipboard.bind("keydown",key_down);
     clipboard.bind("cut",cut);
     clipboard.bind("paste",delayed_paste);
     clipboard.bind("copy",copy);
+}
+
+function setup_grid(){
+    var columns = get_columns();
+	grid = new Slick.Grid("#entry", data_view, columns, options);
+    grid.setSelectionModel(new Slick.RowSelectionModel());
+    grid.onAddNewRow.subscribe(add_row);
+    grid.onKeyDown.subscribe(key_down);
+    grid.onKeyUp.subscribe(key_up);
     grid.onCellChange.subscribe(refresh_grid);
+}
+
+function setup_dataview(){
+    data_view = new Slick.Data.DataView();
+    data_view.setFilter(filter);
+    data_view.setItems(data);
+}
+
+function setup_dataview_subscriptions(){
+    data_view.onRowsChanged.subscribe(refresh_grid);
+    data_view.onRowCountChanged.subscribe(refresh_grid);
 }
 
 function add_row(e,args){
     var row = item_to_row(args);
-    data.push(row);
+    data_view.addItem(row);
     refresh_grid();
 }
 
@@ -99,9 +127,16 @@ function cut(){
 
 function clear_selection(){
     var rows = get_selected_rows();
+    data_view.beginUpdate();
     for(var key in rows){
-        var row = rows[key];
-        data[row] = dummy_item();
+        var row_num = rows[key];
+        var item = data_view.getItem(row_num);
+        set_dummy_item(item);
+    }
+    data_view.endUpdate();
+    refresh_grid();
+}
+
     }
     refresh_grid();
 }
@@ -114,14 +149,18 @@ function paste(){
     var pasted_text = clipboard.val();
     var pasted_rows = pasted_text.split("\n");
     var active_row = grid.getActiveCell().row;
+    data_view.beginUpdate();
     for(var i in pasted_rows){
         var pasted_row = pasted_rows[i];
         var pasted_cells = pasted_row.split("\t");
         var overwritten_row = active_row + parseInt(i);
-        var existing_row = data[overwritten_row];
-        var pasted_item = create_item(pasted_cells, existing_row);
-        data[overwritten_row] = pasted_item;
+        var existing_item = data_view.getItem(overwritten_row);
+        var pasted_item = create_item(pasted_cells, existing_item);
+
+        if(existing_item == null) data_view.addItem(pasted_item);
+        else set_item(existing_item, pasted_item);
     }
+    data_view.endUpdate();
     refresh_grid();
 }
 
@@ -139,23 +178,21 @@ function refresh_grid(){
     grid.invalidate();
     grid.render();
     if(reselect_trigger) grid.editActiveCell();
+    data_view.refresh();
 }
 
 function remove_dummies(){
-    var size = data.length;
-    for(i=0; i<size; i++){
-        while(is_dummy(data[i])){
-            data.splice(i,1);
-            size--;
-            var next_loop_out_of_bounds = i>=size;
-            if(next_loop_out_of_bounds) break;
+    var items = data_view.getItems();
+    for(i = 0; i< items.length; i++){
+        var item = items[i];
+        if(is_dummy(item)){
+            data_view.deleteItem(item.id);
         }
     }
-    return reselect_drowned_row(size);
 }
 
 function reselect_drowned_row(size){
-    var cell = grid.getActiveCell();
+    var cell = grid.getActiveCell() || {row:0,cell:0};
     if(cell.row > size){
         grid.setActiveCell(size,0);
         return true;
