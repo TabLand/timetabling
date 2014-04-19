@@ -2,8 +2,10 @@ var data = [{username: "abnd198", name: "Ijtaba Hussain"},
             {username: "root", name: "Linus Torvalds"}];
 
 function get_columns(){
-	return [{id: "username", name: "Username", field: "username" , editor: Slick.Editors.Text, width: "250"},
-            {id: "name", name: "Name", field: "name" , editor: Slick.Editors.Text, width: "250"}];
+	return [{id: "id", name: "ID", field: "id" , editor: Slick.Editors.Number, width: "20"},
+            {id: "username", name: "Username", field: "username" , editor: Slick.Editors.Auto, width: "240"},
+            {id: "name", name: "Name", field: "name" , editor: Slick.Editors.Auto, width: "240"},
+           ];
 }
 
 function item_to_string(item){
@@ -34,4 +36,9 @@ function item_to_row(args){
     var new_username = args.item.username || "";
     var new_name = args.item.name || "";
     return {username: new_username, name: new_name};
+
+function fill_auto_complete(){
+    var items = data_view.getItems();
+    autocomplete_data["username"] = item_field_to_array(items, "username");
+    autocomplete_data["name"] = item_field_to_array(items, "name");
 }
