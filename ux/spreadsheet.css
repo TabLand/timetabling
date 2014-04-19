@@ -44,3 +44,14 @@ textarea#clipboard{
 .ui-state-default .slick-header-column{
     color: #ff0000;
 }
+input.column-filter{
+    border: none;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+    color: blue;
+}
+div..slick-headerrow-column{
+    text-align:center;
+}
