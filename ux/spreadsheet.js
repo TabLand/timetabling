@@ -118,7 +118,7 @@ function key_down(e,args){
     }
     else if(!held["del"] && del_pressed && editor_inactive()){
         held["del"] = true;
-        clear_selection();
+        delete_selection();
     }
     else if(backspace_pressed){
         if(editor_inactive()) grid.editActiveCell();
@@ -179,7 +179,15 @@ function clear_selection(){
     refresh_grid();
 }
 
+function delete_selection(){
+    var rows = get_selected_rows();
+    data_view.beginUpdate();
+    for(var key in rows){
+        var row_num = rows[key];
+        var item = data_view.getItem(row_num);
+        if(typeof item != "undefined") data_view.deleteItem(item.id);
     }
+    data_view.endUpdate();
     refresh_grid();
 }
 
@@ -211,7 +219,7 @@ function delayed_paste(){
 }
 
 function not_defined(thingy){
-    return (typeof thingy === "undefined");
+    return (typeof thingy === "undefined" || thingy == null);
 }
 
 function refresh_grid(){
