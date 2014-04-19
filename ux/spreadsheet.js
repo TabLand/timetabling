@@ -2,6 +2,7 @@ var grid;
 var held = Array;
 var clipboard;
 var data_view;
+var column_filters = {};
 
 function formatter(row, cell, value, columnDef, dataContext) {
     return value;
@@ -27,6 +28,23 @@ function initialise_grid(){
     grid.init();
     setup_dataview_subscriptions();
     populate();
+}
+
+function append_input_fields(e,args){
+    var header_cell = $(args.node);
+    header_cell.empty;
+    var input = $("<input type='text' class='column-filter' placeholder='Search...'>");
+    input.data("columnId", args.column.id);
+    input.val(column_filters[args.column.id])
+    input.appendTo(header_cell);
+}
+
+function capture_filter_entries(e) {
+    var columnId = $(this).data("columnId");
+    if (columnId != null) {
+        column_filters[columnId] = $.trim($(this).val());
+        data_view.refresh();
+    }
 }
 
 function setup_clipboard(){
@@ -57,6 +75,30 @@ function setup_dataview(){
 function setup_dataview_subscriptions(){
     data_view.onRowsChanged.subscribe(refresh_grid);
     data_view.onRowCountChanged.subscribe(refresh_grid);
+}
+
+function filter(item){
+    all_match = true;
+    for(var column_name in column_filters){
+        if(valid_column_name_and_entry(column_name)){
+            var column = get_column_by_name(column_name);
+            var cell_entry = item[column.field];
+            var filter_entry = column_filters[column_name];
+            var match = new RegExp(filter_entry,"i");
+            all_match = all_match && match.test(cell_entry);
+        }
+    }
+    return all_match;
+}
+
+function get_column_by_name(column_name){
+    var columns = grid.getColumns();
+    var index = grid.getColumnIndex(column_name);
+    return columns[index];
+}
+
+function valid_column_name_and_entry(column_name){
+    return column_name !== undefined && column_filters[column_name] !== "";
 }
 
 function add_row(e,args){
