@@ -146,7 +146,7 @@ function get_selection(){
     var selection = "";
     for(var key in rows){
         var row = rows[key];
-        var item = data[row];
+        var item = data_view.getItem(row);
         selection += item_to_string(item);
     }
     return selection;
