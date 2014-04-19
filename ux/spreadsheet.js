@@ -166,3 +166,12 @@ function reselect_drowned_row(size){
 function editor_inactive(){
     return grid.getCellEditor() == null;
 }
+
+function item_field_to_array(items, field){
+    var return_array = [];
+    for(var i in items){
+        var item = items[i];
+        return_array.push(item[field]);
+    }
+    return return_array;
+}
