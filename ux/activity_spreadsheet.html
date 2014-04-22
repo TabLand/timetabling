@@ -18,10 +18,13 @@
 		<script type="text/javascript" src="slickgrid.ext.js"></script>
 		<script type="text/javascript" src="html_helpers.js"></script>
 		<script type="text/javascript" src="spreadsheet.js"></script>
-		<script src="room.js"></script>
+		<script type="text/javascript" src="activity.js"></script>
+        <script type="text/javascript">
+            activity_spreadsheet = new spreadsheet(new activity());
+        </script>
 	</head>
-	<body onload="room_spreadsheet.initialise()">
-		<h1>The Room Enterer</h1>
+	<body onload="staff_spreadsheet.initialise()">
+		<h1>The Activity Enterer</h1>
 		<div id="entry" class="grid"></div>
         <textarea id="clipboard"></textarea>
         <div class="save persistence_button">Save</div>

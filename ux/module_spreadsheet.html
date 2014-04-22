@@ -3,21 +3,28 @@
 		<link href="spreadsheet.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="lib/jquery/css/custom-theme/jquery-ui-1.10.4.custom.css">
 		<link rel="stylesheet" href="lib/SlickGrid/css/slick.grid.css" type="text/css"/>
+
 		<script type="text/javascript" src="lib/jquery/js/jquery-1.10.2.js"></script>
-		<script type="text/javascript" src="spreadsheet.js"></script>
 		<script src="lib/jquery/js/jquery-ui-1.10.4.custom.min.js"></script>
 		<script src="lib/jquery/js/jquery.event.drag-2.2.js"></script>
-		<script src="module.js"></script>
+
 		<script src="lib/SlickGrid/js/slick.core.js"></script>
 		<script src="lib/SlickGrid/js/slick.grid.js"></script>
 		<script src="lib/SlickGrid/js/slick.editors.js"></script>
 		<script src="lib/SlickGrid/js/slick.formatters.js"></script>
-		<script src="lib/SlickGrid/plugins/slick.cellselectionmodel.js"></script>
+        <script src="lib/SlickGrid/js/slick.dataview.js"></script>
         <script src="lib/SlickGrid/plugins/slick.rowselectionmodel.js"></script>
+
+		<script type="text/javascript" src="slickgrid.ext.js"></script>
+		<script type="text/javascript" src="html_helpers.js"></script>
+		<script type="text/javascript" src="spreadsheet.js"></script>
+		<script src="module.js"></script>
 	</head>
-	<body onload="initialise_grid()">
+	<body onload="module_spreadsheet.initialise()">
 		<h1>The Module Enterer</h1>
 		<div id="entry" class="grid"></div>
         <textarea id="clipboard"></textarea>
+        <div class="save persistence_button">Save</div>
+        <div class="discard persistence_button">Discard</div>
 	</body>
 </html>
