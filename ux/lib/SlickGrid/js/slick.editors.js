@@ -520,7 +520,6 @@
         this.init = function () {
             var column_name = args.column.field;
             fill_auto_complete();
-            console.log(args);
             $input = $("<INPUT id='tags' class='editor-text' />");
             $input.appendTo(args.container);
             $input.focus().select();
