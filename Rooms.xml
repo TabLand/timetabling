@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <Rooms>
 	<Room>
 		<Code>A219</Code>
@@ -88,7 +89,7 @@
 		<Capacity>20</Capacity>
 	</Room>
 	<Room>
-		<Code>CS2&3</Code>
+		<Code>CS2&amp;3</Code>
 		<Capacity>25</Capacity>
 	</Room>
 	<Room>
