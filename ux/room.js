@@ -5,9 +5,9 @@ function room(){
 };
 
 room.prototype.get_columns = function(){
-	return [{id: "id", name: "Id", field: "id" , editor: Slick.Editors.Number, width: "20"},
-            {id: "room", name: "Room", field: "room" , editor: Slick.Editors.Text, width: "240"},
-    		{id: "capacity", name: "Capacity", field: "capacity", editor: Slick.Editors.Integer , width: "240"}];
+	return [{id: "id", name: "Id", field: "id" , editor: Slick.Editors.Number},
+            {id: "room", name: "Room", field: "room" , editor: Slick.Editors.Text},
+    		{id: "capacity", name: "Capacity", field: "capacity", editor: Slick.Editors.Integer}];
 }
 
 room.prototype.item_to_string = function(item){
@@ -89,4 +89,4 @@ room.prototype.get_xml_from_grid = function(){
     return xml_out;
 }
 
-room_spreadsheet = new spreadsheet(room);
+room_spreadsheet = new spreadsheet(new room());

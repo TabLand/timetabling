@@ -7,9 +7,9 @@ function person(writer_path,reader_path){
 };
 
 person.prototype.get_columns = function(){
-	return [{id: "id", name: "Id", field: "id" , editor: Slick.Editors.Number, width: "20"},
-            {id: "username", name: "Username", field: "username" , editor: Slick.Editors.Text, width: "240"},
-            {id: "name", name: "Name", field: "name" , editor: Slick.Editors.Text, width: "240"},
+	return [{id: "id", name: "Id", field: "id" , editor: Slick.Editors.Number},
+            {id: "username", name: "Username", field: "username" , editor: Slick.Editors.Text},
+            {id: "name", name: "Name", field: "name" , editor: Slick.Editors.Text},
            ];
 }
 
@@ -90,11 +90,4 @@ person.prototype.get_xml_from_grid = function(){
     }
     xml_out += "\n</People>"
     return xml_out;
-}
-
-//move to activity
-person.prototype.fill_auto_complete = function(){
-    var items = data_view.getItems();
-    autocomplete_data["username"] = item_field_to_array(items, "username");
-    autocomplete_data["name"] = item_field_to_array(items, "name");
 }

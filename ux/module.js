@@ -5,9 +5,9 @@ function module(){
 }
 
 module.prototype.get_columns = function(){
-	return [{id: "id", name: "Id", field: "id" , editor: Slick.Editors.Number, width: "20"},
-            {id: "code", name: "Module Code", field: "code" , editor: Slick.Editors.Text, width: "240"},
-            {id: "name", name: "Module Name", field: "name" , editor: Slick.Editors.Text, width: "240"}];
+	return [{id: "id", name: "Id", field: "id" , editor: Slick.Editors.Number},
+            {id: "code", name: "Module Code", field: "code" , editor: Slick.Editors.Text},
+            {id: "name", name: "Module Name", field: "name" , editor: Slick.Editors.Text}];
 }
 
 module.prototype.item_to_string = function(item){
@@ -61,8 +61,8 @@ module.prototype.get_process_xml_function_ref = function(module_ref){
             module_node = module_list[i];
             var module_name = html_helpers.get_xml_node_data(module_node.children[0]);
             var module_code = html_helpers.get_xml_node_data(module_node.children[1]);
-            var module = [module_code, module_name];
-            var module_item = module_ref.create_item(module,null);
+            var my_module = [module_code, module_name];
+            var module_item = module_ref.create_item(my_module,null);
             module_ref._data_view.addItem(module_item);
         }
         module_ref._data_view.endUpdate();
@@ -89,4 +89,4 @@ module.prototype.get_xml_from_grid = function(){
     return xml_out;
 }
 
-module_spreadsheet = new spreadsheet(module);
+module_spreadsheet = new spreadsheet(new module());
