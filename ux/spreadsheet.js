@@ -2,10 +2,11 @@ function spreadsheet(resource){
     this._grid = null;
     this._data_view = null;
     this._resource = resource;
+    this._changes = Array();
+    this._old_resource = null;
     this.held = Array;
     this.clipboard;
     this.column_filters = {};
-    this.save_changes_warning = false;
 };
 
 spreadsheet.prototype.options = {
@@ -24,7 +25,7 @@ spreadsheet.prototype.initialise = function(){
     this.setup_grid();
     this.setup_clipboard();
     $(this._grid.getHeaderRow()).delegate(":input", "change keyup"
-                                , html_helpers.get_filter_capture_function(this));
+                                            , html_helpers.get_filter_capture_function(this));
     this._grid.onHeaderRowCellRendered.subscribe(slickgrid.append_input_fields);
     this._grid.init();
     this.setup_dataview_subscriptions();
@@ -39,6 +40,7 @@ spreadsheet.prototype.setup_dataview = function(){
     this._data_view.setItems(this._resource.data);
     this._data_view._spreadsheet = this;
     this._data_view.refresh_grid = DataView.refresh_grid;
+    this._data_view.activate_cell_by_id = DataView.activate_cell_by_id;
     this._resource._data_view = this._data_view;
 }
 
@@ -52,6 +54,7 @@ spreadsheet.prototype.setup_grid = function(){
     this._grid.onAddNewRow.subscribe(slickgrid.add_row);
     this._grid.onKeyDown.subscribe(html_helpers.key_down(this));
     this._grid.onKeyUp.subscribe(html_helpers.key_up(this));
+    this._grid.onBeforeEditCell.subscribe(slickgrid.before_cell_edited);
     this._grid.onCellChange.subscribe(slickgrid.cell_changed);
 }
 
@@ -101,11 +104,34 @@ spreadsheet.prototype.delete_selection = function(){
     for(var key in rows){
         var row_num = rows[key];
         var item = this._data_view.getItem(row_num);
-        if(typeof item != "undefined") this._data_view.deleteItem(item.id);
+        if(typeof item != "undefined") this.deletion(item);
     }
     this._data_view.endUpdate();
     this._data_view.refresh_grid();
     this.save_changes_warning = true;
+}
+
+spreadsheet.prototype.deletion = function(resource){
+    this._data_view.deleteItem(resource.id);
+    this._changes.push({"type":"deletion", "resource":resource});
+}
+
+spreadsheet.prototype.addition = function(resource){
+    this._changes.push({"type":"addition", "resource":resource});
+}
+
+spreadsheet.prototype.edition = function(old_resource, new_resource){
+    if(!this._resource.equals(old_resource, new_resource)){
+        this._changes.push({"type":"edition", "old":old_resource, "new":new_resource});
+    }
+}
+
+spreadsheet.prototype.find_resource = function(resources, item){
+    // a binary search would be lovely, but not natively implemented for objects
+    for(i = 0; i < resources.length; i++){
+        if(this._resource.equals(resources[i],item)) return i;
+    }
+    return -1;
 }
 
 spreadsheet.prototype.get_selected_rows = function(){
@@ -121,7 +147,7 @@ spreadsheet.prototype.remove_dummies = function(){
     for(i = 0; i< items.length; i++){
         var item = items[i];
         if(this._resource.is_dummy(item)){
-            this._data_view.deleteItem(item.id);
+            this.deletion(item);
         }
     }
 }
@@ -159,21 +185,6 @@ spreadsheet.prototype.empty_data_view = function(){
     this._data_view.setItems([]);
 }
 
-spreadsheet.prototype.clean_xml = function(xml){
-        xml = xml.replace(/&/g,"&amp;");
-        xml = xml.replace(/,/g,"&#44;");
-        return xml;
-}
-
-spreadsheet.prototype.validate_xml = function(xml){
-    var success = true;
-    try{
-        $.parseXML(xml);
-    }
-    catch (error_string){
-        alert("Invalid Input Entered!! See console log for details!");
-        console.log(error_string);
-        success = false;
-    }
-    return success;
+spreadsheet.prototype.get_stringified_changes = function(){
+    return JSON.stringify(this._changes);
 }
