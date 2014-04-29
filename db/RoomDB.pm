@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 package RoomDB;
 use DB_lib;
+use strict;
+use warnings;
 
 sub get_function_ref_hash_ref{
     my $function_ref = {"add" => \&add,

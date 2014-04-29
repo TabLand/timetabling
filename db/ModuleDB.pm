@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 package ModuleDB;
+use strict;
+use warnings;
 
 sub get_function_ref_hash_ref{
     my $function_ref = {"add" => \&add,
