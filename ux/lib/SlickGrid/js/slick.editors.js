@@ -16,7 +16,7 @@
         "Checkbox": CheckboxEditor,
         "PercentComplete": PercentCompleteEditor,
         "LongText": LongTextEditor,
-        "Auto": AutoCompleteEditor,
+        "AutoSetup": AutoCompleteEditorSetup,
       }
     }
   });
@@ -511,76 +511,78 @@
     this.init();
   }
 //http://stackoverflow.com/questions/11941311/how-to-implement-jquery-autocomplete-in-slickgrid-cell-editor
-    function AutoCompleteEditor(args) {
-        var $input;
-        var defaultValue;
-        var scope = this;
-        var calendarOpen = false;
+//Implemented closure to have better control on list of items..
+    function AutoCompleteEditorSetup(value_list){
+        return function AutoCompleteEditor(args) {
+            var $input;
+            var defaultValue;
+            var scope = this;
+            var calendarOpen = false;
 
-        this.init = function () {
-            var column_name = args.column.field;
-            fill_auto_complete();
-            $input = $("<INPUT id='tags' class='editor-text' />");
-            $input.appendTo(args.container);
-            $input.focus().select();
-            $input.autocomplete({
-                source: function(request, response) {
-                    var results = $.ui.autocomplete.filter(autocomplete_data[column_name], request.term);
-                    response(results.slice(0, 10));
-                }
-            });
-            $input.bind("keydown.nav", function(e) {
-                var down_pressed = e.keyCode == $.ui.keyCode.DOWN;
-                var up_pressed = e.keyCode == $.ui.keyCode.UP;
-                var enter_pressed = e.keyCode == $.ui.keyCode.ENTER;
-                var auto_complete_visible = $('ul.ui-autocomplete').is(':visible');
-
-                if ((down_pressed || up_pressed || enter_pressed) && auto_complete_visible){
-                    e.stopPropagation();
-                }
-                var left_pressed = e.keyCode == $.ui.keyCode.LEFT;
-                var right_pressed = e.keyCode == $.ui.keyCode.RIGHT;
-            
-                if (left_pressed || right_pressed){
-                    e.stopImmediatePropagation();
-                }
-            });
-        };
-
-        this.destroy = function () {
-            $input.autocomplete("destroy");
-        };
-
-        this.focus = function () {
-            $input.focus();
-        };
-
-         this.loadValue = function (item) {
-            defaultValue = item[args.column.field];
-            $input.val(defaultValue);
-            $input[0].defaultValue = defaultValue;
-            $input.select();
-         };
-
-         this.serializeValue = function () {
-            return $input.val();
-         };
-
-         this.applyValue = function (item, state) {
-            item[args.column.field] = state;
-         };
-
-         this.isValueChanged = function () {
-            return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue);
-         };
-
-         this.validate = function () {
-            return {
-                valid: true,
-                msg: null
+            this.init = function () {
+                var column_name = args.column.field;
+                $input = $("<INPUT id='tags' class='editor-text' />");
+                $input.appendTo(args.container);
+                $input.focus().select();
+                $input.autocomplete({
+                    source: function(request, response) {
+                        var results = $.ui.autocomplete.filter(value_list, request.term);
+                        response(results.slice(0, 10));
+                    }
+                });
+                $input.bind("keydown.nav", function(e) {
+                    var down_pressed = e.keyCode == $.ui.keyCode.DOWN;
+                    var up_pressed = e.keyCode == $.ui.keyCode.UP;
+                    var enter_pressed = e.keyCode == $.ui.keyCode.ENTER;
+                    var auto_complete_visible = $('ul.ui-autocomplete').is(':visible');
+    
+                    if ((down_pressed || up_pressed || enter_pressed) && auto_complete_visible){
+                        e.stopPropagation();
+                    }
+                    var left_pressed = e.keyCode == $.ui.keyCode.LEFT;
+                    var right_pressed = e.keyCode == $.ui.keyCode.RIGHT;
+                
+                    if (left_pressed || right_pressed){
+                        e.stopImmediatePropagation();
+                    }
+                });
             };
-         };
 
-         this.init();
-   }
+            this.destroy = function () {
+                $input.autocomplete("destroy");
+            };
+    
+            this.focus = function () {
+                $input.focus();
+            };
+    
+             this.loadValue = function (item) {
+                defaultValue = item[args.column.field];
+                $input.val(defaultValue);
+                $input[0].defaultValue = defaultValue;
+                $input.select();
+             };
+    
+             this.serializeValue = function () {
+                return $input.val();
+             };
+    
+             this.applyValue = function (item, state) {
+                item[args.column.field] = state;
+             };
+    
+             this.isValueChanged = function () {
+                return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue);
+             };
+    
+             this.validate = function () {
+                return {
+                    valid: true,
+                    msg: null
+                };
+             };
+    
+             this.init();
+       };
+    }
 })(jQuery);
