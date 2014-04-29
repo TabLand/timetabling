@@ -2,12 +2,39 @@
 package ActivityDB;
 use DB_lib;
 use ModuleDB;
+use strict;
+use warnings;
 
 sub get_function_ref_hash_ref{
     my $function_ref = {"add" => \&add,
                         "edit" => \&edit,
                         "delete" => \&del};
     return $function_ref;
+}
+
+sub get_id{
+    my ($unsafe_activity, $dbh) = @_;
+    my $safe_activity = validate_activity($unsafe_activity);
+    my $sql           = 'SELECT ActivityID FROM Activity WHERE ModuleCode=? AND Type=? AND ActivityGroup=? '
+                          . ' AND Duration=?';
+    my $sth           = $dbh->prepare($sql);
+
+    $sth->execute($safe_activity->{"code"}, $safe_activity->{"type"}, $safe_activity->{"group"})
+                    or DB_lib::fail($dbh, "Activity Get ID");
+    my $row_count = 0;
+    my $activity_id;
+
+    while (my @row = $sth->fetchrow_array) {
+        $row_count += 1;
+        $activity_id = $row[0];
+    }
+
+    my $too_many_or_too_little_rows_returned = ($row_count != 1);
+
+    if($too_many_or_too_little_rows_returned){
+        die "Activity not found, or duplicates snuck in?? Row count $row_count";
+    } else return $activity_id;
+    
 }
 
 sub add{
