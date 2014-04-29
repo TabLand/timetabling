@@ -9,20 +9,15 @@ CREATE TABLE Room (
 ) ENGINE = INNODB;
 
 CREATE TABLE Module (
-	ModuleCode          VARCHAR(20),
-	ModuleName          VARCHAR(100),
-	PRIMARY KEY(ModuleCode)
+	Code          VARCHAR(20),
+	Name          VARCHAR(100),
+	PRIMARY KEY(Code)
 ) ENGINE = INNODB;
 
-CREATE TABLE Staff (
+CREATE TABLE Person (
 	Username            VARCHAR(20) NOT NULL,
 	Name                VARCHAR(50),
-	PRIMARY KEY (Username)
-) ENGINE = INNODB;
-
-CREATE TABLE Student (
-	Username            VARCHAR(20) NOT NULL,
-	Name                VARCHAR(50),
+    Type                ENUM("Student","Staff"),
 	PRIMARY KEY (Username)
 ) ENGINE = INNODB;
 
@@ -31,26 +26,17 @@ CREATE TABLE Activity (
     ModuleCode          VARCHAR(20),
     ActivityType        VARCHAR(20),
     ActivityGroup       VARCHAR(20),
-    DurationHours       INT,
-    DurationMinutes     INT,
+    Duration            VARCHAR(5),
     UNIQUE INDEX (ModuleCode, ActivityType, ActivityGroup),
-    FOREIGN KEY (ModuleCode) REFERENCES Module(ModuleCode) ON UPDATE NO ACTION ON DELETE CASCADE,
+    FOREIGN KEY (ModuleCode) REFERENCES Module(Code) ON UPDATE CASCADE ON DELETE CASCADE,
     PRIMARY KEY (ActivityID)
 ) ENGINE = INNODB;
 
-CREATE TABLE ActivityStaff(
+CREATE TABLE ActivityPerson(
     ActivityID          INT NOT NULL,
     Username            VARCHAR(20) NOT NULL,
-    FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE NO ACTION ON DELETE CASCADE,
-    FOREIGN KEY (Username) REFERENCES Staff(Username) ON UPDATE NO ACTION ON DELETE CASCADE,
-    PRIMARY KEY (ActivityID, Username)
-) ENGINE = INNODB;
-
-CREATE TABLE ActivityStudents(
-    ActivityID          INT NOT NULL,
-    Username            VARCHAR(20) NOT NULL,
-    FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE NO ACTION ON DELETE CASCADE,
-    FOREIGN KEY (Username) REFERENCES Student(Username) ON UPDATE NO ACTION ON DELETE CASCADE,
+    FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (Username) REFERENCES Person(Username) ON UPDATE CASCADE ON DELETE CASCADE,
     PRIMARY KEY (ActivityID, Username)
 ) ENGINE = INNODB;
 
@@ -66,6 +52,8 @@ CREATE TABLE TimetableHistory(
     StartHour           INT,
     StartMinute         INT,
     Day                 INT,
-    FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE NO ACTION ON DELETE CASCADE,
+    RoomCode            VARCHAR(20),
+    FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (RoomCode) REFERENCES Room(Code) ON UPDATE CASCADE ON DELETE CASCADE,
     PRIMARY KEY (RevisionID, ActivityID)
 )
