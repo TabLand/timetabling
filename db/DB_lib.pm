@@ -11,13 +11,15 @@ sub connect{
     return $dbh;
 }
 
-sub haha{
-    return "haha";
-}
-
 sub disconnect{
     my $dbh = shift;
     $dbh->disconnect();
+}
+
+sub fail{
+    my ($dbh, $action) = @_;
+    print "Failure! during $action";
+    die "SQL Error during $action: " . $dbh->errstr . "\n\n"
 }
 
 1;
