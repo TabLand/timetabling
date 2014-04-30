@@ -15,8 +15,7 @@ sub get_function_ref_hash_ref{
 sub get_id{
     my ($unsafe_activity, $dbh) = @_;
     my $safe_activity = validate_activity($unsafe_activity);
-    my $sql           = 'SELECT ActivityID FROM Activity WHERE ModuleCode=? AND Type=? AND ActivityGroup=? '
-                          . ' AND Duration=?';
+    my $sql           = 'SELECT ActivityID FROM Activity WHERE ModuleCode=? AND Type=? AND ActivityGroup=?';
     my $sth           = $dbh->prepare($sql);
 
     $sth->execute($safe_activity->{"code"}, $safe_activity->{"type"}, $safe_activity->{"group"})
@@ -33,8 +32,10 @@ sub get_id{
 
     if($too_many_or_too_little_rows_returned){
         die "Activity not found, or duplicates snuck in?? Row count $row_count";
-    } else return $activity_id;
-    
+    }
+    else{
+        return $activity_id;
+    }    
 }
 
 sub add{
@@ -86,7 +87,9 @@ sub del{
 sub select_all{
     my ($dbh) = shift;
 
-    my $sql = 'SELECT ModuleCode, Type, ActivityGroup, Duration FROM Activity';
+    my $sql = 'SELECT Module.Code, Module.Name' 
+            . ', Activity.Type, Activity.ActivityGroup, Activity.Duration'
+            . ' FROM Activity, Module WHERE Activity.ModuleCode = Module.Code';
     my $sth = $dbh->prepare($sql);
     $sth->execute()
                     or DB_lib::fail($dbh, "Activity Select All");
@@ -112,7 +115,11 @@ sub validate_activity{
 
 sub validate_code{
     my $unsafe_code = shift;
-    return ModuleDB::validate_code($unsafe_code);
+    my @code        = split('-', $unsafe_code);
+    if(@code != 2){
+        die "Malformed Module code string $unsafe_code sent";
+    }
+    return ModuleDB::validate_code($code[0]);
 }
 
 sub validate_text{

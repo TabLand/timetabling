@@ -26,7 +26,7 @@ person_activity.prototype.get_populate_person_usernames_function_ref = function(
         var people = data;
         for(i=0; i<people.length; i++){
             var person = people[i];
-            activity_ref._people.push(person.username);
+            activity_ref._people.push(person.username + "-" + person.name);
         }
     }    
 }
@@ -36,7 +36,7 @@ person_activity.prototype.get_populate_activity_tuples_function_ref = function(a
         var activities = data;
         for(i=0; i<activities.length; i++){
             var activity = activities[i];
-            activity_ref._activities.push(activity.code + "-" + activity.type + "-" + activity.group);
+            activity_ref._activities.push(activity.code + "-" + activity.name + "-" + activity.type + "-" + activity.group);
         }
     }    
 }
@@ -98,8 +98,8 @@ person_activity.prototype.clone = function(person_activity){
     }
     else{
         cloned_person_activity.id       = person_activity.id       || 0;
-        cloned_person_activity.person   = person_activity.person   || "";
-        cloned_person_activity.activity = person_activity.activity || "";
+        cloned_person_activity.person   = person_activity.person;
+        cloned_person_activity.activity = person_activity.activity;
         return cloned_person_activity;
     }
 }
@@ -139,14 +139,14 @@ person_activity.prototype.is_dummy = function(item){
 
 person_activity.prototype.item_to_row = function(args){
     var new_id       = args.item.id       || this._spreadsheet.get_next_id();
-    var new_activity = args.item.activity || "";
-    var new_person   = args.item.person   || "";
+    var new_activity = args.item.activity;
+    var new_person   = args.item.person;
     return {id: new_id, activity: new_activity, person: new_person,};
 }
 
 person_activity.prototype.populate = function(){
     this._spreadsheet.empty_data_view();
-    $.get("../db/PersonActivityList.pl", this.get_process_input_function_ref(this));
+    $.get("../db/ActivityPersonList.pl", this.get_process_input_function_ref(this));
 }
 
 person_activity.prototype.get_process_input_function_ref = function(person_activity_ref){
@@ -154,10 +154,13 @@ person_activity.prototype.get_process_input_function_ref = function(person_activ
         person_activity_list = data;
         person_activity_ref._data_view.beginUpdate();
 
-        for(i = 0; i < activity_list.length; i++){
-            var person_activity      = activity_list[i];
-            var person_activity_item = create_item(person_activity, null);
-            this._data.view.addItem(person_activity_item);
+        for(i = 0; i < person_activity_list.length; i++){
+            var p_a = person_activity_list[i];
+            var activity = p_a.code + "-" + p_a.module_name + "-" + p_a.type + "-" + p_a.group;
+            var person   = p_a.username + "-" + p_a.person_name;
+            var person_activity = [activity,person];
+            var person_activity_item = person_activity_ref.create_item(person_activity, null);
+            person_activity_ref._data_view.addItem(person_activity_item);
         }
 
         person_activity_ref._data_view.endUpdate();
@@ -166,7 +169,7 @@ person_activity.prototype.get_process_input_function_ref = function(person_activ
 }
 
 person_activity.prototype.save_all = function(json){
-    $.post( "../db/PersonActivityUpdater.pl",{"changes": json});
+    $.post( "../db/ActivityPersonUpdater.pl",{"changes": json});
 }
 
 

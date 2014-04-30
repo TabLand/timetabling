@@ -6,7 +6,7 @@ function activity(){
 }
 
 activity.prototype.get_columns = function(){
-	return [{id: "code"    , name: "Module Code"  , field: "code"     , editor: this.get_module_acomplete_editor()},
+	return [{id: "code"    , name: "Module"       , field: "code"     , editor: this.get_module_acomplete_editor()},
             {id: "type"    , name: "Activity Type", field: "type"     , editor: Slick.Editors.Text},
             {id: "group"   , name: "Group Name"   , field: "group"    , editor: Slick.Editors.Text},
             {id: "duration", name: "Duration"     , field: "duration" , editor: Slick.Editors.Text},];
@@ -22,22 +22,21 @@ activity.prototype.get_populate_module_codes_function_ref = function(activity_re
         var module_list = data;
         for(i=0; i<module_list.length; i++){
             var module = module_list[i];
-            activity_ref._module_codes.push(module.code);
+            activity_ref._module_codes.push(module.code+"-"+module.name);
         }
     }    
 }
 
 activity.prototype.check_duplicate_primary_keys = function(){
-    var activities             = this._data_view.getItems();
-    var valid                  = true;
-    var activity_tuple_strings = Array();
+    var activities      = this._data_view.getItems();
+    var activity_tuples = Array();
 
     for(i=0; i<activities.length; i++){
         var activity = activities[i];
-        activity_tuple_strings.push(activity.code + "-" + activity.type + "-" + activity.group);
+        activity_tuples.push(activity.code + "-" + activity.type + "-" + activity.group);
     }
 
-    duplicates = html_helpers.check_duplicates(activity_tuple_strings);
+    duplicates = html_helpers.check_duplicates(activity_tuples);
     
     if(duplicates.exist){
         alert("Invalid Activity Tuple \""+ duplicates.culprit +"\"! Activity Tuples (ModuleCode+Type+Group) must be unique!");
@@ -124,10 +123,10 @@ activity.prototype.create_item = function(item, existing_item){
     if(this._spreadsheet.not_defined(existing_item)) existing_item = this.dummy_item();
 
     var id       = this._spreadsheet.get_next_id();
-    var code     = item.code     || existing_item.code;
-    var type     = item.type     || existing_item.type;
-    var group    = item.group    || existing_item.group;
-    var duration = item.duration || existing_item.duration;
+    var code     = item[0] || existing_item.code;
+    var type     = item[1] || existing_item.type;
+    var group    = item[2] || existing_item.group;
+    var duration = item[3] || existing_item.duration;
 
     return {"id": id, "code": code, "type": type, "group": group, "duration": duration};
 }
@@ -175,8 +174,10 @@ activity.prototype.get_process_input_function_ref = function(activity_ref){
         activity_ref._data_view.beginUpdate();
 
         for(i = 0; i < activity_list.length; i++){
-            var my_activity    = activity_list[i];
-            var activity_item  = activity_ref.create_item(my_activity,null);
+            var my_activity   = activity_list[i];
+            var activity_arr  = [my_activity.code + "-" + my_activity.name,
+                                 my_activity.type, my_activity.group, my_activity.duration];
+            var activity_item = activity_ref.create_item(activity_arr,null);
             activity_ref._data_view.addItem(activity_item);
         }
 

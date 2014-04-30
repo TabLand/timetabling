@@ -4,7 +4,8 @@ function spreadsheet(resource){
     this._resource = resource;
     this._changes = Array();
     this._old_resource = null;
-    this.held = Array;
+    this.held = Array();
+    this.held["ctrl"] = false;
     this.clipboard;
     this.column_filters = {};
 };
@@ -121,9 +122,21 @@ spreadsheet.prototype.addition = function(resource){
 }
 
 spreadsheet.prototype.edition = function(old_resource, new_resource){
-    if(!this._resource.equals(old_resource, new_resource)){
+    var last_change                 = this._changes[this._changes.length-1];
+    var last_change_was_an_addition = last_change.type        == "addition";
+    var same_id                     = last_change.resource.id == new_resource.id;
+
+    if(last_change_was_an_addition && same_id){
+        this.ammend_addition(new_resource);
+    }
+    else if(!this._resource.equals(old_resource, new_resource)){
         this._changes.push({"type":"edition", "old":old_resource, "new":new_resource});
     }
+}
+
+spreadsheet.prototype.ammend_addition = function(new_resource){
+    this._changes.pop();
+    this.addition(new_resource);
 }
 
 spreadsheet.prototype.find_resource = function(resources, item){

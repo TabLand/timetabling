@@ -84,7 +84,7 @@ room.prototype.equals = function(first, second){
 room.prototype.create_item = function(item, existing_item){
     if(this._spreadsheet.not_defined(existing_item)) existing_item = this.dummy_item();
     var id = this._spreadsheet.get_next_id();
-    var code = item[0] || existing_item.code;
+    var code     = item[0] || existing_item.code;
     var capacity = item[1] || existing_item.capacity;
     return {"id":id, "code": code, "capacity": capacity};
 }
