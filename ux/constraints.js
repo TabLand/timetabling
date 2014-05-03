@@ -36,7 +36,6 @@ function get_process_input(constraints_list){
         var constraint = constraints_list[i];
         var slider_id  = constraint.type;
         var penalty    = constraint.penalty;
-        console.log(constraint);
         $("#" + slider_id).slider("value",penalty);
         update_indicator(slider_id, penalty);
     }
