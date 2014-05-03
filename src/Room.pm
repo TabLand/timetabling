@@ -10,37 +10,36 @@ sub new{
 	my $self = {
 		_code => $code,
 		_capacity => $capacity,
-		_schedule => new Schedule()
 	};
 	bless $self, $class;
 	return $self;
 }
+
 sub get_code{
 	my $self = shift;
 	return $self->{_code};
 }
+
 sub get_capacity{
 	my $self = shift;
 	return $self->{_capacity};
 }
-sub set_capacity{
-	my ($self, $capacity) = @_;
-	$self->{_capacity} = $capacity;
-}
+
 sub equals{
 	my ($first, $second) = @_;
 	my $same_code = $first->get_code() eq $second->get_code();
-	my $same_capacity = $first->get_capacity() == $second->get_capacity();
-	return $same_code && $same_capacity;
+	return $same_code;
 }
+
 sub get_schedule{
-	my $self = shift;
-	return $self->{_schedule};
+	#TODO IMPLEMENT IT!
 }
+
 sub to_string{
 	my $self = shift;
 	my $code = $self->get_code();
 	my $capacity = $self->get_capacity();
 	return "Room($code,Capacity:$capacity)";
 }
+
 1;

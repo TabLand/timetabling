@@ -10,7 +10,6 @@ sub new{
 	my $self = {
 		_code => $code,
 		_name => $name,
-		_schedule => new Schedule()
 	};
 	bless $self, $class;
 	return $self;
@@ -26,12 +25,10 @@ sub get_name{
 sub equals{
 	my ($first, $second) = @_;
 	my $same_code = $first->get_code() eq $second->get_code();
-	my $same_name = $first->get_name() eq $second->get_name();
-	return $same_code && $same_name;
+	return $same_code;
 }
 sub get_schedule{
-	my $self = shift;
-	return $self->{_schedule};
+    #TODO IMPLEMENT IT!
 }
 sub to_string{
 	my $self = shift;
