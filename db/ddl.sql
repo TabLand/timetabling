@@ -26,7 +26,7 @@ CREATE TABLE Activity (
     ModuleCode          VARCHAR(20),
     ActivityType        VARCHAR(20),
     ActivityGroup       VARCHAR(20),
-    Duration            VARCHAR(5),
+    Duration            DECIMAL(4,2),
     UNIQUE INDEX (ModuleCode, ActivityType, ActivityGroup),
     FOREIGN KEY (ModuleCode) REFERENCES Module(Code) ON UPDATE CASCADE ON DELETE CASCADE,
     PRIMARY KEY (ActivityID)
@@ -49,8 +49,7 @@ CREATE TABLE Constraints(
 CREATE TABLE TimetableHistory(
     RevisionID          INT NOT NULL AUTO_INCREMENT,
     ActivityID          INT,
-    StartHour           INT,
-    StartMinute         INT,
+    Start               DECIMAL(4,2),
     Day                 INT,
     RoomCode            VARCHAR(20),
     FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE CASCADE ON DELETE CASCADE,
