@@ -1,57 +1,67 @@
 #!/usr/bin/perl
 package Schedule;
 use Activity;
-use SimpleTimeslot;
 use strict;
 use warnings;
 use overload    "\"\"" => \&to_string;
 sub new{
-	my $class = shift;
-	my $self = {_activities=>{}};
+	my ($class, $resource_type, $resource_id, $revision_id) = @_;
+	my $self = {_activities    => (),
+                _resource_type => $resource_type,
+                _resource_id   => $resource_id,
+                _revision_id   => $revision_id, };
 	bless $self, $class;
 	return $self;
 }
 sub add_activity{
 	my ($self, $activity) = @_;
-	$self->{_activities}{$activity->identifier()} = $activity;
+	push $self->{_activities}, $activity;
 }
+
+sub get_resource_type{
+    my $self = shift;
+    return $self->{_resource_type};
+}
+
+sub get_resource_id{
+    my $self = shift;
+    return $self->{_resource_id};
+}
+
+sub get_revision_id{
+    my $self = shift;
+    return $self->{_revision_id};
+}
+
 sub get_activity_ids{
 	my $self = shift;
-	my @ids = keys $self->{_activities};
-	return join "," , @ids;
+	my @activities = $self->get_activities();
+    my @ids;
+    
+    for my $activity (@activities){
+        push @ids, $activity->get_id();
+    }
+    
+    return @ids;
 }
+
+sub get_activities{
+	my $self = shift;
+	my @activities = $self->{_activities};
+	return @activities;
+}
+
 sub get_activity_numbers{
 	my $self = shift;
-	my @numbers = keys $self->{_activities};
-	return @numbers;
+	return $self->{_activities};
 }
-sub remove_activity{
-	my ($self, $activity) = @_;
-	delete $self->{_activities}{$activity->identifier()};
-}
-sub exists_activity{
-	my ($self, $activity) = @_;
-	return exists $self->{_activities}{$activity->identifier()};
-}
+
 sub get_clashes{
 	my $self = shift;
-	my @activities = $self->get_sorted_activities();
- 	my $clash_holder = new Schedule();
-	if(@activities >=2){
-		for(my $i=0; $i<@activities-1; $i++){
-			my $before = $activities[$i];
-			my $after = $activities[$i+1];
-			my $clashes = $before->check_clash($after);
-			my $doesnt_exist_prior = !$clash_holder->exists_activity($before);
-			if($clashes && $doesnt_exist_prior){
-				$clash_holder->add_activity($before);
-				$clash_holder->add_activity($after);
-			}
-			elsif($clashes){
-				$clash_holder->add_activity($after);
-			}
-		}
-	}
+	my @activity_ids = $self->get_activity_ids();
+
+    my $clash_holder = new Schedule($self->get_resource_type() ." Clash", $self->get_resource_id());
+
 	return $clash_holder;
 }
 sub get_between{
@@ -74,11 +84,7 @@ sub get_sorted_activities{
 	my @sorted = sort $self->get_activities();
 	return @sorted;
 }
-sub get_activities{
-	my $self = shift;
-	my @activities = values $self->{_activities};
-	return @activities;
-}
+
 sub to_string{
 	my $self = shift;
 	my @activities = $self->get_sorted_activities();
