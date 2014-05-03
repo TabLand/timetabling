@@ -131,9 +131,13 @@ sub validate_text{
 
 sub validate_duration{
     my $unsafe_duration = shift;
-    $unsafe_duration =~ /[0-2]?[0-9]\:[0-9][0-9]/;
+    $unsafe_duration =~ s/[^0-9\.]//g;
+
+    if($unsafe_duration <0 || $unsafe_duration >=24){
+        die "Received unsafe duration: $unsafe_duration";
+    }
     my $safe_duration = $unsafe_duration;
-    return $safe_duration;
+    return  $safe_duration;
 }
 
 1;

@@ -76,15 +76,14 @@ activity.prototype.validate_module_code = function(code){
 }
 
 activity.prototype.validate_duration = function(duration){
-    var duration_array = duration.split(":");
-    if(duration_array.length != 2){
-        alert("invalid duration entered, format is HH:MM!!");
+    var duration_in_range = duration >= 0 && duration < 24;
+    var duration_is_a_number = typeof parseFloat(duration) == "number";
+    if(!duration_is_a_number){
+        alert("invalid duration entered, please enter a decimal number");
         return false;
     }
-    var hours = parseInt(duration_array[0]);
-    var minutes = parseInt(duration_array[1]);
-    if(isNaN(hours) || isNaN(minutes)){
-        alert("invalid duration entered, format is HH:MM!!");
+    else if(!duration_in_range){
+        alert("invalid duration entered, enter a decimal between 0 and 24");
         return false;
     }
     else return true;
@@ -105,7 +104,7 @@ activity.prototype.clone = function(activity){
         cloned_activity.code     = activity.code     || "";
         cloned_activity.group    = activity.group    || "";
         cloned_activity.type     = activity.type     || "";
-        cloned_activity.duration = activity.duration || "02:00";
+        cloned_activity.duration = activity.duration || 2.0;
         return cloned_activity;
     }
 }
@@ -132,7 +131,7 @@ activity.prototype.create_item = function(item, existing_item){
 }
 
 activity.prototype.dummy_item = function(){
-    return {id: 0, code: "", type: "", group: "", duration: "02:00"};
+    return {id: 0, code: "", type: "", group: "", duration: 2.0};
 }
 
 activity.prototype.set_item = function(item, new_item){
@@ -158,7 +157,7 @@ activity.prototype.item_to_row = function(args){
     var new_code     = args.item.code     || "";
     var new_type     = args.item.type     || "";
     var new_group    = args.item.group    || "";
-    var new_duration = args.item.duration || "";
+    var new_duration = args.item.duration || 2.0;
 
     return {id: new_id, code: new_code, type: new_type, group: new_group, duration: new_duration};
 }
