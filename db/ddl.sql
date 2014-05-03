@@ -36,7 +36,7 @@ CREATE TABLE ActivityPerson(
     ActivityID          INT NOT NULL,
     Username            VARCHAR(20) NOT NULL,
     FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE CASCADE ON DELETE CASCADE,
-    FOREIGN KEY (Username) REFERENCES Person(Username) ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (Username)   REFERENCES Person(Username)     ON UPDATE CASCADE ON DELETE CASCADE,
     PRIMARY KEY (ActivityID, Username)
 ) ENGINE = INNODB;
 
@@ -53,6 +53,6 @@ CREATE TABLE TimetableHistory(
     Day                 INT,
     RoomCode            VARCHAR(20),
     FOREIGN KEY (ActivityID) REFERENCES Activity(ActivityID) ON UPDATE CASCADE ON DELETE CASCADE,
-    FOREIGN KEY (RoomCode) REFERENCES Room(Code) ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (RoomCode)   REFERENCES Room(Code)           ON UPDATE CASCADE ON DELETE CASCADE,
     PRIMARY KEY (RevisionID, ActivityID)
-)
+) ENGINE INNODB;
