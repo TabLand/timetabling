@@ -32,8 +32,8 @@ room.prototype.validate_all_items = function(){
 
     for(i=0; i<rooms.length; i++){
         var room = rooms[i];
-        var valid_room_code = validate_code(room.code);
-        var valid_room_capacity = validate_capacity(room.capacity);
+        var valid_room_code     = this.validate_code(room.code);
+        var valid_room_capacity = this.validate_capacity(room.capacity);
         valid &= (valid_room_capacity && valid_room_capacity);
     }
     return valid;
@@ -41,7 +41,7 @@ room.prototype.validate_all_items = function(){
 
 room.prototype.validate_code = function(code){
     var contains_invalid_symbols = /[^A-Za-z0-9]/;
-    if(contains_invalid_symbols.text(code){
+    if(contains_invalid_symbols.test(code)){
         alert("Room code \"" + code + "\" contains invalid symbols." 
                + " Only letters and numbers are allowed in Room Code!");
         return false;

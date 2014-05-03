@@ -34,7 +34,7 @@ person.prototype.item_to_string = function(item){
 person.prototype.validate_all_items = function(){
     var people = this._data_view.getItems();
     var valid = true;
-    for(i=0; i<people.length, i++){
+    for(i=0; i<people.length; i++){
         var person = people[i];
         valid &= this.validate_person(person);
     }
