@@ -1,13 +1,13 @@
 <html>
 	<head>
-		<link href="constraints.css" rel="stylesheet" type="text/css">
+		<link href="penalizer.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="lib/jquery/css/custom-theme/jquery-ui-1.10.4.custom.css">
 		<script type="text/javascript" src="lib/jquery/js/jquery-1.10.2.js"></script>
-		<script type="text/javascript" src="constraints.js"></script>
+		<script type="text/javascript" src="penalizer.js"></script>
 		<script src="lib/jquery/js/jquery-ui-1.10.4.custom.min.js"></script>
 	</head>
 	<body onload="initialise_sliders()">
-		<h1>THE SCHEDULER</h1>
+		<h1>THE PENALIZER</h1>
 		<h2>Staff Lunch Penalty:
 			<span class="penalty_indicator" id="StaffLunchPenalty">0</span>
 		</h2>
@@ -16,14 +16,6 @@
 			<span class="penalty_indicator" id="StudentLunchPenalty">0</span>
 		</h2>
 		<div class="slider" id="StudentLunch"></div>
-		<h2>Room Over Capacity Penalty:
-			<span class="penalty_indicator" id="RoomOverCapacityPenalty">0</span>
-		</h2>
-		<div class="slider" id="RoomOverCapacity"></div>
-		<h2>Room Double Booking Penalty:
-			<span class="penalty_indicator" id="RoomDoubleBookingPenalty">0</span>
-		</h2>
-		<div class="slider" id="RoomDoubleBooking"></div>
 		<h2>Student Double Booking Penalty:
 			<span class="penalty_indicator" id="StudentDoubleBookingPenalty">0</span>
 		</h2>
@@ -32,5 +24,14 @@
 			<span class="penalty_indicator" id="StaffDoubleBookingPenalty">0</span>
 		</h2>
 		<div class="slider" id="StaffDoubleBooking"></div>
+		<h2>Room Over Capacity Penalty:
+			<span class="penalty_indicator" id="RoomOverCapacityPenalty">0</span>
+		</h2>
+		<div class="slider" id="RoomOverCapacity"></div>
+		<h2>Room Double Booking Penalty:
+			<span class="penalty_indicator" id="RoomDoubleBookingPenalty">0</span>
+		</h2>
+		<div class="slider" id="RoomDoubleBooking"></div>
+        <iframe class="bottom_menu" src="menu.html" align="center" scrolling="no"></iframe>
 	</body>
 </html>
