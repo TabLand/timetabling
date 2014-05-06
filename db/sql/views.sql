@@ -6,7 +6,9 @@ CREATE VIEW SchedulableActivities AS
 
 CREATE VIEW RoomActivityBookings AS
     SELECT 
-		T.ActivityID, T.Start, (T.Start + A.Duration) AS Finish, T.RoomCode, T.RevisionID, T.Day, A.Duration
+		T.ActivityID, T.Start, (T.Start + A.Duration) AS Finish
+        , T.RoomCode, T.RevisionID, T.Day, A.Duration
+        , SumPenalties(T.RevisionID) AS Penalties
     FROM 
 		TimetableHistory AS T, Activity AS A
 	WHERE 
@@ -14,7 +16,9 @@ CREATE VIEW RoomActivityBookings AS
 
 CREATE VIEW PersonActivityBookings AS
     SELECT
-        T.ActivityID, T.Start, (T.Start + A.Duration) AS Finish, T.RevisionID, T.Day, A.Duration, AP.Username
+        T.ActivityID, T.Start, (T.Start + A.Duration) AS Finish
+        , T.RevisionID, T.Day, A.Duration, AP.Username
+        , SumPenalties(T.RevisionID) AS Penalties
     FROM
         TimetableHistory AS T, Activity AS A, ActivityPerson AS AP
     WHERE
@@ -71,7 +75,8 @@ CREATE VIEW ClashesStudent AS
 
 CREATE VIEW RoomOverCapacity AS
     SELECT 
-        RAB.ActivityID, R.Code, C.Penalty, RAB.RevisionID
+        RAB.ActivityID, R.Code, C.Penalty, RAB.RevisionID, R.Capacity AS Capacity
+        , ActivityPersonCount(RAB.ActivityID) AS CapacityNeeded
     FROM
         Room AS R, RoomActivityBookings AS RAB, Constraints AS C
     WHERE
@@ -113,3 +118,75 @@ CREATE VIEW StudentLunchBreakClash AS
     WHERE
             C.ConstraintType = "StudentLunch"
 		AND LBC.Type         = "Student";
+
+CREATE VIEW LatestPersonActivityBookings AS
+    SELECT 
+        * 
+    FROM
+        PersonActivityBookings
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestPersonLunchBreaks AS
+    SELECT
+        *
+    FROM
+        LunchBreak 
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestRoomActivityBookings AS
+    SELECT
+        *
+    FROM
+        RoomActivityBookings
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestRoomClashes AS
+    SELECT
+        *
+    FROM
+        ClashesRoom
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestRoomOverCapacity AS
+    SELECT
+        *
+    FROM
+        RoomOverCapacity
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestStudentClashActivities AS
+    SELECT
+        *
+    FROM
+        ClashesStudent
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestStaffClashActivities AS
+    SELECT
+        *
+    FROM
+        ClashesStaff
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestStudentLunchClashes AS
+    SELECT
+        *
+    FROM
+        StudentLunchBreakClash
+    WHERE
+        RevisionID = LatestRevision();
+
+CREATE VIEW LatestStaffLunchClashes AS
+    SELECT
+        *
+    FROM
+        StaffLunchBreakClash
+    WHERE
+        RevisionID = LatestRevision();

@@ -126,4 +126,15 @@ BEGIN
         +   SumPenaltiesStudentLunch     (RevisionID);
 END//
 
-DELIMITER ;
+CREATE FUNCTION LatestRevision()
+    RETURNS INT
+    LANGUAGE SQL
+BEGIN
+    DECLARE latest_revision INT;
+    SET latest_revision =
+        (SELECT 
+            Max(RevisionID)
+        FROM 
+            TimetableHistory);
+    RETURN latest_revision;
+END//

@@ -1,0 +1,27 @@
+div.calendar{
+    width:      70%;
+    text-align: center;
+    height:     69%;
+    float:      right;
+}
+
+span.day_name{
+    width:      100%;
+    display:    inline-block;
+    border:     1px solid black;
+    color:      black;
+    margin:     0px;
+    padding:    0px;
+    text-align: center;
+}
+
+span.day{
+    display:        inline-block;
+    width:          13.5%;
+    vertical-align: top;
+    height:         100%;
+}
+
+span.booking{
+    display:    inline-block;
+}

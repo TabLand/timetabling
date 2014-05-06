@@ -38,9 +38,9 @@ BEGIN
            FROM 
                 TimetableHistory);
     INSERT INTO 
-        TimetableHistory (RevisionID, ActivityID, Start, Day)
+        TimetableHistory (RevisionID, ActivityID, Start, Day, RoomCode)
         SELECT 
-            (RevisionID+1),ActivityID,Start, Day  
+            (RevisionID+1),ActivityID,Start, Day, RoomCode
         FROM  TimetableHistory
         WHERE RevisionID = max_revision;
 END//
@@ -56,7 +56,7 @@ BEGIN
     INSERT INTO 
         LunchBreak (Username, RevisionID, DayID, Start)
         SELECT 
-            Username, RevisionID, DayID, Start
+            Username, (RevisionID+1), DayID, Start
         FROM  LunchBreak
         WHERE RevisionID = max_revision;
 END//
