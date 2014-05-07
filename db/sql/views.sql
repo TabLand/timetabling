@@ -190,3 +190,24 @@ CREATE VIEW LatestStaffLunchClashes AS
         StaffLunchBreakClash
     WHERE
         RevisionID = LatestRevision();
+
+CREATE VIEW RoomReplacements AS
+    SELECT 
+	    R.Code, A.ActivityID
+    FROM 
+    	Room AS R, Activity AS A
+    WHERE
+	    ActivityPersonCount(A.ActivityID) <= R.Capacity;
+
+CREATE VIEW DebugPenalties AS
+    SELECT 
+        DISTINCT RevisionID, 
+        SumPenalties                 (RevisionID)
+       ,SumPenaltiesRoomClash        (RevisionID)
+       ,SumPenaltiesRoomOverCapacity (RevisionID)
+       ,SumPenaltiesStaffClash       (RevisionID)
+       ,SumPenaltiesStudentClash     (RevisionID)
+       ,SumPenaltiesStaffLunch       (RevisionID)
+       ,SumPenaltiesStudentLunch     (RevisionID)
+	FROM
+		TimetableHistory;
