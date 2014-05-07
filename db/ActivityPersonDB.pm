@@ -77,6 +77,25 @@ sub select_all{
     return $sth;
 }
 
+sub get_all_activities_for_person{
+    my ($dbh, $unsafe_username) = @_;
+    my $safe_username           = PersonDB::validate_username($unsafe_username); 
+
+    my $sql = "SELECT ActivityID FROM ActivityPerson WHERE Username=?";
+    my $sth = $dbh->prepare($sql);
+    my $sth->execute($safe_username)
+            or DB_lib::fail($dbh, 'Get all activities for person');
+
+    my @activity_ids;
+
+    while(my @row = $sth->fetchrow_array){
+        my $activity_id = $row[0];
+        push @activity_ids, $activity_id;
+    }
+
+    return @activity_ids;
+}
+
 sub split_a_p{
     my $a_p          = shift;
     my $new_a_p      = {};
