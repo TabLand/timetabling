@@ -83,7 +83,7 @@ sub get_all_activities_for_person{
 
     my $sql = "SELECT ActivityID FROM ActivityPerson WHERE Username=?";
     my $sth = $dbh->prepare($sql);
-    my $sth->execute($safe_username)
+    $sth->execute($safe_username)
             or DB_lib::fail($dbh, 'Get all activities for person');
 
     my @activity_ids;
