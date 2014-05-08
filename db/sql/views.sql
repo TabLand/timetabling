@@ -233,7 +233,7 @@ CREATE VIEW LatestPersonActivitySchedule AS
 CREATE VIEW LatestPersonLunchSchedule AS
     SELECT
         LPLB.Username, LPLB.RevisionID, LPLB.Start,
-        D.DayID, D.Day
+        D.DayID, D.Day, 1 AS Duration
     FROM
         LatestPersonLunchBreaks AS LPLB, DayOfWeek AS D
     WHERE
