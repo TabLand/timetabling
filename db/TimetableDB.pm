@@ -254,6 +254,66 @@ sub get_room_replacements{
     return @room_replacements;
 }
 
+sub get_person_activities_schedule{
+    my ($dbh, $unsafe_username) = @_;
+    my $safe_username = PersonDB::validate_username($unsafe_username);
+    my $sql           = "SELECT 
+                            *
+                        FROM 
+                        	Timetabling.LatestPersonActivitySchedule 
+                        WHERE 
+                            Username = ?";
+    my $sth           = $dbh->prepare($sql);
+    $sth->execute($safe_username)
+        or DB_lib::fail($dbh, "Failed while grabbing person activity schedule");
+
+    my @schedules;
+    while (my $schedule = $sth->fetchrow_hashref) {
+        push @schedules, $schedule;
+    }
+    return @schedules;
+}
+
+sub get_person_lunches_schedule{
+    my ($dbh, $unsafe_username) = @_;
+    my $safe_username = PersonDB::validate_username($unsafe_username);
+    my $sql           = "SELECT 
+                            *, 'Lunch' AS Type
+                        FROM 
+                        	Timetabling.LatestPersonLunchSchedule
+                        WHERE 
+                            Username = ?";
+    my $sth           = $dbh->prepare($sql);
+    $sth->execute($safe_username)
+        or DB_lib::fail($dbh, "Failed while grabbing person lunch schedule");
+
+    my @schedules;
+    while (my $schedule = $sth->fetchrow_hashref) {
+        push @schedules, $schedule;
+    }
+    return @schedules;
+}
+
+sub get_room_schedule{
+    my ($dbh, $unsafe_roomcode) = @_;
+    my $safe_roomcode = RoomDB::validate_code($unsafe_roomcode);
+    my $sql           = "SELECT 
+                            *
+                        FROM 
+                        	Timetabling.LatestRoomSchedule
+                        WHERE 
+                            RoomCode = ?";
+    my $sth           = $dbh->prepare($sql);
+    $sth->execute($safe_roomcode)
+        or DB_lib::fail($dbh, "Failed while grabbing room schedule");
+
+    my @schedules;
+    while (my $schedule = $sth->fetchrow_hashref) {
+        push @schedules, $schedule;
+    }
+    return @schedules;
+}
+
 sub get_latest_penalty{
     my ($dbh, $func_name) = @_;
 
@@ -304,7 +364,7 @@ sub validate_activity_booking{
     $safe_a_b->{"revision_id"} = validate_id($unsafe_revision_id);
     $safe_a_b->{"start"}       = validate_start($unsafe_start);
     $safe_a_b->{"day"}         = validate_day($unsafe_day);
-    $safe_a_b->{"room_code"}        = RoomDB::validate_code($unsafe_room);
+    $safe_a_b->{"room_code"}   = RoomDB::validate_code($unsafe_room);
 
     return $safe_a_b;
 }

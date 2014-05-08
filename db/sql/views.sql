@@ -211,3 +211,45 @@ CREATE VIEW DebugPenalties AS
        ,SumPenaltiesStudentLunch     (RevisionID)
 	FROM
 		TimetableHistory;
+
+CREATE VIEW LatestPersonActivitySchedule AS
+    SELECT 
+		LPAB.Start, LPAB.Finish, LPAB.RevisionID, LPAB.Duration,
+		LPAB.Username,
+		D.DayID, D.Day,
+	    M.Code, M.Name,
+    	A.Type, A.ActivityGroup, A.ActivityID,
+		TH.RoomCode
+    FROM 
+    	LatestPersonActivityBookings AS LPAB, Activity AS A, Module AS M,
+		TimetableHistory AS TH, DayOfWeek AS D
+    WHERE
+    		LPAB.ActivityID = A.ActivityID
+    	AND A.ModuleCode    = M.Code
+		AND TH.ActivityID   = A.ActivityID
+		AND TH.RevisionID   = LPAB.RevisionID
+		AND LPAB.Day 		= D.DayID;
+
+CREATE VIEW LatestPersonLunchSchedule AS
+    SELECT
+        LPLB.Username, LPLB.RevisionID, LPLB.Start,
+        D.DayID, D.Day
+    FROM
+        LatestPersonLunchBreaks AS LPLB, DayOfWeek AS D
+    WHERE
+        D.DayID = LPLB.DayID;
+
+CREATE VIEW LatestRoomSchedule AS
+    SELECT 
+		LRAB.Start, LRAB.Finish, LRAB.RevisionID, LRAB.Duration,
+		LRAB.RoomCode,
+		D.DayID, D.Day,
+    	A.Type, A.ActivityGroup, A.ActivityID,
+		M.Code, M.Name
+    FROM 
+    	LatestRoomActivityBookings AS LRAB, Activity AS A, Module AS M,
+		DayOfWeek AS D
+    WHERE
+    		LRAB.ActivityID = A.ActivityID
+    	AND A.ModuleCode    = M.Code
+		AND LRAB.Day 		= D.DayID;
