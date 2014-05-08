@@ -8,8 +8,8 @@ div.calendar{
 span.day_name{
     width:      100%;
     display:    inline-block;
-    border:     1px solid black;
-    color:      black;
+    background: black;
+    color:      white;
     margin:     0px;
     padding:    0px;
     text-align: center;
@@ -24,4 +24,10 @@ span.day{
 
 span.booking{
     display:    inline-block;
+}
+
+.viewer_entry{
+	height: 69%;
+	width: 30%;
+    position: absolute;
 }
