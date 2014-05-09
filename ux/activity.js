@@ -76,7 +76,7 @@ activity.prototype.validate_module_code = function(code){
 }
 
 activity.prototype.validate_duration = function(duration){
-    var duration_in_range = duration >= 0 && duration < 24;
+    var duration_in_range = duration >= 0 && duration < 7;
     var duration_is_a_number = typeof parseFloat(duration) == "number";
     if(!duration_is_a_number){
         alert("invalid duration entered, please enter a decimal number");

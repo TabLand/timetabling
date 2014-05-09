@@ -122,12 +122,17 @@ spreadsheet.prototype.addition = function(resource){
 }
 
 spreadsheet.prototype.edition = function(old_resource, new_resource){
-    var last_change                 = this._changes[this._changes.length-1];
-    var last_change_was_an_addition = last_change.type        == "addition";
-    var same_id                     = last_change.resource.id == new_resource.id;
+    if(this._changes.length<1){
+        var last_change_was_an_addition = false;
+    }
+    else{
+        var last_change                 = this._changes[this._changes.length-1];
+        var last_change_was_an_addition = last_change.type        == "addition";
+    }
 
-    if(last_change_was_an_addition && same_id){
-        this.ammend_addition(new_resource);
+    if(last_change_was_an_addition){
+        var same_id = last_change.resource.id == new_resource.id;
+        if(same_id) this.ammend_addition(new_resource);
     }
     else if(!this._resource.equals(old_resource, new_resource)){
         this._changes.push({"type":"edition", "old":old_resource, "new":new_resource});

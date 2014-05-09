@@ -10,11 +10,12 @@ use Data::Dumper;
 schedule();
 
 sub schedule{
+    $| = 1;
     my $dbh = DB_lib::connect();
 
     TimetableDB::increment_revisions($dbh);
     my $sum_penalty = TimetableDB::get_sum_penalties($dbh);
-
+    HTTP_lib::send_plain_text_headers();
     while($sum_penalty>0){
         debug("Old Sum Penalty: $sum_penalty");
         debug("Reducing Room Clashes ****************************");
@@ -208,7 +209,7 @@ sub improve_room{
         TimetableDB::change_activity_booking($dbh, $current_booking);
 
         if($improve_activity_flag) {
-            improve_activity($dbh, $activity_id, $penalty_func_ref);
+            improve_activity($dbh, $activity_id);
         }
 
         my $new_sum_penalty = TimetableDB::get_sum_penalties($dbh);

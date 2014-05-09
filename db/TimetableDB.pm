@@ -137,6 +137,24 @@ sub get_sum_penalties{
     return $sum_penalties;
 }
 
+sub get_sum_penalties_all_revisions{
+    my $dbh = shift;
+    my $sql = "SELECT 
+                   DISTINCT RevisionID, SumPenalties(RevisionID) AS SumPenalties 
+               FROM 
+                   TimetableHistory";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute
+        or DB_lib::fail($dbh, "Screwed up while getting sum penalties for all revisions");
+
+    my @sum_penalties;
+    while (my $row = $sth->fetchrow_hashref) {
+        my $sum_penalty = $row;
+        push @sum_penalties, $sum_penalty;
+    }
+    return @sum_penalties;   
+}
+
 sub get_room_clash_penalty{
     my ($dbh) = @_;
     my $room_clash_penalty = get_latest_penalty($dbh, "SumPenaltiesRoomClash");
