@@ -3,7 +3,7 @@ use TimetableDB;
 use DB_lib;
 use HTTP_lib;
 use Readonly;
-Readonly my $TIME_STEP     => 0.25;
+Readonly my $TIME_STEP     => 1;
 Readonly my $DEBUG_ENABLED => 1;
 use Data::Dumper;
 
@@ -33,7 +33,7 @@ sub schedule{
 
         my $new_sum_penalty = TimetableDB::get_sum_penalties($dbh);
         debug("New Master Sum Penalty: $new_sum_penalty");
-        if($new_sum_penalty == $sum_penalty){
+        if($new_sum_penalty >= $sum_penalty){
             debug("Failed to change timetable quality in last revision, deadlock possibly reached");
         }
         else{
@@ -100,7 +100,10 @@ sub improve_activities{
         my $sum_penalty = $penalty_func_ref->($dbh);
         while($sum_penalty > 0){
             improve_activity($dbh, $activity_id);
-            $sum_penalty = $penalty_func_ref->($dbh);
+            my $new_sum_penalty = $penalty_func_ref->($dbh);
+            if($new_sum_penalty < $sum_penalty){
+                return;
+            }
         }
     }
 }
@@ -113,9 +116,12 @@ sub improve_lunchtimes_and_activities{
         my $sum_penalty = $penalty_func_ref->($dbh);
         while($sum_penalty > 0){
             improve_lunchtime($dbh, $lunch_clash);
-            $sum_penalty = $penalty_func_ref->($dbh);
-            if($sum_penalty >0) {
+            my $new_sum_penalty = $penalty_func_ref->($dbh);
+            if($new_sum_penalty >0) {
                 improve_activity($dbh, $lunch_clash->{"activity_id"});
+            }
+            if($new_sum_penalty < $sum_penalty){
+                return;
             }
         }
     }
@@ -130,7 +136,10 @@ sub improve_rooms{
 
         while($sum_penalty > 0){
             improve_room($dbh, $activity_id, $improve_activity_flag);
-            $sum_penalty = $penalty_func_ref->($dbh);
+            my $new_sum_penalty = $penalty_func_ref->($dbh);
+            if($new_sum_penalty < $sum_penalty){
+                return;
+            }
         }
     }
 }

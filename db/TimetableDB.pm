@@ -351,6 +351,42 @@ sub get_latest_penalty{
     return $penalty;
 }
 
+sub get_latest_person_clashes{
+    my $dbh = shift;
+    my $sql = "SELECT *, 'PersonClash' AS ClashType FROM LatestPersonClashes";
+    return get_results($dbh, $sql);
+}
+
+sub get_latest_lunch_clashes{
+    my $dbh = shift;
+    my $sql = "SELECT *, 'LunchClash' AS ClashType FROM LatestLunchClashes";
+    return get_results($dbh, $sql);
+}
+
+sub get_latest_room_clashes{
+    my $dbh = shift;
+    my $sql = "SELECT *, 'RoomClash' AS ClashType FROM LatestRoomClashesWithActivityInfo";
+    return get_results($dbh, $sql);
+}
+
+sub get_latest_room_over_capacities{
+    my $dbh = shift;
+    my $sql = "SELECT *, 'RoomOverCap' AS ClashType FROM LatestRoomOverCapacityWithActivityInfo";
+    return get_results($dbh, $sql);
+}
+
+sub get_results{
+    my ($dbh, $sql) = @_;
+    my $sth = $dbh->prepare($sql);
+    $sth->execute
+        or DB_lib::fail("Failed " . $sql);
+    my @results;
+    while(my $row = $sth->fetchrow_hashref){
+        push @results, $row;
+    }
+    return @results;
+}
+
 sub validate_lunchtime_booking{
     my $unsafe_l_b = shift;
     my $safe_l_b = {};

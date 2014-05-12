@@ -1,0 +1,31 @@
+body{
+    font-family: Caviar;
+	color: red;
+	height: auto;
+	width: auto;
+    background-color: white;
+    text-align: center;
+}
+
+iframe.bottom_menu{
+    width:      100%;
+    height:     80px;
+    position:   absolute;
+    bottom:     0px;
+    left:       0px;
+    border:     none;
+}
+
+h2{
+    font-size: 1em;
+}
+
+div#clashes_list{
+    color: black;
+    height: 80%;
+    overflow-y: scroll;
+}
+
+span.important{
+    color: red;
+}

@@ -253,3 +253,53 @@ CREATE VIEW LatestRoomSchedule AS
     		LRAB.ActivityID = A.ActivityID
     	AND A.ModuleCode    = M.Code
 		AND LRAB.Day 		= D.DayID;
+
+CREATE VIEW LatestPersonClashes AS
+	SELECT 
+		CP.Start, CP.Finish, CP.RevisionID, CP.Username,
+		A.*, M.*
+	FROM 
+		ClashesPerson AS CP, Activity AS A, Module M, DayOfWeek AS D
+	WHERE 
+			CP.RevisionID = LatestRevision()
+		AND A.ActivityID = CP.ActivityID
+		AND M.Code = A.ModuleCode
+        AND D.DayID = CP.DayID;
+
+CREATE VIEW LatestLunchClashes AS
+	SELECT 
+		LBC.* , D.Day
+	FROM 
+		LunchBreakClash AS LBC, DayOfWeek AS D
+	WHERE
+    		LBC.RevisionID = LatestRevision()
+        AND D.DayID = LBC.DayID;
+
+CREATE VIEW LatestRoomClashesWithActivityInfo AS    
+	SELECT
+        LRC.Start, LRC.Finish, LRC.Code AS RoomCode,
+        D.Day,
+		A.*,
+		M.*
+    FROM
+        LatestRoomClashes AS LRC, Activity AS A, Module AS M, DayOfWeek AS D
+    WHERE
+            LRC.ActivityID = A.ActivityID
+        AND A.ModuleCode   = M.Code
+        AND D.DayID        = LRC.Day;
+
+CREATE VIEW LatestRoomOverCapacityWithActivityInfo AS
+    SELECT
+        LROC.Capacity, LROC.CapacityNeeded, LROC.Code AS RoomCode,
+        T.Start, (T.Start + A.Duration) AS Finish,
+        M.*,
+        A.*,
+        D.Day
+    FROM
+        LatestRoomOverCapacity AS LROC, Activity AS A, Module AS M, DayOfWeek AS D, TimetableHistory AS T
+    WHERE
+            LROC.ActivityID = A.ActivityID
+        AND M.Code          = A.ModuleCode
+        AND T.ActivityID    = A.ActivityID
+        AND T.RevisionID    = LatestRevision()
+        AND T.Day           = D.DayID;
