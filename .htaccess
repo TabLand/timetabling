@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Dissertation Lock"
+AuthUserFile /home/tab/.htpasswd
+Require valid-user
