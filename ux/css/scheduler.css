@@ -12,6 +12,12 @@ div#curved_bar_chart{
     width:  300px;
     margin: 0px auto 0px auto;
 }
+
+
+div#curved_bar_chart > svg{
+    height: 100%;
+}
+
 iframe.bottom_menu{
     width:      100%;
     height:     80px;
